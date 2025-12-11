@@ -1,11517 +1,2534 @@
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+
+
+<link href="https://web.archive.org/web/20200812171405cs_/https://www.blogger.com/static/v1/widgets/3416767676-css_bundle_v2.css" rel="stylesheet" type="text/css"/>
+<meta content="width=1100" name="viewport"/>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<meta content="blogger" name="generator"/>
+<link href="https://88majuterus.art/uploads/iconnnn.ico" rel="icon" type="image/x-icon"/>
+<link href="https://www.bookkeepingcompanys.com/" rel="canonical"/>
+<link rel="alternate" type="application/atom+xml" title="Bookkeeping &amp; Accounting - Atom" href="https://www.bookkeepingcompanys.com/feeds/posts/default"/>
+<link rel="alternate" type="application/rss+xml" title="Bookkeeping &amp; Accounting - RSS" href="https://www.bookkeepingcompanys.com/feeds/posts/default?alt=rss"/>
+<link rel="service.post" type="application/atom+xml" title="Bookkeeping &amp; Accounting - Atom" href="https://www.blogger.com/feeds/4003707467868535702/posts/default"/>
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/2800260367-ieretrofit.js"></script>
+<![endif]-->
+<meta content="BEST ONLINE BANKING SERVICES, AND LOAN RATES, ARMS, CONSOLIDATING GRADUATE STUDENT LOANS, 
+ BEST LOCAL BANKS AND ONLINE BANKING SERVICES." name="description"/>
+<meta content="https://www.bookkeepingcompanys.com/" property="og:url"/>
+<meta content="Bookkeeping &amp; Accounting" property="og:title"/>
+<meta content="BEST ONLINE BANKING SERVICES, AND LOAN RATES, ARMS, CONSOLIDATING GRADUATE STUDENT LOANS, 
+ BEST LOCAL BANKS AND ONLINE BANKING SERVICES." property="og:description"/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<title>Bookkeeping &amp; Accounting</title>
+<style type="text/css">@font-face{font-family:'Arvo';font-style:normal;font-weight:700;src:local('Arvo Bold'),local('Arvo-Bold'),url(//web.archive.org/web/20200812171405im_/https://fonts.gstatic.com/s/arvo/v13/tDbM2oWUg0MKoZw1-LPK9g.ttf)format('truetype');}</style>
+<style id="page-skin-1" type="text/css"><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Awesome Inc.
+Designer: Tina Chen
+URL:      tinachen.org
+----------------------------------------------- */
+
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 13px 'Times New Roman', Times, FreeSerif, serif;
+color: #ffffff;
+background: #0b5394 url(https://web.archive.org/web/20200812171405im_/https://resources.blogblog.com/blogblog/data/1kt/awesomeinc/body_background_dark.png) repeat scroll top left;
+}
+html body .content-outer {
+min-width: 0;
+max-width: 100%;
+width: 100%;
+}
+a:link {
+text-decoration: none;
+color: #888888;
+}
+a:visited {
+text-decoration: none;
+color: #444444;
+}
+a:hover {
+text-decoration: underline;
+color: #cccccc;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 276px;
+width: 100%;
+background: transparent url(https://web.archive.org/web/20200812171405im_/https://resources.blogblog.com/blogblog/data/1kt/awesomeinc/body_gradient_dark.png) repeat-x scroll top left;
+_background-image: none;
+}
+/* Columns
+----------------------------------------------- */
+.content-inner {
+padding: 0;
+}
+.header-inner .section {
+margin: 0 16px;
+}
+.tabs-inner .section {
+margin: 0 16px;
+}
+.main-inner {
+padding-top: 30px;
+}
+.main-inner .column-center-inner,
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+padding: 0 5px;
+}
+*+html body .main-inner .column-center-inner {
+margin-top: -30px;
+}
+#layout .main-inner .column-center-inner {
+margin-top: 0;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+margin: 0 0 0 0;
+background: transparent none repeat scroll 0 0;
+}
+.Header h1 {
+font: normal bold 40px Arvo;
+color: #ffffff;
+text-shadow: 0 0 -1px #000000;
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font: normal normal 14px 'Courier New', Courier, FreeMono, monospace;
+color: #ffffff;
+}
+.header-inner .Header .titlewrapper,
+.header-inner .Header .descriptionwrapper {
+padding-left: 0;
+padding-right: 0;
+margin-bottom: 0;
+}
+.header-inner .Header .titlewrapper {
+padding-top: 22px;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-outer {
+overflow: hidden;
+position: relative;
+background: #141414 none repeat scroll 0 0;
+}
+#layout .tabs-outer {
+overflow: visible;
+}
+.tabs-cap-top, .tabs-cap-bottom {
+position: absolute;
+width: 100%;
+border-top: 1px solid #222222;
+}
+.tabs-cap-bottom {
+bottom: 0;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+margin: 0;
+padding: .6em 1.5em;
+font: normal bold 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+border-top: 1px solid #222222;
+border-bottom: 1px solid #222222;
+border-left: 1px solid #222222;
+height: 16px;
+line-height: 16px;
+}
+.tabs-inner .widget li:last-child a {
+border-right: 1px solid #222222;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+background: #444444 none repeat-x scroll 0 -100px;
+color: #ffffff;
+}
+/* Headings
+----------------------------------------------- */
+h2 {
+font: normal bold 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+}
+/* Widgets
+----------------------------------------------- */
+.main-inner .section {
+margin: 0 27px;
+padding: 0;
+}
+.main-inner .column-left-outer,
+.main-inner .column-right-outer {
+margin-top: 0;
+}
+#layout .main-inner .column-left-outer,
+#layout .main-inner .column-right-outer {
+margin-top: 0;
+}
+.main-inner .column-left-inner,
+.main-inner .column-right-inner {
+background: transparent none repeat 0 0;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+#layout .main-inner .column-left-inner,
+#layout .main-inner .column-right-inner {
+margin-top: 0;
+}
+.sidebar .widget {
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+}
+.sidebar .widget a:link {
+color: #888888;
+}
+.sidebar .widget a:visited {
+color: #444444;
+}
+.sidebar .widget a:hover {
+color: #cccccc;
+}
+.sidebar .widget h2 {
+text-shadow: 0 0 -1px #000000;
+}
+.main-inner .widget {
+background-color: #141414;
+border: 1px solid #222222;
+padding: 0 15px 15px;
+margin: 20px -16px;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.main-inner .widget h2 {
+margin: 0 -15px;
+padding: .6em 15px .5em;
+border-bottom: 1px solid #000000;
+}
+.footer-inner .widget h2 {
+padding: 0 0 .4em;
+border-bottom: 1px solid #000000;
+}
+.main-inner .widget h2 + div, .footer-inner .widget h2 + div {
+border-top: 1px solid #222222;
+padding-top: 8px;
+}
+.main-inner .widget .widget-content {
+margin: 0 -15px;
+padding: 7px 15px 0;
+}
+.main-inner .widget ul, .main-inner .widget #ArchiveList ul.flat {
+margin: -8px -15px 0;
+padding: 0;
+list-style: none;
+}
+.main-inner .widget #ArchiveList {
+margin: -8px 0 0;
+}
+.main-inner .widget ul li, .main-inner .widget #ArchiveList ul.flat li {
+padding: .5em 15px;
+text-indent: 0;
+color: #666666;
+border-top: 1px solid #222222;
+border-bottom: 1px solid #000000;
+}
+.main-inner .widget #ArchiveList ul li {
+padding-top: .25em;
+padding-bottom: .25em;
+}
+.main-inner .widget ul li:first-child, .main-inner .widget #ArchiveList ul.flat li:first-child {
+border-top: none;
+}
+.main-inner .widget ul li:last-child, .main-inner .widget #ArchiveList ul.flat li:last-child {
+border-bottom: none;
+}
+.post-body {
+position: relative;
+}
+.main-inner .widget .post-body ul {
+padding: 0 2.5em;
+margin: .5em 0;
+list-style: disc;
+}
+.main-inner .widget .post-body ul li {
+padding: 0.25em 0;
+margin-bottom: .25em;
+color: #ffffff;
+border: none;
+}
+.footer-inner .widget ul {
+padding: 0;
+list-style: none;
+}
+.widget .zippy {
+color: #666666;
+}
+/* Posts
+----------------------------------------------- */
+body .main-inner .Blog {
+padding: 0;
+margin-bottom: 1em;
+background-color: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
+.main-inner .section:last-child .Blog:last-child {
+padding: 0;
+margin-bottom: 1em;
+}
+.main-inner .widget h2.date-header {
+margin: 0 -15px 1px;
+padding: 0 0 0 0;
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #666666;
+background: transparent none no-repeat scroll top left;
+border-top: 0 solid #222222;
+border-bottom: 1px solid #000000;
+-moz-border-radius-topleft: 0;
+-moz-border-radius-topright: 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+position: static;
+bottom: 100%;
+right: 15px;
+text-shadow: 0 0 -1px #000000;
+}
+.main-inner .widget h2.date-header span {
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+display: block;
+padding: .5em 15px;
+border-left: 0 solid #222222;
+border-right: 0 solid #222222;
+}
+.date-outer {
+position: relative;
+margin: 30px 0 20px;
+padding: 0 15px;
+background-color: #141414;
+border: 1px solid #222222;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+}
+.date-outer:first-child {
+margin-top: 0;
+}
+.date-outer:last-child {
+margin-bottom: 20px;
+-moz-border-radius-bottomleft: 0;
+-moz-border-radius-bottomright: 0;
+-webkit-border-bottom-left-radius: 0;
+-webkit-border-bottom-right-radius: 0;
+-goog-ms-border-bottom-left-radius: 0;
+-goog-ms-border-bottom-right-radius: 0;
+border-bottom-left-radius: 0;
+border-bottom-right-radius: 0;
+}
+.date-posts {
+margin: 0 -15px;
+padding: 0 15px;
+clear: both;
+}
+.post-outer, .inline-ad {
+border-top: 1px solid #222222;
+margin: 0 -15px;
+padding: 15px 15px;
+}
+.post-outer {
+padding-bottom: 10px;
+}
+.post-outer:first-child {
+padding-top: 0;
+border-top: none;
+}
+.post-outer:last-child, .inline-ad:last-child {
+border-bottom: none;
+}
+.post-body {
+position: relative;
+}
+.post-body img {
+padding: 8px;
+background: #222222;
+border: 1px solid transparent;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+border-radius: 0;
+}
+h3.post-title, h4 {
+font: normal bold 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+}
+h3.post-title a {
+font: normal bold 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+}
+h3.post-title a:hover {
+color: #cccccc;
+text-decoration: underline;
+}
+.post-header {
+margin: 0 0 1em;
+}
+.post-body {
+line-height: 1.4;
+}
+.post-outer h2 {
+color: #ffffff;
+}
+.post-footer {
+margin: 1.5em 0 0;
+}
+#blog-pager {
+padding: 15px;
+font-size: 120%;
+background-color: #141414;
+border: 1px solid #222222;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-moz-border-radius: 0;
+-webkit-border-radius: 0;
+-goog-ms-border-radius: 0;
+border-radius: 0;
+-moz-border-radius-topleft: 0;
+-moz-border-radius-topright: 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+-goog-ms-border-top-left-radius: 0;
+-goog-ms-border-top-right-radius: 0;
+border-top-left-radius: 0;
+border-top-right-radius-topright: 0;
+margin-top: 1em;
+}
+.blog-feeds, .post-feeds {
+margin: 1em 0;
+text-align: center;
+color: #ffffff;
+}
+.blog-feeds a, .post-feeds a {
+color: #888888;
+}
+.blog-feeds a:visited, .post-feeds a:visited {
+color: #444444;
+}
+.blog-feeds a:hover, .post-feeds a:hover {
+color: #cccccc;
+}
+.post-outer .comments {
+margin-top: 2em;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #222222;
+border-bottom: 1px solid #222222;
+}
+.comments .continue {
+border-top: 2px solid #222222;
+}
+/* Footer
+----------------------------------------------- */
+.footer-outer {
+margin: -0 0 -1px;
+padding: 0 0 0;
+color: #ffffff;
+overflow: hidden;
+}
+.footer-fauxborder-left {
+border-top: 1px solid #222222;
+background: #141414 none repeat scroll 0 0;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+-goog-ms-box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+box-shadow: 0 0 0 rgba(0, 0, 0, .2);
+margin: 0 -0;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+*+html body.mobile .main-inner .column-center-inner {
+margin-top: 0;
+}
+.mobile .main-inner .widget {
+padding: 0 0 15px;
+}
+.mobile .main-inner .widget h2 + div,
+.mobile .footer-inner .widget h2 + div {
+border-top: none;
+padding-top: 0;
+}
+.mobile .footer-inner .widget h2 {
+padding: 0.5em 0;
+border-bottom: none;
+}
+.mobile .main-inner .widget .widget-content {
+margin: 0;
+padding: 7px 0 0;
+}
+.mobile .main-inner .widget ul,
+.mobile .main-inner .widget #ArchiveList ul.flat {
+margin: 0 -15px 0;
+}
+.mobile .main-inner .widget h2.date-header {
+right: 0;
+}
+.mobile .date-header span {
+padding: 0.4em 0;
+}
+.mobile .date-outer:first-child {
+margin-bottom: 0;
+border: 1px solid #222222;
+-moz-border-radius-topleft: 0;
+-moz-border-radius-topright: 0;
+-webkit-border-top-left-radius: 0;
+-webkit-border-top-right-radius: 0;
+-goog-ms-border-top-left-radius: 0;
+-goog-ms-border-top-right-radius: 0;
+border-top-left-radius: 0;
+border-top-right-radius: 0;
+}
+.mobile .date-outer {
+border-color: #222222;
+border-width: 0 1px 1px;
+}
+.mobile .date-outer:last-child {
+margin-bottom: 0;
+}
+.mobile .main-inner {
+padding: 0;
+}
+.mobile .header-inner .section {
+margin: 0;
+}
+.mobile .post-outer, .mobile .inline-ad {
+padding: 5px 0;
+}
+.mobile .tabs-inner .section {
+margin: 0 10px;
+}
+.mobile .main-inner .widget h2 {
+margin: 0;
+padding: 0;
+}
+.mobile .main-inner .widget h2.date-header span {
+padding: 0;
+}
+.mobile .main-inner .widget .widget-content {
+margin: 0;
+padding: 7px 0 0;
+}
+.mobile #blog-pager {
+border: 1px solid transparent;
+background: #141414 none repeat scroll 0 0;
+}
+.mobile .main-inner .column-left-inner,
+.mobile .main-inner .column-right-inner {
+background: transparent none repeat 0 0;
+-moz-box-shadow: none;
+-webkit-box-shadow: none;
+-goog-ms-box-shadow: none;
+box-shadow: none;
+}
+.mobile .date-posts {
+margin: 0;
+padding: 0;
+}
+.mobile .footer-fauxborder-left {
+margin: 0;
+border-top: inherit;
+}
+.mobile .main-inner .section:last-child .Blog:last-child {
+margin-bottom: 0;
+}
+.mobile-index-contents {
+color: #ffffff;
+}
+.mobile .mobile-link-button {
+background: #888888 none repeat scroll 0 0;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background: transparent;
+border-top: 1px solid;
+border-color: #222222;
+color: #ffffff;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #222222;
+}
+
+--></style>
+<style id="template-skin-1" type="text/css"><!--
+body {
+min-width: 1300px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 1300px;
+max-width: 1300px;
+_width: 1300px;
+}
+.main-inner .columns {
+padding-left: 0;
+padding-right: 310px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0;
+right: 310px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0") -
+parseInt("310px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 310px;
+}
+.main-inner .column-left-outer {
+width: 0;
+right: 100%;
+margin-left: -0;
+}
+.main-inner .column-right-outer {
+width: 310px;
+margin-right: -310px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<link href="https://web.archive.org/web/20200812171405cs_/https://www.blogger.com/dyn-css/authorization.css?targetBlogID=4003707467868535702&amp;zx=c437cada-86af-486d-8e36-563b8f7933c7" media="none" onload="if(media!='all')media='all'" rel="stylesheet"/><noscript><link href="https://web.archive.org/web/20200812171405cs_/https://www.blogger.com/dyn-css/authorization.css?targetBlogID=4003707467868535702&amp;zx=c437cada-86af-486d-8e36-563b8f7933c7" rel="stylesheet"/></noscript>
 
-
-<!doctype html>
-<html class="no-js" lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="referrer" content="no-referrer-when-downgrade">
-    <meta http-equiv="Referrer-Policy" content="no-referrer-when-downgrade">
-    <meta name="theme-color" content="">
-	<meta name="keywords" content="Dewakapak88, Daftar Dewakapak88, Login Dewakapak88, Situs Dewakapak88, Slot Gacor, Situs Slot Gacor, Link Slot Gacor.">
-    <link rel="canonical" href="https://setiaskin.com/product/">
-    <link rel="amphtml" href="https://setiaskin.pages.dev/" />
-    <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
-    <link rel="icon" type="image/png" href="https://setiaskin.com/wp-content/uploads/2025/05/Pink-Retro-Beauty-and-Streetwear-Logo-1.png">
-    <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
-    <title>DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta</title>
-    <meta name="description" content="DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna.">
-    <meta property="og:site_name" content="DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta">
-    <meta property="og:url" content="https://setiaskin.com/product/">
-    <meta property="og:title" content="DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta">
-    <meta property="og:type" content="product">
-    <meta property="og:description" content="DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna.">
-    <meta property="og:image" content="https://88majuterus.art/uploads/thai.jpg">
-    <meta property="og:image:secure_url" content="https://88majuterus.art/uploads/thai.jpg">
-    <meta property="og:image:width" content="1260">
-    <meta property="og:image:height" content="1260">
-    <meta property="og:price:amount" content="10">
-    <meta property="og:price:currency" content="SGD">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta">
-    <meta name="twitter:description" content="DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna.">
-    <script
-        src="//www.istudiosg.com/cdn/shop/t/14/assets/jquery-latest.min.js?v=174441762609953228921742784888"></script>
-    <script>
-        window.SDG = window.SDG || {};
-        SDG.Data = {};
-        SDG.Data.template = "product";
-        SDG.Data.language = "EN";
-        SDG.Data.locationCookie = true;
-        SDG.Data.locationCookieExpiry = 7;
-        SDG.Data.ctoNoCoverage = 'No coverage';
-        SDG.Data.ctoProductModalDescription = 'To get {{ selected_option_title }} we changed your selection to:';
-        SDG.Data.ctoUpdateMessageDescription = 'is changed';
-        SDG.Data.noCombinationMessage = 'Combination does not exist';
-        SDG.Data.productPriceFrom = 'From {{ price }}';
-        SDG.Data.nmpPriceCalculation = '/mo. for {{ per_month }} mo.';
-    </script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/constants.js?v=58251544750838685771742784887"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/pubsub.js?v=158357773527763999511742784889"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/global.js?v=86940198807662246831742784888"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/slick.min.js?v=177366201532680719881742784889"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/slick-custom.js?v=124467254043905770051742784887"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/fancybox-3-5-7.js?v=45336575563953974081742784888"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.js?v=177811281368891218321742784887"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.js?v=65753906577603767491742784888"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-form.js?v=29435186399513605341757430292"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/lazyload-section.js?v=5359969406261385591742784888"
-        defer="defer"></script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/adobe-analytics-tracking.js?v=123617832924672007461742784888"
-        defer="defer"></script>
-    <script>
-        SDG.Data.adobeAnalyticsData = {
-            page_name: "Product",
-            page_type: "product",
-            page_url: window.location.hostname + window.location.pathname,
-            page_title: document.title,
-            language: "EN",
-            country: "SG",
-            currency: "SGD",
-
-            login_status: 'logged out',
-
-        };
-    </script>
-
-
-    <script>
-        window.dataLayer = window.dataLayer || [];
-    </script>
-
-
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
-    <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/63738642612/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed"
-        href="https://setiaskin.com/product/">
-    <script async="async" src="/checkouts/internal/preloads.js?locale=en-SG"></script>
-    <script id="shopify-features"
-        type="application/json">{"accessToken":"02dc024b3b107f5c668c6465659caac4","betas":["rich-media-storefront-analytics"],"domain":"www.istudiosg.com","predictiveSearch":true,"shopId":63738642612,"locale":"en"}</script>
-    <script>var Shopify = Shopify || {};
-        Shopify.shop = "istudio-elush-production.myshopify.com";
-        Shopify.locale = "en";
-        Shopify.currency = { "active": "SGD", "rate": "1.0" };
-        Shopify.country = "SG";
-        Shopify.theme = { "name": "360\u00265 - 2.0", "id": 139536236724, "schema_name": "Dawn", "schema_version": "11.0.0", "theme_store_id": null, "role": "main" };
-        Shopify.theme.handle = "null";
-        Shopify.theme.style = { "id": null, "handle": null };
-        Shopify.cdnHost = "www.istudiosg.com/cdn";
-        Shopify.routes = Shopify.routes || {};
-        Shopify.routes.root = "/";</script>
-    <script type="module">!function (o) { (o.Shopify = o.Shopify || {}).modules = !0 }(window);</script>
-    <script>!function (o) { function n() { var o = []; function n() { o.push(Array.prototype.slice.apply(arguments)) } return n.q = o, n } var t = o.Shopify = o.Shopify || {}; t.loadFeatures = n(), t.autoloadFeatures = n() }(window);</script>
-    <script id="shop-js-analytics" type="application/json">{"pageType":"product"}</script>
-    <script defer="defer" async="async" src="//www.istudiosg.com/cdn/shopifycloud/shop-js/client.js" onload="window.Shopify.SignInWithShop?.initShopCartSync?.({&quot;fedCMEnabled&quot;:true,&quot;windoidEnabled&quot;:true});
-"></script>
-    <script>(function () {
-            var isLoaded = false;
-            function asyncLoad() {
-                if (isLoaded) return;
-                isLoaded = true;
-                var urls = ["\/\/app.backinstock.org\/widget\/91512_1746008386.js?category=bis\u0026v=6\u0026shop=istudio-elush-production.myshopify.com"];
-                for (var i = 0; i < urls.length; i++) {
-                    var s = document.createElement('script');
-                    s.type = 'text/javascript';
-                    s.async = true;
-                    s.src = urls[i];
-                    var x = document.getElementsByTagName('script')[0];
-                    x.parentNode.insertBefore(s, x);
-                }
-            };
-            if (window.attachEvent) {
-                window.attachEvent('onload', asyncLoad);
-            } else {
-                window.addEventListener('load', asyncLoad, false);
-            }
-        })();</script>
-    <script
-        id="__st">var __st = { "a": 63738642612, "offset": 28800, "reqid": "18ba35d6-d225-45a5-8994-5ab9e4062cbb-1757934467", "pageurl": "https://setiaskin.com/product/", "u": "d161f9134dfb", "p": "product", "rtyp": "product", "rid": 7986668568756 };</script>
-    <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
-    <script
-        id="captcha-bootstrap">!function () { 'use strict'; const t = 'contact', e = 'account', n = 'new_comment', o = [[t, t], ['blogs', n], ['comments', n], [t, 'customer']], c = [[e, 'customer_login'], [e, 'guest_login'], [e, 'recover_customer_password'], [e, 'create_customer']], r = t => t.map((([t, e]) => `form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','), a = t => () => t ? [...document.querySelectorAll(t)].map((t => t.form)) : []; function s() { const t = [...o], e = r(t); return a(e) } const i = 'password', u = 'form_key', d = ['recaptcha-v3-token', 'g-recaptcha-response', 'h-captcha-response', i], f = () => { try { return window.sessionStorage } catch { return } }, m = '__shopify_v', _ = t => t.elements[u]; function p(t, e, n = !1) { try { const o = window.sessionStorage, c = JSON.parse(o.getItem(e)), { data: r } = function (t) { const { data: e, action: n } = t; return t[m] || n ? { data: e, action: n } : { data: t, action: n } }(c); for (const [e, n] of Object.entries(r)) t.elements[e] && (t.elements[e].value = n); n && o.removeItem(e) } catch (o) { console.error('form repopulation failed', { error: o }) } } const l = 'form_type', E = 'cptcha'; function T(t) { t.dataset[E] = !0 } const w = window, h = w.document, L = 'Shopify', v = 'ce_forms', y = 'captcha'; let A = !1; ((t, e) => { const n = (g = 'f06e6c50-85a8-45c8-87d0-21a2b65856fe', I = 'https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js', D = { infoText: 'Protected by hCaptcha', privacyText: 'Privacy', termsText: 'Terms' }, (t, e, n) => { const o = w[L][v], c = o.bindForm; if (c) return c(t, g, e, D).then(n); var r; o.q.push([[t, g, e, D], n]), r = I, A || (h.body.append(Object.assign(h.createElement('script'), { id: 'captcha-provider', async: !0, src: r })), A = !0) }); var g, I, D; w[L] = w[L] || {}, w[L][v] = w[L][v] || {}, w[L][v].q = [], w[L][y] = w[L][y] || {}, w[L][y].protect = function (t, e) { n(t, void 0, e), T(t) }, Object.freeze(w[L][y]), function (t, e, n, w, h, L) { const [v, y, A, g] = function (t, e, n) { const i = e ? o : [], u = t ? c : [], d = [...i, ...u], f = r(d), m = r(i), _ = r(d.filter((([t, e]) => n.includes(e)))); return [a(f), a(m), a(_), s()] }(w, h, L), I = t => { const e = t.target; return e instanceof HTMLFormElement ? e : e && e.form }, D = t => v().includes(t); t.addEventListener('submit', (t => { const e = I(t); if (!e) return; const n = D(e) && !e.dataset.hcaptchaBound && !e.dataset.recaptchaBound, o = _(e), c = g().includes(e) && (!o || !o.value); (n || c) && t.preventDefault(), c && !n && (function (t) { try { if (!f()) return; !function (t) { const e = f(); if (!e) return; const n = _(t); if (!n) return; const o = n.value; o && e.removeItem(o) }(t); const e = Array.from(Array(32), (() => Math.random().toString(36)[2])).join(''); !function (t, e) { _(t) || t.append(Object.assign(document.createElement('input'), { type: 'hidden', name: u })), t.elements[u].value = e }(t, e), function (t, e) { const n = f(); if (!n) return; const o = [...t.querySelectorAll(`input[type='${i}']`)].map((({ name: t }) => t)), c = [...d, ...o], r = {}; for (const [a, s] of new FormData(t).entries()) c.includes(a) || (r[a] = s); n.setItem(e, JSON.stringify({ [m]: 1, action: t.action, data: r })) }(t, e) } catch (e) { console.error('failed to persist form', e) } }(e), e.submit()) })); const S = (t, e) => { t && !t.dataset[E] && (n(t, e.some((e => e === t))), T(t)) }; for (const o of ['focusin', 'change']) t.addEventListener(o, (t => { const e = I(t); D(e) && S(e, y()) })); const B = e.get('form_key'), M = e.get(l), P = B && M; t.addEventListener('DOMContentLoaded', (() => { const t = y(); if (P) for (const e of t) e.elements[l].value === M && p(e, B);[...new Set([...A(), ...v().filter((t => 'true' === t.dataset.shopifyCaptcha))])].forEach((e => S(e, t))) })) }(h, new URLSearchParams(w.location.search), n, t, e, ['guest_login']) })(!0, !0) }();</script>
-    <script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc="
-        data-source-attribution="shopify.loadfeatures" defer="defer"
-        src="//www.istudiosg.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js"
-        crossorigin="anonymous"></script>
-    <script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify = Shopify || {}; Shopify.PaymentButton = Shopify.PaymentButton || { isStorefrontPortableWallets: !0, init: function () { window.Shopify.PaymentButton.init = function () { }; var t = document.createElement("script"); t.src = "//www.istudiosg.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js", t.type = "module", document.head.appendChild(t) } };
-    </script>
-    <script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
-        function portableWalletsHideBuyerConsent(e) { var t = document.getElementById("shopify-buyer-consent"), n = document.getElementById("shopify-subscription-policy-button"); t && n && (t.classList.add("hidden"), t.setAttribute("aria-hidden", "true"), n.removeEventListener("click", e)) } function portableWalletsShowBuyerConsent(e) { var t = document.getElementById("shopify-buyer-consent"), n = document.getElementById("shopify-subscription-policy-button"); t && n && (t.classList.remove("hidden"), t.removeAttribute("aria-hidden"), n.addEventListener("click", e)) } window.Shopify?.PaymentButton && (window.Shopify.PaymentButton.hideBuyerConsent = portableWalletsHideBuyerConsent, window.Shopify.PaymentButton.showBuyerConsent = portableWalletsShowBuyerConsent);
-    </script>
-    <script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded", (function () { function t() { return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout") } if (t()) Shopify.PaymentButton.init(); else { new MutationObserver((function (e, n) { t() && (Shopify.PaymentButton.init(), n.disconnect()) })).observe(document.body, { childList: !0, subtree: !0 }) } }));
-    </script>
-    <script id='scb4127' type='text/javascript' async=''
-        src='//www.istudiosg.com/cdn/shopifycloud/privacy-banner/storefront-banner.js'></script>
-    <script id="sections-script" data-sections="header" defer="defer"
-        src="//www.istudiosg.com/cdn/shop/t/14/compiled_assets/scripts.js?2866"></script>
-    <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
-
-    <style>
-        #Details-popup_custom_6mTgxV-template--17605519376564__main .popup_round_border {
-            display: inline-block !important;
-        }
-
-        #PopupModal-popup_custom_6mTgxV .image {
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-
-        #PopupModal-popup_custom_6mTgxV .image.desktop {
-            display: none;
-        }
-
-        #PopupModal-popup_custom_6mTgxV .product-popup-modal__content {
-            padding: 0 1rem;
-        }
-
-        #PopupModal-popup_custom_6mTgxV .product-popup-modal__content-info>h1.h2 {
-            display: none;
-        }
-
-        @media screen and (min-width:750px) {
-            #PopupModal-popup_custom_6mTgxV .product-popup-modal__content {
-                width: 80%
-            }
-
-            #PopupModal-popup_custom_6mTgxV .image.desktop {
-                display: block;
-            }
-
-            #PopupModal-popup_custom_6mTgxV .image.mobile {
-                display: none;
-            }
-        }
-
-        #PopupModal-popup_custom_6mTgxV .product-popup-modal__content-info {
-            padding-right: 0;
-        }
-
-        @font-face {
-            font-family: 'SF Pro Text';
-            src: url("//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Regular.woff2?v=21706269404805127741742784888") format('woff2'),
-                url("//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Regular.woff?v=144701899629177247781742784888") format('woff');
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap;
-        }
-
-        @font-face {
-            font-family: 'SF Pro Text';
-            src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Medium.woff2?v=142744590770268640871742784888') format('woff2'),
-                url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Medium.woff?v=86846661406826704271742784889') format('woff');
-            font-weight: 500;
-            font-style: normal;
-            font-display: swap;
-        }
-
-        @font-face {
-            font-family: 'SF Pro Text';
-            src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Semibold.woff2?v=31375109001105336161742784889') format('woff2'),
-                url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Semibold.woff?v=158359377723366996921742784888') format('woff');
-            font-weight: 600;
-            font-style: normal;
-            font-display: swap;
-        }
-
-        @font-face {
-            font-family: 'SF Pro Text';
-            src: url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Bold.woff2?v=81066619648910226671742784888') format('woff2'),
-                url('//www.istudiosg.com/cdn/shop/t/14/assets/SFProText-Bold.woff?v=11034071917097156431742784889') format('woff');
-            font-weight: 700;
-            font-style: bold;
-            font-display: swap;
-        }
-
-        @font-face {
-            font-family: 'Font Awesome 6 Free';
-            font-style: normal;
-            font-weight: 900;
-            font-display: block;
-            src: url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-solid-900.woff2?v=118991557498766039071742784889") format("woff2"), url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-solid-900.ttf?v=11227793290438786691742784887") format("truetype");
-        }
-
-        @font-face {
-            font-family: 'Font Awesome 6 Brands';
-            font-style: normal;
-            font-weight: 400;
-            font-display: block;
-            src: url("//www.istudiosg.com/cdn/shop/t/14/assets/fa-brands-400.woff2?2866") format("woff2"), url("  //www.istudiosg.com/cdn/shop/t/14/assets/fa-brands-400.ttf?2866") format("truetype");
-        }
-    </style>
-    <style data-shopify>
-        @font-face {
-            font-family: Assistant;
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap;
-            src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f") format("woff2"),
-                url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.6e9875ce64e0fefcd3f4446b7ec9036b3ddd2985.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=04204526227e0d14a011b44f621eed958a37dd24ff228dec608fad5ba3714e53") format("woff");
-        }
-
-        @font-face {
-            font-family: Assistant;
-            font-weight: 700;
-            font-style: normal;
-            font-display: swap;
-            src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n7.bf44452348ec8b8efa3aa3068825305886b1c83c.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=3eb98cb4f0f5b11a3f34feed0aa554dd621b127bc1cbc141c68703f90e8e42d3") format("woff2"),
-                url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n7.0c887fee83f6b3bda822f1150b912c72da0f7b64.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=d0e65006948e80adf21a0472f7da1fee501e61f043b62e661027b9eeb582385b") format("woff");
-        }
-
-
-
-        @font-face {
-            font-family: Assistant;
-            font-weight: 400;
-            font-style: normal;
-            font-display: swap;
-            src: url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f") format("woff2"),
-                url("//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.6e9875ce64e0fefcd3f4446b7ec9036b3ddd2985.woff?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=04204526227e0d14a011b44f621eed958a37dd24ff228dec608fad5ba3714e53") format("woff");
-        }
-
-
-
-        :root,
-        .color-background-1 {
-            --color-background: 255, 255, 255;
-
-            --gradient-background: #ffffff;
-
-            --color-foreground: 18, 18, 18;
-            --color-shadow: 18, 18, 18;
-            --color-button: 0, 113, 227;
-            --color-button-text: 255, 255, 255;
-            --color-secondary-button: 255, 255, 255;
-            --color-secondary-button-text: 18, 18, 18;
-            --color-link: 18, 18, 18;
-            --color-badge-foreground: 18, 18, 18;
-            --color-badge-background: 255, 255, 255;
-            --color-badge-border: 18, 18, 18;
-            --payment-terms-background-color: rgb(255 255 255);
-        }
-
-
-        .color-background-2 {
-            --color-background: 243, 243, 243;
-
-            --gradient-background: #f3f3f3;
-
-            --color-foreground: 18, 18, 18;
-            --color-shadow: 18, 18, 18;
-            --color-button: 18, 18, 18;
-            --color-button-text: 243, 243, 243;
-            --color-secondary-button: 243, 243, 243;
-            --color-secondary-button-text: 18, 18, 18;
-            --color-link: 18, 18, 18;
-            --color-badge-foreground: 18, 18, 18;
-            --color-badge-background: 243, 243, 243;
-            --color-badge-border: 18, 18, 18;
-            --payment-terms-background-color: rgb(243 243 243);
-        }
-
-
-        .color-inverse {
-            --color-background: 36, 40, 51;
-
-            --gradient-background: #242833;
-
-            --color-foreground: 255, 255, 255;
-            --color-shadow: 18, 18, 18;
-            --color-button: 255, 255, 255;
-            --color-button-text: 0, 0, 0;
-            --color-secondary-button: 36, 40, 51;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 36, 40, 51;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(36 40 51);
-        }
-
-
-        .color-accent-1 {
-            --color-background: 18, 18, 18;
-
-            --gradient-background: #121212;
-
-            --color-foreground: 255, 255, 255;
-            --color-shadow: 18, 18, 18;
-            --color-button: 255, 255, 255;
-            --color-button-text: 18, 18, 18;
-            --color-secondary-button: 18, 18, 18;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 18, 18, 18;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(18 18 18);
-        }
-
-
-        .color-accent-2 {
-            --color-background: 51, 79, 180;
-
-            --gradient-background: #334fb4;
-
-            --color-foreground: 255, 255, 255;
-            --color-shadow: 18, 18, 18;
-            --color-button: 255, 255, 255;
-            --color-button-text: 51, 79, 180;
-            --color-secondary-button: 51, 79, 180;
-            --color-secondary-button-text: 255, 255, 255;
-            --color-link: 255, 255, 255;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 51, 79, 180;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(51 79 180);
-        }
-
-
-        .color-scheme-ac1f97d9-2391-4261-b2e4-e6912b28bacf {
-            --color-background: 0, 0, 0;
-
-            --gradient-background: rgba(0, 0, 0, 0);
-
-            --color-foreground: 255, 255, 255;
-            --color-shadow: 18, 18, 18;
-            --color-button: 0, 113, 227;
-            --color-button-text: 255, 255, 255;
-            --color-secondary-button: 0, 0, 0;
-            --color-secondary-button-text: 18, 18, 18;
-            --color-link: 18, 18, 18;
-            --color-badge-foreground: 255, 255, 255;
-            --color-badge-background: 0, 0, 0;
-            --color-badge-border: 255, 255, 255;
-            --payment-terms-background-color: rgb(0 0 0);
-        }
-
-
-        body,
-        .color-background-1,
-        .color-background-2,
-        .color-inverse,
-        .color-accent-1,
-        .color-accent-2,
-        .color-scheme-ac1f97d9-2391-4261-b2e4-e6912b28bacf {
-            color: rgb(0, 0, 0);
-            background-color: rgb(var(--color-background));
-        }
-
-        :root {
-            --font-body-family: Assistant, sans-serif;
-            --font-body-style: normal;
-            --font-body-weight: 400;
-            --font-body-weight-bold: 700;
-
-            --font-heading-family: Assistant, sans-serif;
-            --font-heading-style: normal;
-            --font-heading-weight: 400;
-
-            --font-body-scale: 1.0;
-            --font-heading-scale: 1.0;
-
-            --media-padding: px;
-            --media-border-opacity: 0.05;
-            --media-border-width: 1px;
-            --media-radius: 0px;
-            --media-shadow-opacity: 0.0;
-            --media-shadow-horizontal-offset: 0px;
-            --media-shadow-vertical-offset: 0px;
-            --media-shadow-blur-radius: 0px;
-            --media-shadow-visible: 0;
-
-            --page-width: 120rem;
-            --page-width-margin: 0rem;
-
-            --product-card-image-padding: 0.0rem;
-            --product-card-corner-radius: 0.0rem;
-            --product-card-text-alignment: left;
-            --product-card-border-width: 0.0rem;
-            --product-card-border-opacity: 0.0;
-            --product-card-shadow-opacity: 0.1;
-            --product-card-shadow-visible: 1;
-            --product-card-shadow-horizontal-offset: 0.0rem;
-            --product-card-shadow-vertical-offset: 0.0rem;
-            --product-card-shadow-blur-radius: 0.0rem;
-
-            --collection-card-image-padding: 0.0rem;
-            --collection-card-corner-radius: 0.0rem;
-            --collection-card-text-alignment: left;
-            --collection-card-border-width: 0.0rem;
-            --collection-card-border-opacity: 0.0;
-            --collection-card-shadow-opacity: 0.1;
-            --collection-card-shadow-visible: 1;
-            --collection-card-shadow-horizontal-offset: 0.0rem;
-            --collection-card-shadow-vertical-offset: 0.0rem;
-            --collection-card-shadow-blur-radius: 0.0rem;
-
-            --blog-card-image-padding: 0.0rem;
-            --blog-card-corner-radius: 0.0rem;
-            --blog-card-text-alignment: left;
-            --blog-card-border-width: 0.0rem;
-            --blog-card-border-opacity: 0.1;
-            --blog-card-shadow-opacity: 0.0;
-            --blog-card-shadow-visible: 0;
-            --blog-card-shadow-horizontal-offset: 0.0rem;
-            --blog-card-shadow-vertical-offset: 0.4rem;
-            --blog-card-shadow-blur-radius: 0.5rem;
-
-            --badge-corner-radius: 4.0rem;
-
-            --popup-border-width: 1px;
-            --popup-border-opacity: 0.1;
-            --popup-corner-radius: 0px;
-            --popup-shadow-opacity: 0.0;
-            --popup-shadow-horizontal-offset: 0px;
-            --popup-shadow-vertical-offset: 0px;
-            --popup-shadow-blur-radius: 0px;
-
-            --drawer-border-width: 1px;
-            --drawer-border-opacity: 0.1;
-            --drawer-shadow-opacity: 0.0;
-            --drawer-shadow-horizontal-offset: 0px;
-            --drawer-shadow-vertical-offset: 0px;
-            --drawer-shadow-blur-radius: 0px;
-
-            --spacing-sections-desktop: 0px;
-            --spacing-sections-mobile: 0px;
-
-            --grid-desktop-vertical-spacing: 8px;
-            --grid-desktop-horizontal-spacing: 8px;
-            --grid-mobile-vertical-spacing: 4px;
-            --grid-mobile-horizontal-spacing: 4px;
-
-            --text-boxes-border-opacity: 1.0;
-            --text-boxes-border-width: 0px;
-            --text-boxes-radius: 0px;
-            --text-boxes-shadow-opacity: 0.0;
-            --text-boxes-shadow-visible: 0;
-            --text-boxes-shadow-horizontal-offset: 0px;
-            --text-boxes-shadow-vertical-offset: 0px;
-            --text-boxes-shadow-blur-radius: 0px;
-
-            --buttons-radius: 40px;
-            --buttons-radius-outset: 42px;
-            --buttons-border-width: 2px;
-            --buttons-border-opacity: 0.4;
-            --buttons-shadow-opacity: 0.0;
-            --buttons-shadow-visible: 0;
-            --buttons-shadow-horizontal-offset: 0px;
-            --buttons-shadow-vertical-offset: 0px;
-            --buttons-shadow-blur-radius: 0px;
-            --buttons-border-offset: 0.3px;
-
-            --inputs-radius: 4px;
-            --inputs-border-width: 1px;
-            --inputs-border-opacity: 0.55;
-            --inputs-shadow-opacity: 0.0;
-            --inputs-shadow-horizontal-offset: 0px;
-            --inputs-margin-offset: 0px;
-            --inputs-shadow-vertical-offset: 0px;
-            --inputs-shadow-blur-radius: 0px;
-            --inputs-radius-outset: 5px;
-
-            --variant-pills-radius: 6px;
-            --variant-pills-border-width: 1px;
-            --variant-pills-border-opacity: 0.2;
-            --variant-pills-shadow-opacity: 0.0;
-            --variant-pills-shadow-horizontal-offset: -4px;
-            --variant-pills-shadow-vertical-offset: 0px;
-            --variant-pills-shadow-blur-radius: 0px;
-
-
-            --font-body-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont;
-            --font-body-style: normal;
-            --font-body-weight: 400;
-
-            --font-heading-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont;
-            --font-heading-style: normal;
-            --font-heading-weight: 400;
-            --font-body-scale: 1.0;
-            --font-heading-scale: 1.0;
-
-            --color-base-text: 18, 18, 18;
-            --color-shadow: 18, 18, 18;
-            --color-base-background-1: 255, 255, 255;
-            --color-base-background-2: 255, 255, 255;
-            --color-base-solid-button-labels: 255, 255, 255;
-            --color-base-outline-button-labels: 18, 18, 18;
-            --color-base-accent-1: 0, 113, 227;
-            --color-base-accent-2: 51, 79, 180;
-            --payment-terms-background-color: #FFFFFF;
-
-            --gradient-base-background-1: #FFFFFF;
-            --gradient-base-background-2: #FFFFFF;
-            --gradient-base-accent-1: #0071e3;
-            --gradient-base-accent-2: #334FB4;
-
-            --media-padding: px;
-            --media-border-opacity: 0.05;
-            --media-border-width: 1px;
-            --media-radius: 0px;
-            --media-shadow-opacity: 0.0;
-            --media-shadow-horizontal-offset: 0px;
-            --media-shadow-vertical-offset: 0px;
-            --media-shadow-blur-radius: 0px;
-
-            --page-width: 120rem;
-            --page-width-margin: 0rem;
-
-            --card-image-padding: 0.0rem;
-            --card-corner-radius: 0.0rem;
-            --card-text-alignment: left;
-            --card-border-width: 0.0rem;
-            --card-border-opacity: 0.0;
-            --card-shadow-opacity: 0.1;
-            --card-shadow-horizontal-offset: 0.0rem;
-            --card-shadow-vertical-offset: 0.0rem;
-            --card-shadow-blur-radius: 0.0rem;
-
-            --badge-corner-radius: 4.0rem;
-
-            --popup-border-width: 1px;
-            --popup-border-opacity: 0.1;
-            --popup-corner-radius: 0px;
-            --popup-shadow-opacity: 0.0;
-            --popup-shadow-horizontal-offset: 0px;
-            --popup-shadow-vertical-offset: 0px;
-            --popup-shadow-blur-radius: 0px;
-
-            --drawer-border-width: 1px;
-            --drawer-border-opacity: 0.1;
-            --drawer-shadow-opacity: 0.0;
-            --drawer-shadow-horizontal-offset: 0px;
-            --drawer-shadow-vertical-offset: 0px;
-            --drawer-shadow-blur-radius: 0px;
-
-            --spacing-sections-desktop: 0px;
-            --spacing-sections-mobile: 0px;
-
-            --grid-desktop-vertical-spacing: 8px;
-            --grid-desktop-horizontal-spacing: 8px;
-            --grid-mobile-vertical-spacing: 4px;
-            --grid-mobile-horizontal-spacing: 4px;
-
-            --text-boxes-border-opacity: 1.0;
-            --text-boxes-border-width: 0px;
-            --text-boxes-radius: 0px;
-            --text-boxes-shadow-opacity: 0.0;
-            --text-boxes-shadow-horizontal-offset: 0px;
-            --text-boxes-shadow-vertical-offset: 0px;
-            --text-boxes-shadow-blur-radius: 0px;
-
-            --buttons-radius: 40px;
-            --buttons-radius-outset: 42px;
-            --buttons-border-width: 2px;
-            --buttons-border-opacity: 0.4;
-            --buttons-shadow-opacity: 0.0;
-            --buttons-shadow-horizontal-offset: 0px;
-            --buttons-shadow-vertical-offset: 0px;
-            --buttons-shadow-blur-radius: 0px;
-            --buttons-border-offset: 0.3px;
-
-            --inputs-radius: 4px;
-            --inputs-border-width: 1px;
-            --inputs-border-opacity: 0.55;
-            --inputs-shadow-opacity: 0.0;
-            --inputs-shadow-horizontal-offset: 0px;
-            --inputs-margin-offset: 0px;
-            --inputs-shadow-vertical-offset: 0px;
-            --inputs-shadow-blur-radius: 0px;
-            --inputs-radius-outset: 5px;
-
-            --variant-pills-radius: 6px;
-            --variant-pills-border-width: 1px;
-            --variant-pills-border-opacity: 0.2;
-            --variant-pills-shadow-opacity: 0.0;
-            --variant-pills-shadow-horizontal-offset: -4px;
-            --variant-pills-shadow-vertical-offset: 0px;
-            --variant-pills-shadow-blur-radius: 0px;
-
-            --color-primary-bt-bg: #0071e3;
-            --color-primary-bt-label: #FFFFFF;
-            --color-primary-bt-outline: #0071e3;
-            --color-primary-bt-hover: #62bbfa;
-            --color-secondary-bt-bg: transparent;
-            --color-secondary-bt-label: #0071e3;
-            --color-secondary-bt-outline: #0071e3;
-            --color-secondary-bt-hover: #62bbfa;
-
-
-            --color-link-dynamic-label: #0071e3;
-            --color-link-dynamic-hover: #62bbfa;
-
-
-            --color-tertiary-dynamic-label: #0071e3;
-            --color-tertiary-dynamic-hover: #62bbfa;
-
-        }
-
-        *,
-        *::before,
-        *::after {
-            box-sizing: inherit;
-        }
-
-        html {
-            box-sizing: border-box;
-            font-size: calc(var(--font-body-scale) * 62.5%);
-            height: 100%;
-        }
-
-        body {
-            min-height: 100%;
-            margin: 0;
-            font-size: 1.5rem;
-            letter-spacing: 0.06rem;
-            line-height: calc(1 + 0.8 / var(--font-body-scale));
-            font-family: var(--font-body-family);
-            font-style: var(--font-body-style);
-            font-weight: var(--font-body-weight);
-            -webkit-font-smoothing: antialiased;
-        }
-
-        body:has(.shopify-section-group-footer-group) {
-            display: grid;
-            grid-template-rows: auto auto 1fr auto;
-            grid-template-columns: 100%;
-        }
-
-        @media screen and (min-width: 750px) {
-            body {
-                font-size: 1.6rem;
-            }
-        }
-    </style>
-
-    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/base.css?v=127241086646799884071742784889" rel="stylesheet"
-        type="text/css" media="all" />
-
-
-    <link rel="preload" as="font"
-        href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f"
-        type="font/woff2" crossorigin>
-    <link rel="preload" as="font"
-        href="//www.istudiosg.com/cdn/fonts/assistant/assistant_n4.9120912a469cad1cc292572851508ca49d12e768.woff2?h1=aXN0dWRpby1lbHVzaC1wcm9kdWN0aW9uLmFjY291bnQubXlzaG9waWZ5LmNvbQ&h2=aXN0dWRpb3NnLmNvbQ&hmac=f08b4c8dad363a51140f208e167805f634db94adbbb3544a6fbd71c32b1ebc6f"
-        type="font/woff2" crossorigin>
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-predictive-search.css?v=91813212418334334851742784888"
-        media="print" onload="this.media='all'">
-    <script>
-        document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-        if (Shopify.designMode) {
-            document.documentElement.classList.add('shopify-design-mode');
-        }
-        const vat_free_day = false;
-
-        const vat_discount_amount = 20.0;
-
-
-        const vat_free_quantity = "3";
-
-
-        const vat_free_message = "Cannot add more than 3 VAT-exempt products to the shopping cart";
-
-
-        const not_available_message = "Not Available";
-
-
-        const quantity_limit_error_message = "Sorry! you reached maximum limit for this product!";
-
-    </script>
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-card.css?v=111081949408356567601742784889"
-        media="print" onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
-        media="print" onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888"
-        media="print" onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme.css?v=155861180100014643231742784887" media="print"
-        onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/slick-theme-min.css?v=86793612638635186001742784889"
-        media="print" onload="this.media='all'">
-
-    <noscript>
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
-            rel="stylesheet" type="text/css" media="all" />
-    </noscript>
-    <noscript>
-        <link
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/section-product-recommendations.css?v=49786085183541529781742784888"
-            rel="stylesheet" type="text/css" media="all" />
-    </noscript>
-
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887" media="print"
-        onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/product-collection-carousel.css?v=15060387450964793051742784888"
-        media="print" onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889"
-        media="print" onload="this.media='all'">
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-model.js?v=56285008796734381901742784888"
-        defer></script>
-
-    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal.min.css?v=15722724579182767671742784888"
-        rel="stylesheet" type="text/css" media="all" />
-    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887"
-        rel="stylesheet" type="text/css" media="all" />
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/ac-modal-custom.css?v=17302321221102055051742784887"
-        media="print" onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-apple-care-modal.css?v=72539108787457179491742784889"
-        media="print" onload="this.media='all'">
-    <link rel="stylesheet"
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/fontawesome.min.css?v=137756382566111518581742784888"
-        media="print" onload="this.media='all'">
-
-    <link
-        href="//www.istudiosg.com/cdn/shop/t/14/assets/component-pickup-availability.css?v=126759165165079086151742784888"
-        rel="stylesheet" type="text/css" media="all" />
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/pickup-availability.js?v=741939373213593171742784889"
-        defer="defer"></script>
-    <link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
-    <script>(function () { if ("sendBeacon" in navigator && "performance" in window) { try { var session_token_from_headers = performance.getEntriesByType('navigation')[0].serverTiming.find(x => x.name == '_s').description; } catch { var session_token_from_headers = undefined; } var session_cookie_matches = document.cookie.match(/_shopify_s=([^;]*)/); var session_token_from_cookie = session_cookie_matches && session_cookie_matches.length === 2 ? session_cookie_matches[1] : ""; var session_token = session_token_from_headers || session_token_from_cookie || ""; function handle_abandonment_event(e) { var entries = performance.getEntries().filter(function (entry) { return /monorail-edge.shopifysvc.com/.test(entry.name); }); if (!window.abandonment_tracked && entries.length === 0) { window.abandonment_tracked = true; var currentMs = Date.now(); var navigation_start = performance.timing.navigationStart; var payload = { shop_id: 63738642612, url: window.location.href, navigation_start, duration: currentMs - navigation_start, session_token, page_type: "product" }; window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({ schema_id: "online_store_buyer_site_abandonment/1.1", payload: payload, metadata: { event_created_at_ms: currentMs, event_sent_at_ms: currentMs } })); } } window.addEventListener('pagehide', handle_abandonment_event); } }());</script>
-    <script
-        id="web-pixels-manager-setup">(function e(e, d, r, n, o) { if (void 0 === o && (o = {}), !Boolean(null === (a = null === (i = window.Shopify) || void 0 === i ? void 0 : i.analytics) || void 0 === a ? void 0 : a.replayQueue)) { var i, a; window.Shopify = window.Shopify || {}; var t = window.Shopify; t.analytics = t.analytics || {}; var s = t.analytics; s.replayQueue = [], s.publish = function (e, d, r) { return s.replayQueue.push([e, d, r]), !0 }; try { self.performance.mark("wpm:start") } catch (e) { } var l = function () { var e = { modern: /Edge?\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Firefox\/(1{2}[4-9]|1[2-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Chrom(ium|e)\/(9{2}|\d{3,})\.\d+(\.\d+|)|(Maci|X1{2}).+ Version\/(15\.\d+|(1[6-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(9{2}|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(15[._]\d+|(1[6-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|SamsungBrowser\/([2-9]\d|\d{3,})\.\d+/, legacy: /Edge?\/(1[6-9]|[2-9]\d|\d{3,})\.\d+(\.\d+|)|Firefox\/(5[4-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)|Chrom(ium|e)\/(5[1-9]|[6-9]\d|\d{3,})\.\d+(\.\d+|)([\d.]+$|.*Safari\/(?![\d.]+ Edge\/[\d.]+$))|(Maci|X1{2}).+ Version\/(10\.\d+|(1[1-9]|[2-9]\d|\d{3,})\.\d+)([,.]\d+|)( \(\w+\)|)( Mobile\/\w+|) Safari\/|Chrome.+OPR\/(3[89]|[4-9]\d|\d{3,})\.\d+\.\d+|(CPU[ +]OS|iPhone[ +]OS|CPU[ +]iPhone|CPU IPhone OS|CPU iPad OS)[ +]+(10[._]\d+|(1[1-9]|[2-9]\d|\d{3,})[._]\d+)([._]\d+|)|Android:?[ /-](13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})(\.\d+|)(\.\d+|)|Mobile Safari.+OPR\/([89]\d|\d{3,})\.\d+\.\d+|Android.+Firefox\/(13[5-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+Chrom(ium|e)\/(13[3-9]|1[4-9]\d|[2-9]\d{2}|\d{4,})\.\d+(\.\d+|)|Android.+(UC? ?Browser|UCWEB|U3)[ /]?(15\.([5-9]|\d{2,})|(1[6-9]|[2-9]\d|\d{3,})\.\d+)\.\d+|SamsungBrowser\/(5\.\d+|([6-9]|\d{2,})\.\d+)|Android.+MQ{2}Browser\/(14(\.(9|\d{2,})|)|(1[5-9]|[2-9]\d|\d{3,})(\.\d+|))(\.\d+|)|K[Aa][Ii]OS\/(3\.\d+|([4-9]|\d{2,})\.\d+)(\.\d+|)/ }, d = e.modern, r = e.legacy, n = navigator.userAgent; return n.match(d) ? "modern" : n.match(r) ? "legacy" : "unknown" }(), u = "modern" === l ? "modern" : "legacy", c = (null != n ? n : { modern: "", legacy: "" })[u], f = function (e) { return [e.baseUrl, "/wpm", "/b", e.hashVersion, "modern" === e.buildTarget ? "m" : "l", ".js"].join("") }({ baseUrl: d, hashVersion: r, buildTarget: u }), m = function (e) { var d = e.version, r = e.bundleTarget, n = e.surface, o = e.pageUrl, i = e.monorailEndpoint; return { emit: function (e) { var a = e.status, t = e.errorMsg, s = (new Date).getTime(), l = JSON.stringify({ metadata: { event_sent_at_ms: s }, events: [{ schema_id: "web_pixels_manager_load/3.1", payload: { version: d, bundle_target: r, page_url: o, status: a, surface: n, error_msg: t }, metadata: { event_created_at_ms: s } }] }); if (!i) return console && console.warn && console.warn("[Web Pixels Manager] No Monorail endpoint provided, skipping logging."), !1; try { return self.navigator.sendBeacon.bind(self.navigator)(i, l) } catch (e) { } var u = new XMLHttpRequest; try { return u.open("POST", i, !0), u.setRequestHeader("Content-Type", "text/plain"), u.send(l), !0 } catch (e) { return console && console.warn && console.warn("[Web Pixels Manager] Got an unhandled error while logging to Monorail."), !1 } } } }({ version: r, bundleTarget: l, surface: e.surface, pageUrl: self.location.href, monorailEndpoint: e.monorailEndpoint }); try { o.browserTarget = l, function (e) { var d = e.src, r = e.async, n = void 0 === r || r, o = e.onload, i = e.onerror, a = e.sri, t = e.scriptDataAttributes, s = void 0 === t ? {} : t, l = document.createElement("script"), u = document.querySelector("head"), c = document.querySelector("body"); if (l.async = n, l.src = d, a && (l.integrity = a, l.crossOrigin = "anonymous"), s) for (var f in s) if (Object.prototype.hasOwnProperty.call(s, f)) try { l.dataset[f] = s[f] } catch (e) { } if (o && l.addEventListener("load", o), i && l.addEventListener("error", i), u) u.appendChild(l); else { if (!c) throw new Error("Did not find a head or body element to append the script"); c.appendChild(l) } }({ src: f, async: !0, onload: function () { if (!function () { var e, d; return Boolean(null === (d = null === (e = window.Shopify) || void 0 === e ? void 0 : e.analytics) || void 0 === d ? void 0 : d.initialized) }()) { var d = window.webPixelsManager.init(e) || void 0; if (d) { var r = window.Shopify.analytics; r.replayQueue.forEach((function (e) { var r = e[0], n = e[1], o = e[2]; d.publishCustomEvent(r, n, o) })), r.replayQueue = [], r.publish = d.publishCustomEvent, r.visitor = d.visitor, r.initialized = !0 } } }, onerror: function () { return m.emit({ status: "failed", errorMsg: "".concat(f, " has failed to load") }) }, sri: function (e) { var d = /^sha384-[A-Za-z0-9+/=]+$/; return "string" == typeof e && d.test(e) }(c) ? c : "", scriptDataAttributes: o }), m.emit({ status: "loading" }) } catch (e) { m.emit({ status: "failed", errorMsg: (null == e ? void 0 : e.message) || "Unknown error" }) } } })({ shopId: 63738642612, storefrontBaseUrl: "https://setiaskin.com/product/", extensionsBaseUrl: "https://extensions.shopifycdn.com/cdn/shopifycloud/web-pixels-manager", monorailEndpoint: "https://monorail-edge.shopifysvc.com/unstable/produce_batch", surface: "storefront-renderer", enabledBetaFlags: ["ac843a20"], webPixelsConfigList: [{ "id": "440205492", "configuration": "{\"config\":\"{\\\"google_tag_ids\\\":[\\\"GT-P8RCB3SH\\\"],\\\"target_country\\\":\\\"SG\\\",\\\"gtag_events\\\":[{\\\"type\\\":\\\"view_item\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"purchase\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"},{\\\"type\\\":\\\"page_view\\\",\\\"action_label\\\":\\\"MC-7SRS2D91NR\\\"}],\\\"enable_monitoring_mode\\\":false}\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "b2a88bafab3e21179ed38636efcd8a93", "type": "APP", "apiClientId": 1780363, "privacyPurposes": [] }, { "id": "154108084", "configuration": "{\"pixel_id\":\"964293195365224\",\"pixel_type\":\"facebook_pixel\",\"metaapp_system_user_token\":\"-\"}", "eventPayloadVersion": "v1", "runtimeContext": "OPEN", "scriptVersion": "6d8c3ef0426b37b2a9b717daeb719f58", "type": "APP", "apiClientId": 2329312, "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"] }, { "id": "21070004", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "1", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout" }, { "id": "99614900", "eventPayloadVersion": "1", "runtimeContext": "LAX", "scriptVersion": "2", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING", "SALE_OF_DATA"], "name": "Checkout - Adobe" }, { "id": "shopify-app-pixel", "configuration": "{}", "eventPayloadVersion": "v1", "runtimeContext": "STRICT", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "APP", "privacyPurposes": ["ANALYTICS", "MARKETING"] }, { "id": "shopify-custom-pixel", "eventPayloadVersion": "v1", "runtimeContext": "LAX", "scriptVersion": "0450", "apiClientId": "shopify-pixel", "type": "CUSTOM", "privacyPurposes": ["ANALYTICS", "MARKETING"] }], isMerchantRequest: false, initData: { "shop": { "name": "iStudio Singapore", "paymentSettings": { "currencyCode": "SGD" }, "myshopifyDomain": "istudio-elush-production.myshopify.com", "countryCode": "SG", "storefrontUrl": "https://setiaskin.com/product/" }, "customer": null, "cart": null, "checkout": null, "productVariants": [{ "price": { "amount": 2349.0, "currencyCode": "SGD" }, "product": { "title": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta", "vendor": "Apple", "id": "7986668568756", "untranslatedTitle": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta", "url": "https://setiaskin.com/product/", "type": "iPhone" }, "id": "44033878261940", "image": { "src": "https://88majuterus.art/uploads/thai.jpg", "title": "Default Title", "untranslatedTitle": "Default Title" }], "purchasingCompany": null }, }, "https://www.istudiosg.com/cdn", "101e3747w14cb203ep86935582m63bbd0d5", { "modern": "", "legacy": "" }, { "shopId": "63738642612", "storefrontBaseUrl": "https://setiaskin.com/product/", "extensionBaseUrl": "https:\/\/extensions.shopifycdn.com\/cdn\/shopifycloud\/web-pixels-manager", "surface": "storefront-renderer", "enabledBetaFlags": "[\"ac843a20\"]", "isMerchantRequest": "false", "hashVersion": "101e3747w14cb203ep86935582m63bbd0d5", "publish": "custom", "events": "[[\"page_viewed\",{}],[\"product_viewed\",{\"productVariant\":{\"price\":{\"amount\":2349.0,\"currencyCode\":\"SGD\"},\"product\":{\"title\":\"DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta\",\"vendor\":\"Apple\",\"id\":\"7986668568756\",\"untranslatedTitle\":\"DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta\",\"url\":\"https://setiaskin.com/product/\",\"type\":\"iPhone\"},\"id\":\"44033878261940\",\"image\":{\"src\":https://www.equinoxcounseling.comhttps://88majuterus.art/uploads/thai.jpg"\",\"title\":\"Default Title\",\"untranslatedTitle\":\"Default Title\"}}]]" });</script>
-    <script>
-        window.ShopifyAnalytics = window.ShopifyAnalytics || {};
-        window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
-        window.ShopifyAnalytics.meta.currency = 'SGD';
-        var meta = { "product": { "id": 7986668568756, "gid": "gid:\/\/shopify\/Product\/7986668568756", "vendor": "Apple", "type": "iPhone", "variants": [{ "id": 44033878261940, "price": 234900, "name": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta", "public_title": null, "sku": "MG8P4X\/A" }] }, "page": { "pageType": "product", "resourceType": "product", "resourceId": 7986668568756 } };
-        for (var attr in meta) {
-            window.ShopifyAnalytics.meta[attr] = meta[attr];
-        }
-    </script>
-    <script class="analytics">
-        (function () {
-            var customDocumentWrite = function (content) {
-                var jquery = null;
-
-                if (window.jQuery) {
-                    jquery = window.jQuery;
-                } else if (window.Checkout && window.Checkout.$) {
-                    jquery = window.Checkout.$;
-                }
-
-                if (jquery) {
-                    jquery('body').append(content);
-                }
-            };
-
-            var hasLoggedConversion = function (token) {
-                if (token) {
-                    return document.cookie.indexOf('loggedConversion=' + token) !== -1;
-                }
-                return false;
-            }
-
-            var setCookieIfConversion = function (token) {
-                if (token) {
-                    var twoMonthsFromNow = new Date(Date.now());
-                    twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
-
-                    document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
-                }
-            }
-
-            var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-            if (trekkie.integrations) {
-                return;
-            }
-            trekkie.methods = [
-                'identify',
-                'page',
-                'ready',
-                'track',
-                'trackForm',
-                'trackLink'
-            ];
-            trekkie.factory = function (method) {
-                return function () {
-                    var args = Array.prototype.slice.call(arguments);
-                    args.unshift(method);
-                    trekkie.push(args);
-                    return trekkie;
-                };
-            };
-            for (var i = 0; i < trekkie.methods.length; i++) {
-                var key = trekkie.methods[i];
-                trekkie[key] = trekkie.factory(key);
-            }
-            trekkie.load = function (config) {
-                trekkie.config = config || {};
-                trekkie.config.initialDocumentCookie = document.cookie;
-                var first = document.getElementsByTagName('script')[0];
-                var script = document.createElement('script');
-                script.type = 'text/javascript';
-                script.onerror = function (e) {
-                    var scriptFallback = document.createElement('script');
-                    scriptFallback.type = 'text/javascript';
-                    scriptFallback.onerror = function (error) {
-                        var Monorail = {
-                            produce: function produce(monorailDomain, schemaId, payload) {
-                                var currentMs = new Date().getTime();
-                                var event = {
-                                    schema_id: schemaId,
-                                    payload: payload,
-                                    metadata: {
-                                        event_created_at_ms: currentMs,
-                                        event_sent_at_ms: currentMs
-                                    }
-                                };
-                                return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
-                            },
-                            sendRequest: function sendRequest(endpointUrl, payload) {
-                                // Try the sendBeacon API
-                                if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
-                                    var blobData = new window.Blob([payload], {
-                                        type: 'text/plain'
-                                    });
-
-                                    if (window.navigator.sendBeacon(endpointUrl, blobData)) {
-                                        return true;
-                                    } // sendBeacon was not successful
-
-                                } // XHR beacon
-
-                                var xhr = new XMLHttpRequest();
-
-                                try {
-                                    xhr.open('POST', endpointUrl);
-                                    xhr.setRequestHeader('Content-Type', 'text/plain');
-                                    xhr.send(payload);
-                                } catch (e) {
-                                    console.log(e);
-                                }
-
-                                return false;
-                            },
-                            isIos12: function isIos12() {
-                                return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
-                            }
-                        };
-                        Monorail.produce('monorail-edge.shopifysvc.com',
-                            'trekkie_storefront_load_errors/1.1',
-                            {
-                                shop_id: 63738642612,
-                                theme_id: 139536236724,
-                                app_name: "storefront",
-                                context_url: window.location.href,
-                                source_url: "//www.istudiosg.com/cdn/s/trekkie.storefront.5a4f78eb26ea594ba1b5d72f179d68114c7cf8ca.min.js"
-                            });
-
-                    };
-                    scriptFallback.async = true;
-                    scriptFallback.src = '//www.istudiosg.com/cdn/s/trekkie.storefront.5a4f78eb26ea594ba1b5d72f179d68114c7cf8ca.min.js';
-                    first.parentNode.insertBefore(scriptFallback, first);
-                };
-                script.async = true;
-                script.src = '//www.istudiosg.com/cdn/s/trekkie.storefront.5a4f78eb26ea594ba1b5d72f179d68114c7cf8ca.min.js';
-                first.parentNode.insertBefore(script, first);
-            };
-            trekkie.load(
-                { "Trekkie": { "appName": "storefront", "development": false, "defaultAttributes": { "shopId": 63738642612, "isMerchantRequest": null, "themeId": 139536236724, "themeCityHash": "10070915975240193969", "contentLanguage": "en", "currency": "SGD" }, "isServerSideCookieWritingEnabled": true, "monorailRegion": "shop_domain" }, "Session Attribution": {}, "S2S": { "facebookCapiEnabled": true, "source": "trekkie-storefront-renderer", "apiClientId": 580111 } }
-            );
-
-            var loaded = false;
-            trekkie.ready(function () {
-                if (loaded) return;
-                loaded = true;
-
-                window.ShopifyAnalytics.lib = window.trekkie;
-
-                var originalDocumentWrite = document.write;
-                document.write = customDocumentWrite;
-                try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch (error) { };
-                document.write = originalDocumentWrite;
-
-                window.ShopifyAnalytics.lib.page(null, { "pageType": "product", "resourceType": "product", "resourceId": 7986668568756, "shopifyEmitted": true });
-
-                var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
-                var token = match ? match[1] : undefined;
-                if (!hasLoggedConversion(token)) {
-                    setCookieIfConversion(token);
-                    window.ShopifyAnalytics.lib.track("Viewed Product", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true }, undefined, undefined, { "shopifyEmitted": true });
-                    window.ShopifyAnalytics.lib.track("monorail:\/\/trekkie_storefront_viewed_product\/1.1", { "currency": "SGD", "variantId": 44033878261940, "productId": 7986668568756, "productGid": "gid:\/\/shopify\/Product\/7986668568756", "name": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta", "price": "2349.00", "sku": "MG8P4X\/A", "brand": "Apple", "variant": null, "category": "iPhone", "nonInteraction": true, "referer": "https://setiaskin.com/product/" });
-                }
-            });
-
-
-            var eventsListenerScript = document.createElement('script');
-            eventsListenerScript.async = true;
-            eventsListenerScript.src = "//www.istudiosg.com/cdn/shopifycloud/storefront/assets/shop_events_listener-8675b082.js";
-            document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
-
-        })();</script>
-    <script defer src="//www.istudiosg.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-2.0.7.min.js"
-        data-application="storefront-renderer" data-shop-id="63738642612" data-render-region="gcp-asia-southeast1"
-        data-page-type="product" data-theme-instance-id="139536236724" data-theme-name="Dawn"
-        data-theme-version="11.0.0" data-monorail-region="shop_domain" data-resource-timing-sampling-rate="10"
-        data-shs="true" data-shs-beacon="true"></script>
 </head>
-
-<body class="gradient animate--hover-default" data-template="product">
-
-
-
-    <a class="skip-to-content-link button visually-hidden" href="#MainContent">
-        Skip to content
-    </a>
-
-    <div id="shopify-section-announcement_bar_slider" class="shopify-section">
-        <script
-            src="//www.istudiosg.com/cdn/shop/t/14/assets/announcement-bar-slider.js?v=142197795293918470981742784887"
-            defer="defer"></script>
-
-        <div class="hura-announcement-bar slider-container">
-            <div class="hura-messages swiper-wrapper">
-                <div class="hura-message swiper-slide slick-slide">
-
-                </div>
-                <div class="hura-message swiper-slide slick-slide">
-
-                </div>
-                <div class="hura-message swiper-slide slick-slide">
-
-                </div>
-                <div class="hura-message swiper-slide slick-slide">
-
-                </div>
-            </div>
-        </div>
-        <style>
-            .hura-messages.swiper-wrapper {
-                display: none
-            }
-
-            .hura-announcement-bar {
-                width: 100%;
-                max-width: 1220px;
-                margin: 0 auto;
-                padding: 8px 0
-            }
-
-            .hura-announcement-bar .slick-track {
-                display: flex;
-                align-items: center
-            }
-
-            .hura-messages.swiper-wrapper.slick-initialized.slick-slider {
-                display: flex
-            }
-
-            div#shopify-section-announcement_bar_slider {
-                background: #000000ff;
-            }
-
-            .hura-announcement-bar .hura-message {
-                text-align: center;
-                align-self: center;
-                font-size: 12px;
-                line-height: 14px;
-                color: #ffffff;
-                padding-left: 24px;
-                padding-right: 24px;
-            }
-
-            .hura-announcement-bar .swiper-button-next:after,
-            .hura-announcement-bar .swiper-container-rtl .swiper-button-prev:after,
-            .hura-announcement-bar .swiper-button-prev:after,
-            .hura-announcement-bar .swiper-container-rtl .swiper-button-next:after {
-                font-size: 15px;
-                color: #ffffff;
-            }
-
-            .hura-messages .slick-prev:before,
-            .hura-messages .slick-next:before {
-                color: #ffffff !important;
-                opacity: 1;
-            }
-
-            .hura-messages .slick-prev:before {
-                content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M5.16164 10.3233L6 9.48493L1.67671 5.16164L6 0.838358L5.16164 0L0 5.16164L5.16164 10.3233Z' fill='white'/%3E%3C/svg%3E%0A");
-            }
-
-            .hura-messages .slick-next:before {
-                content: url("data:image/svg+xml,%3Csvg width='6' height='11' viewBox='0 0 6 11' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M0.838356 0.676713L-8.46107e-07 1.51507L4.32329 5.83836L-9.01992e-08 10.1616L0.838357 11L6 5.83836L0.838356 0.676713Z' fill='white'/%3E%3C/svg%3E%0A");
-            }
-
-            div.hura-swiper-button {
-                display: block;
-                align-items: center;
-            }
-
-            .slick-next,
-            .slick-next:focus,
-            .slick-next:hover,
-            .slick-prev,
-            .slick-prev:focus,
-            .slick-prev:hover {
-                color: transparent;
-                outline: 0;
-                background: 0 0
-            }
-
-            .slick-next,
-            .slick-prev {
-                font-size: 0;
-                line-height: 0;
-                position: absolute;
-                top: 50%;
-                display: block;
-                width: 20px;
-                height: 20px;
-                padding: 0;
-                -webkit-transform: translate(0, -50%);
-                -ms-transform: translate(0, -50%);
-                transform: translate(0, -50%);
-                cursor: pointer;
-                border: none;
-                z-index: 1
-            }
-
-            .slick-next:focus:before,
-            .slick-next:hover:before,
-            .slick-prev:focus:before,
-            .slick-prev:hover:before {
-                opacity: 1
-            }
-
-            .slick-next.slick-disabled:before,
-            .slick-prev.slick-disabled:before {
-                opacity: .25
-            }
-
-            .slick-next:before,
-            .slick-prev:before {
-                font-family: slick;
-                font-size: 20px;
-                line-height: 1;
-                opacity: .75;
-                color: #000;
-                -webkit-font-smoothing: antialiased;
-                -moz-osx-font-smoothing: grayscale
-            }
-
-            .slick-prev {
-                left: 0
-            }
-
-            [dir=rtl] .slick-prev {
-                right: -25px;
-                left: auto
-            }
-
-            .slick-prev:before,
-            [dir=rtl] .slick-next:before {
-                content: '←'
-            }
-
-            .slick-next:before,
-            [dir=rtl] .slick-prev:before {
-                content: '→'
-            }
-
-            .slick-next {
-                right: 0
-            }
-
-            [dir=rtl] .slick-next {
-                right: auto;
-                left: -25px
-            }
-
-            .announcement_link {
-                color: #d0d0d0 !important;
-                text-decoration: none;
-            }
-
-            @media screen and (max-width:749px) {
-                .slick-prev {
-                    left: -21px
-                }
-
-                .slick-next {
-                    right: -21px
-                }
-
-                .hura-announcement-bar {
-                    margin: inherit;
-                    padding: 8px 30px;
-                    height: auto
-                }
-            }
-        </style>
-
+<body class="loading variant-dark"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;" toolbar-mode="auto">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;height:0;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&amp;platform=wb&amp;referer=https%3A//web.archive.org/web/20200812171405/https%3A//www.bookkeepingcompanys.com/"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;" nav="async">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-100.png, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, https://web-static.archive.org/_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
     </div>
-
-
-
-
-
-    <!-- BEGIN sections: header-group -->
-    <div id="shopify-section-sections--17605520031924__header"
-        class="shopify-section shopify-section-group-header-group section-header">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889"
-            media="print" onload="this.media='all'">
-        <link rel="stylesheet"
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889"
-            media="print" onload="this.media='all'">
-        <noscript>
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-mega-menu.css?v=10110889665867715061742784889"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript><noscript>
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-search.css?v=130382253973794904871742784887"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-menu-drawer.css?v=21058032239462183751742784887"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-notification.css?v=71986486250318288601742784887"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <noscript>
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cart-items.css?v=144236440317055431411742784889"
-                rel="stylesheet" type="text/css" media="all" />
-        </noscript>
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888"
-            rel="stylesheet" type="text/css" media="all" />
-        <link
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-cto-cart-drawer.css?v=87861508187535145881742784888"
-            rel="stylesheet" type="text/css" media="all" />
-        <style>
-            header-drawer,
-            .header-drawer-lazyload {
-                justify-self: start;
-                height: 48px;
-                width: 48px;
-                margin-left: 0
-            }
-
-            @media screen and (min-width: 1024px) {
-
-                header-drawer,
-                .header-drawer-lazyload {
-                    display: none;
-                }
-            }
-
-            @media only screen and (width:375px) {
-                input[type=search]::placeholder {
-                    color: rgba(18, 18, 18, .75);
-                    position: relative;
-                    width: 51px;
-                    left: 5px;
-                    top: 2px;
-                    font-style: normal;
-                    font-weight: 500;
-                    font-size: 15px;
-                    line-height: 15px;
-                    opacity: .75
-                }
-            }
-
-            .menu-drawer-container {
-                display: flex;
-            }
-
-            .list-menu {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            }
-
-            .list-menu--inline {
-                display: inline-flex;
-                flex-wrap: wrap;
-            }
-
-            summary.list-menu__item {
-                padding-right: 2.7rem;
-            }
-
-            .list-menu__item {
-                align-items: center;
-                line-height: calc(1 + 0.3 / var(--font-body-scale));
-            }
-
-            .list-menu__item--link {
-                text-decoration: none;
-                padding-bottom: 1rem;
-                padding-top: 1rem;
-                line-height: calc(1 + 0.8 / var(--font-body-scale));
-            }
-
-            @media screen and (min-width: 750px) {
-                .list-menu__item--link {
-                    padding-bottom: 0.5rem;
-                    padding-top: 0.5rem;
-                }
-            }
-
-            .my-store-locator {
-                display: none;
-            }
-        </style>
-        <style data-shopify>
-            .header {
-                padding: 10px 3rem 10px 3rem;
-            }
-
-            .section-header {
-                position: sticky;
-                /* This is for fixing a Safari z-index issue. PR #2147 */
-                margin-bottom: 0px;
-            }
-
-            @media screen and (min-width: 750px) {
-                .section-header {
-                    margin-bottom: 0px;
-                }
-            }
-
-            @media screen and (min-width: 990px) {
-                .header {
-                    padding-top: 20px;
-                    padding-bottom: 20px;
-                }
-            }
-
-            @media screen and (min-width: 1024px) {
-                .header-menu-wrapper {
-                    min-height: 140px;
-                }
-            }
-
-
-            .menu-drawer__menu li {
-                --color-foreground: #121212;
-                color: #121212;
-            }
-
-
-            #right_menu_items {
-                justify-content: space-between;
-                list-style: none;
-                display: contents;
-                flex-direction: row;
-            }
-
-            #right_menu_items li a {
-                color: #383131
-            }
-
-            #right_menu_mobile_items li a {
-                color: #383131
-            }
-
-            
-        </style>
-        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-disclosure.js?v=13653116266235556501742784889"
-            defer="defer"></script>
-        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/details-modal.js?v=25581673532751508451742784889"
-            defer="defer"></script>
-        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/cart-notification.js?v=138585423170270737471742784887"
-            defer="defer"></script>
-        <script src="//www.istudiosg.com/cdn/shop/t/14/assets/search-form.js?v=35015649889156673281742784888"
-            defer="defer"></script>
-
-        <svg xmlns="http://www.w3.org/2000/svg" class="hidden">
-            <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
-                <path fill-rule="evenodd" clip-rule="evenodd"
-                    d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z"
-                    fill="currentColor" />
-            </symbol>
-
-            <symbol id="icon-reset" class="icon icon-close" fill="none" viewBox="0 0 18 18" stroke="currentColor">
-                <circle r="8.5" cy="9" cx="9" stroke-opacity="0.2" />
-                <path d="M6.82972 6.82915L1.17193 1.17097" stroke-linecap="round" stroke-linejoin="round"
-                    transform="translate(5 5)" />
-                <path d="M1.22896 6.88502L6.77288 1.11523" stroke-linecap="round" stroke-linejoin="round"
-                    transform="translate(5 5)" />
-            </symbol>
-
-            <symbol id="icon-close" class="icon icon-close" fill="none" viewBox="0 0 18 17">
-                <path
-                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                    fill="currentColor">
-            </symbol>
-        </svg>
-
-        <sticky-header data-sticky-type="on-scroll-up"
-            class="header-wrapper color-background-1 gradient header-wrapper--border-bottom header-menu-wrapper"><my-store-locator-mobile
-                class="no-js-hidden my-store-locator my-store-locator--mobile" data-error-text="Error: Try again"
-                data-select-text="Select your store">
-                <button class="js-my-store-locator-btn my-store-locator__btn" disabled aria-haspopup="dialog">
-                    <div class="my-store-locator__icon">
-                        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16"
-                            height="14" viewBox="0 0 16 14" fill="none">
-                            <path
-                                d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z"
-                                fill="#1D1D1F" />
-                            <path
-                                d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z"
-                                fill="#1D1D1F" />
-                            <path
-                                d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z"
-                                fill="#1D1D1F" />
-                            <path
-                                d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z"
-                                fill="#1D1D1F" />
-                            <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F" />
-                            <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864" stroke="black"
-                                stroke-width="0.713153" />
-                        </svg>
-                    </div>
-                    <p class="js-my-store-locator-info my-store-locator__info">
-                        Loading store
-                        <i class="fa fa-spinner fa-spin"></i>
-                    </p>
-                </button>
-                <div class="js-my-store-locator-details my-store-locator__details" tabindex="-1" role="dialog"
-                    aria-modal="true" aria-labelledby="MyStoreDetailsMobileHeading">
-                    <button class="js-my-store-locator-close my-store-locator__close" type="button" aria-label="Close">
-
-
-                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                            class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
-                            <path
-                                d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                fill="currentColor">
-                        </svg>
-                    </button>
-                    <div class="my-store-locator__details-header">
-                        <h2 class="my-store-locator__details-title" id="MyStoreDetailsMobileHeading"></h2>
-                        <span class="js-my-store-locator-distance my-store-locator__details-distance hidden">
-                            <i class="fa fa-spinner fa-spin"></i>
-                        </span>
-                    </div>
-                    <div class="js-my-store-locator-location my-store-locator__details-location"></div>
-                    <div class="my-store-locator-content">
-                        <div class="js-my-store-locator-address my-store-locator__details-info hidden">
-                            Address: <a href="#"></a>
-                        </div>
-                        <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
-                            Telephone: <a href="#"></a>
-                        </div>
-                        <div class="js-my-store-locator-email my-store-locator__details-info hidden">
-                            Email: <a href="#"></a>
-                        </div>
-                        <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
-                            Hours: <span></span>
-                        </div>
-                        <div class="js-my-store-locator-services hidden"></div>
-                    </div>
-                    <div class="my-store-locator__details-footer"><a
-                            class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
-                            href="/">
-                            View store map
-                        </a><button
-                            class="js-my-store-locator-drawer-btn my-store-locator__details-btn button button--full-width"
-                            aria-haspopup="dialog">
-                            Select another store
-                        </button>
-                    </div>
-                </div>
-            </my-store-locator-mobile>
-            <header
-                class="header header--middle-left header--mobile-center page-width header--has-menu header--has-social header--has-account">
-
-
-                <lazyload-section class="header-drawer-lazyload" data-render-on-load="true"
-                    data-selector=".js-header-drawer"
-                    data-callback="if (window.initHeaderDrawerAria) window.initHeaderDrawerAria()">
-                    <header-drawer data-breakpoint="tablet">
-                        <details id="Details-menu-drawer-container" class="menu-drawer-container">
-                            <summary class="header__icon header__icon--menu header__icon--summary link focus-inset"
-                                aria-label="Menu">
-                                <span>
-
-
-
-                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                        class="icon icon-hamburger" fill="none" viewBox="0 0 18 16" width="18"
-                                        height="16">
-                                        <path
-                                            d="M1 .5a.5.5 0 100 1h15.71a.5.5 0 000-1H1zM.5 8a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1A.5.5 0 01.5 8zm0 7a.5.5 0 01.5-.5h15.71a.5.5 0 010 1H1a.5.5 0 01-.5-.5z"
-                                            fill="currentColor">
-                                    </svg>
-
-
-
-
-                                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                        class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
-                                        <path
-                                            d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                            fill="currentColor">
-                                    </svg>
-
-                                </span>
-                            </summary>
-
-                            <div id="menu-drawer" class="gradient menu-drawer motion-reduce color-background-1"
-                                tabindex="-1" style="background-color:#ffffff"></div>
-                        </details>
-                    </header-drawer>
-                </lazyload-section>
-                <script>
-                    window.initHeaderDrawerAria = function () {
-                        document.querySelectorAll('.js-header-drawer [id^="Details-"] summary').forEach((summary) => {
-                            summary.setAttribute('role', 'button');
-                            summary.setAttribute('aria-expanded', summary.parentNode.hasAttribute('open'));
-
-                            if (summary.nextElementSibling.getAttribute('id')) {
-                                summary.setAttribute('aria-controls', summary.nextElementSibling.id);
-                            }
-
-                            summary.addEventListener('click', (event) => {
-                                event.currentTarget.setAttribute('aria-expanded', !event.currentTarget.closest('details').hasAttribute('open'));
-                            });
-
-                            if (summary.closest('header-drawer, menu-drawer')) return;
-                            summary.parentElement.addEventListener('keyup', onKeyUpEscape);
-                        });
-                    };
-                </script>
-
-
-
-
-
-                <div class="header__heading">
-                    <div class="brand--logo">
-                        <a href="https://setiaskin.com/product/" class="header__heading-link link link--text focus-inset" aria-label="Home">
-                            <div class="ratio" >
-                                <img src="https://dewakapak88-bo.o88x.cfd/upload/logo.gif"
-                                    loading="lazy" class="header__heading-logo company_logo ratio" width="300"
-                                    height="300" alt="logo">
-                            </div>
-                        </a>
-                    </div>
-                    <div class="apple_logo">
-                        <a href="/" class="header__heading-link link link--text focus-inset" aria-label="Home"><svg
-                                width="78" height="36" viewbox="0 0 78 36" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M67.3956 0.551707C68.5859 0.553638 69.3535 0.556397 69.9332 0.561638C70.5052 0.566603 70.8971 0.573776 71.2123 0.583982C71.8133 0.603292 72.2433 0.638325 72.6165 0.691289C73.243 0.78039 73.7505 0.930454 74.2151 1.15555C74.6777 1.37927 75.0969 1.67912 75.4562 2.04132C75.8154 2.40351 76.1117 2.82557 76.333 3.29093C76.5553 3.75878 76.7043 4.26966 76.7927 4.90192C76.8453 5.27818 76.8806 5.71293 76.9004 6.31981C76.9105 6.63814 76.9179 7.03344 76.9228 7.6108C76.928 8.19561 76.931 8.96966 76.9329 10.1691V25.8318C76.931 27.0312 76.928 27.8052 76.9228 28.39C76.9176 28.9671 76.9105 29.3627 76.9004 29.681C76.8806 30.2882 76.8456 30.7226 76.7927 31.0989C76.7043 31.7309 76.5553 32.242 76.333 32.7099C76.1117 33.1753 75.8152 33.5976 75.4562 33.9595C75.0969 34.3217 74.6777 34.6213 74.2151 34.8453C73.7505 35.0701 73.243 35.2204 72.6165 35.3095C72.2435 35.3625 71.8136 35.3975 71.2123 35.4168C70.8971 35.4271 70.5052 35.4342 69.9332 35.4392C69.3535 35.4442 68.5859 35.4472 67.3956 35.4491H10.8639C9.67355 35.4472 8.90599 35.4444 8.32628 35.4392C7.75425 35.4342 7.36239 35.4271 7.04721 35.4168C6.44614 35.3975 6.01622 35.3625 5.64298 35.3095C5.01645 35.2204 4.50904 35.0704 4.04434 34.8453C3.58184 34.6216 3.1626 34.3217 2.80332 33.9595C2.44405 33.5973 2.14777 33.1753 1.92651 32.7099C1.70415 32.242 1.55519 31.7312 1.46674 31.0989C1.41416 30.7226 1.37884 30.2879 1.3594 29.681C1.34927 29.3627 1.34187 28.9674 1.33694 28.39C1.33174 27.8052 1.32873 27.0312 1.32681 25.8318V10.1688C1.32873 8.96938 1.33174 8.19533 1.33694 7.61053C1.34215 7.03344 1.34927 6.63787 1.3594 6.31953C1.37911 5.71238 1.41416 5.27791 1.46674 4.90164C1.55519 4.26966 1.70415 3.75851 1.92651 3.29066C2.14777 2.82529 2.44433 2.40296 2.80332 2.04104C3.16232 1.67912 3.58184 1.37927 4.04434 1.15527C4.50904 0.930454 5.01645 0.780114 5.64298 0.691013C6.01595 0.638049 6.44587 0.603016 7.04721 0.583706C7.36239 0.5735 7.75425 0.566327 8.32628 0.561362C8.90599 0.556397 9.67355 0.553362 10.8639 0.551431H67.3956V0.551707ZM67.3964 0H67.3959H67.3953H10.8639C9.67081 0.00193098 8.90216 0.00496536 8.32136 0.00993073C7.75589 0.0148961 7.35746 0.0217924 7.02941 0.0325507C6.42916 0.0518605 5.97788 0.086618 5.56658 0.144823C4.89131 0.24082 4.33214 0.40385 3.80693 0.657911C3.28856 0.908938 2.8203 1.243 2.41585 1.65098C2.01167 2.05842 1.68088 2.52985 1.43251 3.05232C1.18113 3.58113 1.01957 4.14415 0.924276 4.8244C0.865949 5.24177 0.831172 5.6972 0.81173 6.3016C0.80105 6.63704 0.793931 7.03896 0.789001 7.60556C0.784072 8.18127 0.780786 8.94759 0.77887 10.1677V25.8312C0.780786 27.0521 0.784072 27.8185 0.789001 28.3944C0.793931 28.9608 0.80105 29.363 0.81173 29.6981C0.831172 30.3025 0.865949 30.758 0.924276 31.1753C1.01957 31.8556 1.18086 32.4189 1.43251 32.9477C1.68088 33.4701 2.01167 33.9416 2.41585 34.349C2.8203 34.757 3.28856 35.0911 3.80693 35.3421C4.33187 35.5964 4.89104 35.7595 5.56631 35.8552C5.97788 35.9137 6.42916 35.9481 7.02941 35.9674C7.35719 35.9782 7.75561 35.9851 8.32108 35.9901C8.90161 35.995 9.67054 35.9981 10.8628 36H67.3953C68.5884 35.9981 69.3571 35.9953 69.9379 35.9901C70.5033 35.9851 70.9018 35.9782 71.2298 35.9674C71.83 35.9481 72.2813 35.9134 72.6926 35.8552C73.3679 35.7592 73.9271 35.5961 74.4523 35.3421C74.9707 35.0911 75.4389 34.757 75.8434 34.349C76.2475 33.9416 76.5783 33.4701 76.8267 32.9477C77.0781 32.4189 77.2396 31.8559 77.3349 31.1756C77.3933 30.7585 77.428 30.3031 77.4475 29.6984C77.4582 29.363 77.4653 28.9608 77.4702 28.3944C77.4754 27.8182 77.4784 27.0519 77.4803 25.8323V10.1688C77.4784 8.94814 77.4751 8.18182 77.4702 7.60556C77.4653 7.03923 77.4582 6.63704 77.4475 6.30188C77.428 5.6972 77.3933 5.24177 77.3349 4.82468C77.2396 4.14442 77.0784 3.58113 76.8267 3.05232C76.5783 2.52985 76.2475 2.05842 75.8434 1.65098C75.4389 1.243 74.9707 0.908938 74.4523 0.657911C73.9273 0.40385 73.3682 0.240544 72.6929 0.144823C72.2813 0.0863422 71.83 0.0518605 71.2298 0.0325507C70.9018 0.0220683 70.5033 0.0148961 69.9381 0.00993073C69.3573 0.00496536 68.5887 0.00193098 67.3964 0ZM22.5344 11.7168C21.5471 11.6432 20.6516 12.0003 19.9308 12.2877C19.4756 12.4692 19.09 12.623 18.7949 12.623C18.4598 12.623 18.0462 12.4578 17.5821 12.2725C16.9748 12.03 16.2811 11.753 15.5645 11.7667C13.9039 11.7913 12.3737 12.7399 11.5177 14.2375C9.79313 17.2529 11.0774 21.7215 12.7574 24.1683C13.5792 25.3638 14.5592 26.7114 15.8462 26.6623C16.4215 26.6395 16.8308 26.4638 17.254 26.2821C17.7424 26.0725 18.2494 25.8548 19.0517 25.8548C19.8172 25.8548 20.3017 26.066 20.7676 26.2691C21.2127 26.4632 21.6409 26.6499 22.2811 26.638C23.6146 26.6132 24.4597 25.4176 25.2754 24.2152C26.1766 22.8902 26.5709 21.6054 26.6247 21.4299L26.6301 21.4125C26.6005 21.4012 24.0306 20.4078 24.0048 17.425C23.982 14.9773 25.9504 13.7774 26.1114 13.6792L26.1186 13.6748C24.9578 11.9537 23.1658 11.764 22.5344 11.7168ZM22.5559 6.95508C22.6827 8.1087 22.2224 9.26866 21.5384 10.1015C20.8549 10.9348 19.7349 11.582 18.6374 11.4962C18.4865 10.3663 19.0421 9.18536 19.6744 8.448C20.3806 7.61575 21.5715 6.99453 22.5559 6.95508Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M32.4756 10.1289H34.8561C36.1108 10.1289 36.9797 10.9774 36.9797 12.2411V12.2502C36.9797 13.5095 36.1108 14.3715 34.8561 14.3715H33.4686V16.5731H32.4756V10.1289ZM33.4686 10.9727V13.5318H34.608C35.4725 13.5318 35.9689 13.0629 35.9689 12.2546V12.2458C35.9689 11.4417 35.4728 10.973 34.608 10.973H33.4686V10.9727Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M37.8961 11.8765H38.8537V12.6803H38.8758C39.0264 12.1311 39.4167 11.7871 39.9487 11.7871C40.0859 11.7871 40.2056 11.8095 40.2812 11.823V12.7206C40.2059 12.6894 40.0372 12.6671 39.8512 12.6671C39.2348 12.6671 38.8537 13.0737 38.8537 13.7746V16.5748H37.8961V11.8765Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M40.7574 14.2433V14.2389C40.7574 12.7697 41.5997 11.7871 42.9075 11.7871C44.2154 11.7871 45.0177 12.7341 45.0177 14.1451V14.4712H41.715C41.7325 15.36 42.2158 15.878 42.9782 15.878C43.5456 15.878 43.9224 15.5831 44.0423 15.2303L44.0557 15.1947H44.9643L44.9555 15.2438C44.8049 15.9897 44.0867 16.6686 42.956 16.6686C41.5863 16.6683 40.7574 15.726 40.7574 14.2433ZM41.7279 13.7879H44.0689C43.9889 12.9752 43.5368 12.5777 42.9116 12.5777C42.2911 12.5774 41.8122 13.0017 41.7279 13.7879Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M45.9835 11.8765H46.9411V12.6045H46.9633C47.1629 12.1132 47.6369 11.7871 48.2487 11.7871C48.8916 11.7871 49.3613 12.122 49.5477 12.7118H49.5699C49.8093 12.1402 50.3588 11.7871 51.024 11.7871C51.946 11.7871 52.549 12.4034 52.549 13.3457V16.5745H51.587V13.5779C51.587 12.9661 51.263 12.6133 50.6957 12.6133C50.1283 12.6133 49.7337 13.042 49.7337 13.6362V16.5748H48.7936V13.5065C48.7936 12.9617 48.4524 12.6133 47.9113 12.6133C47.3439 12.6133 46.9406 13.0643 46.9406 13.6717V16.5745H45.983V11.8765H45.9835Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M53.6573 10.5993C53.6573 10.2912 53.9054 10.041 54.2156 10.041C54.5305 10.041 54.7743 10.2912 54.7743 10.5993C54.7743 10.9031 54.5305 11.153 54.2156 11.153C53.9054 11.153 53.6573 10.9031 53.6573 10.5993ZM53.737 11.8765H54.6946V16.5746H53.737V11.8765Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M55.8882 14.9207V11.875H56.8458V14.7331C56.8458 15.4432 57.1739 15.8363 57.8388 15.8363C58.5127 15.8363 58.9472 15.3494 58.9472 14.6173V11.8753H59.9092V16.5733H58.9472V15.8677H58.9251C58.6811 16.3411 58.2068 16.6671 57.4976 16.6671C56.4734 16.6669 55.8882 16.0015 55.8882 14.9207Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M61.0338 11.8765H61.9914V12.6045H62.0136C62.2132 12.1132 62.6872 11.7871 63.299 11.7871C63.9419 11.7871 64.4116 12.122 64.598 12.7118H64.6202C64.8596 12.1402 65.4091 11.7871 66.0743 11.7871C66.9963 11.7871 67.5993 12.4034 67.5993 13.3457V16.5745H66.6373V13.5779C66.6373 12.9661 66.3133 12.6133 65.746 12.6133C65.1786 12.6133 64.784 13.042 64.784 13.6362V16.5748H63.8439V13.5065C63.8439 12.9617 63.5027 12.6133 62.9616 12.6133C62.3942 12.6133 61.9909 13.0643 61.9909 13.6717V16.5745H61.0333V11.8765H61.0338Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M32.4756 19.6562H34.8561C36.1108 19.6562 36.9797 20.5045 36.9797 21.7685V21.7773C36.9797 23.0366 36.1108 23.8986 34.8561 23.8986H33.4686V26.1002H32.4756V19.6562ZM33.4686 20.5004V23.0592H34.608C35.4725 23.0592 35.9689 22.5902 35.9689 21.782V21.7732C35.9689 20.969 35.4728 20.5004 34.608 20.5004H33.4686Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M37.4825 24.7629V24.754C37.4825 23.9367 38.112 23.4365 39.2159 23.3695L40.4837 23.2937V22.9408C40.4837 22.4228 40.1513 22.11 39.5571 22.11C39.0031 22.11 38.6613 22.3737 38.5817 22.7486L38.5729 22.7888H37.6684L37.6728 22.7397C37.7393 21.9312 38.4354 21.3105 39.5839 21.3105C40.723 21.3105 41.4457 21.918 41.4457 22.8603V26.0983H40.4837V25.3568H40.4662C40.1956 25.8613 39.6548 26.1829 39.0384 26.1829C38.1076 26.1832 37.4825 25.607 37.4825 24.7629ZM39.3002 25.4106C39.9738 25.4106 40.4837 24.9504 40.4837 24.3386V23.9725L39.3443 24.044C38.7681 24.0796 38.4488 24.3342 38.4488 24.7317V24.7405C38.4491 25.1515 38.7859 25.4106 39.3002 25.4106Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M42.5538 21.4038H43.5114V22.2077H43.5335C43.6842 21.6584 44.0744 21.3145 44.6064 21.3145C44.7436 21.3145 44.8633 21.3368 44.9389 21.3503V22.2479C44.8636 22.2168 44.6949 22.1944 44.5089 22.1944C43.8925 22.1944 43.5114 22.6008 43.5114 23.302V26.1019H42.5538V21.4038Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M46.3461 24.8628V22.1697H45.6768V21.4017H46.3461V20.1777H47.3258V21.4017H48.1991V22.1697H47.3258V24.8046C47.3258 25.2824 47.5386 25.4253 47.942 25.4253C48.0441 25.4253 48.1285 25.4165 48.1991 25.4076V26.1536C48.0882 26.1712 47.9067 26.1938 47.7114 26.1938C46.7894 26.1936 46.3461 25.8005 46.3461 24.8628Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M49.2159 21.4038H50.1735V22.1136H50.1957C50.4394 21.6361 50.9183 21.3145 51.6232 21.3145C52.647 21.3145 53.2369 21.9798 53.2369 23.0606V26.1019H52.2749V23.2438C52.2749 22.5379 51.9468 22.1406 51.2817 22.1406C50.6078 22.1406 50.1735 22.6319 50.1735 23.3643V26.1022H49.2159V21.4038Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M54.1758 23.767V23.7623C54.1758 22.2931 55.0182 21.3105 56.326 21.3105C57.6338 21.3105 58.4362 22.2576 58.4362 23.6685V23.9946H55.1334C55.151 24.8834 55.6343 25.4017 56.3966 25.4017C56.964 25.4017 57.3408 25.1068 57.4608 24.754L57.4742 24.7182H58.3828L58.374 24.7673C58.2234 25.5132 57.5051 26.1921 56.3745 26.1921C55.005 26.1921 54.1758 25.2497 54.1758 23.767ZM55.1466 23.3116H57.4876C57.4076 22.4989 56.9555 22.1011 56.3304 22.1011C55.7099 22.1011 55.2309 22.5254 55.1466 23.3116Z"
-                                    fill="#121212"></path>
-                                <path
-                                    d="M59.4498 21.4038H60.4074V22.2077H60.4295C60.5802 21.6584 60.9704 21.3145 61.5024 21.3145C61.6396 21.3145 61.7593 21.3368 61.8349 21.3503V22.2479C61.7596 22.2168 61.5909 22.1944 61.4049 22.1944C60.7885 22.1944 60.4074 22.6008 60.4074 23.302V26.1019H59.4498V21.4038Z"
-                                    fill="#121212"></path>
-                            </svg>
-                        </a>
-                    </div>
-                </div>
-                <div class="search-container">
-
-                    <div class="container_search container_search_port"><predictive-search class="search-modal__form"
-                            data-loading-text="Loading...">
-                            <form class="nosubmit_form search search-modal__form" action="/search" id="nosubmit_form2"
-                                method="get" role="search"><input type="hidden" name="type" value="product">
-                                <input class="nosubmit" id="Search-In-Modal" type="search" name="q" value=""
-                                    placeholder="Search" aria-label="Search" role="combobox" aria-expanded="false"
-                                    aria-owns="predictive-search-results-list"
-                                    aria-controls="predictive-search-results-list" aria-haspopup="listbox"
-                                    aria-autocomplete="list" autocorrect="off" autocomplete="off" autocapitalize="off"
-                                    spellcheck="false">
-                                <div class="predictive-search predictive-search--header" tabindex="-1"
-                                    data-predictive-search style="max-height: 540px;">
-                                    <div class="predictive-search__loading-state">
-                                        <svg aria-hidden="true" focusable="false" role="presentation" class="spinner"
-                                            viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                            <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30">
-                                            </circle>
-                                        </svg>
-                                    </div>
-                                </div>
-                                <span class="predictive-search-status visually-hidden" role="status"
-                                    aria-hidden="true"></span>
-                            </form>
-                            <button type="button" class="btn_close btn_close_desktop" id="btn_close2"
-                                aria-label="Close">
-                                <svg class="icon icon-close" aria-hidden="true" focusable="false" role="presentation"
-                                    width="16.61px" height="16.61px">
-                                    <use href="#icon-close" />
-                                </svg>
-                            </button>
-                        </predictive-search></div>
-
-                </div>
-                <link
-                    href="/"
-                    rel="stylesheet" type="text/css" media="all" />
-                <my-store-locator class="no-js-hidden my-store-locator" data-limit-search-to-countries="us"
-                    data-storefront-api-access-token="962d1ff668df08fb12a218f6d7553a2e"
-                    data-default-location-id="94099734846" data-number-of-locations-to-fetch="24"
-                    data-apple-maps-access-token="eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg"
-                    data-distance-unit="miles" data-distance-miles-label="miles" data-distance-km-label="km"
-                    data-error-text="Error: Try again" data-select-text="Select your store"
-                    data-low-stock-html="Only {{ quantity }} left" data-unavailable-text="Unavailable"
-                    data-view-store-availability-text="View store availability" data-loading-text="Loading store">
-                    <button class="js-my-store-locator-btn my-store-locator__btn" disabled aria-haspopup="dialog">
-                        <div class="my-store-locator__icon">
-                            <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16"
-                                height="14" viewBox="0 0 16 14" fill="none">
-                                <path
-                                    d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z"
-                                    fill="#1D1D1F" />
-                                <path
-                                    d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z"
-                                    fill="#1D1D1F" />
-                                <path
-                                    d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z"
-                                    fill="#1D1D1F" />
-                                <path
-                                    d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z"
-                                    fill="#1D1D1F" />
-                                <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F" />
-                                <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864"
-                                    stroke="black" stroke-width="0.713153" />
-                            </svg>
-                        </div>
-                        <p class="js-my-store-locator-info my-store-locator__info">
-                            Loading store
-                            <i class="fa fa-spinner fa-spin"></i>
-                        </p>
-                    </button>
-                    <div class="js-my-store-locator-details my-store-locator__details" tabindex="-1" role="dialog"
-                        aria-modal="true" aria-labelledby="MyStoreDetailsHeading">
-                        <button class="js-my-store-locator-close my-store-locator__close" type="button"
-                            aria-label="Close">
-
-
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
-                                <path
-                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                    fill="currentColor">
-                            </svg>
-                        </button>
-                        <div class="my-store-locator__details-header">
-                            <h2 class="my-store-locator__details-title" id="MyStoreDetailsHeading"></h2>
-                            <span class="js-my-store-locator-distance my-store-locator__details-distance hidden">
-                                <i class="fa fa-spinner fa-spin"></i>
-                            </span>
-                        </div>
-                        <div class="js-my-store-locator-location my-store-locator__details-location"></div>
-                        <div class="my-store-locator-content">
-                            <div class="js-my-store-locator-address my-store-locator__details-info hidden">
-                                Address: <a href="#" target="_blank"></a>
-                            </div>
-                            <div class="js-my-store-locator-telephone my-store-locator__details-info hidden">
-                                Telephone: <a href="#"></a>
-                            </div>
-                            <div class="js-my-store-locator-email my-store-locator__details-info hidden">
-                                Email: <a href="#" target="_blank"></a>
-                            </div>
-                            <div class="js-my-store-locator-hours my-store-locator__details-info hidden">
-                                Hours: <span></span>
-                            </div>
-                            <div class="js-my-store-locator-services hidden"></div>
-                        </div>
-                        <div class="my-store-locator__details-footer"><a
-                                class="my-store-locator__details-btn--secondary button button--secondary button--full-width"
-                                href="/">
-                                View store map
-                            </a><button
-                                class="js-my-store-locator-drawer-btn my-store-locator__details-btn button button--full-width"
-                                aria-haspopup="dialog">
-                                Select another store
-                            </button>
-                        </div>
-                    </div>
-                </my-store-locator>
-                <script
-                    src="//www.istudiosg.com/cdn/shop/t/14/assets/my-store-locator.js?v=142963705601107651211749103666"
-                    defer="defer"></script>
-
-                <script>
-                    SDG.Data.mapsToken = "eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg";
-                    SDG.Data.googleMapsToken = "";
-                    SDG.Data.mapProvider = "apple_maps";
-
-                    SDG.Data.mapPage = false;
-
-                    SDG.Data.storeServiceTrigger = 'View store services';
-                    SDG.Data.storeHours = 'Hours';
-                    SDG.Data.storeAddress = 'Address';
-                    SDG.Data.storeEmail = 'Email';
-                    SDG.Data.storePhone = 'Telephone';
-                    SDG.Data.myStore = 'My store';
-                    SDG.Data.makeThisMyStore = 'Make this my store';
-                    SDG.Data.shopCountry = 'Singapore';
-                </script>
-                <script src="//www.istudiosg.com/cdn/shop/t/14/assets/mapkit.js?v=2554415917941391361742784889"
-                    defer></script>
-                <script async>
-                    document?.addEventListener('DOMContentLoaded', function () {
-                        if (window?.mapkit) {
-                            mapkit.init({
-                                authorizationCallback: function (done) {
-                                    done("eyJraWQiOiI1SDZEQlAyR0E1IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJpc3MiOiI0Njg5NkZRSFgyIiwiaWF0IjoxNzQ2NzYyMDY2LCJvcmlnaW4iOiJ3d3cuaXN0dWRpb3NnLmNvbSJ9.auAkvVIPCaY73yQjcammRk6DID4vJpijWzhB2kWfOzLtcEclmavkBRAn7eEViSvLKVRt45zmNjODWadyzmProg");
-                                },
-                                language: 'en',
-                            });
-                        }
-
-                        if (window?.google) {
-                            google.maps.importLibrary('geocoding');
-                            google.maps.importLibrary('places');
-                        }
-                    });
-                </script>
-                <div class="header__icons">
-                    <div class="desktop-localization-wrapper">
-
-
-                    </div>
-
-                    <a href="/" class="header__icon header__icon--account link focus-inset small-hide">
-
-
-
-                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                            class="icon icon-account" fill="none" viewBox="0 0 18 19" width="18" height="19">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                d="M6 4.5a3 3 0 116 0 3 3 0 01-6 0zm3-4a4 4 0 100 8 4 4 0 000-8zm5.58 12.15c1.12.82 1.83 2.24 1.91 4.85H1.51c.08-2.6.79-4.03 1.9-4.85C4.66 11.75 6.5 11.5 9 11.5s4.35.26 5.58 1.15zM9 10.5c-2.5 0-4.65.24-6.17 1.35C1.27 12.98.5 14.93.5 18v.5h17V18c0-3.07-.77-5.02-2.33-6.15-1.52-1.1-3.67-1.35-6.17-1.35z"
-                                fill="currentColor">
-                        </svg>
-
-                        <span class="visually-hidden">Log in</span>
-                    </a>
-
-
-                </div>
-            </header>
-
-
-           
-<style>
-  .n-columns-2 {
-    width: 100vw;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    font-weight: 700;
-    font-family: 'Poppins', sans-serif;
-  }
-
-  .n-columns-2 a {
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    transition: all 0.3s ease;
-    border-radius: 10px;
-    padding: 14px 10px;
-    margin: 5px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-  }
-
-  /* --- LOGIN BUTTON --- */
-  .login {
-    color: #fff !important;
-    background: linear-gradient(135deg, #8b7a00 0%, #ffe000 50%, #e2b50f 100%);
-    border: 2px solid #000000;
-  }
-
-  .login:hover {
-    transform: scale(1.05);
-    background: linear-gradient(135deg, #ffe000 0%, #8b7a00 50%, #000 100%);
-    box-shadow: 0 0 20px rgba(255, 166, 0, 0.6);
-  }
-
-  /* --- REGISTER BUTTON --- */
-  .register {
-    color: #fff !important;
-    background: linear-gradient(135deg, #e2b50f 0%, #ffe000 50%, #8b7a00 100%);
-    border: 2px solid #000000;
-  }
-
-  .register:hover {
-    transform: scale(1.05);
-    background: linear-gradient(135deg, #8b7a00 0%, #e2b50f 50%, #000 100%);
-    box-shadow: 0 0 20px rgba(255, 166, 0, 0.6);
-  }
-</style>
-
-<div class="n-columns-2" style="font-size: 20px;">
-  <a href="https://setiaskin.pages.dev/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-  <a href="https://setiaskin.pages.dev/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
-</div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.bookkeepingcompanys.com/" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20200812171405" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20200812171405*/https://www.bookkeepingcompanys.com/" title="See a list of every capture for this URL">9 captures</a>
+          <div class="r" title="Timespan for captures of this URL">12 Aug 2020 - 26 Nov 2021</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="750" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap">Jul</td>
+            <td class="c" id="displayMonthEl" title="You are here: 17:14:05 Aug 12, 2020">AUG</td>
+            <td class="f" nowrap="nowrap">Sep</td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><span class="ta"></span></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 17:14:05 Aug 12, 2020">12</td>
+            <td class="f" nowrap="nowrap"><span class="ta"></span></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap">2019</td>
+            <td class="c" id="displayYearEl" title="You are here: 17:14:05 Aug 12, 2020">2020</td>
+            <td class="f" nowrap="nowrap">2021</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="https://help.archive.org/help/category/the-wayback-machine/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20200812171405/http://web.archive.org/screenshot/https://www.bookkeepingcompanys.com/"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://www.bookkeepingcompanys.com/" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://www.bookkeepingcompanys.com/" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/commoncrawl)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/commoncrawl" target="_new"><span class="wm-title">Common Crawl</span></a></div>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  Web crawl data from Common Crawl.
+	</div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center;padding:2px 0;" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="https://web-static.archive.org/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://www.bookkeepingcompanys.com/</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(750,27,25,2,"web","https://www.bookkeepingcompanys.com/","20200812171405",1996,"https://web-static.archive.org/_static/",["https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3","https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
  
- <br>
- <div class="header_nav">
-                <lazyload-section data-selectors='[".js-header-dropdown-menu-list"]'>
-                    <nav class="header__inline-menu">
-                        <ul class="list-menu list-menu--inline">
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-1" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-mac"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                DEWAKAPAK88
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        <ul id="HeaderMenu-MenuList-1"
-                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
-                                            tabindex="-1"></ul>
-                                    </details>
-                                </header-menu></li>
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-2" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-ipad"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                DAFTAR DEWAKAPAK88
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        <ul id="HeaderMenu-MenuList-2"
-                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
-                                            tabindex="-1"></ul>
-                                    </details>
-                                </header-menu></li>
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-3" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-iphone"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                LOGIN DEWAKAPAK88
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        <ul id="HeaderMenu-MenuList-3"
-                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
-                                            tabindex="-1"></ul>
-                                    </details>
-                                </header-menu></li>
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-4" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-watch"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                SITUS DEWAKAPAK88
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        <ul id="HeaderMenu-MenuList-4"
-                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
-                                            tabindex="-1"></ul>
-                                    </details>
-                                </header-menu></li>
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-5" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-music"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                LINK DEWAKAPAK88
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        <ul id="HeaderMenu-MenuList-5"
-                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
-                                            tabindex="-1"></ul>
-                                    </details>
-                                </header-menu></li>
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-6" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-tv-home"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                SLOT GACOR
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        <ul id="HeaderMenu-MenuList-6"
-                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
-                                            tabindex="-1"></ul>
-                                    </details>
-                                </header-menu></li>
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-7" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-accessories"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                LINK SLOT GACOR
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        <ul id="HeaderMenu-MenuList-7"
-                                            class="js-header-dropdown-menu-list header__submenu list-menu list-menu--disclosure color-background-1 gradient caption-large motion-reduce global-settings-popup"
-                                            tabindex="-1"></ul>
-                                    </details>
-                                </header-menu></li>
-                            <li><header-menu>
-                                    <details id="Details-HeaderMenu-8" class="mainMenuUpdate2">
-                                        <summary id="headerCss HeaderMenu-services"
-                                            class="header__menu-item list-menu__item link focus-inset">
-                                            <span>
-
-
-                                                SITUS SLOT GACOR
-
-
-                                            </span>
-                                            <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                                viewBox="0 0 10 6">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                        </summary>
-                                        
-                    </nav>
-                </lazyload-section>
-            </div>
-        </sticky-header>
-
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888"
-            rel="stylesheet" type="text/css" media="all" />
-
-        <lazyload-section data-render-on-load="true" data-selector="cart-notification"></lazyload-section>
-        <style>
-            .cart-notification {
-                display: none;
-            }
-        </style>
-
-
-        <script type="application/ld+json">
-  {
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "name": "iStudio Singapore",
-    
-    "sameAs": [
-      "",
-      "https:\/\/www.facebook.com",
-      "",
-      "https:\/\/www.instagram.com",
-      "",
-      "",
-      "",
-      "https:\/\/www.youtube.com",
-      ""
-    ],
-    "url": "https:\/\/www.docsdna.com"
-  }
-</script>
-
-
-        <script>
-            $("input").focus(function () {
-                $(".btn_close").css("visibility", "visible");
-            });
-            $(".btn_close").on("mousedown ", function () {
-                $(".nosubmit").val("");
-            });
-            $("input").focusout(function () {
-                $(".btn_close").css("visibility", "hidden");
-            });
-            $("input").focus(function () {
-                if (document.querySelector('.gl-fullscreen-header') !== null) {
-                    $(".btn_close").css("visibility", "hidden");
-                }
-            });
-            $("#Details-menu-drawer-container").on("click", function () {
-                if ($("#cart-notification").hasClass("minicart-active")) {
-                    $("#cart-notification").hide();
-                    $('#cart-notification').removeClass('minicart-active');
-                }
-            });
-            $('body,html').click(function (e) {
-                if ($("#cart-notification").hasClass("minicart-active")) {
-                    $("#cart-notification").hide();
-                    $('#cart-notification').removeClass('minicart-active');
-                }
-            });
-        </script>
-    </div>
-    <!-- END sections: header-group -->
-    <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-
-
-
-        <section id="shopify-section-template--17605519376564__main" class="shopify-section section">
-
-
-
-
-      <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Product",
-  "name": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta",
-  "url": "https://setiaskin.com/product/",
-  "image": [
-    "https://88majuterus.art/uploads/thai.jpg"
-  ],
-  "description": "DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna.",
-  "Jenis Game ": "TOGEL ONLINE, BANDAR TOGEL",
-  "brand": {
-    "@type": "Brand",
-    "name": "DEWAKAPAK88"
-  },
-  "offers": {
-    "@type": "Offer",
-    "Jenis Game": "TOGEL ONLINE, BANDAR TOGEL",
-    "url": "https://setiaskin.com/product/",
-    "price": 1799000.0,
-    "priceCurrency": "IDR",
-    "availability": "http://schema.org/InStock",
-    "seller": {
-      "@type": "Organization",
-      "name": "DEWAKAPAK88",
-      "sameAs": [
-        "https://www.facebook.com/DEWAKAPAK88",
-        "https://www.instagram.com/DEWAKAPAK88/",
-        "https://setiaskin.com/product/"
-      ]
-    }
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "DEWAKAPAK88",
-      "item": "https://setiaskin.com/product/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "TOGEL ONLINE",
-      "item": "https://setiaskin.com/product/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "SITUS TOTO",
-      "item": "https://setiaskin.com/product/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 4,
-      "name": "TOTO TOGEL",
-      "item": "https://setiaskin.com/product/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 5,
-      "name": "BANDAR TOGEL",
-      "item": "https://setiaskin.com/product/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 6,
-      "name": "SITUS TOGEL",
-      "item": "https://setiaskin.com/product/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 7,
-      "name": "BANDAR TOTO SLOT",
-      "item": "https://setiaskin.com/product/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 8,
-      "name": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta",
-      "item": "https://setiaskin.com/product/"
-    }
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta",
-  "author": {
-    "@type": "Organization",
-    "name": "DEWAKAPAK88"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "DEWAKAPAK88",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://dewakapak88-bo.o88x.cfd/upload/logo.gif"
-    }
-  },
-  "datePublished": "2025-09-28",
-  "mainEntityOfPage": "https://setiaskin.com/product/",
-  "description": "DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna."
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Mengapa DEWAKAPAK88 dianggap aman?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DEWAKAPAK88 menggunakan enkripsi data modern dan sistem keamanan berlapis untuk melindungi aktivitas pemain, sehingga setiap transaksi berlangsung dengan aman dan nyaman."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah hasil togel di DEWAKAPAK88 resmi?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Ya. Semua hasil togel berasal dari pasaran resmi dan diperbarui secara real-time, sehingga pemain menerima data yang akurat, transparan, dan dapat dipercaya."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Bagaimana cara bermain di DEWAKAPAK88?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Cukup daftar akun, lakukan deposit, lalu pilih pasaran togel yang diinginkan. Prosesnya sederhana dan dirancang agar pemain baru pun bisa langsung mulai bermain."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Pasaran apa saja yang tersedia?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "DEWAKAPAK88 menyediakan berbagai pasaran populer seperti Singapore, Hongkong, Sydney, dan Macau, lengkap dengan jadwal dan hasil resmi yang diperbarui setiap hari."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Apakah ada bonus bagi pemain?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Tentu. DEWAKAPAK88 menawarkan berbagai bonus dan promo menarik untuk pemain baru maupun pemain aktif guna memberikan pengalaman bermain yang lebih menguntungkan."
+<div class="navbar section" id="navbar" name="Navbar"><div class="widget Navbar" data-version="1" id="Navbar1"><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
       }
     }
-  ]
-}
-</script>
-
-            <section id="MainProduct-template--17605519376564__main"
-                class="product-page-width page-width section-template--17605519376564__main-padding"
-                data-section="template--17605519376564__main">
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/section-main-product.css?v=106354761565452021941742784887"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-accordion.css?v=114305622551526091581742784887"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-price.css?v=89212854351592844731742784887"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-slider.css?v=102975581670085299341742784888"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-rating.css?v=157771854592137137841742784889"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-loading-overlay.css?v=160031540023746741091742784889"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-deferred-media.css?v=14096082462203297471742784888"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/custom-style.css?v=128650136086380557481742784888"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsecon.css?v=55192844502193137581742784889"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link href="//www.istudiosg.com/cdn/shop/t/14/assets/fancybox-3-5-7.css?v=48221248546321444771742784887"
-                    rel="stylesheet" type="text/css" media="all" />
-
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-sellto.css?v=107184028641227493051757586003"
-                    rel="stylesheet" type="text/css" media="all" />
-                <link
-                    href="//www.istudiosg.com/cdn/shop/t/14/assets/component-trade-in-dialog.css?v=16175248172835987831757430081"
-                    rel="stylesheet" type="text/css" media="all" />
-                <style data-shopify>
-                    .section-template--17605519376564__main-padding {
-                        padding-top: 27px;
-                        padding-bottom: 9px;
-                    }
-
-                    @media screen and (min-width: 750px) {
-                        .section-template--17605519376564__main-padding {
-                            padding-top: 36px;
-                            padding-bottom: 12px;
-                        }
-                    }
-                </style>
-                <script
-                    src="//www.istudiosg.com/cdn/shop/t/14/assets/google_analytics_finacing.js?v=123767470501580560631742784889"
-                    defer="defer"></script>
-
-
-                <script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-info.js?v=68469288658591082901742784888"
-                    defer="defer"></script>
-
-
-                <div
-                    class="product product--large product--left product--stacked product--mobile-hide grid grid--1-col grid--2-col-tablet">
-
-
-                    <div class="product-page-width mobile-view_product-title">
-
-                        <div class="priceAndLabelTag">
-                            <div class="product_tag_display_container">
-                                <span class="product_tag_display" style="color:#00ff0d;">NEW</span>
-                            </div>
-                        </div>
-                        <div class="product-title-style product__title">
-                            <h1>DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta</h1>
-                        </div>
-                        <div class="product-subtitle-style"></div>
-
-                        <div class="skuAndBarcode">
-
-
-                            <span class="sku-pdp" id="skumob-template--17605519376564__main">
-                                <span id="skutitle1"></span></span>
-
-                            <span class="barcode-pdp" id="barcmob-template--17605519376564__main">
-                                <label id="barcodetitle1"></label>
-                                <span class="barcodeinput" id="main-pro-barcode-mobile"></span>
-                            </span>
-                        </div>
-
-
-                        <p class="product__preorder-message"></p>
-                    </div>
-
-
-                    <div class="grid__item product__media-wrapper">
-
-                        <media-gallery id="MediaGallery-template--17605519376564__main" role="region"
-                            class="product__media-gallery product-custom-media" aria-label="Gallery Viewer"
-                            data-desktop-layout="stacked">
-                            <div id="GalleryStatus-template--17605519376564__main" class="visually-hidden"
-                                role="status"></div>
-                            <slider-component id="GalleryViewer-template--17605519376564__main"
-                                class="slider-mobile-gutter"><a
-                                    class="skip-to-content-link button visually-hidden quick-add-hidden"
-                                    href="#ProductInfo-template--17605519376564__main">
-                                    Skip to product information
-                                </a>
-                                <ul id="Slider-Gallery-template--17605519376564__main"
-                                    class="product__media-list contains-media grid grid--peek list-unstyled slider slider--mobile">
-                                    <li id="Slide-template--17605519376564__main-32122069156020"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide is-active"
-                                        data-media-id="template--17605519376564__main-32122069156020">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                                <div class="product__media media media--transparent">
-                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                        alt=""
-                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                        width="823" height="823" class="image-magnify-lightbox"
-                                                        sizes="(min-width: 1200px) 715px, (min-width: 990px) calc(65.0vw - 10rem), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw / 1 - 4rem)">
-                                                </div>
-                                                <button
-                                                    class="product__media-toggle quick-add-hidden product__media-zoom-lightbox"
-                                                    type="button" aria-haspopup="dialog" data-media-id="32122069156020">
-                                                    <span class="visually-hidden">
-                                                        Open media 1 in modal
-                                                    </span>
-                                                </button>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069188788"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069188788">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069221556"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069221556">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069254324"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069254324">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069287092"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069287092">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069319860"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069319860">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069352628"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069352628">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069385396"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069385396">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069418164"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069418164">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32122069450932"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32122069450932">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-
-                                    <li id="Slide-template--17605519376564__main-32127085904052"
-                                        class="common_medias variant-comapre-image- variant-all-image product__media-item grid__item slider__slide"
-                                        data-media-id="template--17605519376564__main-32127085904052">
-
-                                        <div class="product-media-container media-type-image media-fit-contain global-media-settings gradient constrain-height"
-                                            style="--ratio: 1.0; --preview-ratio: 1.0;"><modal-opener
-                                                class="product__modal-opener product__modal-opener--image no-js-hidden"
-                                                data-modal="#ProductModal-template--17605519376564__main">
-                                                <span
-                                                    class="product__media-icon motion-reduce quick-add-hidden product__media-icon--lightbox"
-                                                    aria-hidden="true"><svg aria-hidden="true" focusable="false"
-                                                        class="icon icon-plus" width="19" height="19"
-                                                        viewBox="0 0 19 19" fill="none"
-                                                        xmlns="http://www.w3.org/2000/svg">
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M4.66724 7.93978C4.66655 7.66364 4.88984 7.43922 5.16598 7.43853L10.6996 7.42464C10.9758 7.42395 11.2002 7.64724 11.2009 7.92339C11.2016 8.19953 10.9783 8.42395 10.7021 8.42464L5.16849 8.43852C4.89235 8.43922 4.66793 8.21592 4.66724 7.93978Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M7.92576 4.66463C8.2019 4.66394 8.42632 4.88723 8.42702 5.16337L8.4409 10.697C8.44159 10.9732 8.2183 11.1976 7.94215 11.1983C7.66601 11.199 7.44159 10.9757 7.4409 10.6995L7.42702 5.16588C7.42633 4.88974 7.64962 4.66532 7.92576 4.66463Z"
-                                                            fill="currentColor" />
-                                                        <path fill-rule="evenodd" clip-rule="evenodd"
-                                                            d="M12.8324 3.03011C10.1255 0.323296 5.73693 0.323296 3.03011 3.03011C0.323296 5.73693 0.323296 10.1256 3.03011 12.8324C5.73693 15.5392 10.1255 15.5392 12.8324 12.8324C15.5392 10.1256 15.5392 5.73693 12.8324 3.03011ZM2.32301 2.32301C5.42035 -0.774336 10.4421 -0.774336 13.5395 2.32301C16.6101 5.39361 16.6366 10.3556 13.619 13.4588L18.2473 18.0871C18.4426 18.2824 18.4426 18.599 18.2473 18.7943C18.0521 18.9895 17.7355 18.9895 17.5402 18.7943L12.8778 14.1318C9.76383 16.6223 5.20839 16.4249 2.32301 13.5395C-0.774335 10.4421 -0.774335 5.42035 2.32301 2.32301Z"
-                                                            fill="currentColor" />
-                                                    </svg>
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="4" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </modal-opener></div>
-
-                                    </li>
-                                </ul>
-                                <div class="slider-buttons no-js-hidden quick-add-hidden">
-                                    <button type="button" class="slider-button slider-button--prev" name="previous"
-                                        aria-label="Slide left">
-                                        <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                            viewBox="0 0 10 6">
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                fill="currentColor">
-                                        </svg>
-
-                                    </button>
-                                    <div class="slider-counter caption">
-                                        <span class="slider-counter--current">1</span>
-                                        <span aria-hidden="true"> / </span>
-                                        <span class="visually-hidden">of</span>
-                                        <span class="slider-counter--total">11</span>
-                                    </div>
-                                    <button type="button" class="slider-button slider-button--next" name="next"
-                                        aria-label="Slide right">
-                                        <svg aria-hidden="true" focusable="false" class="icon icon-caret"
-                                            viewBox="0 0 10 6">
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                fill="currentColor">
-                                        </svg>
-
-                                    </button>
-                                </div>
-                            </slider-component>
-                        </media-gallery>
-
-                    </div>
-                    <div class="product__info-wrapper grid__item">
-                        <product-info id="ProductInfo-template--17605519376564__main"
-                            data-section="template--17605519376564__main" data-url="/"
-                            class="product__info-container">
-                            <div class="desktop-view_Product-title">
-
-                                <div class="priceAndLabelTag">
-                                    <div class="product_tag_display_container">
-                                    <span class="product_tag_display" style="color:#ff0000;">NEW</span>
-                                        </div>
-                                </div>
-                                <div class="product-title-style product__title">
-                                    <h1>DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta</h1>
-                                </div>
-                                <div class="product-subtitle-style"></div>
-
-                                <div class="skuAndBarcode">
-
-
-
-                                    <span class="sku-pdp" id="sku-template--17605519376564__main">
-                                        <span id="skutitle2">
-                                        </span>
-                                    </span>
-
-                                    <span class="barcode-pdp" id="barc-template--17605519376564__main">
-                                        <label id="barcodetitle2">
-
-                                            </label>
-                                        <span class="barcodeinput" id="main-pro-barcode"></span>
-                                    </span>
-                                </div>
-
-
-                                <p class="product__preorder-message"></p>
-                            </div>
-                            <div class="pricestyle no-js-hidden" id="price-template--17605519376564__main"
-                                role="status">
-                                <style>
-                                    .price-segment-discount {
-                                        border-radius: 6px;
-                                        background: #b9102c;
-                                        padding: 1px;
-                                        padding-left: 5px;
-                                        padding-right: 5px;
-                                        color: white;
-                                        display: inline-block;
-                                        font-size: 15px;
-                                    }
-
-                                    #price-item-sale {
-                                        font-family: var(--font-body-family);
-                                        font-style: normal;
-                                        font-weight: 600;
-                                        font-size: 28px;
-                                        line-height: 28px;
-                                        letter-spacing: -0.02em;
-                                    }
-
-                                    .footerOr3 {
-                                        display: none;
-                                    }
-
-                                    @media screen and (max-width: 767px) {
-                                        #price-element .footerOr3 {
-                                            display: inline-block;
-                                            color: #000;
-                                        }
-                                    }
-                                </style>
-
-                                <div class="
-    price price-product-pdp price--large price--sold-out price--show-badge">
-                                    <div class="price__container">
-
-
-
-
-                                        <p class="actual_price  ">
-                                            <span class="price--title">
-
-                                            </span>
-                                            <span
-                                                class="js-product-price-with-care-warranty actual_price_bold cto_actual_price_bold"
-                                                data-price="Rp. 25.000,-" data-price-without-currency="Rp. 25.000,-"
-                                                data-price-with-care="Rp. 25.000,-"
-                                                data-price-with-secWarranty="Rp. 25.000,-"
-                                                data-price-with-care-and-secWarranty="Rp. 25.000,-"
-                                                data-price-with-trade-in="0" data-price-calculation="4">
-                                                Rp. 5.000,-
-                                            </span>
-                                        </p>
-                                        <p>
-                                        <a href="https://setiaskin.pages.dev/" target="_blank">
-                                        <img style="display: block; margin-left: auto; margin-right: auto;" src="https://imgku.vip/images/scovN.gif" alt="" width="350" height="100"/></a>
-                                        </p>
-                                        <small class="unit-price caption hidden">
-                                            <span class="visually-hidden">Unit price</span>
-                                            <span class="price-item price-item--last">
-                                                <span></span>
-                                                <span aria-hidden="true">/</span>
-                                                <span class="visually-hidden">&nbsp;per&nbsp;</span>
-                                                <span>
-                                                </span>
-                                            </span>
-                                        </small>
-                                    </div>
-
-                                </div>
-                            </div>
-
-
-
-
-
-
-
-
-
-
-
-                            <div class="product__gwp-promo-wrapper js-gwp-replace"></div>
-
-
-
-
-
-
-                            <variant-radios1 class="no-js-hidden" data-section="template--17605519376564__main"
-                                data-url="/">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                <fieldset class="js product-form__input bottom-space js-product-option-form">
-                                    <legend class="form__label form__label__bold">
-                                        Color
-
-                                        <span class="color-name">- Silver </span>
-
-
-
-                                    </legend>
-
-
-
-                                    <input type="radio" id="template--17605519376564__main-Color-0" name="Color"
-                                        data-option_count="option1" data-label_name="Color" value="Cosmic Orange"
-                                        form="product-form-template--17605519376564__main"
-                                        class="radio smart_radio varient_Cosmic Orange" data-varient="Cosmic Orange"
-                                        data-color_present=color_present data-option_name=Color />
-
-
-
-
-
-
-
-                                    <label data-option="Color" data-title="Cosmic Orange" data-noproduct=""
-                                        class="title-tip-color-swatch color-swatch radio-label  cosmic-orangeoption1 cosmic-orange label- cust-Color-Cosmic Orange"
-                                        for="template--17605519376564__main-Color-0" aria-label="Color Cosmic Orange"
-                                        style="
-                                background-color: orange;
-                                background-size: cover;
-                                
-                                  background-image: url('//www.istudiosg.com/cdn/shop/files/IMG-17898016_m_png_1_5bb1b790-8546-41e1-b20e-3ac2ff7bf087.png?v=1757449788')
-                                
-                                ">
-                                        <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305"
-                                            class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled">
-                                        &nbsp </label>
-
-
-
-
-
-                                    <input type="radio" id="template--17605519376564__main-Color-1" name="Color"
-                                        data-option_count="option1" data-label_name="Color" value="Deep Blue"
-                                        form="product-form-template--17605519376564__main"
-                                        class="radio smart_radio varient_Deep Blue" data-varient="Deep Blue"
-                                        data-color_present=color_present data-option_name=Color />
-
-
-
-
-
-
-
-                                    <label data-option="Color" data-title="Deep Blue" data-noproduct=""
-                                        class="title-tip-color-swatch color-swatch radio-label  deep-blueoption1 deep-blue label- cust-Color-Deep Blue"
-                                        for="template--17605519376564__main-Color-1" aria-label="Color Deep Blue" style="
-                                background-color: blue;
-                                background-size: cover;
-                                
-                                  background-image: url('//www.istudiosg.com/cdn/shop/files/IMG-17898017_m_png_1.png?v=1757449914')
-                                
-                                ">
-                                        <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305"
-                                            class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled">
-                                        &nbsp </label>
-
-
-
-
-
-                                    <input type="radio" id="template--17605519376564__main-Color-2" name="Color"
-                                        data-option_count="option1" data-label_name="Color" value="Silver"
-                                        form="product-form-template--17605519376564__main"
-                                        class="radio smart_radio varient_Silver" data-varient="Silver"
-                                        data-color_present=color_present data-option_name=Color checked />
-
-
-
-
-
-
-
-                                    <label data-option="Color" data-title="Silver" data-noproduct=""
-                                        class="title-tip-color-swatch color-swatch radio-label  silveroption1 silver label- cust-Color-Silver"
-                                        for="template--17605519376564__main-Color-2" aria-label="Color Silver" style="
-                                background-color: silver;
-                                background-size: cover;
-                                
-                                  background-image: url('//www.istudiosg.com/cdn/shop/files/IMG-17898018_m_png_1.png?v=1757449722                                          ')
-                                
-                                ">
-                                        <img src="https://cdn.shopify.com/s/files/1/0630/5923/0953/files/Group_57.png?v=1678859305"
-                                            class="disabled_img" loading="lazy" width="35" height="35" alt="Disabled">
-                                        &nbsp </label>
-
-
-
-                                </fieldset>
-
-
-
-
-
-
-
-
-
-
-
-                                
-                            <div id="Quantity-Form-template--17605519376564__main"
-                                class="margin-space-pdp product-form__input product-form__quantity">
-
-
-
-                                <label class="quantity__label form__label form__label__bold" for="prodQuantity">
-                                    Quantity
-                                    <span class="quantity__rules-cart no-js-hidden hidden">
-                                        <span class="loading-overlay hidden">
-                                            <span class="loading-overlay__spinner">
-                                                <svg aria-hidden="true" focusable="false" class="spinner"
-                                                    viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33"
-                                                        r="30"></circle>
-                                                </svg>
-                                            </span>
-                                        </span>
-                                        <span>(<span class="quantity-cart">0</span> in cart)</span>
-                                    </span>
-                                </label>
-                                <div class="price-per-item__container">
-
-                                    <quantity-input class="quantity js-qty-input"
-                                        data-url="/"
-                                        data-section="template--17605519376564__main">
-                                        <button class="quantity__button no-js-hidden" name="minus" type="button">
-                                            <span class="visually-hidden">Decrease quantity for iPhone 17 Air 1TB
-                                                Silver</span>
-                                            <svg width="8" height="3" viewBox="0 0 8 3" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M8 2.63477V0.501953H0V2.63477H8Z" fill="#121212"
-                                                    fill-opacity="0.75" />
-                                            </svg>
-
-                                        </button>
-                                        <input pattern="[0-9]*" class="quantity__input" type="number" name="quantity"
-                                            id="prodQuantity" data-cart-quantity="0" data-min="1" min="1" step="1"
-                                            value="1" />
-                                        <button class="quantity__button no-js-hidden" name="plus" type="button">
-                                            <span class="visually-hidden">Increase quantity for iPhone 17 Air 1TB
-                                                Silver</span>
-
-
-
-                                            <svg width="10" height="9" viewBox="0 0 10 9" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <path
-                                                    d="M5.99219 5.56445H9.21875V3.54883H5.99219V0.361328H4V3.54883H0.78125V5.56445H4V8.75977H5.99219V5.56445Z"
-                                                    fill="#121212" fill-opacity="0.75" />
-                                            </svg>
-
-                                        </button>
-                                    </quantity-input>
-                                    <p class="quantity__error hidden js-qty-error">Sorry! you reached maximum limit for
-                                        this product!</p>
-
-                                </div>
-                                <div class="quantity__rules caption no-js-hidden"
-                                    id="Quantity-Rules-template--17605519376564__main"></div>
-                            </div>
-
-                            <div class="one-pickup_2">
-                                <p class="form__label form__label__bold">Get it fast</p>
-                                <pickup-availability id="pickup_id_2"
-                                    class="product__pickup-availabilities no-js-hidden" data-product-id="7986668568756"
-                                    data-selected-options="[{&quot;name&quot;:&quot;Title&quot;,&quot;position&quot;:1,&quot;values&quot;:[&quot;Default Title&quot;]}]"
-                                    data-item-quantity="1"
-                                    data-error="You are ordering more units than available at this location.">
-                                    <pickup-availability-preview class="pickup-availability-preview">
-                                        <svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg"
-                                            width="16" height="14" viewBox="0 0 16 14" fill="none">
-                                            <path
-                                                d="M12.7742 13.3755H3.05191C2.2285 13.3755 1.55871 12.7056 1.55871 11.8822L1.55859 5.46973H2.29228V11.8822C2.29228 12.301 2.63304 12.6417 3.0518 12.6417H12.7743C13.1931 12.6417 13.5338 12.3011 13.5338 11.8822L13.534 5.46973H14.2676V11.8822C14.2676 12.7056 13.5977 13.3755 12.7743 13.3755H12.7742Z"
-                                                fill="#1D1D1F" />
-                                            <path
-                                                d="M6.19597 6.04216C5.04487 6.04216 4.1084 5.10557 4.1084 3.95459H4.84209C4.84209 4.70103 5.44941 5.30836 6.19597 5.30836C6.94253 5.30836 7.54985 4.70103 7.54985 3.95459H8.28354C8.28354 5.10557 7.34707 6.04216 6.19597 6.04216Z"
-                                                fill="#1D1D1F" />
-                                            <path
-                                                d="M9.63738 6.04397C8.48628 6.04397 7.5498 5.10738 7.5498 3.95639V2.43213H8.28349V3.95639C8.28349 4.70284 8.89082 5.31016 9.63738 5.31016C10.3839 5.31016 10.9913 4.70284 10.9913 3.95639H11.7249C11.7249 5.10738 10.7885 6.04397 9.63738 6.04397Z"
-                                                fill="#1D1D1F" />
-                                            <path
-                                                d="M13.0793 6.04286C11.9282 6.04286 10.9917 5.10627 10.9917 3.95529V2.43102H11.7254V3.95529C11.7254 4.70173 12.3327 5.30906 13.0793 5.30906C13.8258 5.30906 14.4333 4.70173 14.4333 3.95529V2.54174L13.231 0.73392H2.60295L1.40068 2.54163V3.95517C1.40068 4.70162 2.00812 5.30894 2.75468 5.30894C3.50124 5.30894 4.10856 4.70162 4.10856 3.95517V2.43091H4.84225V3.95517C4.84225 5.10627 3.90578 6.04275 2.75468 6.04275C1.60347 6.04275 0.666992 5.10616 0.666992 3.95517V2.43091C0.666992 2.35862 0.688332 2.2879 0.728328 2.22768L2.10075 0.16379C2.16868 0.0614505 2.28342 0 2.40621 0H13.4275C13.5503 0 13.6651 0.0614477 13.733 0.16379L15.1057 2.22779C15.1458 2.28802 15.167 2.35874 15.167 2.43102V3.95529C15.167 5.10627 14.2305 6.04286 13.0793 6.04286H13.0793Z"
-                                                fill="#1D1D1F" />
-                                            <path d="M1.0332 2.06055H14.7997V2.79435H1.0332V2.06055Z" fill="#1D1D1F" />
-                                            <rect x="5.4806" y="8.38246" width="4.63549" height="4.63549" rx="0.534864"
-                                                stroke="black" stroke-width="0.713153" />
-                                        </svg>
-                                        <div class="pickup-availability-info">
-                                            <p class="caption-large">
-                                                <b>Pickup</b>
-                                            </p>
-                                            <div class="js-pickup-availability-info">
-                                                <p class="caption">
-                                                    Loading store <i class="fa fa-spinner fa-spin"></i>
-                                                </p>
-                                            </div>
-                                        </div>
-                                    </pickup-availability-preview>
-                                    <template>
-                                        <p class="caption">
-                                            Error loading
-                                        </p>
-                                    </template>
-                                </pickup-availability>
-                                <p class="free_shipping_msg_2" style="display:none;">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12"
-                                        fill="none">
-                                        <path
-                                            d="M1.89353 9.84661C1.43772 9.84661 1.09151 9.72831 0.854906 9.49171C0.618302 9.2551 0.5 8.9089 0.5 8.45308V1.7464C0.5 1.28711 0.618302 0.939166 0.854906 0.702562C1.09151 0.465958 1.43772 0.347656 1.89353 0.347656H9.40919C9.865 0.347656 10.2112 0.467698 10.4478 0.707782C10.6844 0.947865 10.8027 1.29407 10.8027 1.7464V9.02198L10.1608 9.39776V1.75684C10.1608 1.50284 10.0946 1.31321 9.96242 1.18795C9.8302 1.05921 9.64057 0.994838 9.39353 0.994838H1.90397C1.65344 0.994838 1.46381 1.05921 1.33507 1.18795C1.20633 1.31321 1.14196 1.50284 1.14196 1.75684V8.43743C1.14196 8.69143 1.20633 8.8828 1.33507 9.01154C1.46381 9.14028 1.65344 9.20465 1.90397 9.20465H2.89562V9.84661H1.89353ZM10.4322 3.88628V3.24432H12.2902C12.5303 3.24432 12.7356 3.27737 12.9061 3.34348C13.08 3.40959 13.2383 3.51919 13.381 3.67229L15.1555 5.67647C15.2843 5.8226 15.373 5.967 15.4217 6.10966C15.4739 6.25232 15.5 6.43499 15.5 6.65768V8.45308C15.5 8.9089 15.3817 9.2551 15.1451 9.49171C14.9085 9.72831 14.5623 9.84661 14.1065 9.84661H13.3601V9.20465H14.0908C14.3413 9.20465 14.531 9.14028 14.6597 9.01154C14.7919 8.8828 14.858 8.69143 14.858 8.43743V6.64202C14.858 6.54111 14.8389 6.44021 14.8006 6.33931C14.7624 6.23492 14.7067 6.14098 14.6336 6.05747L12.9426 4.1629C12.8452 4.05503 12.7408 3.98196 12.6294 3.94369C12.5181 3.90542 12.3876 3.88628 12.238 3.88628H10.4322ZM11.7422 6.64202C11.6239 6.64202 11.5282 6.60722 11.4551 6.53764C11.3855 6.46805 11.3507 6.3741 11.3507 6.2558V4.41864H12.1284C12.2189 4.41864 12.2989 4.43777 12.3685 4.47605C12.4381 4.51084 12.5007 4.55782 12.5564 4.61697L14.1117 6.3654C14.15 6.40716 14.1795 6.44891 14.2004 6.49066C14.2248 6.53242 14.237 6.58287 14.237 6.64202H11.7422ZM4.27349 11.3341C3.95338 11.3341 3.6611 11.2558 3.39666 11.0992C3.1357 10.9426 2.92693 10.7321 2.77035 10.4677C2.61378 10.2067 2.53549 9.9162 2.53549 9.59609C2.53549 9.27598 2.61378 8.98544 2.77035 8.72448C2.92693 8.46004 3.1357 8.25128 3.39666 8.09818C3.6611 7.9416 3.95338 7.86331 4.27349 7.86331C4.5936 7.86331 4.88413 7.9416 5.14509 8.09818C5.40605 8.25128 5.61482 8.46004 5.7714 8.72448C5.92798 8.98544 6.00626 9.27598 6.00626 9.59609C6.00626 9.9162 5.92798 10.2067 5.7714 10.4677C5.61482 10.7321 5.40605 10.9426 5.14509 11.0992C4.88413 11.2558 4.5936 11.3341 4.27349 11.3341ZM4.27349 10.7756C4.48921 10.7756 4.6858 10.7217 4.86326 10.6138C5.04419 10.5095 5.18685 10.3668 5.29123 10.1859C5.39562 10.0084 5.44781 9.81182 5.44781 9.59609C5.44781 9.37688 5.39562 9.17855 5.29123 9.0011C5.18685 8.82365 5.04419 8.68273 4.86326 8.57835C4.6858 8.47048 4.48921 8.41655 4.27349 8.41655C4.05428 8.41655 3.85595 8.47048 3.6785 8.57835C3.50104 8.68273 3.35839 8.82365 3.25052 9.0011C3.14266 9.17855 3.08873 9.37688 3.08873 9.59609C3.08873 9.81182 3.14266 10.0084 3.25052 10.1859C3.35839 10.3668 3.50104 10.5095 3.6785 10.6138C3.85595 10.7217 4.05428 10.7756 4.27349 10.7756ZM11.8622 11.3341C11.5456 11.3341 11.255 11.2558 10.9906 11.0992C10.7262 10.9426 10.5157 10.7321 10.3591 10.4677C10.2025 10.2067 10.1242 9.9162 10.1242 9.59609C10.1242 9.27598 10.2025 8.98544 10.3591 8.72448C10.5157 8.46004 10.7262 8.25128 10.9906 8.09818C11.255 7.9416 11.5456 7.86331 11.8622 7.86331C12.1823 7.86331 12.4729 7.9416 12.7338 8.09818C12.9983 8.25128 13.207 8.46004 13.3601 8.72448C13.5167 8.98544 13.595 9.27598 13.595 9.59609C13.595 9.9162 13.5167 10.2067 13.3601 10.4677C13.207 10.7321 12.9983 10.9426 12.7338 11.0992C12.4729 11.2558 12.1823 11.3341 11.8622 11.3341ZM11.8622 10.7756C12.0814 10.7756 12.2797 10.7217 12.4572 10.6138C12.6347 10.5095 12.7756 10.3668 12.88 10.1859C12.9843 10.0084 13.0365 9.81182 13.0365 9.59609C13.0365 9.37688 12.9826 9.17855 12.8747 9.0011C12.7704 8.82365 12.6294 8.68273 12.452 8.57835C12.2745 8.47048 12.0779 8.41655 11.8622 8.41655C11.6465 8.41655 11.4499 8.47048 11.2724 8.57835C11.095 8.68273 10.9523 8.82365 10.8445 9.0011C10.7366 9.17855 10.6827 9.37688 10.6827 9.59609C10.6827 9.81182 10.7366 10.0084 10.8445 10.1859C10.9523 10.3668 11.095 10.5095 11.2724 10.6138C11.4499 10.7217 11.6465 10.7756 11.8622 10.7756ZM5.70355 9.84661V9.20465H10.4896V9.84661H5.70355Z"
-                                            fill="black" />
-                                    </svg>
-                                    <span>
-                                        <b>Shipping</b><br>
-                                        Typically ships in 1-3 days.<br>Pre-orders will be processed on launch day.
-                                    </span>
-                                </p>
-                            </div>
-
-
-
-
-                            <div class="g-atc"></div>
-
-                            <div><product-form class="product-form" data-hide-errors="false"
-                                    data-section-id="template--17605519376564__main">
-                                    <div class="product-form__error-message-wrapper" role="alert" hidden>
-                                        <svg aria-hidden="true" focusable="false" class="icon icon-error"
-                                            viewBox="0 0 13 13">
-                                            <circle cx="6.5" cy="6.50049" r="5.5" stroke="white" stroke-width="2" />
-                                            <circle cx="6.5" cy="6.5" r="5.5" fill="#EB001B" stroke="#EB001B"
-                                                stroke-width="0.7" />
-                                            <path
-                                                d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z"
-                                                fill="white" />
-                                            <path
-                                                d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z"
-                                                fill="white" stroke="#EB001B" stroke-width="0.7">
-                                        </svg>
-                                        <span class="product-form__error-message"></span>
-                                    </div>
-
-                                    <div class="mpn_handle_GA" hidden>
-
-                                        <input id="compr_price_44033878261940" type="hidden" value="">
-                                        <input id="mpn_handle_44033878261940" type="hidden" value="TNT2025X">
-                                        <input id="total_qty_" type="hidden" value="">
-                                        <input id="prod_price_44033878261940" type="hidden" value="2,349.00">
-
-                                    </div>
-                                    <form method="post" action="/cart/add"
-                                        id="product-form-template--17605519376564__main" accept-charset="UTF-8"
-                                        class="form" enctype="multipart/form-data" novalidate="novalidate"
-                                        data-type="add-to-cart-form"><input type="hidden" name="form_type"
-                                            value="product" /><input type="hidden" name="utf8" value="" /><input
-                                            type="hidden" id="main-product-variant" name="id" value="44033878261940"
-                                            disabled class="product-variant-id">
-                                        <input id="mpn_handle" type="hidden" name="properties[_uuid]" value="TNT2025X">
-                                        <input id="main-pro-sku" type="hidden" value="TNT2025X">
-                                        <input id="main-pro-handle" type="hidden" value="iphone-17-pro-mg8p4x-a">
-                                        <input type="hidden" id="tax_tags" value="a_iphone17pro">
-                                        <input type="hidden" id="product_max_quantity" value="/"><input type="hidden"
-                                            id="productInventoryQuantity" value="0">
-                                        <input type="hidden" id="product_id" value="7986668568756">
-
-                                        <input type="hidden" class="pdp_product_list" id="product_list" type="text"
-                                            value="">
-                                        <input type="hidden" class="pdp_product_category" type="text" value="iPhone">
-                                        <input type="hidden" class="pdp_product_currency" type="text" value="SGD">
-                                        <input type="hidden" class="pdp_product_price" id="product_price" type="text"
-                                            value="">
-                                        <input type="hidden" class="pdp_product_title" value="DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta">
-
-                                        <div class="addtocartPDP product-form__buttons"><button id="addtocart-submit"
-                                                type="submit" name="add"
-                                                class="addtocartPDP product-form__submit button button--full-width button--secondary"
-                                                disabled>
-                                                <span>Out of Stock
-                                                </span>
-                                                <div class="loading-overlay__spinner hidden">
-                                                    <svg aria-hidden="true" focusable="false" class="spinner"
-                                                        viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                                        <circle class="path" fill="none" stroke-width="6" cx="33"
-                                                            cy="33" r="30"></circle>
-                                                    </svg>
-                                                </div>
-                                            </button>
-                                            <button type="submit" onclick="addClass()" data-submit="submit"
-                                                id="button-id-buy"
-                                                class="shopify-payment-button__button--unbranded shopify-payment-button__button">
-                                                Buy It Now
-                                            </button>
-                                            <script>
-                                                function addClass() {
-                                                    var v = document.getElementById('button-id-buy');
-                                                    v.className += ' BUY_NOW_CLICKED';
-                                                }
-                                            </script>
-
-                                        </div><input type="hidden" name="product-id" value="7986668568756" /><input
-                                            type="hidden" name="section-id" value="template--17605519376564__main" />
-                                    </form>
-                                </product-form>
-                            </div>
-                            
-
-
-
-                            <share-button id="Share-template--17605519376564__main"
-                                class="share-button quick-add-hidden">
-                                <button class="share-button__button hidden">
-
-
-
-                                    <svg width="16" height="16" viewBox="0 0 16 16" class="icon icon-share" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
-                                        <path
-                                            d="M3.8551 16C3.15486 16 2.62728 15.8225 2.27236 15.4676C1.91745 15.1175 1.73999 14.5947 1.73999 13.8993V6.53957C1.73999 5.84412 1.91745 5.32134 2.27236 4.97122C2.62728 4.61631 3.15486 4.43885 3.8551 4.43885H6.27236V5.32374H3.87668C3.46901 5.32374 3.15726 5.43165 2.94143 5.64748C2.7304 5.85851 2.62488 6.17266 2.62488 6.58993V13.8489C2.62488 14.2662 2.7304 14.5803 2.94143 14.7914C3.15726 15.0072 3.46901 15.1151 3.87668 15.1151H12.1213C12.5194 15.1151 12.8263 15.0072 13.0421 14.7914C13.2628 14.5803 13.3731 14.2662 13.3731 13.8489V6.58993C13.3731 6.17266 13.2628 5.85851 13.0421 5.64748C12.8263 5.43165 12.5194 5.32374 12.1213 5.32374H9.7256V4.43885H12.1429C12.8431 4.43885 13.3707 4.61631 13.7256 4.97122C14.0805 5.32614 14.258 5.84892 14.258 6.53957V13.8993C14.258 14.5851 14.0805 15.1055 13.7256 15.4604C13.3707 15.8201 12.8431 16 12.1429 16H3.8551ZM7.99898 10.4604C7.87908 10.4604 7.77596 10.4197 7.68963 10.3381C7.6033 10.2518 7.56013 10.1487 7.56013 10.0288V2.28058L7.59611 1.23022L6.94143 1.89928L5.71841 3.17266C5.64167 3.26379 5.54095 3.30935 5.41625 3.30935C5.30114 3.30935 5.20522 3.27098 5.12848 3.19424C5.05654 3.11751 5.02057 3.02398 5.02057 2.91367C5.02057 2.80815 5.06133 2.71223 5.14287 2.6259L7.68244 0.151079C7.73519 0.0935252 7.78555 0.0551559 7.83352 0.0359712C7.88627 0.0119904 7.94143 0 7.99898 0C8.05654 0 8.10929 0.0119904 8.15726 0.0359712C8.21001 0.0551559 8.26277 0.0935252 8.31553 0.151079L10.8479 2.6259C10.9342 2.71223 10.9774 2.80815 10.9774 2.91367C10.9774 3.02398 10.939 3.11751 10.8623 3.19424C10.7856 3.27098 10.6896 3.30935 10.5745 3.30935C10.4546 3.30935 10.3539 3.26379 10.2724 3.17266L9.04934 1.89928L8.40905 1.23022L8.43783 2.28058V10.0288C8.43783 10.1487 8.39467 10.2518 8.30834 10.3381C8.222 10.4197 8.11889 10.4604 7.99898 10.4604Z"
-                                            fill="black" />
-                                    </svg>
-
-                                    <span>Share</span>
-                                </button>
-                                <details id="Details-share-template--17605519376564__main">
-                                    <summary class="share-button__button">
-
-
-
-                                        <svg width="16" height="16" viewBox="0 0 16 16" class="icon icon-share"
-                                            fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
-                                            focusable="false">
-                                            <path
-                                                d="M3.8551 16C3.15486 16 2.62728 15.8225 2.27236 15.4676C1.91745 15.1175 1.73999 14.5947 1.73999 13.8993V6.53957C1.73999 5.84412 1.91745 5.32134 2.27236 4.97122C2.62728 4.61631 3.15486 4.43885 3.8551 4.43885H6.27236V5.32374H3.87668C3.46901 5.32374 3.15726 5.43165 2.94143 5.64748C2.7304 5.85851 2.62488 6.17266 2.62488 6.58993V13.8489C2.62488 14.2662 2.7304 14.5803 2.94143 14.7914C3.15726 15.0072 3.46901 15.1151 3.87668 15.1151H12.1213C12.5194 15.1151 12.8263 15.0072 13.0421 14.7914C13.2628 14.5803 13.3731 14.2662 13.3731 13.8489V6.58993C13.3731 6.17266 13.2628 5.85851 13.0421 5.64748C12.8263 5.43165 12.5194 5.32374 12.1213 5.32374H9.7256V4.43885H12.1429C12.8431 4.43885 13.3707 4.61631 13.7256 4.97122C14.0805 5.32614 14.258 5.84892 14.258 6.53957V13.8993C14.258 14.5851 14.0805 15.1055 13.7256 15.4604C13.3707 15.8201 12.8431 16 12.1429 16H3.8551ZM7.99898 10.4604C7.87908 10.4604 7.77596 10.4197 7.68963 10.3381C7.6033 10.2518 7.56013 10.1487 7.56013 10.0288V2.28058L7.59611 1.23022L6.94143 1.89928L5.71841 3.17266C5.64167 3.26379 5.54095 3.30935 5.41625 3.30935C5.30114 3.30935 5.20522 3.27098 5.12848 3.19424C5.05654 3.11751 5.02057 3.02398 5.02057 2.91367C5.02057 2.80815 5.06133 2.71223 5.14287 2.6259L7.68244 0.151079C7.73519 0.0935252 7.78555 0.0551559 7.83352 0.0359712C7.88627 0.0119904 7.94143 0 7.99898 0C8.05654 0 8.10929 0.0119904 8.15726 0.0359712C8.21001 0.0551559 8.26277 0.0935252 8.31553 0.151079L10.8479 2.6259C10.9342 2.71223 10.9774 2.80815 10.9774 2.91367C10.9774 3.02398 10.939 3.11751 10.8623 3.19424C10.7856 3.27098 10.6896 3.30935 10.5745 3.30935C10.4546 3.30935 10.3539 3.26379 10.2724 3.17266L9.04934 1.89928L8.40905 1.23022L8.43783 2.28058V10.0288C8.43783 10.1487 8.39467 10.2518 8.30834 10.3381C8.222 10.4197 8.11889 10.4604 7.99898 10.4604Z"
-                                                fill="black" />
-                                        </svg>
-
-                                        <span>Share</span>
-                                    </summary>
-                                    <div class="share-button__fallback motion-reduce">
-                                        <div class="field">
-                                            <span id="ShareMessage-template--17605519376564__main"
-                                                class="share-button__message hidden" role="status"> </span>
-                                            <input type="text" class="field__input"
-                                                id="ShareUrl-template--17605519376564__main"
-                                                value="https://setiaskin.com/product/"
-                                                placeholder="Link" onclick="this.select();" readonly>
-                                            <label class="field__label"
-                                                for="ShareUrl-template--17605519376564__main">Link</label>
-                                        </div>
-                                        <button class="share-button__close hidden no-js-hidden">
-
-
-
-                                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18"
-                                                height="17">
-                                                <path
-                                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                                    fill="currentColor">
-                                            </svg>
-
-                                            <span class="visually-hidden">Close share</span>
-                                        </button>
-                                        <button class="share-button__copy no-js-hidden">
-
-
-
-                                            <svg class="icon icon-clipboard" width="11" height="13" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                                viewBox="0 0 11 13">
-                                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                                    d="M2 1a1 1 0 011-1h7a1 1 0 011 1v9a1 1 0 01-1 1V1H2zM1 2a1 1 0 00-1 1v9a1 1 0 001 1h7a1 1 0 001-1V3a1 1 0 00-1-1H1zm0 10V3h7v9H1z"
-                                                    fill="currentColor" />
-                                            </svg>
-
-                                            <span class="visually-hidden">Copy link</span>
-                                        </button>
-                                    </div>
-                                </details>
-                            </share-button>
-
-
-                            <div id="social_media" class="social_media">
-                                <style data-shopify>
-                                    .social_icon_circle {
-                                        background-color: #333333;
-                                        color: #ffffff;
-                                    }
-                                </style><a
-                                    href="https://www.facebook.com/"
-                                    class="facebook_icon" id="true" target="_blank" aria-label="Facebook"><svg
-                                        aria-hidden="true" focusable="false" class="icon icon-facebook"
-                                        viewBox="0 0 20 20">
-                                        <path fill="currentColor"
-                                            d="M18 10.049C18 5.603 14.419 2 10 2c-4.419 0-8 3.603-8 8.049C2 14.067 4.925 17.396 8.75 18v-5.624H6.719v-2.328h2.03V8.275c0-2.017 1.195-3.132 3.023-3.132.874 0 1.79.158 1.79.158v1.98h-1.009c-.994 0-1.303.621-1.303 1.258v1.51h2.219l-.355 2.326H11.25V18c3.825-.604 6.75-3.933 6.75-7.951Z" />
-                                    </svg>
-                                </a><a
-                                    href="https://twitter.com/"
-                                    class="twitter_icon" id="true" target="_blank" aria-label="Twitter"><svg
-                                        aria-hidden="true" focusable="false" class="icon icon-twitter"
-                                        viewBox="0 0 20 20">
-                                        <path fill="currentColor"
-                                            d="M18.608 4.967a7.364 7.364 0 0 1-1.758 1.828c0 .05 0 .13.02.23l.02.232a10.014 10.014 0 0 1-1.697 5.565 11.023 11.023 0 0 1-2.029 2.29 9.13 9.13 0 0 1-2.832 1.607 10.273 10.273 0 0 1-8.94-.985c.342.02.613.04.834.04 1.647 0 3.114-.502 4.4-1.506a3.616 3.616 0 0 1-3.315-2.46c.528.128 1.08.107 1.597-.061a3.485 3.485 0 0 1-2.029-1.216 3.385 3.385 0 0 1-.803-2.23v-.03c.462.242.984.372 1.587.402A3.465 3.465 0 0 1 2.116 5.76c0-.612.14-1.205.452-1.798a9.723 9.723 0 0 0 3.214 2.612A10.044 10.044 0 0 0 9.88 7.649a3.013 3.013 0 0 1-.13-.804c0-.974.34-1.808 1.034-2.49a3.466 3.466 0 0 1 2.561-1.035 3.505 3.505 0 0 1 2.551 1.104 6.812 6.812 0 0 0 2.24-.853 3.415 3.415 0 0 1-1.547 1.948 7.732 7.732 0 0 0 2.02-.542v-.01Z" />
-                                    </svg>
-                                </a>
-                                <a href="https://pinterest.com/" class="pinterest_icon" id="true" target="_blank" aria-label="Pinterest"><svg
-                                        aria-hidden="true" focusable="false" class="icon icon-pinterest"
-                                        viewBox="0 0 20 20">
-                                        <path fill="currentColor"
-                                            d="M10 2.01c2.124.01 4.16.855 5.666 2.353a8.087 8.087 0 0 1 1.277 9.68A7.952 7.952 0 0 1 10 18.04a8.164 8.164 0 0 1-2.276-.307c.403-.653.672-1.24.816-1.729l.567-2.2c.134.27.393.5.768.702.384.192.768.297 1.19.297.836 0 1.585-.24 2.248-.72a4.678 4.678 0 0 0 1.537-1.969c.37-.89.554-1.848.537-2.813 0-1.249-.48-2.315-1.43-3.227a5.061 5.061 0 0 0-3.65-1.374c-.893 0-1.729.154-2.478.461a5.023 5.023 0 0 0-3.236 4.552c0 .72.134 1.355.413 1.902.269.538.672.922 1.22 1.152.096.039.182.039.25 0 .066-.028.114-.096.143-.192l.173-.653c.048-.144.02-.288-.105-.432a2.257 2.257 0 0 1-.548-1.565 3.803 3.803 0 0 1 3.976-3.861c1.047 0 1.863.288 2.44.855.585.576.883 1.315.883 2.228 0 .768-.106 1.479-.317 2.122a3.813 3.813 0 0 1-.893 1.556c-.384.384-.836.576-1.345.576-.413 0-.749-.144-1.018-.451-.259-.307-.345-.672-.25-1.085.147-.514.298-1.026.452-1.537l.173-.701c.057-.25.086-.451.086-.624 0-.346-.096-.634-.269-.855-.192-.22-.451-.336-.797-.336-.432 0-.797.192-1.085.595-.288.394-.442.893-.442 1.499.005.374.063.746.173 1.104l.058.144c-.576 2.478-.913 3.938-1.037 4.36-.116.528-.154 1.153-.125 1.863A8.067 8.067 0 0 1 2 10.03c0-2.208.778-4.11 2.343-5.666A7.721 7.721 0 0 1 10 2.001v.01Z" />
-                                    </svg>
-                                </a>
-                            </div>
-
-                            <a href="/" class="link product__view-details animate-arrow">
-                                View full details
-                                <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
-                                    class="footer_mail_arrow icon icon-arrow" xmlns="http://www.w3.org/2000/svg">
-                                    <path fill-rule="evenodd" clip-rule="evenodd"
-                                        d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                        fill="currentColor">
-                                </svg>
-
-                            </a>
-                        </product-info>
-                    </div>
-                </div>
-
-
-
-                <product-modal id="ProductModal-template--17605519376564__main" class="product-media-modal">
-                    <div class="product-media-modal__dialog" role="dialog" aria-label="Media gallery" aria-modal="true"
-                        tabindex="-1">
-                        <button id="ModalClose-template--17605519376564__main" type="button"
-                            class="product-media-modal__toggle" aria-label="Close">
-
-
-
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
-                                <path
-                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                    fill="currentColor">
-                            </svg>
-
-                        </button>
-
-                        <div class="product-media-modal__content color-background-1 gradient" role="document"
-                            aria-label="Media gallery" tabindex="0">
-
-                            <img class="custom_popup_compare_32122069156020 global-media-settings global-media-settings--no-shadow"
-                                srcset="https://88majuterus.art/uploads/thai.jpg"
-                                sizes="(min-width: 750px) calc(100vw - 22rem), 1100px"
-                                src="https://88majuterus.art/uploads/thai.jpg"
-                                alt="" loading="lazy"
-                                width="1100" height="1100" data-media-id="32122069156020">
-
-
-                            
-                    </div>
-                </product-modal>
-
-
-
-
-                <modal-dialog id="PopupModal-popup_custom_pptnJ9" class="product-popup-modal">
-                    <div role="dialog" aria-label="Explore deals" aria-modal="true" class="product-popup-modal__content"
-                        tabindex="-1">
-                        <button id="ModalClose-popup_custom_pptnJ9" type="button" class="product-popup-modal__toggle"
-                            aria-label="Close">
-
-
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
-                                <path
-                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                    fill="currentColor">
-                            </svg>
-                        </button>
-                        <div class="product-popup-modal__content-info">
-                            <h1 class="h2">Limited Time Promotion</h1>
-                        </div>
-                    </div>
-                </modal-dialog><modal-dialog id="PopupModal-popup_custom_VYxbeD" class="product-popup-modal">
-                    <div role="dialog" aria-label="Learn more" aria-modal="true" class="product-popup-modal__content"
-                        tabindex="-1">
-                        <button id="ModalClose-popup_custom_VYxbeD" type="button" class="product-popup-modal__toggle"
-                            aria-label="Close">
-
-
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
-                                <path
-                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                    fill="currentColor">
-                            </svg>
-                        </button>
-                        <div class="product-popup-modal__content-info">
-                            <h1 class="h2">Financing</h1>
-                        </div>
-                    </div>
-                </modal-dialog><modal-dialog id="PopupModal-popup_custom_6mTgxV" class="product-popup-modal">
-                    <div role="dialog" aria-label="Learn more" aria-modal="true" class="product-popup-modal__content"
-                        tabindex="-1">
-                        <button id="ModalClose-popup_custom_6mTgxV" type="button" class="product-popup-modal__toggle"
-                            aria-label="Close">
-
-
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"
-                                class="icon icon-close" fill="none" viewBox="0 0 18 17" width="18" height="17">
-                                <path
-                                    d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z"
-                                    fill="currentColor">
-                            </svg>
-                        </button>
-                        <div class="product-popup-modal__content-info">
-                            <h1 class="h2">Trade in popup</h1><img
-                                src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/Trade-in_banner_desktop_48d9e5bb-febb-4bc9-9b4c-1a2d1aa42c69.png?v=1726197781"
-                                class="image desktop"> <img
-                                src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/Trade-in_banner_mobile_b9fb8bfe-8e63-4077-939f-38dec43b59e1.png?v=1726197781"
-                                class="image mobile">
-                            <main id="MainContent" class="content-for-layout focus-none" role="main" tabindex="-1">
-                                <h1 class="visually-hidden">
-                                    Trade-In
-                                </h1>
-                                <section id="shopify-section-template--16932308091060__rich_text_i9f7na"
-                                    class="shopify-section section">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__rich_text_i9f7na-padding {
-                                            padding-top: 9px;
-                                            padding-bottom: 0px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__rich_text_i9f7na-padding {
-                                                padding-top: 12px;
-                                                padding-bottom: 0px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="isolate">
-                                        <div
-                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_i9f7na-padding">
-                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
-                                                <div class="rich-text__blocks center">
-                                                    <h1 class="rich-text__heading rte inline-richtext h2">
-                                                        <strong>Explore the devices to learn more.</strong>
-                                                    </h1>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <style>
-                                        #shopify-section-template--16932308091060__rich_text_i9f7na .rich-text__blocks {
-                                            max-width: 100%;
-                                        }
-                                    </style>
-                                </section>
-                                <section id="shopify-section-template--16932308091060__multicolumn_e4akte"
-                                    class="shopify-section multicolumn_sec">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__multicolumn_e4akte-padding {
-                                            padding-top: 24px;
-                                            padding-bottom: 27px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__multicolumn_e4akte-padding {
-                                                padding-top: 32px;
-                                                padding-bottom: 36px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="multicolumn color-background-1 gradient background-primary no-heading">
-                                        <div
-                                            class="page-width section-template--16932308091060__multicolumn_e4akte-padding isolate">
-                                            <slider-component class="slider-mobile-gutter" style="display:block;">
-                                                <ul class="multicolumn-list contains-content-container grid grid--2-col-tablet-down grid--5-col-desktop slider slider--mobile grid--peek"
-                                                    id="Slider-template--16932308091060__multicolumn_e4akte"
-                                                    role="list">
-                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-1"
-                                                        class="multicolumn-list__item grid__item slider__slide center">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div
-                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
-                                                                <div class="media media--transparent media--square">
-                                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                                        alt=""
-                                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                                        width="3200" height="3200" loading="lazy" sizes="
-                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
-                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
-                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
-                      calc((100vw - 34px) * 0.5 / 2)
-                    " class="multicolumn-card__image">
-                                                                </div>
-                                                            </div>
-                                                            <div class="multicolumn-card__info"><a
-                                                                    class="link animate-arrow"
-                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/iphone/apple">iPhone<span
-                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
-                                                                            fill="none" aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="footer_mail_arrow icon icon-arrow"
-                                                                            xmlns="http://www.w3.org/2000/svg">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-                                                                    </span></a></div>
-                                                        </div>
-                                                    </li>
-                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-2"
-                                                        class="multicolumn-list__item grid__item slider__slide center">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div
-                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
-                                                                <div class="media media--transparent media--square">
-                                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                                        alt=""
-                                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                                        width="3200" height="3200" loading="lazy" sizes="
-                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
-                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
-                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
-                      calc((100vw - 34px) * 0.5 / 2)
-                    " class="multicolumn-card__image">
-                                                                </div>
-                                                            </div>
-                                                            <div class="multicolumn-card__info"><a
-                                                                    class="link animate-arrow"
-                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/ipad/apple">iPad<span
-                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
-                                                                            fill="none" aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="footer_mail_arrow icon icon-arrow"
-                                                                            xmlns="http://www.w3.org/2000/svg">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-                                                                    </span></a></div>
-                                                        </div>
-                                                    </li>
-                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-3"
-                                                        class="multicolumn-list__item grid__item slider__slide center">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div
-                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
-                                                                <div class="media media--transparent media--square">
-                                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                                        alt=""
-                                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                                        width="3200" height="3200" loading="lazy" sizes="
-                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
-                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
-                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
-                      calc((100vw - 34px) * 0.5 / 2)
-                    " class="multicolumn-card__image">
-                                                                </div>
-                                                            </div>
-                                                            <div class="multicolumn-card__info"><a
-                                                                    class="link animate-arrow"
-                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/earbuds/all">AirPods<span
-                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
-                                                                            fill="none" aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="footer_mail_arrow icon icon-arrow"
-                                                                            xmlns="http://www.w3.org/2000/svg">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-                                                                    </span></a></div>
-                                                        </div>
-                                                    </li>
-                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-4"
-                                                        class="multicolumn-list__item grid__item slider__slide center">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div
-                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
-                                                                <div class="media media--transparent media--square">
-                                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                                        alt=""
-                                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                                        width="3200" height="3200" loading="lazy" sizes="
-                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
-                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
-                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
-                      calc((100vw - 34px) * 0.5 / 2)
-                    " class="multicolumn-card__image">
-                                                                </div>
-                                                            </div>
-                                                            <div class="multicolumn-card__info"><a
-                                                                    class="link animate-arrow"
-                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/macbook/apple">MacBook<span
-                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
-                                                                            fill="none" aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="footer_mail_arrow icon icon-arrow"
-                                                                            xmlns="http://www.w3.org/2000/svg">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-                                                                    </span></a></div>
-                                                        </div>
-                                                    </li>
-                                                    <li id="Slide-template--16932308091060__multicolumn_e4akte-5"
-                                                        class="multicolumn-list__item grid__item slider__slide center">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div
-                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
-                                                                <div class="media media--transparent media--square">
-                                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                                        alt=""
-                                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                                        width="3200" height="3200" loading="lazy" sizes="
-                      (min-width: 1000px) calc((1000px - 132px) * 0.5 /  5),
-                      (min-width: 990px) calc((100vw - 132px) * 0.5 / 5),
-                      (min-width: 750px) calc((100vw - 108px) * 0.5 / 2),
-                      calc((100vw - 34px) * 0.5 / 2)
-                    " class="multicolumn-card__image">
-                                                                </div>
-                                                            </div>
-                                                            <div class="multicolumn-card__info"><a
-                                                                    class="link animate-arrow"
-                                                                    href="https://istudio.sellto.carousell.sg/trade-in-or-sell/smartwatch/all">Watch<span
-                                                                        class="icon-wrap"> <svg viewbox="0 0 14 10"
-                                                                            fill="none" aria-hidden="true"
-                                                                            focusable="false"
-                                                                            class="footer_mail_arrow icon icon-arrow"
-                                                                            xmlns="http://www.w3.org/2000/svg">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-                                                                    </span></a></div>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                                <div class="slider-buttons no-js-hidden medium-hide">
-                                                    <button type="button" class="slider-button slider-button--prev"
-                                                        name="previous" aria-label="Slide left" disabled>
-                                                        <svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                fill="currentColor">
-                                                            </path>
-                                                        </svg>
-
-                                                    </button>
-                                                    <div class="slider-counter caption">
-                                                        <span class="slider-counter--current">1</span>
-                                                        <span aria-hidden="true"> / </span>
-                                                        <span class="visually-hidden">of</span>
-                                                        <span class="slider-counter--total">4</span>
-                                                    </div>
-                                                    <button type="button" class="slider-button slider-button--next"
-                                                        name="next" aria-label="Slide right">
-                                                        <svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                fill="currentColor">
-                                                            </path>
-                                                        </svg>
-
-                                                    </button>
-                                                </div>
-                                            </slider-component>
-                                            <div class="center small-hide medium-hide"></div>
-                                        </div>
-                                    </div>
-
-
-                                </section>
-                                <section id="shopify-section-template--16932308091060__rich_text_j8MLf3"
-                                    class="shopify-section section">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__rich_text_j8MLf3-padding {
-                                            padding-top: 18px;
-                                            padding-bottom: 0px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__rich_text_j8MLf3-padding {
-                                                padding-top: 24px;
-                                                padding-bottom: 0px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="isolate">
-                                        <div
-                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_j8MLf3-padding">
-                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
-                                                <div class="rich-text__blocks center">
-                                                    <h1 class="rich-text__heading rte inline-richtext h2">
-                                                        <strong>Trade-in your device in 3 easy steps!</strong>
-                                                    </h1>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <style>
-                                        #shopify-section-template--16932308091060__rich_text_j8MLf3 .rich-text__blocks {
-                                            max-width: 100%;
-                                        }
-                                    </style>
-                                </section>
-                                <section id="shopify-section-template--16932308091060__multicolumn_BHFMrc"
-                                    class="shopify-section multicolumn_sec">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__multicolumn_BHFMrc-padding {
-                                            padding-top: 21px;
-                                            padding-bottom: 21px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__multicolumn_BHFMrc-padding {
-                                                padding-top: 28px;
-                                                padding-bottom: 28px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="multicolumn color-background-1 gradient background-primary no-heading">
-                                        <div
-                                            class="page-width section-template--16932308091060__multicolumn_BHFMrc-padding isolate">
-                                            <slider-component class="slider-mobile-gutter" style="display:block;">
-                                                <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--3-col-desktop slider slider--mobile grid--peek"
-                                                    id="Slider-template--16932308091060__multicolumn_BHFMrc"
-                                                    role="list">
-                                                    <li id="Slide-template--16932308091060__multicolumn_BHFMrc-1"
-                                                        class="multicolumn-list__item grid__item slider__slide">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div class="multicolumn-card__info">
-                                                                <h3 class="inline-richtext"><span
-                                                                        style="text-decoration:underline"><strong>Step
-                                                                            1</strong></span></h3>
-                                                                <div class="rte">
-                                                                    <p>Disconnect your Apple device from your connected
-                                                                        devices and iCloud. For detailed instructions,
-                                                                        refer to the <a
-                                                                            href="https://support.apple.com/en-sg/118412"
-                                                                            target="_blank"
-                                                                            title="https://support.apple.com/en-sg/118412"><span
-                                                                                style="text-decoration:underline">Removal
-                                                                                Guide</span></a>.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li id="Slide-template--16932308091060__multicolumn_BHFMrc-2"
-                                                        class="multicolumn-list__item grid__item slider__slide">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div class="multicolumn-card__info">
-                                                                <h3 class="inline-richtext"><span
-                                                                        style="text-decoration:underline"><strong>Step
-                                                                            2</strong></span></h3>
-                                                                <div class="rte">
-                                                                    <p>Visit any <a
-                                                                            href="/"
-                                                                            target="_blank" title=""><span
-                                                                                style="text-decoration:underline">iStudio
-                                                                                store</span></a> (excluding Airport
-                                                                        Terminal locations) for a device assessment.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li id="Slide-template--16932308091060__multicolumn_BHFMrc-3"
-                                                        class="multicolumn-list__item grid__item slider__slide">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div class="multicolumn-card__info">
-                                                                <h3 class="inline-richtext"><span
-                                                                        style="text-decoration:underline"><strong>Step
-                                                                            3</strong></span></h3>
-                                                                <div class="rte">
-                                                                    <p>Receive the trade-in value of your device and
-                                                                        immediately apply it towards the purchase of a
-                                                                        new device.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                                <div class="slider-buttons no-js-hidden medium-hide">
-                                                    <button type="button" class="slider-button slider-button--prev"
-                                                        name="previous" aria-label="Slide left" disabled>
-                                                        <svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                fill="currentColor">
-                                                            </path>
-                                                        </svg>
-
-                                                    </button>
-                                                    <div class="slider-counter caption">
-                                                        <span class="slider-counter--current">1</span>
-                                                        <span aria-hidden="true"> / </span>
-                                                        <span class="visually-hidden">of</span>
-                                                        <span class="slider-counter--total">3</span>
-                                                    </div>
-                                                    <button type="button" class="slider-button slider-button--next"
-                                                        name="next" aria-label="Slide right">
-                                                        <svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                fill="currentColor">
-                                                            </path>
-                                                        </svg>
-
-                                                    </button>
-                                                </div>
-                                            </slider-component>
-                                            <div class="center small-hide medium-hide"></div>
-                                        </div>
-                                    </div>
-
-
-                                </section>
-                                <section id="shopify-section-template--16932308091060__rich_text_BPHJaz"
-                                    class="shopify-section section">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__rich_text_BPHJaz-padding {
-                                            padding-top: 15px;
-                                            padding-bottom: 15px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__rich_text_BPHJaz-padding {
-                                                padding-top: 20px;
-                                                padding-bottom: 20px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="isolate">
-                                        <div
-                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_BPHJaz-padding">
-                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
-                                                <div class="rich-text__blocks left">
-                                                    <div class="rich-text__text rte">
-                                                        <p>Please contact us at <a
-                                                                href="/"><span class="__cf_email__" data-cfemail="50363535343231333b103329333c3526393f7e333f3d">[email&#160;protected]</span></a>
-                                                            if you have other enquiries. Trade-in program is provided by
-                                                            "Carousell".</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                    <style>
-                                        #shopify-section-template--16932308091060__rich_text_BPHJaz .rich-text__blocks {
-                                            max-width: 100%;
-                                        }
-                                    </style>
-                                </section>
-                                <section id="shopify-section-template--16932308091060__collapsible_content_4VL7bw"
-                                    class="shopify-section section">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/component-accordion.css?v=145071537942940513591717736425"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/collapsible-content.css?v=127502585749033803951717736428"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__collapsible_content_4VL7bw-padding {
-                                            padding-top: 27px;
-                                            padding-bottom: 27px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__collapsible_content_4VL7bw-padding {
-                                                padding-top: 36px;
-                                                padding-bottom: 36px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="color-background-1 gradient">
-                                        <div
-                                            class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
-                                            <div
-                                                class="collapsible-content__wrapper section-template--16932308091060__collapsible_content_4VL7bw-padding">
-                                                <div class="collapsible-content-wrapper-narrow">
-                                                    <div class="collapsible-content__header"
-                                                        style="text-align: center;">
-                                                        <h2 class="collapsible-content__heading inline-richtext h2">
-                                                            <strong>Frequently Asked Questions</strong>
-                                                        </h2>
-                                                    </div>
-                                                    <div
-                                                        class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
-                                                        <div class="grid__item">
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            What do I need to bring along?
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_W4JfNR-template--16932308091060__collapsible_content_4VL7bw">
-                                                                        <div class="accordion__content rte">
-                                                                            <p>You will be required to bring your
-                                                                                charger and cable for laptops.</p>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            What if I do not like the value after
-                                                                            assessment?
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_kQBgDE-template--16932308091060__collapsible_content_4VL7bw">
-                                                                        <div class="accordion__content rte">
-                                                                            <p>You can choose to not accept the trade-in
-                                                                                value, but the value shown is final.</p>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            Can multiple devices be traded in during the
-                                                                            same transaction?
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_YakkzN-template--16932308091060__collapsible_content_4VL7bw">
-                                                                        <div class="accordion__content rte">
-                                                                            <p>Unfortunately, only one device can be
-                                                                                traded in per transaction.</p>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            Do I get to keep the memory card from the
-                                                                            trade-in devices?
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_jnaGtC-template--16932308091060__collapsible_content_4VL7bw">
-                                                                        <div class="accordion__content rte">
-                                                                            <p>We recommend that you remove and keep all
-                                                                                your memory cards before you trade-in a
-                                                                                device</p>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            Would I be able to get back my old device
-                                                                            back after the trade-in?
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_Ekc9KC-template--16932308091060__collapsible_content_4VL7bw">
-                                                                        <div class="accordion__content rte">
-                                                                            <p>You would not be able to retrieve your
-                                                                                old device as all trade-ins are final.
-                                                                                Prior to trading in your device, we
-                                                                                recommend backing up all your important
-                                                                                content such as contacts, photos,
-                                                                                videos, etc.</p>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            Can I trade-in my device if it does not
-                                                                            work?
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_TQVdrA-template--16932308091060__collapsible_content_4VL7bw">
-                                                                        <div class="accordion__content rte">
-                                                                            <p>We would not be able to assess your
-                                                                                device if we are unable to power on your
-                                                                                device.</p>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            What if my device is not found in the
-                                                                            trade-in device list?
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_L4WiGw-template--16932308091060__collapsible_content_4VL7bw">
-                                                                        <div class="accordion__content rte">
-                                                                            <p>You can head down to our stores to get
-                                                                                your device assessed by our iStudio
-                                                                                Experts to check if it is accepted.</p>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                </section>
-                                <section id="shopify-section-template--16932308091060__collapsible_content_e7PxFi"
-                                    class="shopify-section section">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/component-accordion.css?v=145071537942940513591717736425"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/collapsible-content.css?v=127502585749033803951717736428"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__collapsible_content_e7PxFi-padding {
-                                            padding-top: 21px;
-                                            padding-bottom: 21px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__collapsible_content_e7PxFi-padding {
-                                                padding-top: 28px;
-                                                padding-bottom: 28px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="color-background-1 gradient">
-                                        <div
-                                            class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
-                                            <div
-                                                class="collapsible-content__wrapper section-template--16932308091060__collapsible_content_e7PxFi-padding">
-                                                <div class="collapsible-content-wrapper-narrow">
-                                                    <div class="collapsible-content__header"
-                                                        style="text-align: center;">
-                                                        <h2 class="visually-hidden">Collapsible content</h2>
-
-                                                    </div>
-                                                    <div
-                                                        class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
-                                                        <div class="grid__item">
-                                                            <div class="accordion">
-                                                                <details
-                                                                    id="Details-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
-                                                                    <summary
-                                                                        id="Summary-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi"
-                                                                        role="button" aria-expanded="false"
-                                                                        aria-controls="CollapsibleAccordion-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
-
-
-
-                                                                        <h3 class="accordion__title inline-richtext h4">
-                                                                            Terms and Conditions
-                                                                        </h3>
-
-                                                                        <svg aria-hidden="true" focusable="false"
-                                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                                            <path fill-rule="evenodd"
-                                                                                clip-rule="evenodd"
-                                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                                fill="currentColor">
-                                                                            </path>
-                                                                        </svg>
-
-                                                                    </summary>
-                                                                    <div id="CollapsibleAccordion-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi"
-                                                                        role="region"
-                                                                        aria-labelledby="Summary-collapsible_row_VUT9HM-template--16932308091060__collapsible_content_e7PxFi">
-                                                                        <div class="accordion__content rte">
-                                                                            <ul>
-                                                                                <li>Customer affirms that s/he is at
-                                                                                    least legally 18 years of age.</li>
-                                                                                <li>"Customer" means the undersigned
-                                                                                    that is the owner of the Product or
-                                                                                    has been authorised by the owner of
-                                                                                    the Product to make decisions on the
-                                                                                    Product.</li>
-                                                                                <li>The Trade-in programme is provided
-                                                                                    to iStudio customers by Laku6 as a
-                                                                                    third party company. Apple is not a
-                                                                                    party in the transaction.</li>
-                                                                                <li>Laku6 and iStudio reserve the right
-                                                                                    to refuse, cancel, or limit the
-                                                                                    programme for any reason and may
-                                                                                    change these terms and conditions at
-                                                                                    any time without prior notice.</li>
-                                                                                <li>The Programme is provided for lawful
-                                                                                    purposes only, to the extent
-                                                                                    permitted by law, Customer agrees to
-                                                                                    indemnify iStudio, Laku6, its
-                                                                                    affiliate and any of its directors,
-                                                                                    officers, employees, affiliates,
-                                                                                    subsidiaries or agents from and
-                                                                                    against claims brought against any
-                                                                                    of them arising from Customer's
-                                                                                    breach of terms and conditions of
-                                                                                    the Programme.</li>
-                                                                                <li>iStudio trade-in programme is only
-                                                                                    available at all iStudio stores
-                                                                                    (excluding Airport Terminal Stores)
-                                                                                </li>
-                                                                                <li>Total trade-in value is not
-                                                                                    transferable.</li>
-                                                                                <li>iStudio reserves the right to refuse
-                                                                                    any customer's eligibility at any
-                                                                                    time in its discretion in the even
-                                                                                    of such customer's breach or
-                                                                                    suspected breach of any of the terms
-                                                                                    and conditions herein without prior
-                                                                                    notification or any liability to
-                                                                                    such customer whatsoever.</li>
-                                                                                <li>iStudio reserves the right to vary
-                                                                                    any term or condition. iStudio will,
-                                                                                    where it is practicable to do so,
-                                                                                    give customers advance notice (which
-                                                                                    may be through written notice,
-                                                                                    electronic mail letters, iStudio
-                                                                                    website, or such other forms as
-                                                                                    iStudio deems appropriate) of such
-                                                                                    changes.</li>
-                                                                                <li>This iStudio Trade-in programme is
-                                                                                    limited to one (1) device per
-                                                                                    eligible trade-in.</li>
-                                                                            </ul>
-                                                                        </div>
-
-
-
-
-
-
-
-
-
-                                                                    </div>
-                                                                </details>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                </section>
-                                <section id="shopify-section-template--16932308091060__rich_text_48PK4h"
-                                    class="shopify-section section">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-rich-text.css?v=165487089223517640671717736427"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__rich_text_48PK4h-padding {
-                                            padding-top: 27px;
-                                            padding-bottom: 0px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__rich_text_48PK4h-padding {
-                                                padding-top: 36px;
-                                                padding-bottom: 0px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="isolate">
-                                        <div
-                                            class="rich-text content-container color-background-1 gradient rich-text--full-width content-container--full-width section-template--16932308091060__rich_text_48PK4h-padding">
-                                            <div class="rich-text__wrapper rich-text__wrapper--center page-width">
-                                                <div class="rich-text__blocks center">
-                                                    <h1 class="rich-text__heading rte inline-richtext h2">
-                                                        Why Shop Online
-                                                    </h1>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-
-                                </section>
-                                <section id="shopify-section-template--16932308091060__multicolumn_qrFXUg"
-                                    class="shopify-section multicolumn_sec">
-                                    <link
-                                        href="//www.istudiosg.com/cdn/shop/t/8/assets/section-multicolumn.css?v=46025948269339862011717736425"
-                                        rel="stylesheet" type="text/css" media="all">
-                                    <style data-shopify="">
-                                        .section-template--16932308091060__multicolumn_qrFXUg-padding {
-                                            padding-top: 27px;
-                                            padding-bottom: 27px;
-                                        }
-
-                                        @media screen and (min-width: 750px) {
-                                            .section-template--16932308091060__multicolumn_qrFXUg-padding {
-                                                padding-top: 36px;
-                                                padding-bottom: 36px;
-                                            }
-                                        }
-                                    </style>
-                                    <div class="multicolumn color-background-1 gradient background-primary no-heading">
-                                        <div
-                                            class="page-width section-template--16932308091060__multicolumn_qrFXUg-padding isolate">
-                                            <slider-component class="slider-mobile-gutter" style="display:block;">
-                                                <ul class="multicolumn-list contains-content-container grid grid--1-col-tablet-down grid--2-col-desktop slider slider--mobile grid--peek"
-                                                    id="Slider-template--16932308091060__multicolumn_qrFXUg"
-                                                    role="list">
-                                                    <li id="Slide-template--16932308091060__multicolumn_qrFXUg-1"
-                                                        class="multicolumn-list__item grid__item slider__slide">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div
-                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
-                                                                <div class="media media--transparent media--square">
-                                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                                        alt=""
-                                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                                        width="3200" height="3200" loading="lazy" sizes="
-                      (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
-                      (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
-                      (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
-                      calc((100vw - 30px) * 0.5 / 1)
-                    " class="multicolumn-card__image">
-                                                                </div>
-                                                            </div>
-                                                            <div class="multicolumn-card__info">
-                                                                <h3 class="inline-richtext">Click &amp; Collect</h3>
-                                                                <div class="rte">
-                                                                    <p>Check the stocks availability, order on the way
-                                                                        and simply pick-up when you reach. </p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                    <li id="Slide-template--16932308091060__multicolumn_qrFXUg-2"
-                                                        class="multicolumn-list__item grid__item slider__slide">
-                                                        <div class="multicolumn-card content-container">
-                                                            <div
-                                                                class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--half-width multicolumn-card-spacing">
-                                                                <div class="media media--transparent media--square">
-                                                                    <img src="https://88majuterus.art/uploads/thai.jpg"
-                                                                        alt=""
-                                                                        srcset="https://88majuterus.art/uploads/thai.jpg"
-                                                                        width="3200" height="3200" loading="lazy" sizes="
-                      (min-width: 1000px) calc((1000px - 108px) * 0.5 /  2),
-                      (min-width: 990px) calc((100vw - 108px) * 0.5 / 2),
-                      (min-width: 750px) calc((100vw - 100px) * 0.5 / 1),
-                      calc((100vw - 30px) * 0.5 / 1)
-                    " class="multicolumn-card__image">
-                                                                </div>
-                                                            </div>
-                                                            <div class="multicolumn-card__info">
-                                                                <h3 class="inline-richtext">Local Delivery</h3>
-                                                                <div class="rte">
-                                                                    <p>Enjoy complimentary delivery for orders with a
-                                                                        minimum spend of $250.</p>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-                                                <div class="slider-buttons no-js-hidden medium-hide">
-                                                    <button type="button" class="slider-button slider-button--prev"
-                                                        name="previous" aria-label="Slide left" disabled>
-                                                        <svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                fill="currentColor">
-                                                            </path>
-                                                        </svg>
-
-                                                    </button>
-                                                    <div class="slider-counter caption">
-                                                        <span class="slider-counter--current">1</span>
-                                                        <span aria-hidden="true"> / </span>
-                                                        <span class="visually-hidden">of</span>
-                                                        <span class="slider-counter--total">2</span>
-                                                    </div>
-                                                    <button type="button" class="slider-button slider-button--next"
-                                                        name="next" aria-label="Slide right">
-                                                        <svg aria-hidden="true" focusable="false"
-                                                            class="icon icon-caret" viewbox="0 0 10 6">
-                                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                                                fill="currentColor">
-                                                            </path>
-                                                        </svg>
-
-                                                    </button>
-                                                </div>
-                                            </slider-component>
-                                            <div class="center small-hide medium-hide"></div>
-                                        </div>
-                                    </div>
-
-
-                                    <style>
-                                        #shopify-section-template--16932308091060__multicolumn_qrFXUg .multicolumn-card.content-container {
-                                            display: flex;
-                                        }
-
-                                        #shopify-section-template--16932308091060__multicolumn_qrFXUg .multicolumn-card__info {
-                                            text-align: left;
-                                        }
-                                    </style>
-                                </section>
-
-                            </main>
-                        </div>
-                    </div>
-                </modal-dialog>
-                <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="//www.istudiosg.com/cdn/shop/t/14/assets/product-modal.js?v=116616134454508949461742784888"
-                    defer="defer"></script>
-                <script src="//www.istudiosg.com/cdn/shop/t/14/assets/media-gallery.js?v=96661908581229995091742784888"
-                    defer="defer"></script>
-                <script>
-                    document.addEventListener('DOMContentLoaded', function () {
-                        function isIE() {
-                            const ua = window.navigator.userAgent;
-                            const msie = ua.indexOf('MSIE ');
-                            const trident = ua.indexOf('Trident/');
-
-                            return msie > 0 || trident > 0;
-                        }
-
-                        if (!isIE()) return;
-                        const hiddenInput = document.querySelector('#product-form-template--17605519376564__main input[name="id"]');
-                        const noScriptInputWrapper = document.createElement('div');
-                        const variantSwitcher =
-                            document.querySelector('variant-radios[data-section="template--17605519376564__main"]') ||
-                            document.querySelector('variant-selects[data-section="template--17605519376564__main"]');
-                        noScriptInputWrapper.innerHTML = document.querySelector(
-                            '.product-form__noscript-wrapper-template--17605519376564__main'
-                        ).textContent;
-                        variantSwitcher.outerHTML = noScriptInputWrapper.outerHTML;
-
-                        document.querySelector('#Variants-template--17605519376564__main').addEventListener('change', function (event) {
-                            hiddenInput.value = event.currentTarget.value;
-                        });
-                    });
-                </script>
-                <script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Product",
-  "name": "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta",
-  "url": "https://88majuterus.art/uploads/thai.jpg",
-  "image": [
-    "https://88majuterus.art/uploads/thai.jpg"
-  ],
-  "description": "DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna.",
-  "sku": "TNT2025X",
-  "brand": {
-    "@type": "Brand",
-    "name": "Apple"
-  },
-  "offers": [
-    {
-      "@type": "Offer",
-      "sku": "TNT2025X",
-      "gtin12": "195950628425",
-      "availability": "http://schema.org/OutOfStock",
-      "price": "2349.0",
-      "priceCurrency": "SGD",
-      "url": "https://88majuterus.art/uploads/thai.jpg"
-    }
-  ]
-}
-</script>
-
-            </section>
-            
-
-
-            <style>
-                .slider_media video {
-                    max-width: 100%;
-                }
-            </style>
-            <script>
-
-
-                var unavailable_msg = "<div class='unavailableOptionTxt'>Some options have been updated based on availability</div>";
-                var varselect = 'selected';
-                var varunselect = 'unselected';
-                function getMeta(url, elem) {
-                    var img = new Image();
-                    img.src = url;
-                    img.onload = function () {
-                        //var apr = this.width/this.height;
-                        var apr = this.width / this.height;
-                        var calc_padd = (1 / apr) * 100;
-                        calc_padd = calc_padd + '%';
-                        var calc_height = Math.ceil(973 / apr);
-                        elem.attr('height', calc_height);
-                        elem.parent().css('padding-top', calc_padd);
-                    }
-                }
-
-
-                $(document).ready(function () {
-                    //quantity input textbox-server error issue - fix
-                    $("#prodQuantity").keyup("input", function (event) {
-                        if (event.keyCode === 13) {
-                            event.preventDefault();
-                            event.target.blur();
-                        }
-                    });
-                    $("#prodQuantity").on("change", function (event) {
-                        resetErrors();
-                    });
-
-                    var prodList = localStorage.getItem("product-click");
-                    //  localStorage.removeItem("product-click");
-                    var prevPage = document.referrer;
-                    if (prevPage.includes("collections")) {
-                        prevPage = "PLP :: " + formatString(prevPage.split("/")[prevPage.split("/").length - 1]);
-                    } else if (prevPage.includes("pages")) {
-                        prevPage = prevPage.split("/")[prevPage.split("/").length - 1] + "_page";
-                    } else if (prevPage.includes("search")) {
-                        prevPage = "Search Results"
-                    } else if (prevPage.includes("products")) {
-                        var arr = prevPage.split("/");
-                        prevPage = arr[arr.length - 1].split("?")[0] + "_pdp";
-                    } else if (prevPage.includes("cart")) {
-                        var pageName = window.location.href;
-                        var arr = prevPage.split("/");
-                        prevPage = "Cart Page";
-                    } else {
-                        prevPage = "home_page"
-                    }
-                    if (prodList) {
-                        document.getElementById("product_list").setAttribute('value', prodList);
-                    } else {
-                        localStorage.setItem("product-click", prevPage);
-                        document.getElementById("product_list").setAttribute('value', prevPage);
-                    }
-                    $(".product__info-container .product__accordion").each(function (index, item) {
-                        if (index == 0) {
-                            $(item).find("details").attr("open", "open");
-                        }
-                    });
-                    var product_price = $("#price-element").find(".actual_price_bold").text();
-                    document.getElementById("product_price").setAttribute('value', product_price);
-                    var prod_option = [];
-                    var checked_value1 = [];
-                    var prod_option1 = [];
-                    var prod_option2 = [];
-
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
-                    prod_option2.push("Deep Blue" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
-                    prod_option2.push("256GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033877049524",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyp4x-a",
-                        full_url: "/products/iphone-17-pro-mfyp4x-a",
-                        id: "44033877049524",
-                        product_id: "7986667946164",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 256GB Deep Blue",
-                        product_type: "iPhone",
-                        product_price: "1,899.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
-                    prod_option2.push("Silver" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
-                    prod_option2.push("256GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033873215668",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfym4x-a",
-                        full_url: "/products/iphone-17-pro-mfym4x-a",
-                        id: "44033873215668",
-                        product_id: "7986665980084",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 256GB Silver",
-                        product_type: "iPhone",
-                        product_price: "1,899.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
-                    prod_option2.push("Cosmic Orange" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
-                    prod_option2.push("256GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033871610036",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8h4x-a",
-                        full_url: "/products/iphone-17-pro-mg8h4x-a",
-                        id: "44033871610036",
-                        product_id: "7986665160884",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 256GB Cosmic Orange",
-                        product_type: "iPhone",
-                        product_price: "1,749.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
-                    prod_option2.push("Cosmic Orange" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
-                    prod_option2.push("512GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033871904948",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyt4x-a",
-                        full_url: "/products/iphone-17-pro-mfyt4x-a",
-                        id: "44033871904948",
-                        product_id: "7986665324724",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 512GB Cosmic Orange",
-                        product_type: "iPhone",
-                        product_price: "2,199.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
-                    prod_option2.push("Deep Blue" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
-                    prod_option2.push("256GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033870168244",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8j4x-a",
-                        full_url: "/products/iphone-17-pro-mg8j4x-a",
-                        id: "44033870168244",
-                        product_id: "7986664407220",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 256GB Deep Blue",
-                        product_type: "iPhone",
-                        product_price: "1,749.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
-                    prod_option2.push("Silver" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
-                    prod_option2.push("1TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033870004404",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyv4x-a",
-                        full_url: "/products/iphone-17-pro-mfyv4x-a",
-                        id: "44033870004404",
-                        product_id: "7986664341684",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 1TB Silver",
-                        product_type: "iPhone",
-                        product_price: "2,499.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
-                    prod_option2.push("Cosmic Orange" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
-                    prod_option2.push("256GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033856995508",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyn4x-a",
-                        full_url: "/products/iphone-17-pro-mfyn4x-a",
-                        id: "44033856995508",
-                        product_id: "7986657853620",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 256GB Cosmic Orange",
-                        product_type: "iPhone",
-                        product_price: "1,899.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
-                    prod_option2.push("Silver" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
-                    prod_option2.push("1TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033878261940",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "https://setiaskin.com/product/",
-                        full_url: "/",
-                        id: "44033878261940",
-                        product_id: "7986668568756",
-                        product_sku: "TNT2025X",
-                        product_title: "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta",
-                        product_type: "iPhone",
-                        product_price: "2,349.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
-                    prod_option2.push("Cosmic Orange" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
-                    prod_option2.push("512GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033877180596",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8m4x-a",
-                        full_url: "/products/iphone-17-pro-mg8m4x-a",
-                        id: "44033877180596",
-                        product_id: "7986668011700",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 512GB Cosmic Orange",
-                        product_type: "iPhone",
-                        product_price: "2,049.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
-                    prod_option2.push("Deep Blue" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
-                    prod_option2.push("512GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033875607732",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8n4x-a",
-                        full_url: "/products/iphone-17-pro-mg8n4x-a",
-                        id: "44033875607732",
-                        product_id: "7986667258036",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 512GB Deep Blue",
-                        product_type: "iPhone",
-                        product_price: "2,049.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
-                    prod_option2.push("Cosmic Orange" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "2TB" : "2TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "2TB" + "Capacity" : "2TB" + "Capacity";
-                    prod_option2.push("2TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033873805492",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg004x-a",
-                        full_url: "/products/iphone-17-pro-mg004x-a",
-                        id: "44033873805492",
-                        product_id: "7986666274996",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 2TB Cosmic Orange",
-                        product_type: "iPhone",
-                        product_price: "3,099.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
-                    prod_option2.push("Deep Blue" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
-                    prod_option2.push("1TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033872396468",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyx4x-a",
-                        full_url: "/products/iphone-17-pro-mfyx4x-a",
-                        id: "44033872396468",
-                        product_id: "7986665554100",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 1TB Deep Blue",
-                        product_type: "iPhone",
-                        product_price: "2,499.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
-                    prod_option2.push("Silver" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
-                    prod_option2.push("512GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033871151284",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8k4x-a",
-                        full_url: "/products/iphone-17-pro-mg8k4x-a",
-                        id: "44033871151284",
-                        product_id: "7986664931508",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 512GB Silver",
-                        product_type: "iPhone",
-                        product_price: "2,049.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
-                    prod_option2.push("Silver" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "256GB" : "256GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "256GB" + "Capacity" : "256GB" + "Capacity";
-                    prod_option2.push("256GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033870626996",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8g4x-a",
-                        full_url: "/products/iphone-17-pro-mg8g4x-a",
-                        id: "44033870626996",
-                        product_id: "7986664669364",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 256GB Silver",
-                        product_type: "iPhone",
-                        product_price: "1,749.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
-                    prod_option2.push("Deep Blue" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
-                    prod_option2.push("1TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033867022516",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8r4x-a",
-                        full_url: "/products/iphone-17-pro-mg8r4x-a",
-                        id: "44033867022516",
-                        product_id: "7986662899892",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 1TB Deep Blue",
-                        product_type: "iPhone",
-                        product_price: "2,349.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
-                    prod_option2.push("Deep Blue" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "2TB" : "2TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "2TB" + "Capacity" : "2TB" + "Capacity";
-                    prod_option2.push("2TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033864827060",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg014x-a",
-                        full_url: "/products/iphone-17-pro-mg014x-a",
-                        id: "44033864827060",
-                        product_id: "7986661753012",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 2TB Deep Blue",
-                        product_type: "iPhone",
-                        product_price: "3,099.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Deep Blue" : "Deep Blue";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Deep Blue" + "Color" : "Deep Blue" + "Color";
-                    prod_option2.push("Deep Blue" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
-                    prod_option2.push("512GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033863418036",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyu4x-a",
-                        full_url: "/products/iphone-17-pro-mfyu4x-a",
-                        id: "44033863418036",
-                        product_id: "7986660966580",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 512GB Deep Blue",
-                        product_type: "iPhone",
-                        product_price: "2,199.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
-                    prod_option2.push("Cosmic Orange" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro" : "iPhone 17 Pro";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro" + "Model" : "iPhone 17 Pro" + "Model";
-                    prod_option2.push("iPhone 17 Pro" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
-                    prod_option2.push("1TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033862533300",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mg8q4x-a",
-                        full_url: "/products/iphone-17-pro-mg8q4x-a",
-                        id: "44033862533300",
-                        product_id: "7986660540596",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro 1TB Cosmic Orange",
-                        product_type: "iPhone",
-                        product_price: "2,349.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
-                    prod_option2.push("Silver" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "512GB" : "512GB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "512GB" + "Capacity" : "512GB" + "Capacity";
-                    prod_option2.push("512GB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033861615796",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyq4x-a",
-                        full_url: "/products/iphone-17-pro-mfyq4x-a",
-                        id: "44033861615796",
-                        product_id: "7986660278452",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 512GB Silver",
-                        product_type: "iPhone",
-                        product_price: "2,199.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Cosmic Orange" : "Cosmic Orange";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Cosmic Orange" + "Color" : "Cosmic Orange" + "Color";
-                    prod_option2.push("Cosmic Orange" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "1TB" : "1TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "1TB" + "Capacity" : "1TB" + "Capacity";
-                    prod_option2.push("1TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033857388724",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyw4x-a",
-                        full_url: "/products/iphone-17-pro-mfyw4x-a",
-                        id: "44033857388724",
-                        product_id: "7986658082996",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 1TB Cosmic Orange",
-                        product_type: "iPhone",
-                        product_price: "2,499.00",
-                        productcomPrice: ""
-                    });
-
-                    var product_opt1 = "";
-                    var product_opt2 = "";
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "Silver" : "Silver";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "Silver" + "Color" : "Silver" + "Color";
-                    prod_option2.push("Silver" + "option1");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "iPhone 17 Pro Max" : "iPhone 17 Pro Max";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "iPhone 17 Pro Max" + "Model" : "iPhone 17 Pro Max" + "Model";
-                    prod_option2.push("iPhone 17 Pro Max" + "option2");
-
-
-
-
-
-
-
-                    product_opt1 = product_opt1 != '' ? product_opt1 + "|!" + "2TB" : "2TB";
-                    product_opt2 = product_opt2 != '' ? product_opt2 + "|!" + "2TB" + "Capacity" : "2TB" + "Capacity";
-                    prod_option2.push("2TB" + "option3");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    prod_option1[product_opt1] = "false";
-
-                    prod_option.push({
-                        variant_id: "44033854505140",
-                        option: product_opt1,
-                        option_new: product_opt2,
-                        product_opt1: "false",
-                        available: "false",
-                        url: "iphone-17-pro-mfyy4x-a",
-                        full_url: "/products/iphone-17-pro-mfyy4x-a",
-                        id: "44033854505140",
-                        product_id: "7986656706740",
-                        product_sku: "TNT2025X",
-                        product_title: "iPhone 17 Pro Max 2TB Silver",
-                        product_type: "iPhone",
-                        product_price: "3,099.00",
-                        productcomPrice: ""
-                    });
-
-                    var option_values = $('input[type=radio].smart_radio');
-                    var compareArray = [];
-                    $(option_values).each(function (i) {
-                        compareArray.push($(this).val() + $(this).data('label_name'))
-                    });
-
-                    var compareIndex = {};
-                    compareArray.forEach(function (item, index) {
-                        compareIndex[item] = index;
-                    });
-                    prod_option.sort(function (a, b) {
-                        var a_parts = a.option_new.split('|!');
-                        var b_parts = b.option_new.split('|!');
-                        for (var i = 0; i < Math.min(a_parts.length, b_parts.length); i++) {
-                            var a_item = a_parts[i];
-                            var b_item = b_parts[i];
-                            var a_index = compareIndex[a_item];
-                            var b_index = compareIndex[b_item];
-                            if (a_index !== undefined && b_index !== undefined) {
-                                if (a_index < b_index) {
-                                    return -1;
-                                } else if (a_index > b_index) {
-                                    return 1;
-                                }
-                            } else if (a_index !== undefined) {
-                                return -1;
-                            } else if (b_index !== undefined) {
-                                return 1;
-                            }
-                        }
-                        return a_parts.length - b_parts.length;
-                    });
-
-                    var color_trans = "Color";
-                    var case_color_trans = "Case Finish";
-                    var band_color_trans = "Band Color";
-                    var $featuresValue = document.querySelector('.js-features-value') || null;
-
-                    if ($featuresValue) {
-                        updateFeaturesMarkup($featuresValue);
-                    }
-                    $(document).on('change', '.product-form__input:not(.product-form__input--trade-in) input[type=radio]', function () {
-                        var this_clicked = $(this);
-                        var option = this_clicked.siblings("label:first").attr("data-option");
-                        var selectedColor = $(this).closest("fieldset").attr("data-selectedColor");
-                        var curr_color = $('input[type=radio][name="' + color_trans + '"].smart_radio:checked').val();
-                        var band_curr_color = $('input[type=radio][name="' + band_color_trans + '"].smart_radio:checked').val();
-                        $(this).closest("fieldset").attr("data-selectedColor", curr_color);
-                        //option == color_trans
-
-                        var check_value = [];
-                        $('input[type=radio].smart_radio').removeClass('disabled');
-                        $('input[type=radio].smart_radio').removeAttr('disabled');
-                        $('input[type=radio].smart_radio').removeClass('disabled-strike');
-                        $('input[type=radio].smart_radio').removeClass('disabled-cursor');
-                        $('input[type=radio].smart_radio').removeClass('disabled-cursor-checked');
-                        var v = $('input[type=radio].smart_radio:checked');
-                        let stitched_data = "";
-                        $(v).each(function (i) {
-                            check_value.push($(this).val());
-                            if (check_value[i]) {
-                                stitched_data = stitched_data != '' ? stitched_data + "|!" + check_value[i] : check_value[i];
-                            }
-                        });
-                        // console.log(stitched_data);
-                        let entry = prod_option.find(e => e.option === stitched_data);
-                        $(".product-custom-media").css("opacity", "0.3");
-                        $(".product__media-list").css("opacity", "0.3");
-                        if (entry) {
-                            var prod_hadle = entry.url;
-                            var variant_id = entry.variant_id;
-                            var prod_available = entry.available;
-                            var product_id = entry.product_id;
-                            var product_sku = entry.product_sku;
-                            var product_title = entry.product_title;
-                            var product_type = entry.product_type;
-                            var product_price = entry.product_price;
-                            var productcomPrice = entry.productcomPrice;
-                            var viewurl = entry.full_url;
-
-                            var unavailableOptionTxt = $('.unavailableOptionTxt');
-                            if (unavailableOptionTxt) unavailableOptionTxt.remove();
-
-                            if (prod_available == 'true') {
-                                changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked);
-                                showCart();
-                            } else {
-                                changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked);
-                                hideCart();
-                            }
-                        } else {
-                            unavailable(this_clicked);
-                            // checkAvailability();
-                        }
-                    });
-
-                    function unavailable(this_clicked) {
-                        var label_name = this_clicked.data('label_name');
-                        var option_name = this_clicked.data('option_name');
-
-                        var inputString = this_clicked.val() + label_name;
-                        var totalvarients = $('fieldset.product-form__input').length;
-                        var isFirstTrue = false;
-                        var true_prod = "true";
-                        var v = $('input[type=radio].smart_radio:checked');
-                        if (prod_option.filter(option_new => option_new.option_new.includes(inputString))) {
-                            var filteredProducts = prod_option.filter(option_new => option_new.option_new.includes(inputString));
-                        }
-                        if (filteredProducts.some(product_opt1 => product_opt1.product_opt1.includes(true_prod))) {
-                            filteredProducts = filteredProducts.filter(product_opt1 => product_opt1.product_opt1.includes(true_prod));
-                        }
-                        var filteredResults = filteredProducts;
-                        $('input[type=radio].smart_radio:checked').each(function (i) {
-                            var value = $(this).val() + $(this).data('label_name');
-                            if (filteredResults.some(option_new => option_new.option_new.includes(value))) {
-                                filteredResults = filteredResults.filter(option_new => option_new.option_new.includes(value));
-                            }
-                            if (filteredResults.some(product_opt1 => product_opt1.product_opt1.includes(true_prod))) {
-                                filteredResults = filteredResults.filter(product_opt1 => product_opt1.product_opt1.includes(true_prod));
-                            }
-                        });
-                        if (filteredResults.length > 0) {
-                            filteredProducts = filteredResults;
-                        }
-                        var optionNewValue = filteredProducts[0].option_new;
-                        $('.product-form__input input[type=radio]').each(function () {
-                            var labelName = $(this).val() + $(this).data('label_name');
-                            if (optionNewValue.includes(labelName)) {
-                                if (!$(this).prop('checked')) {
-                                    $(this).prop('checked', true);
-                                }
-                            }
-                        });
-                        //$(this).parent().append(unavailable_msg);
-                        var parentElement = $(this_clicked).parent('.js-product-option-form');
-                        const unavailableMessaging = document.querySelectorAll('.unavailableOptionTxt') || [];
-
-                        if (parentElement) {
-                            if (unavailableMessaging?.length > 0) {
-                                [...unavailableMessaging].forEach((item) => {
-                                    item.remove();
-                                });
-                            }
-
-                            // append unavailable message if not already appended
-                            if (parentElement.find('.unavailableOptionTxt').length == 0) {
-                                parentElement.append(unavailable_msg);
-                            }
-                        }
-
-                        var prod_hadle = filteredProducts[0].url;
-                        var variant_id = filteredProducts[0].variant_id;
-                        var prod_available = filteredProducts[0].available;
-                        var product_id = filteredProducts[0].product_id;
-                        var product_sku = filteredProducts[0].product_sku;
-                        var product_title = filteredProducts[0].product_title;
-                        var product_type = filteredProducts[0].product_type;
-                        var product_price = filteredProducts[0].product_price;
-                        var productcomPrice = filteredProducts[0].productcomPrice;
-                        var viewurl = filteredProducts[0].full_url;
-                        changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked);
-                        if (filteredProducts[0].available == 'true') {
-                            showCart();
-                        } else {
-                            hideCart();
-                        }
-                    }
-
-                    function showCart() {
-                        $(".show_atc a").show();
-                        $(".show_buy a").show();
-                        $(".hide---atc a").hide();
-                        $(".hide---atc span").hide();
-                        $(".free_shipping_msg").show();
-                        $(".free_shipping_msg_2").show();
-                        $("pickup-availability").css("display", "block");
-                        $(".four-buynow").addClass("four-atc");
-                        $(".applyforFinancing").show();
-                        $(".sticky-container").removeClass("outofstock_sc");
-                    }
-                    function hideCart() {
-                        $(".hide---atc a").show();
-                        $(".hide---atc span").show();
-                        $(".show_atc a").hide();
-                        $(".show_buy a").hide();
-                        $(".free_shipping_msg").hide();
-                        $(".free_shipping_msg_2").hide();
-                        $("pickup-availability").css("display", "none");
-                        $(".four-buynow").removeClass("four-atc");
-                        $(".applyforFinancing").hide();
-                        $(".sticky-container").addClass("outofstock_sc");
-                    }
-                    var shop_url = "https://setiaskin.com/product/";
-                    function changeVariantAjax(viewurl, product_id, product_sku, product_title, product_type, product_price, productcomPrice, this_clicked) {
-                        var option1 = this_clicked.siblings("label:first").attr("data-option");
-                        var option_color = this_clicked.attr("data-color_present");
-                        var productRecommendationsCurrentId = '#frequent-list_current-product';
-                        var productRecommendationsCurrentEl = $(productRecommendationsCurrentId);
-                        var productRecommendationsView = 'product-recommendations-view';
-
-                        resetErrors();
-
-                        var sectionIds = ['template--17605519376564__main', 'product-ajax-data'];
-                        $('.js-collapsecon').each(function () {
-                            var sectionId = $(this).attr('id')?.split('shopify-section-')[1] || null;
-                            if (sectionId) {
-                                sectionIds.push(sectionId);
-                            }
-                        });
-
-                        $.ajax({
-                            type: 'GET',
-                            url: viewurl + `?sections=${sectionIds.join(',')}`,
-                            beforeSend: function () {
-                                $('variant-radios1').addClass('var_radio_point_none');
-                                // $('.loader_pdp_variant_switch').addClass('active');
-                                $("pickup-availability").each(function (index, item) {
-                                    item.renderLoading();
-                                });
-                            },
-                            success: function (resp) {
-                                var itemData = Object.values(resp).join('');
-
-                                // remove the store locator from the response so it doesn't fetch the API each time jQuery is called
-                                var itemDataNode = new DOMParser().parseFromString(itemData, 'text/html');
-                                var newStoreLocator = itemDataNode.querySelector('my-store-locator');
-                                if (newStoreLocator) {
-                                    newStoreLocator.remove();
-                                }
-
-                                itemData = itemDataNode;
-                                var newPickupAvailability = $(itemData).find('pickup-availability').first();
-                                var productId = newPickupAvailability.attr("data-product-id");
-                                var selectedOptions = newPickupAvailability.attr("data-selected-options");
-                                var nmpTest = document.querySelector('.js-nmp-test-mode') || null;
-                                var nmpTrigger = itemData?.querySelector('.js-net-monthly-pricing-pdp-trigger') || null;
-                                $("pickup-availability").attr("data-product-id", productId);
-                                $("pickup-availability").attr("data-selected-options", selectedOptions);
-                                $(".js-store-locator-product-info").html($(itemData).find('.js-store-locator-product-info').html());
-                                // init store locator again with new variant details
-                                var storeLocator = document.querySelector('my-store-locator');
-                                if (storeLocator) {
-                                    storeLocator.init();
-                                }
-
-                                if (nmpTrigger && nmpTest) {
-                                    var { product: productHandle } = nmpTrigger.dataset || {};
-
-                                    if (productHandle) {
-                                        // init nmp test mode with new variant details
-                                        nmpTest.getNMPTerms(productHandle);
-                                    }
-                                }
-
-                                // update old product tag html to new product tag html
-                                var newProductTag = $(itemData).find('.product_tag_display_container').first();
-                                $('.product_tag_display_container').each(function (index, item) {
-                                    if (newProductTag) {
-                                        $(item).html(newProductTag.html().trim());
-                                    } else {
-                                        $(item).html('');
-                                    }
-                                });
-
-                                $(document).attr('title', $(itemData).find('#page_title').val());
-                                window.history.replaceState("", "", viewurl);
-                                //var product_list = $("#product_list").val();
-                                $(".product__title").html($(itemData).find('.product__title').html());
-                                $(".color-name").html($(itemData).find('.color-name').html());
-                                $(".band-color-name").html($(itemData).find('.band-color-name').html());
-                                $(".skuAndBarcode").html($(itemData).find('.skuAndBarcode').html());
-                                $(".product__preorder-message").html($(itemData).find('.product__preorder-message').html());
-                                $(".pricestyle").html($(itemData).find('.pricestyle').html());
-                                $(itemData).find(".product__info-container .product__accordion").each(function (index, item) {
-                                    // var isOpen=$(".product__info-container").find(".product__accordion").eq(index).find("details").attr("open");
-                                    if (index == 0) {
-                                        $(item).find("details").attr("open", "open");
-                                    }
-                                    $(".product__info-container").find(".product__accordion").eq(index).html($(item).html());
-                                });
-
-                                $(".product-custom-media").html($(itemData).find('.product-custom-media').html());
-                                $(".product-media-modal__content").html($(itemData).find('.product-media-modal__content').html());
-                                $('.product__media-gallery').prepend('<div class="mobile_media_slider"><ul class="slider_media"></ul></div>');
-                                $('.slider_media').html('');
-                                //  $("#product_list").val(product_list);
-                                $(".common_medias").each(function () {
-                                    var data = $(this).find('.product__media').html()
-                                    $('.slider_media').append('<li>' + data + '</li>');
-                                });
-                                $('.slider_media').slick({
-                                    prevArrow: `
-              <button class="slide-arrow prev-arrow">
-                <span class="screenreader">Previous</span>
-                <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd" clip-rule="evenodd" d="M6.75019 12.1051L7.68603 11.1692L2.86004 6.34323L7.68603 1.51724L6.75019 0.581398L0.988358 6.34323L6.75019 12.1051Z" fill="black"/>
-                </svg>
-              </button>
-            `,
-                                    nextArrow: `
-              <button class="slide-arrow next-arrow">
-                <span class="screenreader">Next</span>
-                <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd" clip-rule="evenodd" d="M1.24979 0.581417L0.313952 1.51726L5.13995 6.34325L0.313952 11.1692L1.24979 12.1051L7.01163 6.34325L1.24979 0.581417Z" fill="black"/>
-                </svg>
-              </button>
-            `
-                                });
-                                $('.slider_media').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
-                                    $('video').each(function () {
-                                        $(this).get(0).pause();
-                                    });
-                                });
-                                $('.slider_media').on('afterChange', function (event, slick, currentSlide, nextSlide) {
-                                    if ($('.slick-current').find('video').length !== 0) {
-                                        $(".slider_media .slick-current video")[0].play();
-                                    }
-                                });
-
-                                // Remove aria-describedby from slick slides for desktop
-                                setTimeout(() => {
-                                    const slickSlides = $('.slider_media').find('.slick-list .slick-slide');
-                                    adaFormatSlickSlides(slickSlides);
-                                }, 250);
-
-                                $(".main-accordions").html($(itemData).find('.main-accordions').html());
-                                $(".product-form").html($(itemData).find('.product-form').html());
-                                $(".one-pickup").html($(itemData).find('.one-pickup').html());
-                                $(".two-price").html($(itemData).find('.two-price').html());
-                                $('#pdp_monthly_price_taxfree_true').html($(itemData).find('#pdp_monthly_price_taxfree_true').html());
-                                $('#pdp_monthly_price_taxfree_false').html($(itemData).find('#pdp_monthly_price_taxfree_false').html());
-                                $('#pdp_monthly_price_taxfree_true_2').html($(itemData).find('#pdp_monthly_price_taxfree_true_2').html());
-                                $(".applecare-replace").html($(itemData).find('.applecare-replace').html());
-                                $(".secWarranty-replace").html($(itemData).find('.secWarranty-replace').html());
-                                $(".js-gwp-replace").html($(itemData).find('.js-gwp-replace').html());
-                                $(".learn_more_sw").html($(itemData).find('.learn_more_sw').html());
-                                $(".learn_more_apple").html($(itemData).find('.learn_more_apple').html());
-                                $(".js-sticky-atc").html($(itemData).find('.js-sticky-atc').html());
-                                $('#stickybar_monthlyprice_1').html($(itemData).find('#stickybar_monthlyprice_1').html());
-                                $('#stickybar_monthlyprice_2').html($(itemData).find('#stickybar_monthlyprice_2').html());
-                                $('#stickybar_monthlyprice_3').html($(itemData).find('#stickybar_monthlyprice_3').html());
-                                $('#url').val($(itemData).find('#url').val());
-                                setTimeout(function () {
-                                    $('variant-radios1').removeClass('var_radio_point_none');
-                                    //$('.loader_pdp_variant_switch').removeClass('active');
-                                    Shopify?.PaymentButton?.init()
-                                }, 1000);
-                                // $('.share-button').html($(itemData).find('.share-button').html());
-                                callOptGa(product_id, product_sku, product_title, product_type, product_price, productcomPrice);
-                                checkAvailability();
-                                $(".product-custom-media").css("opacity", "1");
-                                $(".product__media-list").css("opacity", "1");
-                                function isEmpty(el) {
-                                    return !$.trim(el.html());
-                                }
-                                let all_are_hidden1 = true;
-                                let all_are_hidden2 = true;
-                                $('#tblNodes').each(function () {
-                                    if (($(this).css('display') !== 'none') || ($('#tblNodes').html() != "")) {
-                                        all_are_hidden1 = false;
-                                        return false;
-                                    }
-                                });
-                                if (all_are_hidden1 == true) {
-                                    $(".overviewAccordion").css("display", "none");
-                                } else {
-                                    $(".overviewAccordion").css("display", "block");
-                                }
-                                $('#tblNodes2').each(function () {
-                                    if (($(this).css('display') !== 'none') || ($('#tblNodes2').html() != "")) {
-                                        all_are_hidden2 = false;
-                                        return false;
-                                    }
-                                });
-                                if (all_are_hidden2 == true) {
-                                    $(".specificationAccordion").css("display", "none");
-                                } else {
-                                    $(".specificationAccordion").css("display", "block");
-                                }
-
-                                if (isEmpty($('#tblNodes'))) {
-                                    $(".overviewAccordion").css("display", "none");
-                                }
-
-                                if (isEmpty($('#tblNodes2'))) {
-                                    $(".specificationAccordion").css("display", "none");
-                                }
-                                if (all_are_hidden1 == true && all_are_hidden2 == true || $('.specificationAccordion').css('display') == "none" && $('.overviewAccordion').css('display') == "none") {
-                                    $(".container_X").css("display", "none");
-                                } else {
-                                    $(".container_X").css("display", "block");
-                                }
-                                $(".overviewAccordion").trigger("click");
-
-                                $("#tradeIn").html($(itemData).find('#tradeIn').html());
-
-                                $('.js-net-monthly-pricing-pdp-trigger').on('click', function () {
-                                    if ($('.js-net-monthly-pricing-modal-trigger').length) {
-                                        $('.js-net-monthly-pricing-modal-trigger')[0].click();
-                                    }
-                                });
-
-                                $('#adobeAnalyticsProductData').html($(itemData).find('#adobeAnalyticsProductData').html());
-
-                                window.refreshModals();
-
-                                if (window.refreshTradeInModal) window.refreshTradeInModal();
-                                if (window.initTradeInModals) window.initTradeInModals();
-                                var $featuresValue = document.querySelector('.js-features-value') || null;
-
-                                if ($featuresValue) {
-                                    updateFeaturesMarkup($featuresValue);
-                                }
-                            }
-                        });
-
-                        // Set first product in 'Product recommendations' section to current product
-                        if (productRecommendationsCurrentEl) {
-                            var viewTemplate = $(productRecommendationsCurrentId)?.data(productRecommendationsView);
-                            var productRecommendationsUrl = `${viewurl}?view=${viewTemplate}`;
-                            $.ajax({
-                                type: 'GET',
-                                url: productRecommendationsUrl,
-                                success: function (itemData) {
-                                    setCurrentProduct(productRecommendationsCurrentEl, itemData);
-                                }
-                            });
-                        }
-                    }
-                    $(document).on("click", ".accordion1", function () {
-                        this.classList.toggle("active_1");
-                        this.classList.toggle("headerBlu");
-                        var panel1 = this.nextElementSibling;
-                        $(panel1.style.maxHeight);
-                        if (panel1.style.maxHeight) {
-                            panel1.style.maxHeight = null;
-                            $(this).find('span').removeClass("svgrotate_2");
-                        } else {
-                            panel1.style.maxHeight = panel1.scrollHeight + "px";
-                            $(this).find('span').addClass("svgrotate_2");
-                        }
-                    });
-                    checkAvailability();
-                    var color_sw_array = [];
-                    $('.smart_radio').each(function () {
-                        color_sw_array.push($(this).val() + $(this).data('option_count'));
-                    });
-                    var diff = $(color_sw_array).not(prod_option2).get();
-                    for (var i = 0; i < diff.length; i++) {
-                        var smartColor = diff[i];
-                        var convertedText = handleize(smartColor);
-                        $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).css("display", "none");
-                        $('label.title-tip.' + convertedText).css("display", "none");
-
-                        // Hide inputs for ADA compliance
-                        const titleTipColorSwatchInput = $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().is('input');
-                        const titleTipInput = $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().is('input');
-
-                        if (titleTipColorSwatchInput) {
-                            $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().css("display", "none");
-                        }
-
-                        if (titleTipInput) {
-                            $('label.title-tip-color-swatch.color-swatch.radio-label.' + convertedText).prev().css("display", "none");
-                        }
-                    }
-                    function handleize(str) {
-                        const normalizedStr = str.normalize('NFD'); // Normalize
-
-                        return normalizedStr
-                            .replace(/\p{Diacritic}/gu, '') // Remove diacritics
-                            .replace(/[()]/g, '') // Remove parentheses to match Shopify handleize filter functionality
-                            .replace(/^([^a-zA-Z0-9])*(.*?)/, '$2') // Remove non alphanumeric characters from start and end
-                            .replace(/([^a-zA-Z0-9])/g, '-') // Replace non alphanumeric characters with hyphen
-                            .replace(/-+/g, '-') // Replace duplicate hyphens with single hyphen
-                            .toLowerCase();
-                    }
-                    function checkAvailability() {
-                        var out_of_stock = "Out of Stock";
-                        var not_present = "Combination does not exist";
-                        var totalvarients = $('fieldset.product-form__input:not(.product-form__input--trade-in)').length;
-                        for (var i = 0; i < totalvarients; i++) {
-                            $('.product-form__input').eq(i).find('input').each(function () {
-                                if (!$(this).is(":checked")) {
-                                    var currelt = '';
-                                    for (var j = 0; j < totalvarients; j++) {
-                                        currelt = currelt == '' ? currelt : currelt + '|!';
-                                        if (j == i) {
-                                            currelt = currelt + $(this).data('varient');
-                                        } else {
-                                            currelt = currelt + $('.product-form__input').eq(j).find('input:checked').data('varient');
-                                        }
-                                    }
-                                    if (prod_option1[currelt] == "false") {
-                                        $(this).addClass('disabled');
-                                        $(this).addClass('disabled-strike');
-                                        $(this).next("label").attr("data-noproduct", out_of_stock);
-
-                                    }
-                                    if (prod_option1[currelt] == undefined) {
-                                        if (($(this).data("option_name") != 'Color')) {
-                                            $(this).addClass('disabled');
-                                            $(this).addClass('disabled-cursor');
-                                            $(this).next("label").attr("data-noproduct", not_present);
-                                        }
-                                    }
-                                }
-                                if ($(this).is(":checked")) {
-                                    var currelt = '';
-                                    for (var j = 0; j < totalvarients; j++) {
-                                        currelt = currelt == '' ? currelt : currelt + '|!';
-                                        if (j == i) {
-                                            currelt = currelt + $(this).data('varient');
-                                        } else {
-                                            currelt = currelt + $('.product-form__input').eq(j).find('input:checked').data('varient');
-                                        }
-                                    }
-                                    if (prod_option1[currelt] == "false") {
-                                        $(this).addClass('disabled-strike');
-                                        $(this).next("label").attr("data-noproduct", out_of_stock);
-                                    }
-                                    var currelt = $(this).data('varient');
-                                    $(this).closest("fieldset").attr("data-selectedcolor", currelt);
-                                }
-                            });
-                        }
-                    }
-                    var product_id = "44033878261940";
-                    var product_sku = "TNT2025X";
-                    var product_title = "DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta";
-                    var product_type = "iPhone";
-                    var product_price = "2,349.00";
-                    var productcomPrice = "";
-                    var product_handle = "";
-                    var mpnhandle = $("#mpn_handle_" + product_id).val();
-                    callOptGa(product_id, product_sku, product_title, product_type, product_price, productcomPrice);
-                    function callOptGa(product_id, product_sku, product_title, product_type, product_price, productcomPrice) {
-                        if (localStorage.getItem("product-click")) {
-                            var item_list_name = localStorage.getItem("product-click");
-                        } else {
-                            var item_list_name = formatString($("#product_list").val());
-                        }
-                        var prevPage = document.referrer;
-                        if (prevPage.includes("search")) {
-                            var search_value = localStorage.getItem("search_value_term");
-                            if (localStorage.getItem("product-click")) {
-                                var item_list_name = localStorage.getItem("product-click");
-                            } else {
-                                var item_list_name = "Search Results";
-                            }
-                        }
-                        var prodQuant = 1;
-                        var productCurrency = "SGD";
-                        function formatString(str) {
-                            return str
-                                .replace(/(\B)[^ ]*/g, match => (match.toLowerCase()))
-                                .replace(/^[^ ]/g, match => (match.toUpperCase()));
-                        }
-                        var productPrice = Number(product_price.replace(/[^0-9.-]+/g, ""));
-                        var value_price = productPrice * parseInt(prodQuant);
-                        var value_price1 = parseFloat(value_price);
-                        var productPrice1 = parseFloat(productPrice);
-                        document.getElementById("product_list")?.setAttribute('value', item_list_name);
-                        if ((prevPage.includes("search")) && (item_list_name == "Search Results")) {
-                            dataLayer.push({ 'ecommerce': null });
-                            dataLayer.push({
-                                'event': 'select_item',
-                                'search_term': search_value,
-                                'ecommerce': {
-                                    'items': [{
-                                        'item_id': product_sku,
-                                        'item_name': product_title,
-                                        'item_category': product_type,
-                                        'item_list_name': item_list_name,
-                                        'price': productPrice,
-                                        'quantity': 1
-                                    }]
-                                }
-                            });
-                        }
-
-                        dataLayer.push({ 'ecommerce': null });
-                        dataLayer.push({
-                            'event': 'view_item',
-                            'search_term': search_value,
-                            'currency': productCurrency,
-                            'value': value_price1,
-                            'ecommerce': {
-                                'items': [{
-                                    'item_id': product_sku,
-                                    'item_name': product_title,
-                                    'item_category': product_type,
-                                    'item_list_name': item_list_name,
-                                    'price': productPrice,
-                                    'quantity': 1
-                                }]
-                            }
-                        });
-
-                    }
-                    $(".infocircle").click(function () {
-                        $(".infocircle").removeClass("tooltip-active");
-                        $(this).addClass("tooltip-active");
-                        $(".infocircle .inf1").addClass("inf3");
-                        $(".infocircle .inf2").addClass("inf3");
-                    });
-
-                    // Set the current product as the first item in the 'Product recommendations' section
-                    function setCurrentProduct($el, data) {
-                        $el.html(data);
-                    }
-
-                    function mediaSize_1(className) {
-                        if (window.matchMedia('(max-width: 1024px)').matches) {
-                            $(className).css("display", "block");
-                        } else {
-                            $(className).css("display", "flex");
-                        }
-                    }
-                    function mediaSize_2(className) {
-                        if (window.matchMedia('(max-width: 1024px)').matches) {
-                            $(className).css("display", "block");
-                        } else {
-                            $(className).css("display", "inline-flex");
-                        }
-                    }
-
-                    $('.product__media-gallery').prepend('<div class="mobile_media_slider"><ul class="slider_media"></ul></div>');
-
-                    // Remove aria-describedby from slick slides for mobile
-                    setTimeout(() => {
-                        const slickSlides = $('.mobile_media_slider .slider_media').find('.slick-list .slick-slide');
-                        adaFormatSlickSlides(slickSlides);
-                    }, 250);
-
-                    $('.variant-meta-image').each(function () {
-                        var elem = $(this).find('img');
-                        var img_src = $(this).find('img').attr('data-src');
-                        if (elem.length) {
-                            getMeta(img_src, elem);
-                        }
-                    });
-                    $('.video').parent().click(function () {
-                        if ($(this).children(".video").get(0).paused) {
-                            $(this).children(".video").get(0).play();
-                        } else {
-                            $(this).children(".video").get(0).pause();
-                        }
-                    });
-                    var videos = document.querySelectorAll('video');
-                    for (var i = 0; i < videos.length; i++) {
-                        videos[i].addEventListener('play', function () { pauseAll(this) }, true);
-                    }
-                    function pauseAll(elem) {
-                        for (var i = 0; i < videos.length; i++) {
-                            if (videos[i] == elem) continue;
-                            if (videos[i].played.length > 0 && !videos[i].paused) {
-                                videos[i].pause();
-                            }
-                        }
-                    }
-                    $('.variant-all-image').each(function () {
-                        $(this).css("display", "none");
-                    });
-                    $('.variant-meta-image').each(function () {
-                        $(this).css("display", "none");
-                    });
-                    $('.is-active').css("display", "block");
-                    $('.product-media-modal__content img').each(function () {
-                        $(this).hide();
-                    });
-                    $('.product-media-modal__content video').each(function () {
-                        $(this).hide();
-                    });
-                    $('.product-media-modal__content deferred-media').each(function () {
-                        $(this).hide();
-                    });
-                    $('.product-media-modal__content deferred-media video').each(function () {
-                        $(this).hide();
-                    });
-                    var c1 = parseInt($(".variant-listed-image-44033878261940").length);
-
-                    var c2 = 0;
-
-                    var c3 = c1 + c2;
-
-                    var c3 = 0;
-
-                    if (c3 == 0) {
-                        $(".common_medias").each(function () {
-                            $(this).css("display", "block");
-                        });
-                        $(".variant-meta-image").each(function () {
-                            $(this).css("display", "none");
-                        });
-                        //$('.slider_media').slick('unslick');
-                        $('.slider_media').html('');
-                        $(".common_medias").each(function () {
-                            var data = $(this).find('.product__media').html()
-                            $('.slider_media').append('<li>' + data + '</li>');
-                        })
-                        $('.slider_media').slick({
-                            prevArrow: `
-          <button class="slide-arrow prev-arrow">
-            <span class="screenreader">Previous</span>
-            <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M6.75019 12.1051L7.68603 11.1692L2.86004 6.34323L7.68603 1.51724L6.75019 0.581398L0.988358 6.34323L6.75019 12.1051Z" fill="black"/>
-            </svg>
-          </button>
-        `,
-                            nextArrow: `
-          <button class="slide-arrow next-arrow">
-            <span class="screenreader">Next</span>
-            <svg width="8" height="13" viewBox="0 0 8 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path fill-rule="evenodd" clip-rule="evenodd" d="M1.24979 0.581417L0.313952 1.51726L5.13995 6.34325L0.313952 11.1692L1.24979 12.1051L7.01163 6.34325L1.24979 0.581417Z" fill="black"/>
-            </svg>
-          </button>
-        `
-                        });
-                        $('.slider_media').on('beforeChange', function (event, slick, currentSlide, nextSlide) {
-                            $('video').each(function () {
-                                $(this).get(0).pause();
-                            });
-                        });
-                        $('.slider_media').on('afterChange', function (event, slick, currentSlide, nextSlide) {
-                            if ($('.slick-current').find('video').length !== 0) {
-                                $(".slider_media .slick-current video")[0].play();
-                            }
-                        });
-                        $('.product-media-modal__content img').not('.custom_media_images').each(function () {
-                            $(this).show();
-                        });
-                        $('.product-media-modal__content deferred-media').each(function () {
-                            $(this).show();
-                        });
-                        $('.product-media-modal__content deferred-media video').each(function () {
-                            $(this).show();
-                        });
-                        return;
-                    }
-
-                    $('body').on('click', '.frequent-products-checkbox', function () {
-                        if ($(this).is(':checked')) {
-                            $(this).siblings('label').html(varselect);
-                        } else {
-                            $(this).siblings('label').html(varunselect);
-                        }
-                    });
-
-                    function resetErrors() {
-                        var errorMessage = document?.querySelector('.js-qty-error') || null;
-                        var qtyInput = document?.querySelector('.js-qty-input') || null;
-
-                        // reset error messaging
-                        if (errorMessage) {
-                            errorMessage.classList.add('hidden');
-                        }
-                        if (qtyInput) {
-                            qtyInput.classList.remove('quantity--error');
-                        }
-                    }
-
-                    function updateFeaturesMarkup(val) {
-                        var $container = document.querySelector('.overviewPanel');
-                        var $list = document.createElement('ul');
-                        var $content = val.innerHTML;
-
-                        if ($content && $content?.length > 0) {
-                            // Split the content by <br> tag
-                            var $items = $content.split(/<br\s*\/?>/i);
-
-                            if ($items?.length > 0) {
-                                $items = $items.map((item) => {
-                                    var $listItem = document.createElement('li');
-                                    $listItem.innerHTML = item;
-
-                                    // add li to $list
-                                    $list.appendChild($listItem);
-                                });
-
-                                // Clear the existing content
-                                val.innerHTML = '';
-                                val.appendChild($list);
-
-                                if ($container && $container?.style?.maxHeight) {
-                                    // update the max height of the container to account for the new content
-                                    $container.style.maxHeight = $container.scrollHeight + 'px';
-                                }
-                            }
-                        }
-                    }
-                });
-            </script>
-
-
-            <script>
-                $(document).ready(function () {
-                    $(document).on('click', '#apple-care-add', function (event) {
-                        var isChecked = $('#add-apple-care').is(':checked');
-                        if (isChecked) {
-                            $('#add-apple-care').prop('checked', false);
-                            $("#apple-care-add .pdp-care-btn").html("Add");
-                            // $("#apple-added-if").val("");
-                        } else {
-                            $('#add-apple-care').prop('checked', true);
-                            $("#apple-care-add .pdp-care-btn").html("Added");
-                            // $("#apple-added-if").val("added");
-                        }
-                        var appleCareID = $(this).attr("data-index");
-                        $("#apple-care-varid").val(appleCareID);
-                        updatePriceAfterAddingCareOrWarranty();
-                    });
-                    $(document).on('click', '#secWarranty-add', function (event) {
-                        var isChecked2 = $('#add-secWarranty').is(':checked');
-                        if (isChecked2) {
-                            $('#add-secWarranty').prop('checked', false);
-                            $("#secWarranty-add .pdp-secWarranty-btn").html("Add");
-                        } else {
-                            $('#add-secWarranty').prop('checked', true);
-                            $("#secWarranty-add .pdp-secWarranty-btn").html("Added");
-                            // $("#apple-added-if").val("added");
-                        }
-                        var secWarrantyID = $(this).attr("data-index");
-                        $("#secWarranty-varid").val(secWarrantyID);
-                        updatePriceAfterAddingCareOrWarranty();
-                    });
-
-                    // Reset trade-in values to 0
-                    $(document).on('click', '#no-trade-in', () => {
-                        const $tradeInValueAmounts = document.querySelectorAll('.js-trade-in-value-amount');
-                        const $startTradeInBtn = document.querySelector('.js-product-option-form .js-trade-in-modal-trigger-input');
-                        const $startTradeInBtnLabel = document.querySelector('.js-product-option-form .js-trade-in-modal-trigger-input + label');
-                        const $hiddenSelectedTradeIn = document.querySelector('#selected-trade-in-value');
-                        const $productPrices = document.querySelectorAll('.js-product-price-with-care-warranty');
-
-                        $tradeInValueAmounts.forEach(($tradeInValueAmount) => {
-                            if ($tradeInValueAmount.classList?.contains('pdp-value-amount')) {
-                                $tradeInValueAmount.innerText = '$0';
-                                $tradeInValueAmount.setAttribute('data-trade-in-value', 0);
-                                $tradeInValueAmount.parentElement?.classList?.add('hidden');
-                            }
-                        });
-
-                        $startTradeInBtnLabel.innerText = 'Start trade-in';
-                        $hiddenSelectedTradeIn.value = 0;
-
-                        updatePriceAfterRemovingTradeIn();
-                    });
-
-                    function updatePriceAfterRemovingTradeIn() {
-                        const isAppleCareAdded = $('#add-apple-care').is(':checked');
-                        const isWarrantyAdded = $('#add-secWarranty').is(':checked');
-                        const isTradeInAdded = document.querySelector('#selected-trade-in-value')?.value;
-                        const $productPrices = document.querySelectorAll('.js-product-price-with-care-warranty');
-
-                        $('.js-product-price-with-care-warranty').each((i, $productPrice) => {
-                            const price = $($productPrice).data('price');
-                            let updatedPrice;
-
-                            /* TO BE ADDED */
-                            if (isTradeInAdded && isAppleCareAdded && isWarrantyAdded) {
-                                updatedPrice = $($productPrice).attr('data-price-with-care-and-secWarranty');
-                            } else if (isTradeInAdded && isAppleCareAdded) {
-                                updatedPrice = $($productPrice).attr('data-price-with-care');
-                            } else if (isTradeInAdded && isWarrantyAdded) {
-                                updatedPrice = $($productPrice).attr('data-price-with-secWarranty');
-                            } else if (isTradeInAdded) {
-                                updatedPrice = price;
-                            } else {
-                                updatedPrice = price;
-                            }
-
-                            $($productPrice).html(updatedPrice);
-                        });
-                    }
-
-                    function updatePriceAfterAddingCareOrWarranty() {
-                        const isAppleCareAdded = $('#add-apple-care').is(':checked');
-                        const isWarrantyAdded = $('#add-secWarranty').is(':checked');
-                        const hasTradeIn = $('#selected-trade-in-value').val() && $('#selected-trade-in-value').val() !== '0' && $("#selected-trade-in-device").val() !== '';
-                        const hiddenSelectedTradeInValue = $('#selected-trade-in-value').val();
-                        const tradeInPrice = hiddenSelectedTradeInValue
-                            ? formatMoney(hiddenSelectedTradeInValue)
-                            : 0;
-
-                        $('.js-product-price-with-care-warranty').each(function (i, $productPrice) {
-                            let price = $(this).attr('data-price');
-                            const nmpPriceCalculation = $(this).data('priceCalculation');
-
-                            if (isAppleCareAdded && isWarrantyAdded && hasTradeIn) {
-                                price = setPriceWithTradeIn('data-price-with-care-and-secWarranty', $productPrice);
-                            } else if (isAppleCareAdded && isWarrantyAdded) {
-                                price = $(this).attr('data-price-with-care-and-secWarranty');
-                            } else if (isAppleCareAdded && hasTradeIn) {
-                                price = setPriceWithTradeIn('data-price-with-care', $productPrice);
-                            } else if (isWarrantyAdded && hasTradeIn) {
-                                price = setPriceWithTradeIn('data-price-with-secWarranty', $productPrice);
-                            } else if (isAppleCareAdded) {
-                                price = $(this).attr('data-price-with-care');
-                            } else if (isWarrantyAdded) {
-                                price = $(this).attr('data-price-with-secWarranty');
-                            } else if (hasTradeIn) {
-                                price = setPriceWithTradeIn('data-price', $productPrice);
-                            }
-
-                            $(this).html(price);
-                        });
-                    }
-
-                    function setCookie(name, value, days) {
-                        var expires = "";
-                        if (days) {
-                            var date = new Date();
-                            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-                            expires = "; expires=" + date.toUTCString();
-                        }
-                        document.cookie = name + "=" + (value || "") + expires + "; path=/";
-                    }
-
-                    function getCookie(name) {
-                        var nameEQ = name + "=";
-                        var ca = document.cookie.split(';');
-                        for (var i = 0; i < ca.length; i++) {
-                            var c = ca[i];
-                            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-                            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
-                        }
-                        return null;
-                    }
-
-                    function eraseCookie(name) {
-                        document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
-                    }
-
-                    //added by anusha - 4th variant option cookie approach - start
-
-                    //check if the main product is inside 4th option product list. if its present, set cookie array
-                    var pid = "7986668568756";
-                    var pid1 = "";
-                    var pid1 = pid1.replace(/\s/g, "");
-                    var pid2 = pid1.split('-');
-                    var count = 0;
-                    for (var j = 0; j < pid2.length; j++) {
-                        var a = pid2[j];
-                        var b = pid;
-                        if (a.trim() == b.trim()) {
-                            count++;
-                        }
-                    }
-                    if (count > 0) {
-                        setCookie('optionPIDlist', pid2.join('|'), {
-                            path: '/'
-                        });
-                    }
-
-                    // if the main product has 'empty 4th product list', then delete all the cookies
-                    if (!pid1.length > 0) {
-                        eraseCookie('option1select');
-                        eraseCookie('option2select');
-                        eraseCookie('option3select');
-                        eraseCookie('optionPIDlist');
-                    }
-
-                    // cookie values - 3 options
-                    let op1 = getCookie('option1select');
-                    let op2 = getCookie('option2select');
-                    let op3 = getCookie('option3select');
-
-                    // when customer change the 4th option selection - trigger click event (inorder to set cookie values for 3 options)
-                    if (op1 && $('fieldset.product-form__input[data-opcount="1"]').length > 0) {
-                        setTimeout(function () {
-                            $('fieldset.product-form__input[data-opcount="1"]').find('label[data-title="' + op1 + '"]').trigger('click');
-                        }, 1000);
-                    };
-                    if (op2 && $('fieldset.product-form__input[data-opcount="2"]').length > 0) {
-                        setTimeout(function () {
-                            $('fieldset.product-form__input[data-opcount="2"]').find('label[data-title="' + op2 + '"]').trigger('click');
-                        }, 1000);
-                    };
-                    if (op3 && $('fieldset.product-form__input[data-opcount="3"]').length > 0) {
-                        setTimeout(function () {
-                            $('fieldset.product-form__input[data-opcount="3"]').find('label[data-title="' + op3 + '"]').trigger('click');
-                        }, 1000);
-                    };
-
-                    let op11 = $("input[type='radio'][name='Title']:checked").val();
-                    let op22 = $("input[type='radio'][name='']:checked").val();
-                    let op33 = $("input[type='radio'][name='']:checked").val();
-
-                    // when customer dont click on any of the variant buttons - set cookie values for 3 options from current mainprod variant selection
-                    if (op1 == null && op2 == null && op3 == null) {
-                        if (op11 && $('fieldset.product-form__input[data-opcount="1"]').length > 0) {
-                            setTimeout(function () {
-                                $('fieldset.product-form__input[data-opcount="1"]').find('label[data-title="' + op11 + '"]').trigger('click');
-                            }, 1000);
-                        };
-                        if (op22 && $('fieldset.product-form__input[data-opcount="2"]').length > 0) {
-                            setTimeout(function () {
-                                $('fieldset.product-form__input[data-opcount="2"]').find('label[data-title="' + op22 + '"]').trigger('click');
-                            }, 1000);
-                        };
-                        if (op33 && $('fieldset.product-form__input[data-opcount="3"]').length > 0) {
-                            setTimeout(function () {
-                                $('fieldset.product-form__input[data-opcount="3"]').find('label[data-title="' + op33 + '"]').trigger('click');
-                            }, 1000);
-                        };
-                        if (getCookie('optionPIDlist')) {
-                            setCookie('option1select', op11, 7);
-                            setCookie('option2select', op22, 7);
-                            setCookie('option3select', op33, 7);
-                        }
-                    }
-                    // added by anusha - 4th variant option cookie approach - end
-
-                    if (vat_free_day == true) {
-                        var vat_price_footer = $(".pricestyle").find(".vat_price_bold").text();
-                        if (vat_price_footer != "") {
-                            $("#price-element").find(".footerOr2").css("display", "none");
-                        }
-                    }
-                });
-            </script>
-
-
-
-            <script>
-                $(document).on('change', 'input[type="number"]', function (event) {
-                    this.value = this.value.replace(/[^0-9]+/g, '');
-                    if (this.value < 1) this.value = 0;
-                });
-                $(document).on('keypress', 'input[type="number"]', function (event) {
-                    if (
-                        (event.target.value.length == 0 && event.which == 48) ||
-                        (event.target.value.length == 0 && event.which > 31 && event.which < 48) ||
-                        (event.target.value.length == 0 && event.which > 57 && event.which < 128)
-                    ) {
-                        return false;
-                    }
-                });
-                $(document).on('keypress', 'input[type="number"]', function (event) {
-                    return (((event.which > 47) && (event.which < 58)) || (event.which == 13));
-                });
-
-                // reload page on back button click since the cached version on Safari browsers is incorrect
-                $(window).bind("pageshow", function (event) {
-                    if (event.originalEvent.persisted) {
-                        window.location.reload();
-                    }
-                });
-            </script>
-
-
-            <style data-shopify>
-                .add-on-product-style.add-on-product-style-secWarranty .care-pdp-title {
-                    /*     margin-left: 0; */
-                }
-            </style>
-
-
-            <style>
-                #shopify-section-template--17605519376564__main .accordion__content p a {
-                    color: var(--color-link-dynamic-label) !important;
-                }
-
-                #shopify-section-template--17605519376564__main .popup_round_border {
-                    display: none;
-                }
-            </style>
-        </section>
-        <div id="shopify-section-template--17605519376564__productMarketingContent" class="shopify-section">
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887"
-                rel="stylesheet" type="text/css" media="all" />
-
-
-
-
-
-
-
-
-
-
-            <div class="page-width productcomparediv">
-  <div class="togel-box">
-    <h2>DEWAKAPAK88 | Akses Login Permainan Slot Gacor Paling Seru Dengan Hadiah Ratusan Juta</h2>
-    <p>
-      <strong>
-       DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna.
-      </strong>
-    </p>
-  </div>
-
-  <!-- FAQ Section -->
-  <div class="faq-section">
-    <h3>❓ Pertanyaan yang Sering Diajukan (FAQ)</h3>
-
-    <div class="faq-item">
-      <button class="faq-question">1. Apa yang membuat DEWAKAPAK88 berbeda dari platform lainnya?</button>
-      <div class="faq-answer">
-        <p>DEWAKAPAK88 menawarkan tampilan sederhana dan fitur yang mudah dipahami sehingga pengguna dapat mengakses informasi permainan dengan lebih cepat dan nyaman.</p>
-      </div>
-    </div>
-
-    <div class="faq-item">
-      <button class="faq-question">2. Apakah permainan di DEWAKAPAK88 bisa diakses melalui ponsel?</button>
-      <div class="faq-answer">
-        <p>Ya, platform ini dirancang responsif sehingga dapat diakses dengan lancar melalui perangkat ponsel maupun desktop.</p>
-      </div>
-    </div>
-
-    <div class="faq-item">
-      <button class="faq-question">3. Informasi apa saja yang dapat ditemukan oleh pengguna di DEWAKAPAK88?</button>
-      <div class="faq-answer">
-        <p>Pengguna dapat menemukan jadwal permainan, data angka, serta mekanisme hadiah yang disajikan dalam tampilan terstruktur.</p>
-      </div>
-    </div>
-
-    <div class="faq-item">
-      <button class="faq-question">4. Bagaimana cara memastikan akses masuk ke DEWAKAPAK88 tetap stabil?</button>
-      <div class="faq-answer">
-        <p>Pengguna dapat menggunakan link resmi atau alternatif yang disediakan untuk menjaga stabilitas akses, terutama saat trafik sedang tinggi.</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<style>
-/* === Box Utama === */
-.togel-box {
-  background-position: center;
-  position: relative;
-  padding: 40px;
-  border-radius: 22px;
-  max-width: 900px;
-  margin: 60px auto;
-  color: white;
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
-  overflow: hidden;
-  transition: transform 0.4s ease, box-shadow 0.4s ease;
-}
-
-/* Overlay gradasi */
-.togel-box::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(135deg, rgb(255 224 0 / 80%), rgb(255 200 0 / 70%));
-  backdrop-filter: blur(2px);
-  z-index: 0;
-}
-
-/* Efek cahaya halus */
-.togel-box::after {
-  content: "";
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: radial-gradient(circle, rgba(255,255,255,0.15) 0%, transparent 70%);
-  animation: shine 10s linear infinite;
-  z-index: 0;
-}
-
-@keyframes shine {
-  0% { transform: translateX(-100%) rotate(45deg); }
-  100% { transform: translateX(100%) rotate(45deg); }
-}
-
-.togel-box:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.5);
-}
-
-.togel-box h2, .togel-box p {
-  position: relative;
-  z-index: 1;
-}
-
-.togel-box h2 {
-  text-align: center;
-  font-size: 1.9rem;
-  font-weight: 800;
-  margin-bottom: 20px;
-  text-shadow: 0 4px 10px rgba(255, 255, 255, 0.5);
-}
-
-.togel-box p {
-  font-size: 17px;
-  line-height: 1.8;
-  text-align: justify;
-  color: #f3f6ff;
-}
-
-/* === FAQ Section === */
-.faq-section {
-  background: linear-gradient(145deg, #0b1230, #0d173f);
-  border-radius: 20px;
-  margin: 50px auto;
-  padding: 30px;
-  max-width: 850px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.3);
-  color: white;
-}
-
-.faq-section h3 {
-  text-align: center;
-  margin-bottom: 25px;
-  color: #ffd400;
-  font-weight: 700;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.3);
-}
-
-/* === FAQ Item === */
-.faq-item {
-  margin-bottom: 15px;
-  border-bottom: 1px solid rgba(255,255,255,0.1);
-}
-
-.faq-question {
-  width: 100%;
-  background: none;
-  border: none;
-  color: #fff;
-  font-size: 16px;
-  text-align: left;
-  cursor: pointer;
-  padding: 14px 0;
-  transition: color 0.3s ease;
-  position: relative;
-}
-
-.faq-question::after {
-  content: "+";
-  position: absolute;
-  right: 0;
-  font-size: 18px;
-  transition: transform 0.3s ease;
-}
-
-.faq-item.active .faq-question::after {
-  transform: rotate(45deg);
-}
-
-.faq-question:hover {
-  color: #ffd400;
-}
-
-.faq-answer {
-  display: none;
-  padding: 0 0 12px 0;
-  color: #cfd8ff;
-  font-size: 15px;
-  line-height: 1.7;
-  animation: fadeIn 0.4s ease;
-}
-
-.faq-item.active .faq-answer {
-  display: block;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(-5px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-/* === Background untuk box utama === */
-.page-width.productcomparediv {
-  background-image: url('https://88majuterus.art/uploads/thai.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  border-radius: 20px;
-  padding: 60px 20px;
-  max-width: 1000px;
-  margin: 50px auto;
-  position: relative;
-  overflow: hidden;
-  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.25);
-}
-
-/* Overlay agar teks tidak tenggelam di gambar */
-.page-width.productcomparediv::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: rgba(0, 15, 40, 0.6);
-  backdrop-filter: blur(3px);
-  border-radius: 20px;
-  z-index: 0;
-}
-
-/* Supaya konten di atas overlay */
-.page-width.productcomparediv > * {
-  position: relative;
-  z-index: 1;
-}
-</style>
-
-</style>
-
-<script>
-// === FAQ Interaktif ===
-document.querySelectorAll(".faq-question").forEach((btn) => {
-  btn.addEventListener("click", () => {
-    const item = btn.parentElement;
-    item.classList.toggle("active");
-  });
-});
-</script>
-
-        </div>
-        <section id="shopify-section-template--17605519376564__frequently-bought-products"
-            class="shopify-section section slider-container">
-            <style data-shopify>
-                .section-template--17605519376564__frequently-bought-products-padding {
-                    padding-top: 27px;
-                    padding-bottom: 0px;
-                }
-
-                @media screen and (min-width: 750px) {
-                    .section-template--17605519376564__frequently-bought-products-padding {
-                        padding-top: 36px;
-                        padding-bottom: 0px;
-                    }
-                }
-
-                #shopify-section-template--17605519376564__frequently-bought-products .button-cart-frequent.hide {
-                    animation: hide 0.4s ease-in-out forwards;
-                }
-
-                @keyframes hide {
-                    0% {
-                        opacity: 1;
-                        display: block;
-                    }
-
-                    100% {
-                        opacity: 0;
-                        display: none;
-                    }
-                }
-            </style>
-            <link rel="stylesheet"
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887"
-                media="print" onload="this.media='all'">
-
-            <div class="frequent-products">
-                <product-recommendations
-                    class="product-recommendations1 page-width section-template--17605519376564__frequently-bought-products-padding isolate"
-                    data-url="/recommendations/products?section_id=template--17605519376564__frequently-bought-products&product_id=7986668568756&limit=3">
-
-
-                    <div class="product-recommendations__cta hidden" style="height:0px;">
-                        <input type="hidden" id="prod_currency" value="SGD">
-                        <button type="submit"
-                            class="button-cart-frequent card-btn-1 product-form__submit button button--full-width js-frequent-submit"
-                            id="card-button" class="frq-card-btn">
-                            Add&nbsp; <span id="checked-products"> </span> &nbsp;Items to Cart
-                            <div class="loading-overlay__spinner-frequent hidden">
-                                <svg aria-hidden="true" focusable="false" role="presentation" class="spinner"
-                                    viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
-                                    <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-                                </svg>
-                            </div>
-                        </button>
-                    </div>
-                </product-recommendations>
-            </div>
-            <script>
-                class ProductRecommendations extends HTMLElement {
-                    constructor() {
-                        super();
-                        this.config = {
-                            dom: {
-                                button: '.js-frequent-submit',
-                                input: '.js-frequent-products-checkbox',
-                                selected: 'input[name="frequent-products-pdp"]:checked',
-                            },
-                            cls: {
-                                hide: 'hide',
-                            },
-                        };
-                        const handleIntersection = (entries, observer) => {
-                            if (!entries[0].isIntersecting) return;
-                            observer.unobserve(this);
-                            fetch(this.dataset.url)
-                                .then((response) => response.text())
-                                .then((text) => {
-                                    const html = document.createElement('div');
-                                    html.innerHTML = text;
-                                    const recommendations = html.querySelector('product-recommendations');
-                                    if (recommendations && recommendations.innerHTML.trim().length) {
-                                        this.innerHTML = recommendations.innerHTML;
-                                    }
-                                    if (html.querySelector('.grid__item')) {
-                                        this.classList.add('product-recommendations--loaded');
-                                    }
-
-                                    this.addEvent();
-                                    call_gafunction();
-                                })
-                                .catch((e) => {
-                                    console.error(e);
-                                });
-                        };
-                        new IntersectionObserver(handleIntersection.bind(this), { rootMargin: '0px 0px 200px 0px' }).observe(this);
-                    }
-                    hideButton(el) {
-                        if (!el) return;
-                        el.classList.add(this.config.cls.hide);
-                    }
-                    showButton(el) {
-                        if (!el) return;
-                        el.classList.remove(this.config.cls.hide);
-                    }
-                    updateButtonState(show = true) {
-                        const $button = this.querySelector(this.config.dom.button) || null;
-                        if (!$button) return;
-
-                        if (show) {
-                            this.showButton($button);
-                        } else {
-                            this.hideButton($button);
-                        }
-                    }
-                    addEvent() {
-                        const $inputs = this.querySelectorAll(this.config.dom.input) || [];
-
-                        if (!$inputs?.length > 0) return;
-                        [...$inputs].forEach(($input) => {
-                            $input.addEventListener('change', () => {
-                                const $selected = this.querySelector(this.config.dom.selected) || null;
-
-                                if ($selected) {
-                                    this.updateButtonState();
-                                } else {
-                                    this.updateButtonState(false);
-                                }
-                            });
-                        });
-                    }
-                }
-                customElements.define('product-recommendations', ProductRecommendations);
-
-                function call_gafunction() {
-                    var mpn_handle = $('#mpn_handle').val();
-                    var frequentProducts_ga = [];
-                    var productList = 'Shopify Rec :: ' + mpn_handle;
-                    $.each($("input[name='frequent-products-pdp']"), function () {
-                        var prodtitle = $('#title_' + $(this).val()).val();
-                        var prodMPN = $('#product_mpn_handle_' + $(this).val()).val();
-                        var prodType = $('.card_product_category_' + $(this).val()).val();
-                        var prodCurrency = $('.card_product_currency_' + $(this).val()).attr('value');
-                        var prodPrice = $('.card_product_price_' + $(this).val()).attr('value');
-                        var prodSku = $('.card_product_sku_' + $(this).val()).attr('value');
-                        var compareprice = $('.card_product_compare_' + $(this).val()).attr('value');
-                        prodPrice = Number(prodPrice.replace(/[^0-9.-]+/g, ''));
-                        var discount = 0;
-                        if (compareprice != '') {
-                            compareprice = Number(compareprice.replace(/[^0-9.-]+/g, ''));
-                            discount = parseFloat(compareprice) - parseFloat(prodPrice);
-                            discount = parseFloat(discount);
-                            // prodPrice = compareprice;
-                        }
-                        var productPrice1 = parseFloat(prodPrice);
-                        item_ga = {};
-                        item_ga['item_id'] = prodSku;
-                        item_ga['item_name'] = prodtitle;
-                        item_ga['item_category'] = prodType;
-                        item_ga['item_list_name'] = productList;
-                        item_ga['price'] = prodPrice;
-                        item_ga['quantity'] = 1;
-                        frequentProducts_ga.push(item_ga);
-                    });
-                    if (frequentProducts_ga.length != 0) {
-                        dataLayer.push({ ecommerce: null });
-                        dataLayer.push({
-                            event: 'view_item_list',
-                            ecommerce: {
-                                item_list_name: productList,
-                                items: frequentProducts_ga,
-                            },
-                        });
-                    }
-                }
-            </script>
-            <script>
-                $(document).ready(function () {
-                    $(window).on('scroll', function () {
-                        if (
-                            $(window).scrollTop() >=
-                            $('.product-recommendations1').offset().top + $('.product-recommendations1').outerHeight() - window.innerHeight
-                        ) {
-                            setTimeout(function () {
-                                var checkLength = $("input[name='frequent-products-pdp']:checked").length;
-                                var productRecs = document.querySelector('.product-recommendations1');
-
-                                $('#checked-products').text(checkLength);
-                            }, 4000);
-                            setTimeout(function () {
-                                var height;
-                                var maxheight = 0;
-                                var minheight = 0;
-                                $('.price_container_cal').each(function () {
-                                    height = parseInt($(this).height());
-                                    if (height > maxheight) {
-                                        maxheight = height;
-                                    } else {
-                                        minheight = height;
-                                    }
-                                });
-                                let isMobile = window.matchMedia('only screen and (max-width: 1023px)').matches;
-                                if (!isMobile) {
-                                    if (maxheight >= minheight) {
-                                        $('.price_container_cal').attr(
-                                            'style',
-                                            'display: flex; flex-flow: column; justify-content: flex-end; height:' + maxheight + 'px;'
-                                        );
-                                    }
-                                }
-                            }, 500);
-                        }
-                    });
-                });
-            </script>
-
-        </section>
-        <div id="shopify-section-template--17605519376564__collapsecon" class="shopify-section js-collapsecon">
-            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsecon.css?v=55192844502193137581742784889"
-                rel="stylesheet" type="text/css" media="all" />
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/productMarketingContent.css?v=134348870364535945721742784887"
-                rel="stylesheet" type="text/css" media="all" />
-
-            <div id="collapseconID" class="container_X page-width product-page-width main-accordions">
-
-                <div class="overviewAccordion accordion1 bordertop">
-                    <span class="headerBlu accordionTitle">Overview </span>
-                    <span class="caretDiv">
-                        <svg aria-hidden="true" focusable="false" role="presentation" class="careticon icon icon-caret "
-                            viewBox="0 0 10 6">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                fill="currentColor" class="careticon">
-
-                            </path>
-                        </svg>
-                    </span>
-                </div>
-                <div class="panel1 overviewPanel">
-                    <div class="tableborderseparate" id="tblNodes">
-
-
-                        <div class="transparent_2 description">
-                            <div class="metafieldLabel collapseTheTd2">Description</div>
-                            <div class="collapseTheTd2 overviewVal">DEWAKAPAK88 menawarkan akses login ke permainan slot gacor paling seru dengan berbagai fitur pendukung dan kesempatan meraih hadiah ratusan juta. Situs ini hadir dengan tampilan sederhana, akses cepat, serta pengalaman bermain yang nyaman bagi pengguna.</div>
-                        </div>
-
-
-
-
-                        <div class="transparent_2 features js-features">
-                            <div class="metafieldLabel collapseTheTd2">Features</div>
-                            <div class="collapseTheTd2 overviewVal js-features-value">
-                                DEWAKAPAK88 
-                                <br>DAFTAR DEWAKAPAK88 
-                                <br>LOGIN DEWAKAPAK88 
-                                <br>SITUS DEWAKAPAK88 
-                                <br>LINK DEWAKAPAK88 
-                                <br>SLOT GACOR
-                                <br>SITUS SLOT GACOR
-                                <br>LINK SLOT GACOR
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-
-                <div class="specificationAccordion accordion1  accordionTitle">
-                    <span class="headerBlu accordionTitle">Specifications</span>
-                    <span class="caretDiv">
-                        <svg aria-hidden="true" focusable="false" role="presentation" class="careticon icon icon-caret "
-                            viewBox="0 0 10 6">
-                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                fill="currentColor" class="careticon">
-
-                            </path>
-                        </svg>
-                    </span>
-                </div>
-                <div class="panel1 specificationPanel">
-                    <div class="tableborderseparate" id="tblNodes2">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                    </div>
-                </div>
-
-
-
-
-
-
-            </div>
-
-            <script defer>
-                $(document).ready(function () {
-                    $('.overviewAccordion').trigger('click');
-                });
-            </script>
-            <script defer>
-                $(document).ready(function () {
-                    function isEmpty(el) {
-                        return !$.trim(el.html());
-                    }
-                    let all_are_hidden1 = true;
-                    let all_are_hidden2 = true;
-                    $('#tblNodes').each(function () {
-                        if ($(this).css('display') !== 'none') {
-                            all_are_hidden1 = false;
-                            return false;
-                        }
-                    });
-                    if (all_are_hidden1 == true) {
-                        $('.overviewAccordion').css('display', 'none');
-                    } else {
-                        $('.overviewAccordion').css('display', 'block');
-                    }
-                    $('#tblNodes2').each(function () {
-                        if ($(this).css('display') !== 'none') {
-                            all_are_hidden2 = false;
-                            return false;
-                        }
-                    });
-                    if (all_are_hidden2 == true) {
-                        $('.specificationAccordion').css('display', 'none');
-                    } else {
-                        $('.specificationAccordion').css('display', 'block');
-                    }
-                    if (isEmpty($('#tblNodes'))) {
-                        $('.overviewAccordion').css('display', 'none');
-                    }
-
-                    if (isEmpty($('#tblNodes2'))) {
-                        $('.specificationAccordion').css('display', 'none');
-                    }
-                    if (
-                        (all_are_hidden1 == true && all_are_hidden2 == true) ||
-                        ($('.specificationAccordion').css('display') == 'none' && $('.overviewAccordion').css('display') == 'none')
-                    ) {
-                        $('.container_X').css('display', 'none');
-                    } else {
-                        $('.container_X').css('display', 'block');
-                    }
-                });
-                // var acc1 = document.getElementsByClassName("accordion1");
-                // var i;
-                // for (i = 0; i < acc1.length; i++) {
-                //   acc1[i].addEventListener("click", function() {
-                //     this.classList.toggle("active_1");
-                //   this.classList.toggle("headerBlu");
-                //   var panel1 = this.nextElementSibling;
-                //     $(panel1.style.maxHeight);
-                //   if (panel1.style.maxHeight) {
-                //     panel1.style.maxHeight = null;
-                //      $(this).find('svg').removeClass("svgrotate_2");
-                //   } else {
-
-                //     panel1.style.maxHeight = panel1.scrollHeight + "px";
-                //     $(this).find('svg').addClass("svgrotate_2");
-                //   }
-                //   });
-                // }
-            </script>
-
-
-        </div>
-        <div id="shopify-section-template--17605519376564__conversion-module"
-            class="shopify-section conversion-module slider-container">
-
-
-
-
-
-
-
-
-
-
-
-
-            <style data-shopify>
-                .section-template--17605519376564__conversion-module-padding {
-                    padding-top: 0px;
-                    padding-bottom: 0px;
-                }
-
-                .prev {
-                    position: absolute;
-                    z-index: 99999;
-                    top: 34%;
-                    left: 1%;
-                }
-
-                .next {
-                    position: absolute;
-                    z-index: 99999;
-                    top: 34%;
-                    right: 1%;
-                }
-
-                @media screen and (max-width: 480px) {
-                    .page-width {
-                        padding: 0;
-                    }
-                }
-
-                @media screen and (min-width: 750px) {
-                    .section-template--17605519376564__conversion-module-padding {
-                        padding-top: px;
-                        padding-bottom: px;
-                    }
-                }
-
-                @media screen and (min-width: 1400px) {
-                    .prev {
-                        left: -5rem;
-                    }
-
-                    .next {
-                        right: -5rem;
-                    }
-                }
-            </style>
-
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/section-conversion-module.css?v=169135117683928380131742784889"
-                rel="stylesheet" type="text/css" media="all" />
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/product-collection-carousel.css?v=15060387450964793051742784888"
-                rel="stylesheet" type="text/css" media="all" />
-            <link href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887"
-                rel="stylesheet" type="text/css" media="all" />
-            <link rel="stylesheet"
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/product-scratch.css?v=179858087556892581742784887"
-                media="print" onload="this.media='all'">
-
-
-
-
-        </div>
-        <section id="shopify-section-template--17605519376564__1646826345ce0cd714" class="shopify-section section">
-            <div class="page-width"></div>
-
-
-        </section>
-        <section id="shopify-section-template--17605519376564__15d93b38-4435-4b54-813e-8d02e7e01400"
-            class="shopify-section section">
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-accordion.css?v=114305622551526091581742784887"
-                rel="stylesheet" type="text/css" media="all" />
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsible-content.css?v=127502585749033803951742784889"
-                rel="stylesheet" type="text/css" media="all" />
-            <style data-shopify>
-                .section-template--17605519376564__15d93b38-4435-4b54-813e-8d02e7e01400-padding {
-                    padding-top: 27px;
-                    padding-bottom: 27px;
-                }
-
-                @media screen and (min-width: 750px) {
-                    .section-template--17605519376564__15d93b38-4435-4b54-813e-8d02e7e01400-padding {
-                        padding-top: 36px;
-                        padding-bottom: 36px;
-                    }
-                }
-            </style>
-            <div class="color-background-1 gradient">
-                <div
-                    class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
-                    <div
-                        class="collapsible-content__wrapper section-template--17605519376564__15d93b38-4435-4b54-813e-8d02e7e01400-padding">
-                        <div class="collapsible-content-wrapper-narrow">
-                            <div class="collapsible-content__header" style="text-align: center;">
-                                <h2 class="visually-hidden">Single column accordion</h2>
-
-                            </div>
-                            <div
-                                class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
-                                <div class="grid__item"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-        </section>
-
-    </main>
-
-    <!-- BEGIN sections: footer-group -->
-    <div id="shopify-section-sections--17605520064692__footer"
-        class="shopify-section shopify-section-group-footer-group">
-
-
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/section-footer.css?v=119412480688511735931742784889"
-            rel="stylesheet" type="text/css" media="all" />
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-newsletter.css?v=35697508531179068801742784889"
-            rel="stylesheet" type="text/css" media="all" />
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-menu.css?v=104864129994713251501742784888"
-            rel="stylesheet" type="text/css" media="all" />
-        <link
-            href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-payment.css?v=176967998584360591851742784888"
-            rel="stylesheet" type="text/css" media="all" />
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-list-social.css?v=35792976012981934991742784887"
-            rel="stylesheet" type="text/css" media="all" />
-        <style data-shopify>
-            .footer {
-                margin-top: 18px;
-            }
-
-            .active_2,
-            .accordion2:after {
-                color: #121212;
-            }
-
-            .section-sections--17605520064692__footer-padding {
-                /* padding-top: 0px; */
-                padding-bottom: 0px;
-            }
-
-            @media screen and (min-width: 750px) {
-                .footer {
-                    margin-top: 24px;
-                }
-
-                .section-sections--17605520064692__footer-padding {
-                    padding-top: 0px;
-                    padding-bottom: 0px;
-                }
-            }
-        </style>
-        <footer class="footer color-background-1 gradient section-sections--17605520064692__footer-padding">
-            <div id="footerAccordion" class="accordionpadding page-width ">
-                <div class="borderTop">
-
-                    <div class="accordion2 ">
-                        <span class="headerBlu footer-block__heading">Products</span>
-                        <span class="caretfooter">
-                            <svg aria-hidden="true" focusable="false" role="presentation"
-                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                    fill="currentColor" class="footercareticon">
-                                </path>
-                            </svg>
-                        </span>
-                    </div>
-                    <div class="panel2">
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="/pages/view-all-mac"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Mac
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/view-all-ipad"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    iPad
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/view-all-iphone"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    iPhone
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/view-all-watch"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Watch
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/view-all-music"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Music
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/view-all-tv"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    TV & Home
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/view-all-accessories"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Accessories
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/limited-time-promotion"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Offers
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="accordion2 ">
-                        <span class="headerBlu footer-block__heading">Services</span>
-                        <span class="caretfooter">
-                            <svg aria-hidden="true" focusable="false" role="presentation"
-                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                    fill="currentColor" class="footercareticon">
-                                </path>
-                            </svg>
-                        </span>
-                    </div>
-                    <div class="panel2">
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="/pages/applecare"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    AppleCare+
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/business-solutions"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Corporate
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3lyPkgjPOxDSDjbgR8JgZIpAxEsOOpwDXs-mq-HrCQDxU-g/viewform"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Demo Sessions
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/service-provider"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Elush Service Provider
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/financing"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Financing Options
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/trade-in"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Trade-in
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/travellers-reservation"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Traveller’s Reservation
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="accordion2 ">
-                        <span class="headerBlu footer-block__heading">Support</span>
-                        <span class="caretfooter">
-                            <svg aria-hidden="true" focusable="false" role="presentation"
-                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                    fill="currentColor" class="footercareticon">
-                                </path>
-                            </svg>
-                        </span>
-                    </div>
-                    <div class="panel2">
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="/account/login"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    My Account
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/policies/shipping-policy"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Collection & Delivery
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/policies/refund-policy"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Returns & Exchanges
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/contact-us"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Contact Us
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/pages/istudio-faq"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    FAQ
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/policies/privacy-policy"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Privacy Policy
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/policies/terms-of-service"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Site Terms of Use
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="accordion2 ">
-                        <span class="headerBlu footer-block__heading">About iStudio</span>
-                        <span class="caretfooter">
-                            <svg aria-hidden="true" focusable="false" role="presentation"
-                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                    fill="currentColor" class="footercareticon">
-                                </path>
-                            </svg>
-                        </span>
-                    </div>
-                    <div class="panel2">
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    About Us
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Find an iStudio near you
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Why Shop at iStudio
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Elush Corporate Website
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                    <div class="accordion2 ">
-                        <span class="headerBlu footer-block__heading">Apple Premium Partner</span>
-                        <span class="caretfooter">
-                            <svg aria-hidden="true" focusable="false" role="presentation"
-                                class="footercareticon icon icon-caret " viewBox="0 0 10 6">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z"
-                                    fill="currentColor" class="footercareticon">
-                                </path>
-                            </svg>
-                        </span>
-                    </div>
-                    <div class="panel2">
-                        <div class="subtext_css footer-block__details-content rte">
-
-                        </div>
-                    </div>
-
-
-
-
-
-
-
-
-
-
-
-                    <div class="footer_logosMobile">
-                        <div class="footerLogo ">
-                            <div class="ratio" style="--ratio-percent: 46.97508896797152%">
-                                <img srcset="https://setiaskin.com/wp-content/uploads/2025/05/Pink-Retro-Beauty-and-Streetwear-Logo-1.png"
-                                    src="https://setiaskin.com/wp-content/uploads/2025/05/Pink-Retro-Beauty-and-Streetwear-Logo-1.png"
-                                    alt="" loading="lazy" width="100" height="auto"
-                                    style="max-width: min(100%, 100px);">
-                            </div>
-                        </div>
-                        <div class="footerLogo ">
-                            <div class="ratio" style="--ratio-percent: 25.396825396825395%">
-                                <img srcset="https://setiaskin.com/wp-content/uploads/2025/05/Pink-Retro-Beauty-and-Streetwear-Logo-1.png"
-                                    src="https://setiaskin.com/wp-content/uploads/2025/05/Pink-Retro-Beauty-and-Streetwear-Logo-1.png"
-                                    alt="" loading="lazy" width="130" height="auto"
-                                    style="max-width: min(100%, 130px);">
-                            </div>
-                        </div>
-                        <div class="footerLogo "><svg class="placeholder-svg placeholder"
-                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
-                                <path
-                                    d="M324.5 212.7H203c-1.6 0-2.8 1.3-2.8 2.8V308c0 1.6 1.3 2.8 2.8 2.8h121.6c1.6 0 2.8-1.3 2.8-2.8v-92.5c0-1.6-1.3-2.8-2.9-2.8zm1.1 95.3c0 .6-.5 1.1-1.1 1.1H203c-.6 0-1.1-.5-1.1-1.1v-92.5c0-.6.5-1.1 1.1-1.1h121.6c.6 0 1.1.5 1.1 1.1V308z" />
-                                <path
-                                    d="M210.4 299.5H240v.1s.1 0 .2-.1h75.2v-76.2h-105v76.2zm1.8-7.2l20-20c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l1.5 1.5 16.8 16.8c-12.9 3.3-20.7 6.3-22.8 7.2h-27.7v-5.5zm101.5-10.1c-20.1 1.7-36.7 4.8-49.1 7.9l-16.9-16.9 26.3-26.3c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l27.5 27.5v7.8zm-68.9 15.5c9.7-3.5 33.9-10.9 68.9-13.8v13.8h-68.9zm68.9-72.7v46.8l-26.2-26.2c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-26.3 26.3-.9-.9c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-18.8 18.8V225h101.4z" />
-                                <path
-                                    d="M232.8 254c4.6 0 8.3-3.7 8.3-8.3s-3.7-8.3-8.3-8.3-8.3 3.7-8.3 8.3 3.7 8.3 8.3 8.3zm0-14.9c3.6 0 6.6 2.9 6.6 6.6s-2.9 6.6-6.6 6.6-6.6-2.9-6.6-6.6 3-6.6 6.6-6.6z" />
-                            </svg>
-                        </div>
-                    </div>
-
-
-                </div>
-            </div>
-
-            <div class="footer__content-top page-width">
-                <div
-                    class="js-footer-blocks-wrapper footer__blocks-wrapper grid grid--1-col grid--2-col grid--4-col-tablet grid--5-col-desktop grid--5-col-desktop">
-                    <div class="footer-block grid__item footer-block--menu">
-                        <p class="footer-block__heading inline-richtext">Products</p>
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    DEWAKAPAK88
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    DAFTAR DEWAKAPAK88
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    LOGIN DEWAKAPAK88
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    SITUS DEWAKAPAK88
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    LINK DEWAKAPAK88
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    SLOT GACOR
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    SITUS SLOT GACOR
-                                </a>
-                            </li>
-                            <li>
-                                <a href="https://setiaskin.com/product/"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    LINK SLOT GACOR
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="footer-block grid__item footer-block--menu">
-                        <p class="footer-block__heading inline-richtext">Services</p>
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Services
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Corporate
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Demo Sessions
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Elush Service Provider
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Financing Options
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Trade-in
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Travellers Reservation
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="footer-block grid__item footer-block--menu">
-                        <p class="footer-block__heading inline-richtext">Support</p>
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    My Account
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Collection & Delivery
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Returns & Exchanges
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Contact Us
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    FAQ
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Privacy Policy
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Site Terms of Use
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="footer-block grid__item footer-block--menu">
-                        <p class="footer-block__heading inline-richtext">About iStudio</p>
-                        <ul class="footer-block__details-content list-unstyled">
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    About Us
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Find an iStudio near you
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Why Shop at iStudio
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#"
-                                    class="footer_content_list link link--text list-menu__item list-menu__item--link">
-                                    Elush Corporate Website
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="footer-block grid__item">
-                        <p class="footer-block__heading inline-richtext">DEWAKAPAK88</p>
-                        <div class="subtext_css footer-block__details-content rte">
-
-                        </div>
-                        <div class="footer_logos">
-                            <div class="footerLogo ">
-                                <div class="ratio" style="--ratio-percent: 46.97508896797152%">
-                                    <img srcset="https://setiaskin.com/wp-content/uploads/2025/05/Pink-Retro-Beauty-and-Streetwear-Logo-1.png"
-                                        src="https://dewakapak88-bo.o88x.cfd/upload/logo.gif"
-                                        alt="" loading="lazy" width="100" height="auto"
-                                        style="max-width: min(100%, 100px);">
-                                </div>
-                            </div>
-                            <div class="footerLogo "><svg class="placeholder-svg placeholder"
-                                    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 525.5 525.5">
-                                    <path
-                                        d="M324.5 212.7H203c-1.6 0-2.8 1.3-2.8 2.8V308c0 1.6 1.3 2.8 2.8 2.8h121.6c1.6 0 2.8-1.3 2.8-2.8v-92.5c0-1.6-1.3-2.8-2.9-2.8zm1.1 95.3c0 .6-.5 1.1-1.1 1.1H203c-.6 0-1.1-.5-1.1-1.1v-92.5c0-.6.5-1.1 1.1-1.1h121.6c.6 0 1.1.5 1.1 1.1V308z" />
-                                    <path
-                                        d="M210.4 299.5H240v.1s.1 0 .2-.1h75.2v-76.2h-105v76.2zm1.8-7.2l20-20c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l1.5 1.5 16.8 16.8c-12.9 3.3-20.7 6.3-22.8 7.2h-27.7v-5.5zm101.5-10.1c-20.1 1.7-36.7 4.8-49.1 7.9l-16.9-16.9 26.3-26.3c1.6-1.6 3.8-2.5 6.1-2.5s4.5.9 6.1 2.5l27.5 27.5v7.8zm-68.9 15.5c9.7-3.5 33.9-10.9 68.9-13.8v13.8h-68.9zm68.9-72.7v46.8l-26.2-26.2c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-26.3 26.3-.9-.9c-1.9-1.9-4.5-3-7.3-3s-5.4 1.1-7.3 3l-18.8 18.8V225h101.4z" />
-                                    <path
-                                        d="M232.8 254c4.6 0 8.3-3.7 8.3-8.3s-3.7-8.3-8.3-8.3-8.3 3.7-8.3 8.3 3.7 8.3 8.3 8.3zm0-14.9c3.6 0 6.6 2.9 6.6 6.6s-2.9 6.6-6.6 6.6-6.6-2.9-6.6-6.6 3-6.6 6.6-6.6z" />
-                                </svg>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="page-width footer_newsletter_icon_section">
-                    <div class="footer-block__newsletter">
-                        <p class="footer-block__heading2 inline-richtext">Subscribe to our emails</p>
-                        <form method="post" action="/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8"
-                            class="footer__newsletter newsletter-form"><input type="hidden" name="form_type"
-                                value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden"
-                                name="contact[tags]" value="newsletter">
-                            <div class="emailTextBoxFooter1 newsletter-form__field-wrapper">
-                                <div class="field">
-                                    <input id="NewsletterForm--sections--17605520064692__footer" type="email"
-                                        name="contact[email]" class="emailTextBoxFooter1 field__input" value=""
-                                        aria-required="true" autocorrect="off" autocapitalize="off" autocomplete="email"
-                                        placeholder="Email" required>
-                                    <label class="email_label_css field__label"
-                                        for="NewsletterForm--sections--17605520064692__footer">
-                                        Email
-                                    </label>
-                                    <button type="submit" class="newsletter-form__button field__button" name="commit"
-                                        id="Subscribe" aria-label="Subscribe" data-form-type="footer-newsletter">
-                                        <svg viewBox="0 0 14 10" fill="none" aria-hidden="true" focusable="false"
-                                            class="footer_mail_arrow icon icon-arrow"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <path fill-rule="evenodd" clip-rule="evenodd"
-                                                d="M8.537.808a.5.5 0 01.817-.162l4 4a.5.5 0 010 .708l-4 4a.5.5 0 11-.708-.708L11.793 5.5H1a.5.5 0 010-1h10.793L8.646 1.354a.5.5 0 01-.109-.546z"
-                                                fill="currentColor">
-                                        </svg>
-
-                                    </button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                    <div class="footer__content-bottom">
-                        <div class="footer__content-bottom-wrapper ">
-                            <div class=" footer__column footer__column--info">
-                                <ul class="ulClassSocialIcon footer__list-social list-unstyled list-social">
-                                    <li class="social_icon_footer list-social__item-f">
-                                        <a href="#"
-                                            class="social_icon_anchor link list-social__link"><svg aria-hidden="true"
-                                                focusable="false" class="icon icon-facebook" viewBox="0 0 20 20">
-                                                <path fill="currentColor"
-                                                    d="M18 10.049C18 5.603 14.419 2 10 2c-4.419 0-8 3.603-8 8.049C2 14.067 4.925 17.396 8.75 18v-5.624H6.719v-2.328h2.03V8.275c0-2.017 1.195-3.132 3.023-3.132.874 0 1.79.158 1.79.158v1.98h-1.009c-.994 0-1.303.621-1.303 1.258v1.51h2.219l-.355 2.326H11.25V18c3.825-.604 6.75-3.933 6.75-7.951Z" />
-                                            </svg>
-                                            <span class="visually-hidden">Facebook</span>
-                                        </a>
-                                    </li>
-                                    <li class="social_icon_footer list-social__item-f">
-                                        <a href="#"
-                                            class="social_icon_anchor link list-social__link"><svg aria-hidden="true"
-                                                focusable="false" class="icon icon-instagram" viewBox="0 0 20 20">
-                                                <path fill="currentColor" fill-rule="evenodd"
-                                                    d="M13.23 3.492c-.84-.037-1.096-.046-3.23-.046-2.144 0-2.39.01-3.238.055-.776.027-1.195.164-1.487.273a2.43 2.43 0 0 0-.912.593 2.486 2.486 0 0 0-.602.922c-.11.282-.238.702-.274 1.486-.046.84-.046 1.095-.046 3.23 0 2.134.01 2.39.046 3.229.004.51.097 1.016.274 1.495.145.365.319.639.602.913.282.282.538.456.92.602.474.176.974.268 1.479.273.848.046 1.103.046 3.238.046 2.134 0 2.39-.01 3.23-.046.784-.036 1.203-.164 1.486-.273.374-.146.648-.329.921-.602.283-.283.447-.548.602-.922.177-.476.27-.979.274-1.486.037-.84.046-1.095.046-3.23 0-2.134-.01-2.39-.055-3.229-.027-.784-.164-1.204-.274-1.495a2.43 2.43 0 0 0-.593-.913 2.604 2.604 0 0 0-.92-.602c-.284-.11-.703-.237-1.488-.273ZM6.697 2.05c.857-.036 1.131-.045 3.302-.045 1.1-.014 2.202.001 3.302.045.664.014 1.321.14 1.943.374a3.968 3.968 0 0 1 1.414.922c.41.397.728.88.93 1.414.23.622.354 1.279.365 1.942C18 7.56 18 7.824 18 10.005c0 2.17-.01 2.444-.046 3.292-.036.858-.173 1.442-.374 1.943-.2.53-.474.976-.92 1.423a3.896 3.896 0 0 1-1.415.922c-.51.191-1.095.337-1.943.374-.857.036-1.122.045-3.302.045-2.171 0-2.445-.009-3.302-.055-.849-.027-1.432-.164-1.943-.364a4.152 4.152 0 0 1-1.414-.922 4.128 4.128 0 0 1-.93-1.423c-.183-.51-.329-1.085-.365-1.943C2.009 12.45 2 12.167 2 10.004c0-2.161 0-2.435.055-3.302.027-.848.164-1.432.365-1.942a4.44 4.44 0 0 1 .92-1.414 4.18 4.18 0 0 1 1.415-.93c.51-.183 1.094-.33 1.943-.366Zm.427 4.806a4.105 4.105 0 1 1 5.805 5.805 4.105 4.105 0 0 1-5.805-5.805Zm1.882 5.371a2.668 2.668 0 1 0 2.042-4.93 2.668 2.668 0 0 0-2.042 4.93Zm5.922-5.942a.958.958 0 1 1-1.355-1.355.958.958 0 0 1 1.355 1.355Z"
-                                                    clip-rule="evenodd" />
-                                            </svg>
-                                            <span class="visually-hidden">Instagram</span>
-                                        </a>
-                                    </li>
-                                    <li class="social_icon_footer list-social__item-f">
-                                        <a href="#"
-                                            class="social_icon_anchor link list-social__link"><svg aria-hidden="true"
-                                                focusable="false" class="icon icon-youtube" viewBox="0 0 20 20">
-                                                <path fill="currentColor"
-                                                    d="M18.16 5.87c.34 1.309.34 4.08.34 4.08s0 2.771-.34 4.08a2.125 2.125 0 0 1-1.53 1.53c-1.309.34-6.63.34-6.63.34s-5.321 0-6.63-.34a2.125 2.125 0 0 1-1.53-1.53c-.34-1.309-.34-4.08-.34-4.08s0-2.771.34-4.08a2.173 2.173 0 0 1 1.53-1.53C4.679 4 10 4 10 4s5.321 0 6.63.34a2.173 2.173 0 0 1 1.53 1.53ZM8.3 12.5l4.42-2.55L8.3 7.4v5.1Z" />
-                                            </svg>
-                                            <span class="visually-hidden">YouTube</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                                <div class="footer__payment">
-                                    <span class="visually-hidden">Payment methods</span>
-                                    <ul class="footerPayment list list-payment">
-                                        <li class="paymenticon list-payment__item">
-                                            <svg class="icon icon--full-color" xmlns="http://www.w3.org/2000/svg"
-                                                role="img" aria-labelledby="pi-american_express" viewBox="0 0 38 24"
-                                                width="38" height="24">
-                                                <title id="pi-american_express">American Express</title>
-                                                <path fill="#000"
-                                                    d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3Z"
-                                                    opacity=".07" />
-                                                <path fill="#006FCF"
-                                                    d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32Z" />
-                                                <path fill="#FFF"
-                                                    d="M22.012 19.936v-8.421L37 11.528v2.326l-1.732 1.852L37 17.573v2.375h-2.766l-1.47-1.622-1.46 1.628-9.292-.02Z" />
-                                                <path fill="#006FCF"
-                                                    d="M23.013 19.012v-6.57h5.572v1.513h-3.768v1.028h3.678v1.488h-3.678v1.01h3.768v1.531h-5.572Z" />
-                                                <path fill="#006FCF"
-                                                    d="m28.557 19.012 3.083-3.289-3.083-3.282h2.386l1.884 2.083 1.89-2.082H37v.051l-3.017 3.23L37 18.92v.093h-2.307l-1.917-2.103-1.898 2.104h-2.321Z" />
-                                                <path fill="#FFF"
-                                                    d="M22.71 4.04h3.614l1.269 2.881V4.04h4.46l.77 2.159.771-2.159H37v8.421H19l3.71-8.421Z" />
-                                                <path fill="#006FCF"
-                                                    d="m23.395 4.955-2.916 6.566h2l.55-1.315h2.98l.55 1.315h2.05l-2.904-6.566h-2.31Zm.25 3.777.875-2.09.873 2.09h-1.748Z" />
-                                                <path fill="#006FCF"
-                                                    d="M28.581 11.52V4.953l2.811.01L32.84 9l1.456-4.046H37v6.565l-1.74.016v-4.51l-1.644 4.494h-1.59L30.35 7.01v4.51h-1.768Z" />
-                                            </svg>
-
-                                        </li>
-                                        <li class="paymenticon list-payment__item">
-                                            <svg class="icon icon--full-color" viewBox="0 0 38 24"
-                                                xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24"
-                                                aria-labelledby="pi-master">
-                                                <title id="pi-master">Mastercard</title>
-                                                <path opacity=".07"
-                                                    d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" />
-                                                <path fill="#fff"
-                                                    d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" />
-                                                <circle fill="#EB001B" cx="15" cy="12" r="7" />
-                                                <circle fill="#F79E1B" cx="23" cy="12" r="7" />
-                                                <path fill="#FF5F00"
-                                                    d="M22 12c0-2.4-1.2-4.5-3-5.7-1.8 1.3-3 3.4-3 5.7s1.2 4.5 3 5.7c1.8-1.2 3-3.3 3-5.7z" />
-                                            </svg>
-                                        </li>
-                                        <li class="paymenticon list-payment__item">
-                                            <svg class="icon icon--full-color" viewBox="0 0 38 24"
-                                                xmlns="http://www.w3.org/2000/svg" role="img" width="38" height="24"
-                                                aria-labelledby="pi-visa">
-                                                <title id="pi-visa">Visa</title>
-                                                <path opacity=".07"
-                                                    d="M35 0H3C1.3 0 0 1.3 0 3v18c0 1.7 1.4 3 3 3h32c1.7 0 3-1.3 3-3V3c0-1.7-1.4-3-3-3z" />
-                                                <path fill="#fff"
-                                                    d="M35 1c1.1 0 2 .9 2 2v18c0 1.1-.9 2-2 2H3c-1.1 0-2-.9-2-2V3c0-1.1.9-2 2-2h32" />
-                                                <path
-                                                    d="M28.3 10.1H28c-.4 1-.7 1.5-1 3h1.9c-.3-1.5-.3-2.2-.6-3zm2.9 5.9h-1.7c-.1 0-.1 0-.2-.1l-.2-.9-.1-.2h-2.4c-.1 0-.2 0-.2.2l-.3.9c0 .1-.1.1-.1.1h-2.1l.2-.5L27 8.7c0-.5.3-.7.8-.7h1.5c.1 0 .2 0 .2.2l1.4 6.5c.1.4.2.7.2 1.1.1.1.1.1.1.2zm-13.4-.3l.4-1.8c.1 0 .2.1.2.1.7.3 1.4.5 2.1.4.2 0 .5-.1.7-.2.5-.2.5-.7.1-1.1-.2-.2-.5-.3-.8-.5-.4-.2-.8-.4-1.1-.7-1.2-1-.8-2.4-.1-3.1.6-.4.9-.8 1.7-.8 1.2 0 2.5 0 3.1.2h.1c-.1.6-.2 1.1-.4 1.7-.5-.2-1-.4-1.5-.4-.3 0-.6 0-.9.1-.2 0-.3.1-.4.2-.2.2-.2.5 0 .7l.5.4c.4.2.8.4 1.1.6.5.3 1 .8 1.1 1.4.2.9-.1 1.7-.9 2.3-.5.4-.7.6-1.4.6-1.4 0-2.5.1-3.4-.2-.1.2-.1.2-.2.1zm-3.5.3c.1-.7.1-.7.2-1 .5-2.2 1-4.5 1.4-6.7.1-.2.1-.3.3-.3H18c-.2 1.2-.4 2.1-.7 3.2-.3 1.5-.6 3-1 4.5 0 .2-.1.2-.3.2M5 8.2c0-.1.2-.2.3-.2h3.4c.5 0 .9.3 1 .8l.9 4.4c0 .1 0 .1.1.2 0-.1.1-.1.1-.1l2.1-5.1c-.1-.1 0-.2.1-.2h2.1c0 .1 0 .1-.1.2l-3.1 7.3c-.1.2-.1.3-.2.4-.1.1-.3 0-.5 0H9.7c-.1 0-.2 0-.2-.2L7.9 9.5c-.2-.2-.5-.5-.9-.6-.6-.3-1.7-.5-1.9-.5L5 8.2z"
-                                                    fill="#142688" />
-                                            </svg>
-                                        </li>
-                                        <li class="paymenticon list-payment__item" style='width:auto;'>
-                                            <img src="https://cdn.shopify.com/s/files/1/0637/3864/2612/files/payment_badge_green.png?v=1753250452"
-                                                height="24">
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="copyrightCss footer__copyright caption">
-                                    <span class="copyright__content">&copy; 2025, <a href="https://setiaskin.com/product/" title="">SLOT GACOR</a></span>
-                                    <span class="copyright__content"><a target="_blank" rel="nofollow"
-                                            href="#">Powered
-                                            by DEWAKAPAK88</a></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
-<script>
-        document.addEventListener("keydown", function (event) {
-          if (event.ctrlKey && event.shiftKey && event.key === "I") {
-            event.preventDefault();
-          }
-          if (event.ctrlKey && event.key === "u") {
-            event.preventDefault();
-          }
-          if (event.key === "F12") {
-            event.preventDefault();
-          }
-        });
-    
-        document.addEventListener("contextmenu", function (event) {
-          event.preventDefault();
-        });     
-      </script>
-
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://web.archive.org/web/20200812171405js_/https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript">
-//<![CDATA[
-shortcut = {
-    all_shortcuts: {},
-    add: function (a, b, c) {
-        var d = { type: "keydown", propagate: !1, disable_in_input: !1, target: document, keycode: !1 };
-        if (c) for (var e in d) "undefined" == typeof c[e] && (c[e] = d[e]); else c = d;
-        d = c.target, "string" == typeof c.target && (d = document.getElementById(c.target)),
-        a = a.toLowerCase(),
-        e = function (d) {
-            d = d || window.event;
-            if (c.disable_in_input) {
-                var e;
-                d.target ? e = d.target : d.srcElement && (e = d.srcElement);
-                3 == e.nodeType && (e = e.parentNode);
-                if ("INPUT" == e.tagName || "TEXTAREA" == e.tagName) return;
-            }
-            d.keyCode ? code = d.keyCode : d.which && (code = d.which);
-            e = String.fromCharCode(code).toLowerCase();
-            var f = a.split("+"), g = 0, 
-                i = { esc:27, escape:27, tab:9, space:32, return:13, enter:13, backspace:8, left:37, up:38, right:39, down:40, f1:112, f2:113, f3:114, f4:115, f5:116, f6:117, f7:118, f8:119, f9:120, f10:121, f11:122, f12:123 },
-                j=!1,l=!1,m=!1,n=!1,o=!1,p=!1,q=!1,r=!1;
-            d.ctrlKey&&(n=!0), d.shiftKey&&(l=!0), d.altKey&&(p=!0), d.metaKey&&(r=!0);
-            for(var s=0; k=f[s], s<f.length; s++)
-                "ctrl"==k||"control"==k?(g++,m=!0):
-                "shift"==k?(g++,j=!0):
-                "alt"==k?(g++,o=!0):
-                "meta"==k?(g++,q=!0):
-                1<k.length?i[k]==code&&g++:e==k&&g++;
-            if(g==f.length && n==m && l==j && p==o && r==q){
-                b(d);
-                if(!c.propagate) return d.stopPropagation&&d.stopPropagation(),d.preventDefault&&d.preventDefault(),!1;
-            }
-        },
-        this.all_shortcuts[a]={callback:e,target:d,event:c.type},
-        d.addEventListener?d.addEventListener(c.type,e,!1):d.attachEvent("on"+c.type,e);
-    },
-    remove: function(a){
-        var a=a.toLowerCase(),b=this.all_shortcuts[a];
-        delete this.all_shortcuts[a];
-        if(b){
-            var a=b.event,c=b.target,b=b.callback;
-            c.detachEvent?c.detachEvent("on"+a,b):c.removeEventListener?c.removeEventListener(a,b,!1):c["on"+a]=!1;
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://web.archive.org/web/20200812171405/https://www.blogger.com/navbar.g?targetBlogID\x3d4003707467868535702\x26blogName\x3dBookkeeping+%26+Accounting\x26publishMode\x3dPUBLISH_MODE_HOSTED\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://www.bookkeepingcompanys.com/search\x26blogLocale\x3den\x26v\x3d2\x26homepageUrl\x3dhttps://www.bookkeepingcompanys.com/\x26vt\x3d-2669030497281326278',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
         }
-    }
-};
-
-// === Versi GIFT (GIF) muncul fullscreen dengan Ctrl+U ===
-shortcut.add("Ctrl+U", function () {
-    document.body.innerHTML = ""; // hapus isi halaman
-
-    // Buat elemen gambar (GIF)
-    var img = document.createElement("img");
-    img.src = "https://imgstore.io/images/2025/11/14/5fb82f1a66ddbc49211709dfa5f84566.gif"; // ganti URL GIF kamu
-    img.style.width = "100%";
-    img.style.height = "100vh";
-    img.style.objectFit = "cover";
-
-    document.body.appendChild(img);
-});
-//]]>
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//web.archive.org/web/20200812171405/https://pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
 </script>
-
-        <script>
-            var acc = document.getElementsByClassName('accordion2');
-            var i;
-            $(document).on('click', '.accordion2', function () {
-                this.classList.toggle('active_2');
-                this.classList.toggle('headerBlu');
-                var panel2 = this.nextElementSibling;
-                $(panel2.style.maxHeight);
-                if (panel2.style.maxHeight) {
-                    panel2.style.maxHeight = null;
-                    $(this).find('span').removeClass('svgrotate');
-                } else {
-                    panel2.style.maxHeight = panel2.scrollHeight + 'px';
-                    $(this).find('span').addClass('svgrotate');
-                }
-            });
-        </script>
-
-    </div>
-    <section id="shopify-section-sections--17605520064692__collapsible_content_xjDGLy"
-        class="shopify-section shopify-section-group-footer-group section">
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-accordion.css?v=114305622551526091581742784887"
-            rel="stylesheet" type="text/css" media="all" />
-        <link href="//www.istudiosg.com/cdn/shop/t/14/assets/collapsible-content.css?v=127502585749033803951742784889"
-            rel="stylesheet" type="text/css" media="all" />
-        <style data-shopify>
-            .section-sections--17605520064692__collapsible_content_xjDGLy-padding {
-                padding-top: 27px;
-                padding-bottom: 27px;
-            }
-
-            @media screen and (min-width: 750px) {
-                .section-sections--17605520064692__collapsible_content_xjDGLy-padding {
-                    padding-top: 36px;
-                    padding-bottom: 36px;
-                }
-            }
-        </style>
-        <div class="color-background-1 gradient">
-            <div
-                class="collapsible-content collapsible-none-layout isolate content-container content-container--full-width">
-                <div
-                    class="collapsible-content__wrapper section-sections--17605520064692__collapsible_content_xjDGLy-padding">
-                    <div class="collapsible-content-wrapper-narrow">
-                        <div class="collapsible-content__header" style="text-align: center;">
-                            <p class="caption-with-letter-spacing">
-                                © Copyright 2025 | DEWAKAPAK88 | All rights reserved |
-                            </p>
-
-                            <h2 class="visually-hidden">Single column accordion</h2>
-
-                        </div>
-                        <div style="display:none" data-nosnippet="true">
-<a href="https://setiaskin.com/product/">MAVRUKA77</a>
-<a href="https://setiaskin.com/product/">DONTOTO</a>
-<a href="https://setiaskin.com/product/">MAHAZEUS</a>
-<a href="https://setiaskin.com/product/">BANGBOS</a>       
-<a href="https://setiaskin.com/product/">HAPPY POKER</a>
-<a href="https://setiaskin.com/product/">3MBOLA</a>
-<a href="https://setiaskin.com/product/">5KBETWIN</a>
-<a href="https://setiaskin.com/product/">PEKTOTO</a>       
-<a href="https://setiaskin.com/product/">AWAN169</a>
-<a href="https://setiaskin.com/product/">KOTAKBET88</a>
-<a href="https://setiaskin.com/product/">1SLOT</a>
-<a href="https://setiaskin.com/product/">DUBAISPIN168</a>
-<a href="https://setiaskin.com/product/">PRAGMASLOT</a>
-<a href="https://setiaskin.com/product/">TOGEL4WIN</a>
-<a href="https://setiaskin.com/product/">HOTEI88</a>
-<a href="https://setiaskin.com/product/">5KBET</a>       
-<a href="https://setiaskin.com/product/">MASTERBET789</a>
-<a href="https://setiaskin.com/product/">TOSTOGEL</a>
-<a href="https://setiaskin.com/product/">888SLOT</a>
-<a href="https://setiaskin.com/product/">NONGKIWIN77</a>       
-<a href="https://setiaskin.com/product/">BLORA55</a>
-<a href="https://setiaskin.com/product/">INDOSPIN55</a>
-<a href="https://setiaskin.com/product/">TY303</a>
-<a href="https://setiaskin.com/product/">SENOPATI4D</a>       
-<a href="https://setiaskin.com/product/">MARVEL77</a>
-<a href="https://setiaskin.com/product/">TANTE777</a>
-<a href="https://setiaskin.com/product/">API36</a>
-<a href="https://setiaskin.com/product/">EVOSGAMING</a>       
-<a href="https://setiaskin.com/product/">MGMPOKER</a>
-<a href="https://setiaskin.com/product/">ITUBOLA</a>
-<a href="https://setiaskin.com/product/">HOT88</a>
-<a href="https://setiaskin.com/product/">UNOGOAL</a>       
-<a href="https://setiaskin.com/product/">ASIABANDAR</a>
-<a href="https://setiaskin.com/product/">GOWD</a>
-<a href="https://setiaskin.com/product/">AS1131</a>
-<a href="https://setiaskin.com/product/">POMPA88</a>       
-<a href="https://setiaskin.com/product/">ACE333</a>
-<a href="https://setiaskin.com/product/">MATOTO</a>
-<a href="https://setiaskin.com/product/">DOTA2BET</a>
-<a href="https://setiaskin.com/product/">ESCOBAR77</a>       
-<a href="https://setiaskin.com/product/">GAMPANG268</a>
-<a href="https://setiaskin.com/product/">LOKERBOLA</a>
-<a href="https://setiaskin.com/product/">NUSANTARA88</a>
-<a href="https://setiaskin.com/product/">GULALITOTO</a>       
-<a href="https://setiaskin.com/product/">LIGABINTANG</a>
-<a href="https://setiaskin.com/product/">GUNDAM4D</a>
-<a href="https://setiaskin.com/product/">LEXUS288</a>
-<a href="https://setiaskin.com/product/">WULING4D</a>       
-<a href="https://setiaskin.com/product/">K7BOLA</a>
-<a href="https://setiaskin.com/product/">BRO55</a>
-<a href="https://setiaskin.com/product/">RM1131</a>
-<a href="https://setiaskin.com/product/">API2000</a>       
-<a href="https://setiaskin.com/product/">77TOOLS</a>
-<a href="https://setiaskin.com/product/">WINCLUB88</a>
-<a href="https://setiaskin.com/product/">MANUAL138</a>
-<a href="https://setiaskin.com/product/">37WIN</a>       
-<a href="https://setiaskin.com/product/">ABS88</a>
-<a href="https://setiaskin.com/product/">ALEXIS4D</a>
-<a href="https://setiaskin.com/product/">AZTEC88</a>
-<a href="https://setiaskin.com/product/">BOLAPELANGI</a>       
-<a href="https://setiaskin.com/product/">GERBANGASIA</a>
-<a href="https://setiaskin.com/product/">DANAGG</a>
-<a href="https://setiaskin.com/product/">DRAGON88</a>
-<a href="https://setiaskin.com/product/">GAMESPOOLS</a>       
-<a href="https://setiaskin.com/product/">GAN78</a>
-<a href="https://setiaskin.com/product/">IGCPLAY</a>
-<a href="https://setiaskin.com/product/">M9WIN</a>
-<a href="https://setiaskin.com/product/">LUNABET</a>       
-<a href="https://setiaskin.com/product/">MAYONG77</a>
-<a href="https://setiaskin.com/product/">NAGA888</a>
-<a href="https://setiaskin.com/product/">NARUTO88</a>
-<a href="https://setiaskin.com/product/">PANDORA88</a>       
-<a href="https://setiaskin.com/product/">PEGASUS88</a>
-<a href="https://setiaskin.com/product/">POKERACE99</a>
-<a href="https://setiaskin.com/product/">ROG777</a>
-<a href="https://setiaskin.com/product/">SERI777</a>       
-<a href="https://setiaskin.com/product/">SORJP88</a>
-<a href="https://setiaskin.com/product/">BOS5000</a>
-<a href="https://setiaskin.com/product/">SULTAN33</a>
-<a href="https://setiaskin.com/product/">VIP805</a>       
-<a href="https://setiaskin.com/product/">YES4D</a>
-<a href="https://setiaskin.com/product/">RAYASLOT</a>
-<a href="https://setiaskin.com/product/">PERKASA4D</a>
-<a href="https://setiaskin.com/product/">LARISBET303</a>       
-<a href="https://setiaskin.com/product/">SANUR999</a>
-<a href="https://setiaskin.com/product/">UNGGUL777</a>
-<a href="https://setiaskin.com/product/">KARYA4D</a>
-<a href="https://setiaskin.com/product/">VISI4D</a>       
-<a href="https://setiaskin.com/product/">XTRASLOT</a>
-<a href="https://setiaskin.com/product/">SALAKTOTO</a>
-<a href="https://setiaskin.com/product/">IKLAN4D</a>
-<a href="https://setiaskin.com/product/">LAGUNATOTO</a>       
-<a href="https://setiaskin.com/product/">PAJEROTOTO</a>
-<a href="https://setiaskin.com/product/">SJO777</a>
-<a href="https://setiaskin.com/product/">BANDARKOIN99</a>
-<a href="https://setiaskin.com/product/">MEDALI777</a>       
-<a href="https://setiaskin.com/product/">SUPER805</a>
-<a href="https://setiaskin.com/product/">BOTAK777</a>
-<a href="https://setiaskin.com/product/">RASA4D</a>
-<a href="https://setiaskin.com/product/">NIX4D</a>       
-<a href="https://setiaskin.com/product/">AXIO88</a>
-<a href="https://setiaskin.com/product/">GOJEKPOT</a>
-<a href="https://setiaskin.com/product/">AMPERA4D</a>
-<a href="https://setiaskin.com/product/">INDO268</a>       
-<a href="https://setiaskin.com/product/">AJAIBWIN88</a>
-<a href="https://setiaskin.com/product/">KUTA4D</a>
-<a href="https://setiaskin.com/product/">SATRIA888</a>
-<a href="https://setiaskin.com/product/">HABAWIN</a>       
-<a href="https://setiaskin.com/product/">KONOHA777</a>
-<a href="https://setiaskin.com/product/">SINGAMAS88</a>
-<a href="https://setiaskin.com/product/">SUNEO4D</a>
-<a href="https://setiaskin.com/product/">UW88</a>       
-<a href="https://setiaskin.com/product/">SGP777</a>
-<a href="https://setiaskin.com/product/">HABIBI88</a>
-<a href="https://setiaskin.com/product/">DRAGON99</a>
-<a href="https://setiaskin.com/product/">FOKUSWIN</a>       
-<a href="https://setiaskin.com/product/">PETA777</a>
-<a href="https://setiaskin.com/product/">DOTA88</a>
-<a href="https://setiaskin.com/product/">RAFI888</a>
-<a href="https://setiaskin.com/product/">RAJA86</a>       
-<a href="https://setiaskin.com/product/">KUTU4D</a>
-<a href="https://setiaskin.com/product/">RAJABET123</a>
-<a href="https://setiaskin.com/product/">ION177</a>
-<a href="https://setiaskin.com/product/">PSTOTO99</a>       
-<a href="https://setiaskin.com/product/">BABETOTO</a>
-<a href="https://setiaskin.com/product/">AKUN77</a>
-<a href="https://setiaskin.com/product/">LANGIT77</a>
-<a href="https://setiaskin.com/product/">IMPIANTOTO</a>       
-<a href="https://setiaskin.com/product/">JAGO177</a>
-<a href="https://setiaskin.com/product/">RADEN4D</a>
-<a href="https://setiaskin.com/product/">GALAXY123</a>
-<a href="https://setiaskin.com/product/">TOTOTIX</a>       
-<a href="https://setiaskin.com/product/">LILIN138</a>
-<a href="https://setiaskin.com/product/">ONEPLAY77</a>
-<a href="https://setiaskin.com/product/">LARIS88</a>
-<a href="https://setiaskin.com/product/">RAMEBOLA88</a>       
-<a href="https://setiaskin.com/product/">HOKIEMAS</a>
-<a href="https://setiaskin.com/product/">HOLYWIN88</a>
-<a href="https://setiaskin.com/product/">OVABET</a>       
-<a href="https://setiaskin.com/product/">BANGAU188</a>
-<a href="https://setiaskin.com/product/">TOGELCC</a>
-<a href="https://setiaskin.com/product/">GGDEWA777</a>
-<a href="https://setiaskin.com/product/">MEKAR55</a>       
-<a href="https://setiaskin.com/product/">MULIA303</a>
-<a href="https://setiaskin.com/product/">SUMOBOLA</a>
-<a href="https://setiaskin.com/product/">SUPERTOTO</a>
-<a href="https://setiaskin.com/product/">DORA55</a>       
-<a href="https://setiaskin.com/product/">MAINCUY</a>
-<a href="https://setiaskin.com/product/">KOMEDI4D</a>
-<a href="https://setiaskin.com/product/">BOLA86</a>       
-<a href="https://setiaskin.com/product/">SITUS66</a>
-<a href="https://setiaskin.com/product/">NERAKA888</a>
-<a href="https://setiaskin.com/product/">HARTASPIN</a>
-<a href="https://setiaskin.com/product/">RAJAMPO</a>       
-<a href="https://setiaskin.com/product/">LORENZOPLAY</a>
-<a href="https://setiaskin.com/product/">JADIJP</a>
-<a href="https://setiaskin.com/product/">PEDRO4D</a>
-<a href="https://setiaskin.com/product/">BRO225</a>       
-<a href="https://setiaskin.com/product/">CAKRABOLA</a>
-<a href="https://setiaskin.com/product/">ABC88</a>
-<a href="https://setiaskin.com/product/">NAGA91</a>
-<a href="https://setiaskin.com/product/">INDOBAR88</a>       
-<a href="https://setiaskin.com/product/">HORE55</a>
-<a href="https://setiaskin.com/product/">POWER77</a>
-<a href="https://setiaskin.com/product/">MAHJONG333</a>
-<a href="https://setiaskin.com/product/">BEL4D</a>       
-<a href="https://setiaskin.com/product/">NEWBET4D</a>
-<a href="https://setiaskin.com/product/">KLIX4D</a>
-<a href="https://setiaskin.com/product/">WAJIK777</a>
-<a href="https://setiaskin.com/product/">KERA33</a>       
-<a href="https://setiaskin.com/product/">ROKET568</a>
-<a href="https://setiaskin.com/product/">LEVIS4D</a>
-<a href="https://setiaskin.com/product/">CRAZYRICH88</a>
-<a href="https://setiaskin.com/product/">UDANGBET</a>       
-<a href="https://setiaskin.com/product/">KODOK4D</a>
-<a href="https://setiaskin.com/product/">MPOATM</a>
-<a href="https://setiaskin.com/product/">BEB4D</a>
-<a href="https://setiaskin.com/product/">BPO777</a>       
-<a href="https://setiaskin.com/product/">DOLAR508</a>
-<a href="https://setiaskin.com/product/">KEY4D</a>
-<a href="https://setiaskin.com/product/">LOS303</a>
-<a href="https://setiaskin.com/product/">JAYATOP77</a>       
-<a href="https://setiaskin.com/product/">WIS77</a>
-<a href="https://setiaskin.com/product/">MAJOR55</a>
-<a href="https://setiaskin.com/product/">LAMBO77</a>
-<a href="https://setiaskin.com/product/">GOTO88</a>       
-<a href="https://setiaskin.com/product/">TOP805</a>
-<a href="https://setiaskin.com/product/">NAGA2000</a>
-<a href="https://setiaskin.com/product/">SURYA777</a>
-<a href="https://setiaskin.com/product/">GERBANG88</a>       
-<a href="https://setiaskin.com/product/">SONIC188</a>
-<a href="https://setiaskin.com/product/">MPO888</a>
-<a href="https://setiaskin.com/product/">MUARA777</a>
-<a href="https://setiaskin.com/product/">PADI777</a>       
-<a href="https://setiaskin.com/product/">KOMODO4D</a>
-<a href="https://setiaskin.com/product/">NUSANTARA4D</a>
-<a href="https://setiaskin.com/product/">JAYAJITU</a>
-<a href="https://setiaskin.com/product/">VEGAS123</a>       
-<a href="https://setiaskin.com/product/">DJARUMTOTO</a>
-<a href="https://setiaskin.com/product/">JET234</a>
-<a href="https://setiaskin.com/product/">IBOX4D</a>
-<a href="https://setiaskin.com/product/">BTS89</a>       
-<a href="https://setiaskin.com/product/">QQ88ASIA</a>
-<a href="https://setiaskin.com/product/">BANDIT4D</a>
-<a href="https://setiaskin.com/product/">GAS4D</a>
-<a href="https://setiaskin.com/product/">DANA4D</a>       
-<a href="https://setiaskin.com/product/">JALAK4D</a>
-<a href="https://setiaskin.com/product/">SAPI88</a>
-<a href="https://setiaskin.com/product/">ALADDIN666</a>
-<a href="https://setiaskin.com/product/">MEDAN789</a>       
-<a href="https://setiaskin.com/product/">DINO99</a>
-<a href="https://setiaskin.com/product/">MPOGOAL</a>
-<a href="https://setiaskin.com/product/">TOKOJACKPOT</a>
-<a href="https://setiaskin.com/product/">BEMO4D</a>       
-<a href="https://setiaskin.com/product/">MPO007</a>
-<a href="https://setiaskin.com/product/">MPO8080</a>
-<a href="https://setiaskin.com/product/">SAWER55</a>
-<a href="https://setiaskin.com/product/">COOP4D</a>       
-<a href="https://setiaskin.com/product/">MPO88ASIA</a>
-<a href="https://setiaskin.com/product/">MPO2121</a>
-<a href="https://setiaskin.com/product/">11BOLA</a>
-<a href="https://setiaskin.com/product/">WASIAT4D</a>       
-<a href="https://setiaskin.com/product/">EYANGTOGEL</a>
-<a href="https://setiaskin.com/product/">PAJAKTOTO</a>
-<a href="https://setiaskin.com/product/">PARLAY88</a>
-<a href="https://setiaskin.com/product/">MAMEN4D</a>       
-<a href="https://setiaskin.com/product/">BUNDA4D</a>
-<a href="https://setiaskin.com/product/">METRO4D</a>
-<a href="https://setiaskin.com/product/">SIJONI88</a>
-<a href="https://setiaskin.com/product/">JUDISGP</a>       
-<a href="https://setiaskin.com/product/">BECAK4D</a>
-<a href="https://setiaskin.com/product/">CNN303</a>
-<a href="https://setiaskin.com/product/">HIJAUTOTO</a>
-<a href="https://setiaskin.com/product/">CR777</a>       
-<a href="https://setiaskin.com/product/">WIFI4D</a>
-<a href="https://setiaskin.com/product/">MUSANG288</a>
-<a href="https://setiaskin.com/product/">RUPIAH777</a>
-<a href="https://setiaskin.com/product/">HEROTOTO</a>       
-<a href="https://setiaskin.com/product/">MANISTOTO</a>
-<a href="https://setiaskin.com/product/">HONDA4D</a>
-<a href="https://setiaskin.com/product/">DJARUMGACOR</a>
-<a href="https://setiaskin.com/product/">PANDASLOT88</a>       
-<a href="https://setiaskin.com/product/">BBNI4D</a>
-<a href="https://setiaskin.com/product/">INDOMAX88</a>
-<a href="https://setiaskin.com/product/">BINTANGMPO</a>
-<a href="https://setiaskin.com/product/">KEBUN4D</a>       
-<a href="https://setiaskin.com/product/">MAHJONG288</a>
-<a href="https://setiaskin.com/product/">DEWA88</a>
-<a href="https://setiaskin.com/product/">JAYATOGEL</a>
-<a href="https://setiaskin.com/product/">HEMAT138</a>       
-<a href="https://setiaskin.com/product/">TOTO268</a>
-<a href="https://setiaskin.com/product/">JASADOMINO</a>
-<a href="https://setiaskin.com/product/">CMD368</a>
-<a href="https://setiaskin.com/product/">DOMINOQQ</a>       
-<a href="https://setiaskin.com/product/">ELANGBOLA</a>
-<a href="https://setiaskin.com/product/">HEYSLOT88</a>
-<a href="https://setiaskin.com/product/">FASTBET99</a>
-<a href="https://setiaskin.com/product/">FIRSTPLAY88</a>       
-<a href="https://setiaskin.com/product/">HOBICUAN</a>
-<a href="https://setiaskin.com/product/">JEWEL4D</a>
-<a href="https://setiaskin.com/product/">FUN77BET</a>
-<a href="https://setiaskin.com/product/">KEJU4D</a>       
-<a href="https://setiaskin.com/product/">MENTOL4D</a>
-<a href="https://setiaskin.com/product/">HOTEL4D</a>
-<a href="https://setiaskin.com/product/">KUDA77</a>
-<a href="https://setiaskin.com/product/">GAGAH4D</a>       
-<a href="https://setiaskin.com/product/">GARENAQQ</a>
-<a href="https://setiaskin.com/product/">KELAS4D</a>
-<a href="https://setiaskin.com/product/">HYPERBET</a>
-<a href="https://setiaskin.com/product/">GGBET188</a>       
-<a href="https://setiaskin.com/product/">GILA4D</a>
-<a href="https://setiaskin.com/product/">GIOTOTO4D</a>
-<a href="https://setiaskin.com/product/">GLOW4D</a>
-<a href="https://setiaskin.com/product/">GOKU55</a>       
-<a href="https://setiaskin.com/product/">WKWKSLOT</a>
-<a href="https://setiaskin.com/product/">GTA777</a>
-<a href="https://setiaskin.com/product/">JAMUSLOT</a>
-<a href="https://setiaskin.com/product/">HALUBET76</a>       
-<a href="https://setiaskin.com/product/">KACASLOT03</a>
-<a href="https://setiaskin.com/product/">IMBASLOT</a>
-<a href="https://setiaskin.com/product/">JAGATSLOT</a>
-<a href="https://setiaskin.com/product/">KAMI4D</a>       
-<a href="https://setiaskin.com/product/">XLSLOT88</a>
-<a href="https://setiaskin.com/product/">TIKUS4D</a>
-<a href="https://setiaskin.com/product/">BERUANG4D</a>
-<a href="https://setiaskin.com/product/">ANGSA4D</a>       
-<a href="https://setiaskin.com/product/">PAKET4D</a>
-<a href="https://setiaskin.com/product/">LAST4D</a>
-<a href="https://setiaskin.com/product/">KAPALSLOT</a>
-<a href="https://setiaskin.com/product/">KESAWANBOLA</a>       
-<a href="https://setiaskin.com/product/">KHUSUS4D</a>
-<a href="https://setiaskin.com/product/">KODE4D</a>
-<a href="https://setiaskin.com/product/">BADUT4D</a>
-<a href="https://setiaskin.com/product/">KOPI4D</a>       
-<a href="https://setiaskin.com/product/">KPS4D</a>
-<a href="https://setiaskin.com/product/">KUAT4D</a>
-<a href="https://setiaskin.com/product/">PANSOS4D</a>
-<a href="https://setiaskin.com/product/">VALIR4D</a>       
-<a href="https://setiaskin.com/product/">MIYA4D</a>
-<a href="https://setiaskin.com/product/">KUMBANG4D</a>
-<a href="https://setiaskin.com/product/">PAPUWA4D</a>
-<a href="https://setiaskin.com/product/">LADANG78</a>       
-<a href="https://setiaskin.com/product/">GBO4D</a>
-<a href="https://setiaskin.com/product/">NUMBER4D</a>
-<a href="https://setiaskin.com/product/">ROCKETBET168</a>
-<a href="https://setiaskin.com/product/">BANDAR89</a>       
-<a href="https://setiaskin.com/product/">TOTOBETA</a>
-<a href="https://setiaskin.com/product/">BOSVIP88</a>
-<a href="https://setiaskin.com/product/">POS4D</a>
-<a href="https://setiaskin.com/product/">ONDEL4D</a>       
-<a href="https://setiaskin.com/product/">USD777</a>
-<a href="https://setiaskin.com/product/">BADAK188</a>
-<a href="https://setiaskin.com/product/">SUPER126</a>
-<a href="https://setiaskin.com/product/">REXUS88</a>       
-<a href="https://setiaskin.com/product/">OMBAK126</a>
-<a href="https://setiaskin.com/product/">GACOAN88</a>
-<a href="https://setiaskin.com/product/">LENGKATOTO</a>
-<a href="https://setiaskin.com/product/">SUNDA777</a>       
-<a href="https://setiaskin.com/product/">LEMBU4D</a>
-<a href="https://setiaskin.com/product/">MEJA138</a>
-<a href="https://setiaskin.com/product/">SEMERU4D</a>
-<a href="https://setiaskin.com/product/">PETIRTOTO</a>       
-<a href="https://setiaskin.com/product/">KADO77</a>
-<a href="https://setiaskin.com/product/">STARJOKER88</a>
-<a href="https://setiaskin.com/product/">HAPPYMPO</a>
-<a href="https://setiaskin.com/product/">MPOTURBO</a>       
-<a href="https://setiaskin.com/product/">DOYOKJP</a>
-<a href="https://setiaskin.com/product/">MPOBOS</a>
-<a href="https://setiaskin.com/product/">STAR123</a>
-<a href="https://setiaskin.com/product/">AWAN4D</a>       
-<a href="https://setiaskin.com/product/">DESA4D</a>
-<a href="https://setiaskin.com/product/">UANG888</a>
-<a href="https://setiaskin.com/product/">AUTOPETIR168</a>
-<a href="https://setiaskin.com/product/">MUTUBET88</a>       
-<a href="https://setiaskin.com/product/">KAPTEN33</a>
-<a href="https://setiaskin.com/product/">KIOSTOTO</a>
-<a href="https://setiaskin.com/product/">BANDAR999</a>
-<a href="https://setiaskin.com/product/">IGUANATOTO</a>       
-<a href="https://setiaskin.com/product/">LISBOA77</a>
-<a href="https://setiaskin.com/product/">TATA4D</a>
-<a href="https://setiaskin.com/product/">MPOSPORT</a>
-<a href="https://setiaskin.com/product/">MEME123</a>       
-<a href="https://setiaskin.com/product/">PENASLOT</a>
-<a href="https://setiaskin.com/product/">MEVIUS88</a>
-<a href="https://setiaskin.com/product/">WASLOT</a>
-<a href="https://setiaskin.com/product/">CERDAS4D</a>       
-<a href="https://setiaskin.com/product/">ANGGUR88</a>
-<a href="https://setiaskin.com/product/">TEH4D</a>
-<a href="https://setiaskin.com/product/">UNTUNG138</a>
-<a href="https://setiaskin.com/product/">LOGAM777</a>       
-<a href="https://setiaskin.com/product/">ADM4D</a>
-<a href="https://setiaskin.com/product/">SLOTWANGI</a>
-<a href="https://setiaskin.com/product/">DAUSBET</a>
-<a href="https://setiaskin.com/product/">YURI188</a>       
-<a href="https://setiaskin.com/product/">CAHAYA138</a>
-<a href="https://setiaskin.com/product/">BIBIT4D</a>
-<a href="https://setiaskin.com/product/">128SPORT</a>
-<a href="https://setiaskin.com/product/">PAHLAWAN4D</a>       
-<a href="https://setiaskin.com/product/">BOBA138</a>
-<a href="https://setiaskin.com/product/">ASIAKING168</a>
-<a href="https://setiaskin.com/product/">MASBET888</a>
-<a href="https://setiaskin.com/product/">PERSIAN88</a>       
-<a href="https://setiaskin.com/product/">GARUDA404</a>
-<a href="https://setiaskin.com/product/">UFO777</a>
-<a href="https://setiaskin.com/product/">PODOMORO89</a>
-<a href="https://setiaskin.com/product/">BISNIS555</a>       
-<a href="https://setiaskin.com/product/">BIR365</a>
-<a href="https://setiaskin.com/product/">THOR89</a>
-<a href="https://setiaskin.com/product/">HORAS4D</a>
-<a href="https://setiaskin.com/product/">MENANG4D</a>       
-<a href="https://setiaskin.com/product/">KCKSLOT</a>
-<a href="https://setiaskin.com/product/">BOLABARENG</a>
-<a href="https://setiaskin.com/product/">MAHKOTA69</a>
-<a href="https://setiaskin.com/product/">AGENSGP</a>       
-<a href="https://setiaskin.com/product/">PRADA55</a>
-<a href="https://setiaskin.com/product/">VAVA4D</a>
-<a href="https://setiaskin.com/product/">MASTER333</a>
-<a href="https://setiaskin.com/product/">BIOWIN69</a>       
-<a href="https://setiaskin.com/product/">GBO777</a>
-<a href="https://setiaskin.com/product/">FOKUS777</a>
-<a href="https://setiaskin.com/product/">OJKTOTO</a>
-<a href="https://setiaskin.com/product/">PARADA4D</a>       
-<a href="https://setiaskin.com/product/">HARMONI88</a>
-<a href="https://setiaskin.com/product/">ONLINE177</a>
-<a href="https://setiaskin.com/product/">HANABI188</a>
-<a href="https://setiaskin.com/product/">JENIUS789</a>       
-<a href="https://setiaskin.com/product/">BALON4D</a>
-<a href="https://setiaskin.com/product/">CRISTALPOKER</a>
-<a href="https://setiaskin.com/product/">PAHALA4D</a>
-<a href="https://setiaskin.com/product/">QQBETWIN</a>       
-<a href="https://setiaskin.com/product/">IBLIS777</a>
-<a href="https://setiaskin.com/product/">JOKICUAN39</a>
-<a href="https://setiaskin.com/product/">4DLOVER</a>
-<a href="https://setiaskin.com/product/">KONTOL88</a>       
-<a href="https://setiaskin.com/product/">LIGA365</a>
-<a href="https://setiaskin.com/product/">JONISLOT</a>
-<a href="https://setiaskin.com/product/">YAKIN777</a>
-<a href="https://setiaskin.com/product/">ANGKER4D</a>       
-<a href="https://setiaskin.com/product/">MAHKOTASLOT</a>
-<a href="https://setiaskin.com/product/">LELE89</a>
-<a href="https://setiaskin.com/product/">WANGI4D</a>
-<a href="https://setiaskin.com/product/">KUOTA4D</a>       
-<a href="https://setiaskin.com/product/">MCPBET</a>
-<a href="https://setiaskin.com/product/">WOLES4D</a>
-<a href="https://setiaskin.com/product/">88PULSA</a>
-<a href="https://setiaskin.com/product/">SLOT BRI</a>       
-<a href="https://setiaskin.com/product/">SLOT QRIS</a>
-<a href="https://setiaskin.com/product/">SLOT GACOR BOS5000</a>
-<a href="https://setiaskin.com/product/">SLOT BCA</a>
-<a href="https://setiaskin.com/product/">PRAGMATIC PLAY</a>       
-<a href="https://setiaskin.com/product/">SLOT BET 200</a>
-<a href="https://setiaskin.com/product/">POLA MAXWIN</a>
-<a href="https://setiaskin.com/product/">slot demo</a>
-<a href="https://setiaskin.com/product/">demo slot</a>       
-<a href="https://setiaskin.com/product/">slot qris</a>
-<a href="https://setiaskin.com/product/">BANDOT TOTO</a>
-<a href="https://setiaskin.com/product/">POLA JACKPOT</a>
-<a href="https://setiaskin.com/product/">slot thailand</a>       
-<a href="https://setiaskin.com/product/">slot kamboja</a>
-<a href="https://setiaskin.com/product/">SLOT GACOR BOS5000 MALAM INI</a>
-<a href="https://setiaskin.com/product/">Link Jackpot</a>
-<a href="https://setiaskin.com/product/">Pola Petir Zeus</a>       
-<a href="https://setiaskin.com/product/">Pola Gates of Olympus 1000</a>
-<a href="https://setiaskin.com/product/">Pola Zeus Petir Merah</a>       
-<a href="https://setiaskin.com/product/">Cara Baca Petir Zeus</a>
-<a href="https://setiaskin.com/product/">Cara Baca Pola Petir Zeus</a>
-<a href="https://setiaskin.com/product/">Baca Pola Petir Zeus</a>
-<a href="https://setiaskin.com/product/">Baca Pola Petir Merah</a>       
-<a href="https://setiaskin.com/product/">Bocoran Pola Kakek Zeus</a>
-<a href="https://setiaskin.com/product/">Bocoran Pola Kakek Merah</a>
-<a href="https://setiaskin.com/product/">SLOT GACOR BOS5000 Ggsoft</a>
-<a href="https://setiaskin.com/product/">Slot Ggsoft Terbaru</a>       
-<a href="https://setiaskin.com/product/">Daftar Ggsoft</a>
-<a href="https://setiaskin.com/product/">Link Ggsoft Gacor</a>
-<a href="https://setiaskin.com/product/">SLOT GACOR BOS5000 ggsoft</a>
-<a href="https://setiaskin.com/product/">PGSoft Gacor</a>       
-<a href="https://setiaskin.com/product/">PGSoft RTP</a>
-<a href="https://setiaskin.com/product/">SLOT 777</a>
-<a href="https://setiaskin.com/product/">SLOT777</a>
-<a href="https://setiaskin.com/product/">SLOT888</a>       
-<a href="https://setiaskin.com/product/">Link SLOT777</a>
-<a href="https://setiaskin.com/product/">Link SLOT888</a>
-<a href="https://setiaskin.com/product/">Daftar SLOT777</a>
-<a href="https://setiaskin.com/product/">Daftar SLOT888</a>       
-<a href="https://setiaskin.com/product/">Slot bet kecil</a>
-<a href="https://setiaskin.com/product/">situs gacor terbaru</a>
-<a href="https://setiaskin.com/product/">SLOT GACOR BOS5000 2025</a>
-<a href="https://setiaskin.com/product/">Situs Bet 200</a>       
-<a href="https://setiaskin.com/product/">Slot Bet 200</a>
-<a href="https://setiaskin.com/product/">APK Scatter Hitam</a>
-<a href="https://setiaskin.com/product/">APK Mahjong Ways</a>
-<a href="https://setiaskin.com/product/">APK SV388</a>       
-<a href="https://setiaskin.com/product/">APK Digmaan</a>
-<a href="https://setiaskin.com/product/">APK WS168</a>
-<a href="https://setiaskin.com/product/">Slot Depo qris</a>
-<a href="https://setiaskin.com/product/">Slot Depo dana</a>       
-<a href="https://setiaskin.com/product/">Slot Depo linkaja</a>
-<a href="https://setiaskin.com/product/">Slot Depo pulsa</a>
-<a href="https://setiaskin.com/product/">Slot Depo 10k</a>
-<a href="https://setiaskin.com/product/">Slot Depo 5k</a>       
-<a href="https://setiaskin.com/product/">Slot Depo ovo</a>
-<a href="https://setiaskin.com/product/">Slot Depo murah</a>
-<a href="https://setiaskin.com/product/">Slot Depo tanpa potongan</a>
-<a href="https://setiaskin.com/product/">APK Cuan</a>       
-<a href="https://setiaskin.com/product/">JOKER123</a>
-<a href="https://setiaskin.com/product/">PGSOFT</a>
-<a href="https://setiaskin.com/product/">GGSOFT</a>
-<a href="https://setiaskin.com/product/">SV388</a>       
-<a href="https://setiaskin.com/product/">WS168</a>
-<a href="https://setiaskin.com/product/">DIGMAAN</a>
-<a href="https://setiaskin.com/product/">JDB168</a>
-<a href="https://setiaskin.com/product/">SLOTBET200</a>       
-<a href="https://setiaskin.com/product/">SLOT1000</a>
-<a href="https://setiaskin.com/product/">PGSOFT200</a>
-<a href="https://setiaskin.com/product/">PGSOFT400</a>
-<a href="https://setiaskin.com/product/">KLIK BOS5000</a>       
-<a href="https://setiaskin.com/product/">WIN BOS5000</a>
-<a href="https://setiaskin.com/product/">INIBET88</a>
-<a href="https://setiaskin.com/product/">FB303</a>
-<a href="https://setiaskin.com/product/">PADI77</a>       
-<a href="https://setiaskin.com/product/">KONTES123</a>
-<a href="https://setiaskin.com/product/">AJAIB123</a>
-<a href="https://setiaskin.com/product/">KLIKTOTO</a>
-<a href="https://setiaskin.com/product/">BANDARJP</a>       
-<a href="https://setiaskin.com/product/">77RABBIT</a>
-<a href="https://setiaskin.com/product/">BUSTOTO</a>
-<a href="https://setiaskin.com/product/">CERDAS44</a>
-<a href="https://setiaskin.com/product/">CUMA5000</a>       
-<a href="https://setiaskin.com/product/">KELAPA321</a>
-<a href="https://setiaskin.com/product/">REKANJITU</a>
-<a href="https://setiaskin.com/product/">LIGAHOKI89</a>
-<a href="https://setiaskin.com/product/">PULSA858</a>       
-<a href="https://setiaskin.com/product/">PAKETBOLA</a>
-<a href="https://setiaskin.com/product/">RAJADEWA55</a>
-<a href="https://setiaskin.com/product/">KOLONEL168</a>
-<a href="https://setiaskin.com/product/">YING77</a>       
-<a href="https://setiaskin.com/product/">POLA5000</a>
-<a href="https://setiaskin.com/product/">MPO1212</a>
-<a href="https://setiaskin.com/product/">MARVEL123</a>       
-<a href="https://setiaskin.com/product/">FAFA777</a>
-<a href="https://setiaskin.com/product/">SAKU89</a>
-<a href="https://setiaskin.com/product/">PARKIRJP</a>
-<a href="https://setiaskin.com/product/">LONCENG4D</a>       
-<a href="https://setiaskin.com/product/">3TOTOPRIZE</a>
-<a href="https://setiaskin.com/product/">BANDAR47</a>
-<a href="https://setiaskin.com/product/">NEXIAN4D</a>
-<a href="https://setiaskin.com/product/">SUPERCUAN888</a>       
-<a href="https://setiaskin.com/product/">WAK5000</a>
-<a href="https://setiaskin.com/product/">KUY4D</a>
-<a href="https://setiaskin.com/product/">INTER707</a>
-<a href="https://setiaskin.com/product/">SURGABET777</a>       
-<a href="https://setiaskin.com/product/">SURGAWIN99</a>
-<a href="https://setiaskin.com/product/">NOWGOAL24</a>
-<a href="https://setiaskin.com/product/">RUMAHBANDAR</a>
-<a href="https://setiaskin.com/product/">WUKONG55G</a>       
-<a href="https://setiaskin.com/product/">HARUM777</a>
-<a href="https://setiaskin.com/product/">MITRA138</a>
-<a href="https://setiaskin.com/product/">MAHONGBET</a>
-<a href="https://setiaskin.com/product/">5DEWA</a>       
-<a href="https://setiaskin.com/product/">SUPERMPO</a>
-<a href="https://setiaskin.com/product/">MANDIRI888</a>
-<a href="https://setiaskin.com/product/">MWIN328</a>
-<a href="https://setiaskin.com/product/">ION55</a>       
-<a href="https://setiaskin.com/product/">PGSOFT555</a>
-<a href="https://setiaskin.com/product/">GGSOFT</a>
-<a href="https://setiaskin.com/product/">RASQQ</a>
-<a href="https://setiaskin.com/product/">HALO138</a>       
-<a href="https://setiaskin.com/product/">PINTARBOLA</a>
-<a href="https://setiaskin.com/product/">GAPURABOLA</a>
-<a href="https://setiaskin.com/product/">GAJAHBOLA</a>
-<a href="https://setiaskin.com/product/">CAKARNAGA</a>       
-<a href="https://setiaskin.com/product/">SUMO777</a>
-<a href="https://setiaskin.com/product/">BOLA168</a>
-<a href="https://setiaskin.com/product/">HOBI55</a>
-<a href="https://setiaskin.com/product/">JOS55</a>       
-<a href="https://setiaskin.com/product/">SODA88</a>
-<a href="https://setiaskin.com/product/">surgavip</a>       
-<a href="https://setiaskin.com/product/">surga vip</a>
-<a href="https://setiaskin.com/product/">KSO303</a>
-<a href="https://setiaskin.com/product/">KOMPAS76</a>
-<a href="https://setiaskin.com/product/">NASA4D</a>       
-<a href="https://setiaskin.com/product/">NAGA33</a>
-<a href="https://setiaskin.com/product/">CAKAR76</a>
-<a href="https://setiaskin.com/product/">GOCEK88</a>
-<a href="https://setiaskin.com/product/">ABADI777</a>       
-<a href="https://setiaskin.com/product/">APOLO77</a>
-<a href="https://setiaskin.com/product/">BOMJP</a>
-<a href="https://setiaskin.com/product/">BIRU4D</a>
-<a href="https://setiaskin.com/product/">NIKMAT777</a>       
-<a href="https://setiaskin.com/product/">FUFU4D</a>
-<a href="https://setiaskin.com/product/">RJS138</a>
-<a href="https://setiaskin.com/product/">RUBY8000</a>
-<a href="https://setiaskin.com/product/">REKENING777</a>       
-<a href="https://setiaskin.com/product/">MUTU777</a>
-<a href="https://setiaskin.com/product/">MENANG123</a>
-<a href="https://setiaskin.com/product/">SIJI4D</a>
-<a href="https://setiaskin.com/product/">SEDAYU88</a>       
-<a href="https://setiaskin.com/product/">SINAR303</a>
-<a href="https://setiaskin.com/product/">HINO99</a>
-<a href="https://setiaskin.com/product/">SUTRA88</a>
-<a href="https://setiaskin.com/product/">WWBOLA</a>       
-<a href="https://setiaskin.com/product/">TOTOPANEN</a>
-<a href="https://setiaskin.com/product/">VEGAS108</a>
-<a href="https://setiaskin.com/product/">MANDALA89</a>
-<a href="https://setiaskin.com/product/">LESTARI777</a>       
-<a href="https://setiaskin.com/product/">SLOTGURU88</a>
-<a href="https://setiaskin.com/product/">MEDANSLOT</a>
-<a href="https://setiaskin.com/product/">CASTELTOTO</a>
-<a href="https://setiaskin.com/product/">WLATOTO</a>       
-<a href="https://setiaskin.com/product/">APOLLO777</a>
-<a href="https://setiaskin.com/product/">ANEKATOTO</a>
-<a href="https://setiaskin.com/product/">SOFABET88</a>
-<a href="https://setiaskin.com/product/">RAJAJUDIQQ</a>       
-<a href="https://setiaskin.com/product/">KINGBET89</a>
-<a href="https://setiaskin.com/product/">PRAGMATIC189</a>
-<a href="https://setiaskin.com/product/">OHTOGEL</a>
-<a href="https://setiaskin.com/product/">NAMI55</a>       
-<a href="https://setiaskin.com/product/">DEWAWIN365</a>
-<a href="https://setiaskin.com/product/">WD88</a>
-<a href="https://setiaskin.com/product/">GARUDAQQ</a>
-<a href="https://setiaskin.com/product/">EVOBET88</a>       
-<a href="https://setiaskin.com/product/">SINARPLAY</a>
-<a href="https://setiaskin.com/product/">DANAUHOKI88</a>
-<a href="https://setiaskin.com/product/">MIXUE99</a>
-<a href="https://setiaskin.com/product/">UANG365</a>       
-<a href="https://setiaskin.com/product/">AGUS123</a>
-<a href="https://setiaskin.com/product/">ASIA999</a>
-<a href="https://setiaskin.com/product/">GELIGA69</a>
-<a href="https://setiaskin.com/product/">GANJA77</a>       
-<a href="https://setiaskin.com/product/">DIAMOND69</a>
-<a href="https://setiaskin.com/product/">GAMEHOKI78</a>
-<a href="https://setiaskin.com/product/">OKE805</a>
-<a href="https://setiaskin.com/product/">TOGEL4WIN</a>       
-<a href="https://setiaskin.com/product/">JASAWIN</a>
-<a href="https://setiaskin.com/product/">BETX138</a>
-<a href="https://setiaskin.com/product/">CUCUBET</a>
-<a href="https://setiaskin.com/product/">SILVERBOLA</a>       
-<a href="https://setiaskin.com/product/">MESTIQQ</a>
-<a href="https://setiaskin.com/product/">BALITOTO</a>
-<a href="https://setiaskin.com/product/">MMBETT</a>
-<a href="https://setiaskin.com/product/">FOOMBET</a>       
-<a href="https://setiaskin.com/product/">RKNSPORT</a>
-<a href="https://setiaskin.com/product/">SPACEMAN</a>
-<a href="https://setiaskin.com/product/">TERBITJP</a>
-<a href="https://setiaskin.com/product/">TAKAHOKI168</a>       
-<a href="https://setiaskin.com/product/">TAKOHOKI168</a>
-<a href="https://setiaskin.com/product/">MARKASMPO</a>
-<a href="https://setiaskin.com/product/">PASAR78</a>
-<a href="https://setiaskin.com/product/">ATTA518</a>       
-<a href="https://setiaskin.com/product/">WARGANET99</a>
-<a href="https://setiaskin.com/product/">RAJA6D</a>
-<a href="https://setiaskin.com/product/">BETVIVA</a>
-<a href="https://setiaskin.com/product/">SJRTOTO</a>       
-<a href="https://setiaskin.com/product/">SURGA303</a>
-<a href="https://setiaskin.com/product/">TOTOGAUL</a>
-<a href="https://setiaskin.com/product/">MAXJP88</a>
-<a href="https://setiaskin.com/product/">JAGOANWIN</a>       
-<a href="https://setiaskin.com/product/">M188</a>
-<a href="https://setiaskin.com/product/">LAZABET</a>
-<a href="https://setiaskin.com/product/">HANABET</a>
-<a href="https://setiaskin.com/product/">GGCUAN</a>       
-<a href="https://setiaskin.com/product/">BADAK328</a>
-<a href="https://setiaskin.com/product/">JITUANGKA</a>
-<a href="https://setiaskin.com/product/">AICE55</a>
-<a href="https://setiaskin.com/product/">LIVESCORE88</a>       
-<a href="https://setiaskin.com/product/">BABABOLA</a>
-<a href="https://setiaskin.com/product/">TOGEL118</a>
-<a href="https://setiaskin.com/product/">WANGSIT88</a>
-<a href="https://setiaskin.com/product/">WINX1000</a>       
-<a href="https://setiaskin.com/product/">ANGKACOLOK</a>
-<a href="https://setiaskin.com/product/">TAKASIPLAY99</a>
-<a href="https://setiaskin.com/product/">MPOJUTA</a>
-<a href="https://setiaskin.com/product/">INTERGOAL88</a>       
-<a href="https://setiaskin.com/product/">NAGAFORWIN</a>
-<a href="https://setiaskin.com/product/">IDR666</a>
-<a href="https://setiaskin.com/product/">AJRTOGEL</a>
-<a href="https://setiaskin.com/product/">WANWANTOTO</a>       
-<a href="https://setiaskin.com/product/">BS888</a>
-<a href="https://setiaskin.com/product/">ASO99</a>
-<a href="https://setiaskin.com/product/">OKB88</a>
-<a href="https://setiaskin.com/product/">YAKIN99</a>       
-<a href="https://setiaskin.com/product/">HOKIMULU</a>
-<a href="https://setiaskin.com/product/">PROJACKPOT66</a>
-<a href="https://setiaskin.com/product/">NASAKI68</a>
-<a href="https://setiaskin.com/product/">KUYBET</a>       
-<a href="https://setiaskin.com/product/">PRIMA168</a>
-<a href="https://setiaskin.com/product/">SALAM123</a>
-<a href="https://setiaskin.com/product/">QQRESORT</a>
-<a href="https://setiaskin.com/product/">REPLAY79</a>       
-<a href="https://setiaskin.com/product/">SPIN919</a>
-<a href="https://setiaskin.com/product/">WEBINI33</a>
-<a href="https://setiaskin.com/product/">TONGKATJP</a>
-<a href="https://setiaskin.com/product/">SURGABET33</a>       
-<a href="https://setiaskin.com/product/">KENZO123</a>
-<a href="https://setiaskin.com/product/">QQBOLA21</a>
-<a href="https://setiaskin.com/product/">JPZEUS</a>
-<a href="https://setiaskin.com/product/">DEWAKIUKIU</a>       
-<a href="https://setiaskin.com/product/">ISTANADEPO</a>
-<a href="https://setiaskin.com/product/">SULTANWIN89</a>
-<a href="https://setiaskin.com/product/">PANEN189</a>
-<a href="https://setiaskin.com/product/">SLOTZEUS</a>       
-<a href="https://setiaskin.com/product/">SLOT ZEUS</a>
-<a href="https://setiaskin.com/product/">LINK86</a>
-<a href="https://setiaskin.com/product/">METRO115</a>
-<a href="https://setiaskin.com/product/">TORAJAQQ</a>       
-<a href="https://setiaskin.com/product/">PENDOPO77</a>
-<a href="https://setiaskin.com/product/">DP368</a>
-<a href="https://setiaskin.com/product/">JADIDUIT88</a>
-<a href="https://setiaskin.com/product/">SUARA77</a>       
-<a href="https://setiaskin.com/product/">666PLAY</a>
-<a href="https://setiaskin.com/product/">ATLANTIS333</a>
-<a href="https://setiaskin.com/product/">JAYAPATI89</a>
-<a href="https://setiaskin.com/product/">RAJAKARTU99</a>       
-<a href="https://setiaskin.com/product/">MPO525</a>
-<a href="https://setiaskin.com/product/">MPOWIN</a>
-<a href="https://setiaskin.com/product/">PTGACOR77</a>
-<a href="https://setiaskin.com/product/">DEPOLAH</a>       
-<a href="https://setiaskin.com/product/">UNTUNGPANEN</a>
-<a href="https://setiaskin.com/product/">KODOKEMAS77</a>
-<a href="https://setiaskin.com/product/">PKPLAY2</a>
-<a href="https://setiaskin.com/product/">PIALA2000</a>       
-<a href="https://setiaskin.com/product/">QQ222</a>
-<a href="https://setiaskin.com/product/">NAGA007</a>
-<a href="https://setiaskin.com/product/">PASTIJOS</a>
-<a href="https://setiaskin.com/product/">TOPTEN99</a>       
-<a href="https://setiaskin.com/product/">LAPAK369</a>
-<a href="https://setiaskin.com/product/">MPOHOKI</a>
-<a href="https://setiaskin.com/product/">GOSPIN168</a>
-<a href="https://setiaskin.com/product/">99ANGPAU</a>       
-<a href="https://setiaskin.com/product/">GATOTJP</a>
-<a href="https://setiaskin.com/product/">ARTISWIN</a>
-<a href="https://setiaskin.com/product/">AUTO177</a>
-<a href="https://setiaskin.com/product/">NAGA404</a>       
-<a href="https://setiaskin.com/product/">AJAIB123</a>
-<a href="https://setiaskin.com/product/">BETA78</a>
-<a href="https://setiaskin.com/product/">DUNIAJP</a>
-<a href="https://setiaskin.com/product/">POOLS303</a>       
-<a href="https://setiaskin.com/product/">PASTIJP</a>
-<a href="https://setiaskin.com/product/">REZEKI138</a>
-<a href="https://setiaskin.com/product/">MEDUSA123</a>
-<a href="https://setiaskin.com/product/">JPWD</a>       
-<a href="https://setiaskin.com/product/">JPWIN</a>
-<a href="https://setiaskin.com/product/">HABANERO</a>
-<a href="https://setiaskin.com/product/">IDC88JUARA</a>
-<a href="https://setiaskin.com/product/">HISLOT88</a>       
-<a href="https://setiaskin.com/product/">NAGALIGA</a>
-<a href="https://setiaskin.com/product/">LIGAJP77</a>
-<a href="https://setiaskin.com/product/">LAPAKMPO</a>
-<a href="https://setiaskin.com/product/">CAKAR77</a>       
-<a href="https://setiaskin.com/product/">ONIX77</a>
-<a href="https://setiaskin.com/product/">SONIC77</a>
-<a href="https://setiaskin.com/product/">BARAKATJP99</a>
-<a href="https://setiaskin.com/product/">MANISJP</a>       
-<a href="https://setiaskin.com/product/">PALMAS88</a>
-<a href="https://setiaskin.com/product/">EBET88</a>
-<a href="https://setiaskin.com/product/">PANAS33</a>
-<a href="https://setiaskin.com/product/">MIBTOTO</a>       
-<a href="https://setiaskin.com/product/">REJEKIBET</a>
-<a href="https://setiaskin.com/product/">JANTAN88</a>
-<a href="https://setiaskin.com/product/">EMO4D</a>
-<a href="https://setiaskin.com/product/">PANDA999</a>       
-<a href="https://setiaskin.com/product/">PT777</a>
-<a href="https://setiaskin.com/product/">DAPURBET87</a>
-<a href="https://setiaskin.com/product/">MAGNUM4D</a>
-<a href="https://setiaskin.com/product/">ANGKASA77</a>       
-<a href="https://setiaskin.com/product/">SPIDER4D</a>
-<a href="https://setiaskin.com/product/">PARTAI77</a>
-<a href="https://setiaskin.com/product/">MELATI4D</a>
-<a href="https://setiaskin.com/product/">BINTANGBET</a>       
-<a href="https://setiaskin.com/product/">JOKERWIN777</a>
-<a href="https://setiaskin.com/product/">JET777</a>
-<a href="https://setiaskin.com/product/">MAXWIN888</a>
-<a href="https://setiaskin.com/product/">INDO138</a>       
-<a href="https://setiaskin.com/product/">MPO444</a>
-<a href="https://setiaskin.com/product/">AMAZON303</a>
-<a href="https://setiaskin.com/product/">EMAS36</a>
-<a href="https://setiaskin.com/product/">PRG007</a>       
-<a href="https://setiaskin.com/product/">GARUDA77</a>
-<a href="https://setiaskin.com/product/">MONTE77</a>
-<a href="https://setiaskin.com/product/">DANTON88</a>
-<a href="https://setiaskin.com/product/">KEY777</a>       
-<a href="https://setiaskin.com/product/">HARTA99</a>
-<a href="https://setiaskin.com/product/">JW001</a>
-<a href="https://setiaskin.com/product/">DUTA369</a>
-<a href="https://setiaskin.com/product/">DEWA369</a>       
-<a href="https://setiaskin.com/product/">DANA11</a>
-<a href="https://setiaskin.com/product/">DANA22</a>
-<a href="https://setiaskin.com/product/">DANA44</a>
-<a href="https://setiaskin.com/product/">DANA66</a>       
-<a href="https://setiaskin.com/product/">DANA99</a>
-<a href="https://setiaskin.com/product/">DANA GACOR</a>
-<a href="https://setiaskin.com/product/">PRG777</a>
-<a href="https://setiaskin.com/product/">NOS89</a>       
-<a href="https://setiaskin.com/product/">KAMPUS77</a>
-<a href="https://setiaskin.com/product/">KASBON88</a>
-<a href="https://setiaskin.com/product/">MIKAMI88</a>
-<a href="https://setiaskin.com/product/">JANDA888</a>       
-<a href="https://setiaskin.com/product/">ANTENAQQ</a>
-<a href="https://setiaskin.com/product/">QQGAMING88</a>
-<a href="https://setiaskin.com/product/">LILINTOTO</a>
-<a href="https://setiaskin.com/product/">DITA4D</a>       
-<a href="https://setiaskin.com/product/">DESATOTO</a>
-<a href="https://setiaskin.com/product/">JP678</a>
-<a href="https://setiaskin.com/product/">JP789</a>
-<a href="https://setiaskin.com/product/">JOS76</a>       
-<a href="https://setiaskin.com/product/">ERIGO88</a>
-<a href="https://setiaskin.com/product/">GAS55</a>
-<a href="https://setiaskin.com/product/">HERO55</a>
-<a href="https://setiaskin.com/product/">MAJU4D</a>       
-<a href="https://setiaskin.com/product/">SE7WIN</a>
-<a href="https://setiaskin.com/product/">HUT4D</a>
-<a href="https://setiaskin.com/product/">HADIAH138</a>
-<a href="https://setiaskin.com/product/">LEGIANBET</a>       
-<a href="https://setiaskin.com/product/">SGO777</a>
-<a href="https://setiaskin.com/product/">RUSH4D</a>
-<a href="https://setiaskin.com/product/">GATOT4D</a>
-<a href="https://setiaskin.com/product/">MAS4D</a>       
-<a href="https://setiaskin.com/product/">MAGER4D</a>
-<a href="https://setiaskin.com/product/">MAXWIN369</a>
-<a href="https://setiaskin.com/product/">KOBEL4D</a>
-<a href="https://setiaskin.com/product/">MOS777</a>       
-<a href="https://setiaskin.com/product/">PUTIN138</a>
-<a href="https://setiaskin.com/product/">SAKURATOGEL</a>
-<a href="https://setiaskin.com/product/">SISTA99</a>
-<a href="https://setiaskin.com/product/">RTP5000</a>       
-<a href="https://setiaskin.com/product/">MAHJONG222</a>
-<a href="https://setiaskin.com/product/">RTP500</a>
-<a href="https://setiaskin.com/product/">VIP5000</a>
-<a href="https://setiaskin.com/product/">WIN5000</a>       
-<a href="https://setiaskin.com/product/">ASIA76</a>
-<a href="https://setiaskin.com/product/">TOP5000</a>
-<a href="https://setiaskin.com/product/">LEXUS188</a>
-<a href="https://setiaskin.com/product/">LEXUS88</a>       
-<a href="https://setiaskin.com/product/">ESCOBAR88</a>
-<a href="https://setiaskin.com/product/">ESCOBET86</a>
-<a href="https://setiaskin.com/product/">ASIA76</a>
-<a href="https://setiaskin.com/product/">GEMARBOLA</a>       
-<a href="https://setiaskin.com/product/">AFB365</a>
-<a href="https://setiaskin.com/product/">YYPAUS</a>
-<a href="https://setiaskin.com/product/">MATAHOKI</a>
-<a href="https://setiaskin.com/product/">BET138</a>       
-<a href="https://setiaskin.com/product/">BOLASLOT</a>
-<a href="https://setiaskin.com/product/">BOLA228</a>
-<a href="https://setiaskin.com/product/">BONSAIBOLA</a>
-<a href="https://setiaskin.com/product/">BOLA206</a>       
-<a href="https://setiaskin.com/product/">SHOPTOTO</a>
-<a href="https://setiaskin.com/product/">ARENAMPO</a>
-<a href="https://setiaskin.com/product/">3S3N</a>
-<a href="https://setiaskin.com/product/">90BOLA</a>       
-<a href="https://setiaskin.com/product/">MPO222</a>
-<a href="https://setiaskin.com/product/">PHANTOM333</a>
-<a href="https://setiaskin.com/product/">MACAU442</a>
-<a href="https://setiaskin.com/product/">BOLAMAS88</a>       
-<a href="https://setiaskin.com/product/">BIG855</a>
-<a href="https://setiaskin.com/product/">SBCAGENT</a>
-<a href="https://setiaskin.com/product/">WIN138</a>
-<a href="https://setiaskin.com/product/">44DEWA</a>       
-<a href="https://setiaskin.com/product/">SUPERPLN87</a>
-<a href="https://setiaskin.com/product/">PLNGACOR678</a>
-<a href="https://setiaskin.com/product/">MPO66</a>
-<a href="https://setiaskin.com/product/">LINK303</a>       
-<a href="https://setiaskin.com/product/">MPOJACKPOT</a>
-<a href="https://setiaskin.com/product/">BANDAR303</a>
-<a href="https://setiaskin.com/product/">SCATTER777</a>
-<a href="https://setiaskin.com/product/">WAW99</a>       
-<a href="https://setiaskin.com/product/">SABUN77</a>
-<a href="https://setiaskin.com/product/">SABUN88</a>
-<a href="https://setiaskin.com/product/">UJI77</a>
-<a href="https://setiaskin.com/product/">NAGA333</a>       
-<a href="https://setiaskin.com/product/">RSLOT77</a>
-<a href="https://setiaskin.com/product/">NINJA388</a>
-<a href="https://setiaskin.com/product/">SUKMABOLA</a>
-<a href="https://setiaskin.com/product/">GO55</a>       
-<a href="https://setiaskin.com/product/">CGK33</a>
-<a href="https://setiaskin.com/product/">OYUKI88</a>
-<a href="https://setiaskin.com/product/">JALUR777</a>
-<a href="https://setiaskin.com/product/">KLIK555</a>       
-<a href="https://setiaskin.com/product/">SEPAKBOLACC</a>
-<a href="https://setiaskin.com/product/">BET365</a>
-<a href="https://setiaskin.com/product/">UPTOGEL</a>
-<a href="https://setiaskin.com/product/">NINJA55</a>       
-<a href="https://setiaskin.com/product/">ESCOBAR777</a>
-<a href="https://setiaskin.com/product/">TOGEL2WIN</a>
-<a href="https://setiaskin.com/product/">JPDEWA</a>       
-<a href="https://setiaskin.com/product/">BAMBU99</a>
-<a href="https://setiaskin.com/product/">SENJAQQ</a>
-<a href="https://setiaskin.com/product/">MINIONSLOT88</a>       
-<a href="https://setiaskin.com/product/">AFTERWIN88</a>
-<a href="https://setiaskin.com/product/">DANA55</a>
-<a href="https://setiaskin.com/product/">MAIN55</a>
-<a href="https://setiaskin.com/product/">NONA55</a>       
-<a href="https://setiaskin.com/product/">JOS55</a>
-<a href="https://setiaskin.com/product/">DANAMAX777</a>
-<a href="https://setiaskin.com/product/">GOLDENQQ</a>
-<a href="https://setiaskin.com/product/">GOCENGQQ</a>       
-<a href="https://setiaskin.com/product/">AHLIQQ</a>
-<a href="https://setiaskin.com/product/">PKV4D</a>
-<a href="https://setiaskin.com/product/">SULAP777</a>
-<a href="https://setiaskin.com/product/">KAFE777</a>       
-<a href="https://setiaskin.com/product/">1121SLOT</a>
-<a href="https://setiaskin.com/product/">VOXY88</a>
-<a href="https://setiaskin.com/product/">BRAVOMPO</a>
-<a href="https://setiaskin.com/product/">EGO777</a>       
-<a href="https://setiaskin.com/product/">MJPTOP88</a>
-<a href="https://setiaskin.com/product/">LION78</a>
-<a href="https://setiaskin.com/product/">TOS808</a>
-<a href="https://setiaskin.com/product/">SUPER808</a>       
-<a href="https://setiaskin.com/product/">GWKTOGEL</a>
-<a href="https://setiaskin.com/product/">KASBET4D</a>
-<a href="https://setiaskin.com/product/">KIWI4D</a>
-<a href="https://setiaskin.com/product/">NEGO77</a>       
-<a href="https://setiaskin.com/product/">CORLA188</a>
-<a href="https://setiaskin.com/product/">UFOTOTO</a>
-<a href="https://setiaskin.com/product/">NEO38</a>
-<a href="https://setiaskin.com/product/">TKO77</a>       
-<a href="https://setiaskin.com/product/">PERTASLOT</a>
-<a href="https://setiaskin.com/product/">HEBAT777</a>
-<a href="https://setiaskin.com/product/">PULSA777</a>
-<a href="https://setiaskin.com/product/">AQUA365</a>       
-<a href="https://setiaskin.com/product/">GBK76</a>
-<a href="https://setiaskin.com/product/">1131SPORT</a>
-<a href="https://setiaskin.com/product/">PERANG138</a>
-<a href="https://setiaskin.com/product/">KAPTEN76</a>       
-<a href="https://setiaskin.com/product/">CINCINBET</a>
-<a href="https://setiaskin.com/product/">KALIJODO88</a>
-<a href="https://setiaskin.com/product/">DONASIBET</a>
-<a href="https://setiaskin.com/product/">PRO788</a>       
-<a href="https://setiaskin.com/product/">LUX78</a>
-<a href="https://setiaskin.com/product/">RANTAI88</a>
-<a href="https://setiaskin.com/product/">PISTON88</a>
-<a href="https://setiaskin.com/product/">SLOT88KU</a>       
-<a href="https://setiaskin.com/product/">MAXWINBOS</a>
-<a href="https://setiaskin.com/product/">GENGWD</a>
-<a href="https://setiaskin.com/product/">UNIKTOTO</a>
-<a href="https://setiaskin.com/product/">RESMI303</a>       
-<a href="https://setiaskin.com/product/">TOTOWIN88</a>
-<a href="https://setiaskin.com/product/">PLATINUMSLOT</a>
-<a href="https://setiaskin.com/product/">SLC4D</a>
-<a href="https://setiaskin.com/product/">INDOPROMAX</a>       
-<a href="https://setiaskin.com/product/">PELANGITOTO888</a>
-<a href="https://setiaskin.com/product/">CINTA777</a>
-<a href="https://setiaskin.com/product/">PRESIDENSLOT</a>
-<a href="https://setiaskin.com/product/">DARAT4D</a>       
-<a href="https://setiaskin.com/product/">BAKI888</a>
-<a href="https://setiaskin.com/product/">MABAR189</a>
-<a href="https://setiaskin.com/product/">NAGATA389</a>
-<a href="https://setiaskin.com/product/">JURAGANBOLA</a>       
-<a href="https://setiaskin.com/product/">SENGGOL138</a>
-<a href="https://setiaskin.com/product/">BADAKMAS</a>
-<a href="https://setiaskin.com/product/">JACKPOT338</a>
-<a href="https://setiaskin.com/product/">NETIZEN303</a>       
-<a href="https://setiaskin.com/product/">OKBOS86</a>
-<a href="https://setiaskin.com/product/">RAPTOTO</a>
-<a href="https://setiaskin.com/product/">1TOTO</a>
-<a href="https://setiaskin.com/product/">TOP4D</a>       
-<a href="https://setiaskin.com/product/">BOS717</a>
-<a href="https://setiaskin.com/product/">ASIATOTO</a>
-<a href="https://setiaskin.com/product/">ERABET88</a>
-<a href="https://setiaskin.com/product/">OKEBOS138</a>       
-<a href="https://setiaskin.com/product/">NAGASAON88</a>
-<a href="https://setiaskin.com/product/">CORDOBA99</a>
-<a href="https://setiaskin.com/product/">GAYATOTO</a>
-<a href="https://setiaskin.com/product/">JAWABET88</a>       
-<a href="https://setiaskin.com/product/">JASATOTO99</a>
-<a href="https://setiaskin.com/product/">RATUGACOR88</a>
-<a href="https://setiaskin.com/product/">AFCTOGEL</a>       
-<a href="https://setiaskin.com/product/">REZEKITOTO</a>
-<a href="https://setiaskin.com/product/">REJEKIHOKI</a>
-<a href="https://setiaskin.com/product/">VPLAY89</a>
-<a href="https://setiaskin.com/product/">ZONA66</a>       
-<a href="https://setiaskin.com/product/">TOTO885</a>
-<a href="https://setiaskin.com/product/">FAT88BET</a>
-<a href="https://setiaskin.com/product/">ANAKNAGA4D</a>
-<a href="https://setiaskin.com/product/">TOTOAKURAT</a>       
-<a href="https://setiaskin.com/product/">NAGA508</a>
-<a href="https://setiaskin.com/product/">SLOTMERAH</a>
-<a href="https://setiaskin.com/product/">NAGA882</a>
-<a href="https://setiaskin.com/product/">JODOHTOTO</a>       
-<a href="https://setiaskin.com/product/">AKSITOTO</a>
-<a href="https://setiaskin.com/product/">LAWASTOTO</a>
-<a href="https://setiaskin.com/product/">PAKBOLA88</a>
-<a href="https://setiaskin.com/product/">RAJAWD777</a>       
-<a href="https://setiaskin.com/product/">BIRUTOTO</a>
-<a href="https://setiaskin.com/product/">RAJAKU4D</a>
-<a href="https://setiaskin.com/product/">CATUR777</a>
-<a href="https://setiaskin.com/product/">GARUDA55</a>       
-<a href="https://setiaskin.com/product/">MUTASITOTO</a>
-<a href="https://setiaskin.com/product/">BANTENG369</a>
-<a href="https://setiaskin.com/product/">TUYUL138</a>
-<a href="https://setiaskin.com/product/">MERDEKA777</a>       
-<a href="https://setiaskin.com/product/">MAYORA4D</a>
-<a href="https://setiaskin.com/product/">UBI138</a>
-<a href="https://setiaskin.com/product/">LOMBA4D</a>
-<a href="https://setiaskin.com/product/">SALDO4D</a>       
-<a href="https://setiaskin.com/product/">DRAGON138</a>
-<a href="https://setiaskin.com/product/">EROPA4D</a>
-<a href="https://setiaskin.com/product/">SIGRA369</a>
-<a href="https://setiaskin.com/product/">TIARA88</a>       
-<a href="https://setiaskin.com/product/">SPACEX168</a>
-<a href="https://setiaskin.com/product/">POWER4D</a>
-<a href="https://setiaskin.com/product/">TSO777</a>
-<a href="https://setiaskin.com/product/">DUCATI777</a>       
-<a href="https://setiaskin.com/product/">YOI4D</a>
-<a href="https://setiaskin.com/product/">ABCWIN386</a>
-<a href="https://setiaskin.com/product/">SCATTER333</a>
-<a href="https://setiaskin.com/product/">KINCIR88</a>       
-<a href="https://setiaskin.com/product/">CMD77</a>
-<a href="https://setiaskin.com/product/">CMD398</a>
-<a href="https://setiaskin.com/product/">MJPTOTO</a>
-<a href="https://setiaskin.com/product/">BUKIT4D</a>       
-<a href="https://setiaskin.com/product/">GARUDA76</a>
-<a href="https://setiaskin.com/product/">GACOR268</a>
-<a href="https://setiaskin.com/product/">DRAGON212</a>
-<a href="https://setiaskin.com/product/">JUARA4D</a>       
-<a href="https://setiaskin.com/product/">JEPE138</a>
-<a href="https://setiaskin.com/product/">LAMBOR88</a>
-<a href="https://setiaskin.com/product/">WISDOM77</a>
-<a href="https://setiaskin.com/product/">GACOR4D</a>       
-<a href="https://setiaskin.com/product/">HAKATA136</a>
-<a href="https://setiaskin.com/product/">PAUSHOKI</a>
-<a href="https://setiaskin.com/product/">MERDEKATOTO</a>
-<a href="https://setiaskin.com/product/">LPO88</a>       
-<a href="https://setiaskin.com/product/">ZEUS007</a>
-<a href="https://setiaskin.com/product/">BALAP4D</a>
-<a href="https://setiaskin.com/product/">FLASH303</a>
-<a href="https://setiaskin.com/product/">GIGIEMAS77</a>       
-<a href="https://setiaskin.com/product/">SAR288</a>
-<a href="https://setiaskin.com/product/">SINDEN4D</a>
-<a href="https://setiaskin.com/product/">SAFIR777</a>
-<a href="https://setiaskin.com/product/">ROYAL378</a>       
-<a href="https://setiaskin.com/product/">PION138</a>
-<a href="https://setiaskin.com/product/">SIMBA4D</a>
-<a href="https://setiaskin.com/product/">CROT4D</a>
-<a href="https://setiaskin.com/product/">TERANG4D</a>       
-<a href="https://setiaskin.com/product/">WONDER4D</a>
-<a href="https://setiaskin.com/product/">OLE99</a>
-<a href="https://setiaskin.com/product/">ADAT88</a>
-<a href="https://setiaskin.com/product/">JUARA126</a>       
-<a href="https://setiaskin.com/product/">MPOGACOR88</a>
-<a href="https://setiaskin.com/product/">SEJOLI76</a>
-<a href="https://setiaskin.com/product/">INDO4D</a>
-<a href="https://setiaskin.com/product/">ANGIN77</a>       
-<a href="https://setiaskin.com/product/">DAGELAN4D</a>
-<a href="https://setiaskin.com/product/">NOS4D</a>
-<a href="https://setiaskin.com/product/">VEGAS77</a>
-<a href="https://setiaskin.com/product/">MAHADEWATOTO</a>       
-<a href="https://setiaskin.com/product/">BIMATOTO</a>
-<a href="https://setiaskin.com/product/">PERMEN4D</a>
-<a href="https://setiaskin.com/product/">PETIR99</a>
-<a href="https://setiaskin.com/product/">SENJU33</a>       
-<a href="https://setiaskin.com/product/">YOYO33</a>
-<a href="https://setiaskin.com/product/">ISTANA138</a>
-<a href="https://setiaskin.com/product/">DEWA212</a>
-<a href="https://setiaskin.com/product/">JAYATOP77</a>       
-<a href="https://setiaskin.com/product/">LAYAR805</a>
-<a href="https://setiaskin.com/product/">PANGERAN88</a>
-<a href="https://setiaskin.com/product/">GRAB138</a>
-<a href="https://setiaskin.com/product/">VIP805</a>       
-<a href="https://setiaskin.com/product/">LIONG88</a>
-<a href="https://setiaskin.com/product/">FYP805</a>
-<a href="https://setiaskin.com/product/">SPIN707</a>
-<a href="https://setiaskin.com/product/">POOLS303</a>       
-<a href="https://setiaskin.com/product/">DRAGON4D</a>
-<a href="https://setiaskin.com/product/">UANG77</a>
-<a href="https://setiaskin.com/product/">CUANJP</a>
-<a href="https://setiaskin.com/product/">GASJP</a>       
-<a href="https://setiaskin.com/product/">JP268</a>
-<a href="https://setiaskin.com/product/">HIU4D</a>
-<a href="https://setiaskin.com/product/">MPOTEN</a>
-<a href="https://setiaskin.com/product/">MPO1881</a>       
-<a href="https://setiaskin.com/product/">PAHAM4D</a>
-<a href="https://setiaskin.com/product/">CUAN368</a>
-<a href="https://setiaskin.com/product/">SOPI88</a>
-<a href="https://setiaskin.com/product/">WAHYU4D</a>       
-<a href="https://setiaskin.com/product/">WAJIK88</a>
-<a href="https://setiaskin.com/product/">CEPOT4D</a>
-<a href="https://setiaskin.com/product/">TAG4D</a>
-<a href="https://setiaskin.com/product/">SUMATRA4D</a>       
-<a href="https://setiaskin.com/product/">MOCHIBET88</a>
-<a href="https://setiaskin.com/product/">FULUS89</a>
-<a href="https://setiaskin.com/product/">SKY388</a>
-<a href="https://setiaskin.com/product/">AFK77</a>       
-<a href="https://setiaskin.com/product/">JAYA89</a>
-<a href="https://setiaskin.com/product/">LELE247</a>
-<a href="https://setiaskin.com/product/">NAGA3388</a>
-<a href="https://setiaskin.com/product/">KINGKONG889</a>       
-<a href="https://setiaskin.com/product/">PIALA899</a>
-<a href="https://setiaskin.com/product/">JURAGAN189</a>
-<a href="https://setiaskin.com/product/">BONANZA333</a>
-<a href="https://setiaskin.com/product/">ROKET138</a>       
-<a href="https://setiaskin.com/product/">NAGA26</a>
-<a href="https://setiaskin.com/product/">RGO365</a>
-<a href="https://setiaskin.com/product/">ONG368</a>
-<a href="https://setiaskin.com/product/">BAYAR4D</a>       
-<a href="https://setiaskin.com/product/">TKO77</a>
-<a href="https://setiaskin.com/product/">JITUJP</a>
-<a href="https://setiaskin.com/product/">EMAS36</a>
-<a href="https://setiaskin.com/product/">BETSATU</a>       
-<a href="https://setiaskin.com/product/">BETJITU88</a>
-<a href="https://setiaskin.com/product/">BETPAUS</a>
-<a href="https://setiaskin.com/product/">SBA99</a>
-<a href="https://setiaskin.com/product/">MIKIGAMING</a>       
-<a href="https://setiaskin.com/product/">RAJA4D</a>
-<a href="https://setiaskin.com/product/">GESIT77</a>
-<a href="https://setiaskin.com/product/">MBO99</a>
-<a href="https://setiaskin.com/product/">JOKER805</a>       
-<a href="https://setiaskin.com/product/">MPO4D</a>
-<a href="https://setiaskin.com/product/">MBO128</a>
-<a href="https://setiaskin.com/product/">KSOKLUB</a>
-<a href="https://setiaskin.com/product/">BET10RIBU</a>       
-<a href="https://setiaskin.com/product/">AWSBET</a>
-<a href="https://setiaskin.com/product/">IYA777</a>
-<a href="https://setiaskin.com/product/">TAHTA4D</a>
-<a href="https://setiaskin.com/product/">LUNAS168</a>       
-<a href="https://setiaskin.com/product/">DEPO138</a>
-<a href="https://setiaskin.com/product/">WKWK777</a>
-<a href="https://setiaskin.com/product/">AMAVI88</a>
-<a href="https://setiaskin.com/product/">MANGKOK4D</a>       
-<a href="https://setiaskin.com/product/">SENDAL4D</a>
-<a href="https://setiaskin.com/product/">SEKALI4D</a>
-<a href="https://setiaskin.com/product/">SEPATU4D</a>
-<a href="https://setiaskin.com/product/">SANDIBET</a>       
-<a href="https://setiaskin.com/product/">TAMUBET</a>
-<a href="https://setiaskin.com/product/">SEDAP168</a>
-<a href="https://setiaskin.com/product/">SEDAP138</a>
-<a href="https://setiaskin.com/product/">SIAP108</a>       
-<a href="https://setiaskin.com/product/">PENDEKAR138</a>
-<a href="https://setiaskin.com/product/">SULTAN138</a>
-<a href="https://setiaskin.com/product/">JIN4D</a>
-<a href="https://setiaskin.com/product/">ASIAWIN189</a>       
-<a href="https://setiaskin.com/product/">BABON4D</a>
-<a href="https://setiaskin.com/product/">MBAK4D2</a>
-<a href="https://setiaskin.com/product/">ENGKOL88</a>
-<a href="https://setiaskin.com/product/">HOKI126</a>       
-<a href="https://setiaskin.com/product/">BANDAR126</a>
-<a href="https://setiaskin.com/product/">JOKER268</a>
-<a href="https://setiaskin.com/product/">REKENING168</a>
-<a href="https://setiaskin.com/product/">NAGITA188</a>       
-<a href="https://setiaskin.com/product/">HEBITOP</a>
-<a href="https://setiaskin.com/product/">LIDO55</a>
-<a href="https://setiaskin.com/product/">JOKI55</a>
-<a href="https://setiaskin.com/product/">HOKI55</a>       
-<a href="https://setiaskin.com/product/">GOKONG88</a>
-<a href="https://setiaskin.com/product/">OKADA4D</a>
-<a href="https://setiaskin.com/product/">TANCAP4D</a>
-<a href="https://setiaskin.com/product/">GOJEK77</a>       
-<a href="https://setiaskin.com/product/">MASTERMPO</a>
-<a href="https://setiaskin.com/product/">KAPTENMPO</a>
-<a href="https://setiaskin.com/product/">JP99</a>
-<a href="https://setiaskin.com/product/">SCATTER88</a>       
-<a href="https://setiaskin.com/product/">LINK268</a>
-<a href="https://setiaskin.com/product/">SLOT268</a>
-<a href="https://setiaskin.com/product/">SUKATOTO</a>
-<a href="https://setiaskin.com/product/">LPG888</a>       
-<a href="https://setiaskin.com/product/">KOMPAK4D</a>
-<a href="https://setiaskin.com/product/">PROSES4D</a>
-<a href="https://setiaskin.com/product/">KONEK4D</a>
-<a href="https://setiaskin.com/product/">MAMIGENIT</a>       
-<a href="https://setiaskin.com/product/">SLOT212</a>
-<a href="https://setiaskin.com/product/">MANA777</a>
-<a href="https://setiaskin.com/product/">NOVA126</a>
-<a href="https://setiaskin.com/product/">GUDANG78</a>       
-<a href="https://setiaskin.com/product/">SLOTBESAR</a>
-<a href="https://setiaskin.com/product/">LAMPU777</a>
-<a href="https://setiaskin.com/product/">EMPU138</a>
-<a href="https://setiaskin.com/product/">LUDO4D</a>       
-<a href="https://setiaskin.com/product/">OPERA777</a>
-<a href="https://setiaskin.com/product/">PANTAISLOT</a>
-<a href="https://setiaskin.com/product/">SLOT97</a>
-<a href="https://setiaskin.com/product/">COSMO4D</a>       
-<a href="https://setiaskin.com/product/">SABUK4D</a>
-<a href="https://setiaskin.com/product/">MPOSUN</a>
-<a href="https://setiaskin.com/product/">BAHAGIA777</a>
-<a href="https://setiaskin.com/product/">VW108</a>       
-<a href="https://setiaskin.com/product/">SLOT838</a>
-<a href="https://setiaskin.com/product/">BATIKSLOT138</a>
-<a href="https://setiaskin.com/product/">TURBOSPIN138</a>
-<a href="https://setiaskin.com/product/">SLOTWIN138</a>       
-<a href="https://setiaskin.com/product/">SUKASLOT138</a>
-<a href="https://setiaskin.com/product/">JOKISLOT138</a>
-<a href="https://setiaskin.com/product/">JPSLOT138</a>
-<a href="https://setiaskin.com/product/">JPSLOT88</a>       
-<a href="https://setiaskin.com/product/">SISUSAN88</a>
-<a href="https://setiaskin.com/product/">DANASLOT77</a>
-<a href="https://setiaskin.com/product/">NAGASLOT777</a>
-<a href="https://setiaskin.com/product/">PIK88</a>       
-<a href="https://setiaskin.com/product/">SUGES4D</a>
-<a href="https://setiaskin.com/product/">BERHASILBET</a>
-<a href="https://setiaskin.com/product/">GBKSLOT</a>
-<a href="https://setiaskin.com/product/">LIGAJP99</a>       
-<a href="https://setiaskin.com/product/">APRILTOTO</a>
-<a href="https://setiaskin.com/product/">INOVA777</a>
-<a href="https://setiaskin.com/product/">TIGER78</a>
-<a href="https://setiaskin.com/product/">PAGODA127</a>       
-<a href="https://setiaskin.com/product/">VIVALAVIDA88</a>
-<a href="https://setiaskin.com/product/">SBS188BET</a>
-<a href="https://setiaskin.com/product/">PENTAGON88</a>
-<a href="https://setiaskin.com/product/">DEWASLOT99</a>       
-<a href="https://setiaskin.com/product/">DEWACASINO168</a>
-<a href="https://setiaskin.com/product/">TON4D</a>
-<a href="https://setiaskin.com/product/">BINUS4D</a>
-<a href="https://setiaskin.com/product/">JOYSLOT88</a>       
-<a href="https://setiaskin.com/product/">AYOSLOT88</a>
-<a href="https://setiaskin.com/product/">CCTVSLOT</a>
-<a href="https://setiaskin.com/product/">ELANG188</a>
-<a href="https://setiaskin.com/product/">RAS777</a>       
-<a href="https://setiaskin.com/product/">UNTAR4D</a>
-<a href="https://setiaskin.com/product/">GGPLAY88</a>
-<a href="https://setiaskin.com/product/">UBM4D</a>
-<a href="https://setiaskin.com/product/">COBRA33</a>       
-<a href="https://setiaskin.com/product/">BOLASLOT21</a>
-<a href="https://setiaskin.com/product/">TAS4D</a>
-<a href="https://setiaskin.com/product/">POHON169</a>
-<a href="https://setiaskin.com/product/">COCASLOT</a>       
-<a href="https://setiaskin.com/product/">KLIKWIN188</a>
-<a href="https://setiaskin.com/product/">TOKESLOT88</a>
-<a href="https://setiaskin.com/product/">ISTANA55</a>
-<a href="https://setiaskin.com/product/">AZKABET</a>       
-<a href="https://setiaskin.com/product/">SCATTER BRONZE</a>
-<a href="https://setiaskin.com/product/">KAISAR21</a>
-<a href="https://setiaskin.com/product/">MANIS77</a>       
-<a href="https://setiaskin.com/product/">SIPUTRI88</a>
-<a href="https://setiaskin.com/product/">SIDARMA88</a>
-<a href="https://setiaskin.com/product/">SRIKANDI88</a>
-<a href="https://setiaskin.com/product/">SIAGUS88</a>       
-<a href="https://setiaskin.com/product/">SIERA88</a>
-<a href="https://setiaskin.com/product/">ABCD4D</a>
-<a href="https://setiaskin.com/product/">GGTOTO</a>
-<a href="https://setiaskin.com/product/">PPTOTO</a>       
-<a href="https://setiaskin.com/product/">RRTOTO</a>
-<a href="https://setiaskin.com/product/">PONIK3388</a>
-<a href="https://setiaskin.com/product/">SENSOR77</a>
-<a href="https://setiaskin.com/product/">EMPIRETOTO</a>       
-<a href="https://setiaskin.com/product/">SUAKATOTO</a>
-<a href="https://setiaskin.com/product/">DPRTOTO</a>
-<a href="https://setiaskin.com/product/">TOTOSPIN</a>
-<a href="https://setiaskin.com/product/">MISTERWIN777</a>       
-<a href="https://setiaskin.com/product/">TOINKTOTO</a>
-<a href="https://setiaskin.com/product/">LOTTE4D</a>
-<a href="https://setiaskin.com/product/">BARUNATOTO</a>
-<a href="https://setiaskin.com/product/">CPGTOTO</a>       
-<a href="https://setiaskin.com/product/">1131GG</a>
-<a href="https://setiaskin.com/product/">WILD88</a>
-<a href="https://setiaskin.com/product/">KARIRTOTO</a>
-<a href="https://setiaskin.com/product/">AYAMJP</a>       
-<a href="https://setiaskin.com/product/">MBAK4D1</a>
-<a href="https://setiaskin.com/product/">KIM368</a>
-<a href="https://setiaskin.com/product/">SAMPITTOTO</a>
-<a href="https://setiaskin.com/product/">BRAVOTOTO</a>       
-<a href="https://setiaskin.com/product/">KINGBET138</a>
-<a href="https://setiaskin.com/product/">TOTO368</a>
-<a href="https://setiaskin.com/product/">KANGTOTO2</a>
-<a href="https://setiaskin.com/product/">ZORRO4D</a>       
-<a href="https://setiaskin.com/product/">ABC1131</a>
-<a href="https://setiaskin.com/product/">BAMTOTO</a>
-<a href="https://setiaskin.com/product/">BATARATOTO</a>
-<a href="https://setiaskin.com/product/">JP138</a>       
-<a href="https://setiaskin.com/product/">AGEN62</a>
-<a href="https://setiaskin.com/product/">PAWPAW4D</a>
-<a href="https://setiaskin.com/product/">MBAKTOTO</a>
-<a href="https://setiaskin.com/product/">MPO188</a>       
-<a href="https://setiaskin.com/product/">BINJAI77</a>
-<a href="https://setiaskin.com/product/">RTP4D</a>
-<a href="https://setiaskin.com/product/">TOP99BET</a>
-<a href="https://setiaskin.com/product/">AMANTOTO</a>       
-<a href="https://setiaskin.com/product/">QQ1221</a>
-<a href="https://setiaskin.com/product/">DAUNTOTO</a>
-<a href="https://setiaskin.com/product/">RAJAWIN77</a>
-<a href="https://setiaskin.com/product/">SITUSWD</a>       
-<a href="https://setiaskin.com/product/">XXTOTO</a>
-<a href="https://setiaskin.com/product/">NOBU88</a>
-<a href="https://setiaskin.com/product/">KING177</a>
-<a href="https://setiaskin.com/product/">MEGA177</a>       
-<a href="https://setiaskin.com/product/">RADJA4D</a>
-<a href="https://setiaskin.com/product/">MPO234</a>
-<a href="https://setiaskin.com/product/">MPO369</a>
-<a href="https://setiaskin.com/product/">MAKELAR33</a>       
-<a href="https://setiaskin.com/product/">INIFUN88</a>
-<a href="https://setiaskin.com/product/">AMAVI99</a>
-<a href="https://setiaskin.com/product/">BUBUTOTO</a>
-<a href="https://setiaskin.com/product/">YAKINJP</a>       
-<a href="https://setiaskin.com/product/">RAYA22</a>
-<a href="https://setiaskin.com/product/">GT108</a>
-<a href="https://setiaskin.com/product/">PAGODA123</a>
-<a href="https://setiaskin.com/product/">PAGODA128</a>       
-<a href="https://setiaskin.com/product/">PAGODA167</a>
-<a href="https://setiaskin.com/product/">PAGODA99</a>
-<a href="https://setiaskin.com/product/">PAGODA77</a>
-<a href="https://setiaskin.com/product/">HABIBITOTO</a>       
-<a href="https://setiaskin.com/product/">HABIBI4D</a>
-<a href="https://setiaskin.com/product/">BAKSO108</a>
-<a href="https://setiaskin.com/product/">JPBOS</a>
-<a href="https://setiaskin.com/product/">BOLA07</a>       
-<a href="https://setiaskin.com/product/">SOHIB4D</a>
-<a href="https://setiaskin.com/product/">CONGOR4D</a>
-<a href="https://setiaskin.com/product/">GANTENG4D</a>
-<a href="https://setiaskin.com/product/">TIMO4D</a>       
-<a href="https://setiaskin.com/product/">SION88</a>
-<a href="https://setiaskin.com/product/">SGI88</a>
-<a href="https://setiaskin.com/product/">NEY4D</a>       
-<a href="https://setiaskin.com/product/">KALISTA88</a>
-<a href="https://setiaskin.com/product/">ELSA78</a>
-<a href="https://setiaskin.com/product/">TUTOR78</a>
-<a href="https://setiaskin.com/product/">PAKARJP</a>
-<a href="https://setiaskin.com/product/">HARIJP</a>       
-<a href="https://setiaskin.com/product/">TEPATJP</a>
-<a href="https://setiaskin.com/product/">JELASJP</a>
-<a href="https://setiaskin.com/product/">HADIRJP</a>
-<a href="https://setiaskin.com/product/">LINK5000</a>
-<a href="https://setiaskin.com/product/">QQVIO</a>       
-<a href="https://setiaskin.com/product/">HARI88</a>
-<a href="https://setiaskin.com/product/">JAGOWIN404</a>
-<a href="https://setiaskin.com/product/">FANTA55</a>
-<a href="https://setiaskin.com/product/">MPO1221</a>
-<a href="https://setiaskin.com/product/">SUKSESTOGEL</a>       
-<a href="https://setiaskin.com/product/">BIDADARIBET</a>
-<a href="https://setiaskin.com/product/">KOTA138</a>
-<a href="https://setiaskin.com/product/">KOTA168</a>
-<a href="https://setiaskin.com/product/">MGO555</a>
-<a href="https://setiaskin.com/product/">EMPORED</a>       
-<a href="https://setiaskin.com/product/">DIVATOTO</a>
-<a href="https://setiaskin.com/product/">CASHSLOT777</a>
-<a href="https://setiaskin.com/product/">GLOW138</a>
-<a href="https://setiaskin.com/product/">BARA138</a>
-<a href="https://setiaskin.com/product/">MAWAR303</a>       
-<a href="https://setiaskin.com/product/">BONUS77</a>
-<a href="https://setiaskin.com/product/">POIN88</a>
-<a href="https://setiaskin.com/product/">PASANG88</a>
-<a href="https://setiaskin.com/product/">GPSTOTO</a>
-<a href="https://setiaskin.com/product/">HKS138</a>       
-<a href="https://setiaskin.com/product/">DJTOTO</a>
-<a href="https://setiaskin.com/product/">KAYUTOTO</a>
-<a href="https://setiaskin.com/product/">PANJITOTO</a>
-<a href="https://setiaskin.com/product/">GERBONGTOTO</a>
-<a href="https://setiaskin.com/product/">KUDASMAS4D</a>       
-<a href="https://setiaskin.com/product/">BANDITO88</a>
-<a href="https://setiaskin.com/product/">RAJABET138</a>
-<a href="https://setiaskin.com/product/">PANCARTOTO</a>
-<a href="https://setiaskin.com/product/">MARETTOTO</a>      
-<a href="https://setiaskin.com/product/">PAKAM777</a>
-<a href="https://setiaskin.com/product/">MEGA5K</a>
-<a href="https://setiaskin.com/product/">BEST808</a>
-<a href="https://setiaskin.com/product/">TOTOPLAY</a>
-<a href="https://setiaskin.com/product/">DUTA76</a>       
-<a href="https://setiaskin.com/product/">SUPERBIG77</a>
-<a href="https://setiaskin.com/product/">HOKIWIN99</a>
-<a href="https://setiaskin.com/product/">SUKSESTOTO</a>
-<a href="https://setiaskin.com/product/">PERMATA178</a>
-<a href="https://setiaskin.com/product/">HRCTOTO</a>       
-<a href="https://setiaskin.com/product/">DEWITOTO</a>
-<a href="https://setiaskin.com/product/">GLOWIN88</a>
-<a href="https://setiaskin.com/product/">INDOHOKI4D</a>
-<a href="https://setiaskin.com/product/">PANDAJAGO</a>
-<a href="https://setiaskin.com/product/">SLOTUP88</a>       
-<a href="https://setiaskin.com/product/">AUTOBOT77</a>
-<a href="https://setiaskin.com/product/">JAWARA79</a>
-<a href="https://setiaskin.com/product/">GOPLAY168</a>
-<a href="https://setiaskin.com/product/">ENAK4D</a>
-<a href="https://setiaskin.com/product/">ALOHA4D</a>       
-<a href="https://setiaskin.com/product/">GOTANTE4D</a>
-<a href="https://setiaskin.com/product/">ADIK4D</a>
-<a href="https://setiaskin.com/product/">BUNDA4D</a>
-<a href="https://setiaskin.com/product/">PJS138</a>
-<a href="https://setiaskin.com/product/">ELOKTOTO</a>       
-<a href="https://setiaskin.com/product/">MIYAJP</a>
-<a href="https://setiaskin.com/product/">MOLEKTOTO</a>
-<a href="https://setiaskin.com/product/">NINGRAT4D</a>
-<a href="https://setiaskin.com/product/">HOTSPIN69</a>
-<a href="https://setiaskin.com/product/">MOKASLOT</a>       
-<a href="https://setiaskin.com/product/">ROYALMPO</a>
-<a href="https://setiaskin.com/product/">PAO4D</a>
-<a href="https://setiaskin.com/product/">TUNAI4D</a>
-<a href="https://setiaskin.com/product/">SEGA4D</a>
-<a href="https://setiaskin.com/product/">QUIZ4D</a>       
-<a href="https://setiaskin.com/product/">PESONATOTO</a>
-<a href="https://setiaskin.com/product/">CEMARATOTO</a>
-<a href="https://setiaskin.com/product/">PEKA777</a>
-<a href="https://setiaskin.com/product/">PEKAN77</a>
-<a href="https://setiaskin.com/product/">JP369</a>       
-<a href="https://setiaskin.com/product/">ARENAGACOR</a>
-<a href="https://setiaskin.com/product/">RUPIAHJP</a>
-<a href="https://setiaskin.com/product/">EQN555</a>
-<a href="https://setiaskin.com/product/">MPO2PLAY</a>
-<a href="https://setiaskin.com/product/">KUDASLOT</a>       
-<a href="https://setiaskin.com/product/">KUMPULTOTO</a>
-<a href="https://setiaskin.com/product/">BUKU369</a>
-<a href="https://setiaskin.com/product/">LINGSLOT</a>
-<a href="https://setiaskin.com/product/">CAIRBRAY</a>
-<a href="https://setiaskin.com/product/">LADANG78</a>       
-<a href="https://setiaskin.com/product/">CAPTAINWIN</a>
-<a href="https://setiaskin.com/product/">DOLLAR138</a>
-<a href="https://setiaskin.com/product/">LAGUNABET</a>
-<a href="https://setiaskin.com/product/">CEPAT777</a>
-<a href="https://setiaskin.com/product/">LINK268</a>       
-<a href="https://setiaskin.com/product/">CERMIN4D</a>
-<a href="https://setiaskin.com/product/">LAKUPON</a>
-<a href="https://setiaskin.com/product/">CINABOS</a>
-<a href="https://setiaskin.com/product/">CITIBET88</a>
-<a href="https://setiaskin.com/product/">CLUBJUDI</a>       
-<a href="https://setiaskin.com/product/">CNNSLOT</a>
-<a href="https://setiaskin.com/product/">COBRA33</a>
-<a href="https://setiaskin.com/product/">CROT4D</a>
-<a href="https://setiaskin.com/product/">LJO77</a>       
-<a href="https://setiaskin.com/product/">M77</a>
-<a href="https://setiaskin.com/product/">DAGELAN4D</a>
-<a href="https://setiaskin.com/product/">DANALIGA</a>
-<a href="https://setiaskin.com/product/">DANGDUT4D</a>       
-<a href="https://setiaskin.com/product/">LATOTO88</a>
-<a href="https://setiaskin.com/product/">LIGALGO</a>
-<a href="https://setiaskin.com/product/">LIGATOTO</a>
-<a href="https://setiaskin.com/product/">LIGAWON</a>
-<a href="https://setiaskin.com/product/">DAUNEMAS</a>       
-<a href="https://setiaskin.com/product/">DEMOSLOT</a>
-<a href="https://setiaskin.com/product/">DEMOSLOTS</a>
-<a href="https://setiaskin.com/product/">LDBPLAY</a>
-<a href="https://setiaskin.com/product/">LOSARI88</a>       
-<a href="https://setiaskin.com/product/">DOMPET69</a>
-<a href="https://setiaskin.com/product/">LEDAKGROUP</a>
-<a href="https://setiaskin.com/product/">LOTO88</a>
-<a href="https://setiaskin.com/product/">DEWA91</a>
-<a href="https://setiaskin.com/product/">DEWADORA</a>       
-<a href="https://setiaskin.com/product/">DEWAGARUDA</a>
-<a href="https://setiaskin.com/product/">MACAUSLOT88</a>
-<a href="https://setiaskin.com/product/">DEWASCATTER</a>
-<a href="https://setiaskin.com/product/">LUCKY777</a>
-<a href="https://setiaskin.com/product/">DEWASLOT99</a>       
-<a href="https://setiaskin.com/product/">DEWASURGA88</a>
-<a href="https://setiaskin.com/product/">DEWAZEUS33</a>
-<a href="https://setiaskin.com/product/">LENSA4D</a>
-<a href="https://setiaskin.com/product/">MAGNUMSLOT</a>
-<a href="https://setiaskin.com/product/">LUXURY345</a>       
-<a href="https://setiaskin.com/product/">MAHKOTA338</a>
-<a href="https://setiaskin.com/product/">LICIN4D</a>
-<a href="https://setiaskin.com/product/">LIGA5000</a>
-<a href="https://setiaskin.com/product/">MIO88</a>
-<a href="https://setiaskin.com/product/">888TOGEL</a>       
-<a href="https://setiaskin.com/product/">NORAKPLAY</a>
-<a href="https://setiaskin.com/product/">HOBY69</a>
-<a href="https://setiaskin.com/product/">TOTO77</a>
-<a href="https://setiaskin.com/product/">CANDUSLOT88</a>       
-<a href="https://setiaskin.com/product/">INDOBET365</a>
-<a href="https://setiaskin.com/product/">POKER88</a>
-<a href="https://setiaskin.com/product/">NAGA508</a>
-<a href="https://setiaskin.com/product/">AWET777</a>
-<a href="https://setiaskin.com/product/">RADEN4D</a>       
-<a href="https://setiaskin.com/product/">LINKAJA88</a>
-<a href="https://setiaskin.com/product/">QQSLOT</a>
-<a href="https://setiaskin.com/product/">LOTUS88</a>
-<a href="https://setiaskin.com/product/">ALITOTO</a>
-<a href="https://setiaskin.com/product/">PLUSTOGEL</a>       
-<a href="https://setiaskin.com/product/">BOSSTOTO</a>
-<a href="https://setiaskin.com/product/">AK4D</a>
-<a href="https://setiaskin.com/product/">DAUNTOTO</a>
-<a href="https://setiaskin.com/product/">COCASLOT</a>
-<a href="https://setiaskin.com/product/">JEPANGQQ</a>       
-<a href="https://setiaskin.com/product/">JAGUAR69</a>
-<a href="https://setiaskin.com/product/">JURUSQQ</a>
-<a href="https://setiaskin.com/product/">PREMIERSLOT88</a>
-<a href="https://setiaskin.com/product/">JENDRAL888</a>
-<a href="https://setiaskin.com/product/">QQKINGBET</a>       
-<a href="https://setiaskin.com/product/">HOBI55</a>
-<a href="https://setiaskin.com/product/">TOTOGUNG2</a>
-<a href="https://setiaskin.com/product/">PIALAQQ</a>
-<a href="https://setiaskin.com/product/">SEMERU4D</a>      
-<a href="https://setiaskin.com/product/">KAKEKMERAH4D</a>
-<a href="https://setiaskin.com/product/">MPO19</a>
-<a href="https://setiaskin.com/product/">INIPOKER</a>       
-<a href="https://setiaskin.com/product/">M77SLOT</a>
-<a href="https://setiaskin.com/product/">AYAMJAGOSLOT</a>
-<a href="https://setiaskin.com/product/">PETA777</a>
-<a href="https://setiaskin.com/product/">REPLAY777</a>
-<a href="https://setiaskin.com/product/">BARI4D</a>       
-<a href="https://setiaskin.com/product/">NINJA123</a>
-<a href="https://setiaskin.com/product/">MACO4D</a>
-<a href="https://setiaskin.com/product/">DEDE4D</a>
-<a href="https://setiaskin.com/product/">PASIR4D</a>       
-<a href="https://setiaskin.com/product/">BULAN77</a>
-<a href="https://setiaskin.com/product/">BINTANGSLOT77</a>
-<a href="https://setiaskin.com/product/">YOK4D</a>
-<a href="https://setiaskin.com/product/">LIVE123</a>
-<a href="https://setiaskin.com/product/">DAVO88</a>       
-<a href="https://setiaskin.com/product/">SPAM4D</a>
-<a href="https://setiaskin.com/product/">NMAX4D</a>
-<a href="https://setiaskin.com/product/">BALAK66</a>
-<a href="https://setiaskin.com/product/">BOM777</a>
-<a href="https://setiaskin.com/product/">BENDERA88</a>       
-<a href="https://setiaskin.com/product/">BINJAI77</a>
-<a href="https://setiaskin.com/product/">KEREN777</a>
-<a href="https://setiaskin.com/product/">MURAH4D</a>
-<a href="https://setiaskin.com/product/">PGTOTO</a>
-<a href="https://setiaskin.com/product/">TANK4D</a>       
-<a href="https://setiaskin.com/product/">BEAT4D</a>
-<a href="https://setiaskin.com/product/">IBETSLOT</a>
-<a href="https://setiaskin.com/product/">AZKABET</a>
-<a href="https://setiaskin.com/product/">MAGIC4D</a>
-<a href="https://setiaskin.com/product/">SUMO777</a>       
-<a href="https://setiaskin.com/product/">RYU4D</a>
-<a href="https://setiaskin.com/product/">ROG777</a>
-<a href="https://setiaskin.com/product/">BUKIT777</a>
-<a href="https://setiaskin.com/product/">TIKET777</a>
-<a href="https://setiaskin.com/product/">GELEK4D</a>       
-<a href="https://setiaskin.com/product/">MONK4D</a>
-<a href="https://setiaskin.com/product/">NANAS777</a>
-<a href="https://setiaskin.com/product/">ACE777</a>
-<a href="https://setiaskin.com/product/">SIAP108</a>       
-<a href="https://setiaskin.com/product/">BAKSO108</a>
-<a href="https://setiaskin.com/product/">VW108</a>
-<a href="https://setiaskin.com/product/">GT108</a>
-<a href="https://setiaskin.com/product/">TOBRUT4D</a>
-<a href="https://setiaskin.com/product/">BIUS303</a>       
-<a href="https://setiaskin.com/product/">RASA4D</a>
-<a href="https://setiaskin.com/product/">JEPANG77</a>
-<a href="https://setiaskin.com/product/">BOTAK777</a>
-<a href="https://setiaskin.com/product/">JOSS777</a>
-<a href="https://setiaskin.com/product/">GOCEK88</a>       
-<a href="https://setiaskin.com/product/">INTER4D</a>
-<a href="https://setiaskin.com/product/">SALAM777</a>
-<a href="https://setiaskin.com/product/">DRAJA777</a>
-<a href="https://setiaskin.com/product/">PANJANG4D</a>
-<a href="https://setiaskin.com/product/">SLOTJOS</a>       
-<a href="https://setiaskin.com/product/">SUPERTOTO</a>
-<a href="https://setiaskin.com/product/">PANJISLOT</a>
-<a href="https://setiaskin.com/product/">TOBABET4D</a>
-<a href="https://setiaskin.com/product/">KILAU4D</a>
-<a href="https://setiaskin.com/product/">WEN4D</a>       
-<a href="https://setiaskin.com/product/">LABEWA4D</a>
-<a href="https://setiaskin.com/product/">UBUD4D</a>
-<a href="https://setiaskin.com/product/">GARUDA4D</a>
-<a href="https://setiaskin.com/product/">TIKI4D</a>
-<a href="https://setiaskin.com/product/">LUMI777</a>       
-<a href="https://setiaskin.com/product/">MUARA777</a>
-<a href="https://setiaskin.com/product/">TEMBUS777</a>
-<a href="https://setiaskin.com/product/">TAHTA4D</a>
-<a href="https://setiaskin.com/product/">BENTUK4D</a>
-<a href="https://setiaskin.com/product/">PANDAWA4D</a>       
-<a href="https://setiaskin.com/product/">PANGLIMA4D</a>
-<a href="https://setiaskin.com/product/">PUSAT4D</a>
-<a href="https://setiaskin.com/product/">KAKEKMERAH</a>
-<a href="https://setiaskin.com/product/">BERSAMA4D</a>
-<a href="https://setiaskin.com/product/">POWER4D</a>       
-<a href="https://setiaskin.com/product/">SLOT4D</a>
-<a href="https://setiaskin.com/product/">SOHIB4D</a>
-<a href="https://setiaskin.com/product/">SULTAN4D</a>
-<a href="https://setiaskin.com/product/">BINGO4D</a>
-<a href="https://setiaskin.com/product/">YOID</a>       
-<a href="https://setiaskin.com/product/">TARGET4D</a>
-<a href="https://setiaskin.com/product/">SIS4D</a>
-<a href="https://setiaskin.com/product/">ASIAN4D</a>
-<a href="https://setiaskin.com/product/">WANGI4D</a>
-<a href="https://setiaskin.com/product/">KUY4D</a>       
-<a href="https://setiaskin.com/product/">SIREN4D</a>
-<a href="https://setiaskin.com/product/">PETID4D</a>
-<a href="https://setiaskin.com/product/">GEGESLOT</a>
-<a href="https://setiaskin.com/product/">DARAT4D</a>
-<a href="https://setiaskin.com/product/">SUGIH4D</a>       
-<a href="https://setiaskin.com/product/">BALON4D</a>
-<a href="https://setiaskin.com/product/">UDANGBET</a>
-<a href="https://setiaskin.com/product/">OVOGG</a>
-<a href="https://setiaskin.com/product/">YYPAUS</a>
-<a href="https://setiaskin.com/product/">SINIBOS</a>       
-<a href="https://setiaskin.com/product/">JUDISGP</a>
-<a href="https://setiaskin.com/product/">PEDRO4D</a>
-<a href="https://setiaskin.com/product/">RASQQ</a>
-<a href="https://setiaskin.com/product/">SAYABET</a>
-<a href="https://setiaskin.com/product/">QQ8821</a>       
-<a href="https://setiaskin.com/product/">SAWER55</a>
-<a href="https://setiaskin.com/product/">KOBEL4D</a>
-<a href="https://setiaskin.com/product/">KEBUN4D</a>
-<a href="https://setiaskin.com/product/">JASABOLA</a>
-<a href="https://setiaskin.com/product/">BADAISLOT</a>       
-<a href="https://setiaskin.com/product/">BADAKSLOT</a>
-<a href="https://setiaskin.com/product/">KADEKTOTO</a>
-<a href="https://setiaskin.com/product/">MACAU18</a>
-<a href="https://setiaskin.com/product/">WA88</a>
-<a href="https://setiaskin.com/product/">SQUID88</a>       
-<a href="https://setiaskin.com/product/">COD4D</a>
-<a href="https://setiaskin.com/product/">NARA4D</a>
-<a href="https://setiaskin.com/product/">CUPANGJP</a>
-<a href="https://setiaskin.com/product/">DOLLY4D</a>
-<a href="https://setiaskin.com/product/">TOTOBARONG</a>       
-<a href="https://setiaskin.com/product/">ASIKTOGELKU</a>
-<a href="https://setiaskin.com/product/">TOTONUSA</a>
-<a href="https://setiaskin.com/product/">OMNI4D</a>
-<a href="https://setiaskin.com/product/">BINTANG5TOTO</a>
-<a href="https://setiaskin.com/product/">WAJAN4D</a>       
-<a href="https://setiaskin.com/product/">GELAR4D</a>
-<a href="https://setiaskin.com/product/">UNAGI4D</a>
-<a href="https://setiaskin.com/product/">KEJAWEN168</a>
-<a href="https://setiaskin.com/product/">LINCAH4D</a>
-<a href="https://setiaskin.com/product/">TARUNA4D</a>       
-<a href="https://setiaskin.com/product/">SABDA4D</a>
-<a href="https://setiaskin.com/product/">TO4D</a>
-<a href="https://setiaskin.com/product/">TOPAN4D</a>
-<a href="https://setiaskin.com/product/">NANO4D</a>       
-<a href="https://setiaskin.com/product/">TOGEL62</a>
-<a href="https://setiaskin.com/product/">SLOT177</a>
-<a href="https://setiaskin.com/product/">SEGI88</a>
-<a href="https://setiaskin.com/product/">AMBIL4D</a>
-<a href="https://setiaskin.com/product/">KYT4D</a>       
-<a href="https://setiaskin.com/product/">WG4D</a>
-<a href="https://setiaskin.com/product/">JAYTOTO</a>
-<a href="https://setiaskin.com/product/">ELIN188</a>
-<a href="https://setiaskin.com/product/">ISUTOTO</a>
-<a href="https://setiaskin.com/product/">KASKUS4D</a>       
-<a href="https://setiaskin.com/product/">TISU4D</a>
-<a href="https://setiaskin.com/product/">BAHASATOTO</a>
-<a href="https://setiaskin.com/product/">BAHASASLOT</a>
-<a href="https://setiaskin.com/product/">BOCAH4D</a>
-<a href="https://setiaskin.com/product/">CERMAT4D</a>       
-<a href="https://setiaskin.com/product/">TARGET4D</a>
-<a href="https://setiaskin.com/product/">ZORA4D</a>
-<a href="https://setiaskin.com/product/">YUYU4D</a>
-<a href="https://setiaskin.com/product/">PEWE4D</a>
-<a href="https://setiaskin.com/product/">DKI4D</a>       
-<a href="https://setiaskin.com/product/">MARTEL4D</a>
-<a href="https://setiaskin.com/product/">MAJALAH4D</a>
-<a href="https://setiaskin.com/product/">AKU4D</a>
-<a href="https://setiaskin.com/product/">ALFA4D</a>
-<a href="https://setiaskin.com/product/">SBCLIVE4D</a>       
-<a href="https://setiaskin.com/product/">MUSANG4D</a>
-<a href="https://setiaskin.com/product/">WUMATOTO</a> 
-<a href="https://setiaskin.com/product/">jokerbet303</a>
-<a href="https://setiaskin.com/product/">kpktoto</a>
-<a href="https://setiaskin.com/product/">bolaxx</a>
-<a href="https://setiaskin.com/product/">slot21</a>
-<a href="https://setiaskin.com/product/">dewa212</a>
-<a href="https://setiaskin.com/product/">uno138</a>
-<a href="https://setiaskin.com/product/">sukajp</a>
-<a href="https://setiaskin.com/product/">cakrabet</a>
-<a href="https://setiaskin.com/product/">indogame888</a>
-<a href="https://setiaskin.com/product/">qq88bet</a>
-<a href="https://setiaskin.com/product/">duit123</a>
-<a href="https://setiaskin.com/product/">slot888</a>
-<a href="https://setiaskin.com/product/">qdal88</a>
-<a href="https://setiaskin.com/product/">pasar7</a>
-<a href="https://setiaskin.com/product/">delta88</a>
-<a href="https://setiaskin.com/product/">mainlotre</a>
-<a href="https://setiaskin.com/product/">bucin123</a>
-<a href="https://setiaskin.com/product/">cukongplay77</a>
-<a href="https://setiaskin.com/product/">idr88</a>
-<a href="https://setiaskin.com/product/">klubslot</a>
-<a href="https://setiaskin.com/product/">1sbo</a>
-<a href="https://setiaskin.com/product/">esmislot</a>
-<a href="https://setiaskin.com/product/">ligabetwin</a>
-<a href="https://setiaskin.com/product/">helompo</a>
-<a href="https://setiaskin.com/product/">wyn4d</a>
-<a href="https://setiaskin.com/product/">agen878</a>
-<a href="https://setiaskin.com/product/">gtrtoto</a>
-<a href="https://setiaskin.com/product/">bataravip</a>
-<a href="https://setiaskin.com/product/">dreamplay77</a>
-<a href="https://setiaskin.com/product/">hokiraja</a>
-<a href="https://setiaskin.com/product/">pantaislot</a>
-<a href="https://setiaskin.com/product/">sjo777</a>
-<a href="https://setiaskin.com/product/">slot777</a>
-<a href="https://setiaskin.com/product/">asustogel</a>
-<a href="https://setiaskin.com/product/">mpo007</a>
-<a href="https://setiaskin.com/product/">spinhoki88</a>
-<a href="https://setiaskin.com/product/">qqemas</a>
-<a href="https://setiaskin.com/product/">menara368</a>
-<a href="https://setiaskin.com/product/">rajaeropa</a>
-<a href="https://setiaskin.com/product/">oddigo</a>
-<a href="https://setiaskin.com/product/">sinislot</a>
-<a href="https://setiaskin.com/product/">siji4d</a>
-<a href="https://setiaskin.com/product/">mpoatm</a>
-<a href="https://setiaskin.com/product/">988bet</a>
-<a href="https://setiaskin.com/product/">asialive</a>
-<a href="https://setiaskin.com/product/">moba4d</a>
-<a href="https://setiaskin.com/product/">surgawin</a>
-<a href="https://setiaskin.com/product/">hantuslot</a>
-<a href="https://setiaskin.com/product/">slot6000</a>
-<a href="https://setiaskin.com/product/">era77</a>
-<a href="https://setiaskin.com/product/">jitu77</a>
-<a href="https://setiaskin.com/product/">psk777</a>
-<a href="https://setiaskin.com/product/">mag138</a>
-<a href="https://setiaskin.com/product/">astra77</a>
-<a href="https://setiaskin.com/product/">ceri123</a>
-<a href="https://setiaskin.com/product/">rajaslot</a>
-<a href="https://setiaskin.com/product/">hohotogel</a>
-<a href="https://setiaskin.com/product/">tobabet88</a>
-<a href="https://setiaskin.com/product/">wslot99</a>
-<a href="https://setiaskin.com/product/">amintoto</a>
-<a href="https://setiaskin.com/product/">autohoki</a>
-<a href="https://setiaskin.com/product/">sukabet</a>
-<a href="https://setiaskin.com/product/">pucuk88</a>
-<a href="https://setiaskin.com/product/">saku123</a>
-<a href="https://setiaskin.com/product/">ajakslot</a>
-<a href="https://setiaskin.com/product/">mahadewa88</a>
-<a href="https://setiaskin.com/product/">pondok777</a>
-<a href="https://setiaskin.com/product/">pisangbet</a>
-<a href="https://setiaskin.com/product/">twslive</a>
-<a href="https://setiaskin.com/product/">vip138</a>
-<a href="https://setiaskin.com/product/">wahana88</a>
-<a href="https://setiaskin.com/product/">sejatibet</a>
-<a href="https://setiaskin.com/product/">win805</a>
-<a href="https://setiaskin.com/product/">nekobet99</a>
-<a href="https://setiaskin.com/product/">gesit77</a>
-<a href="https://setiaskin.com/product/">mposlot303</a>
-<a href="https://setiaskin.com/product/">mpo189</a>
-<a href="https://setiaskin.com/product/">slot853</a>
-<a href="https://setiaskin.com/product/">raja328</a>
-<a href="https://setiaskin.com/product/">orion88</a>
-<a href="https://setiaskin.com/product/">istana777</a>
-<a href="https://setiaskin.com/product/">vaksin99</a>
-<a href="https://setiaskin.com/product/">slot161</a>
-<a href="https://setiaskin.com/product/">gs508</a>
-<a href="https://setiaskin.com/product/">kokototo</a>
-<a href="https://setiaskin.com/product/">indohoki77</a>
-<a href="https://setiaskin.com/product/">jantan69</a>
-<a href="https://setiaskin.com/product/">gocengbet</a>
-<a href="https://setiaskin.com/product/">mesinmpo</a>
-<a href="https://setiaskin.com/product/">mpo878</a>
-<a href="https://setiaskin.com/product/">maxwin4d</a>
-<a href="https://setiaskin.com/product/">kontan88</a>
-<a href="https://setiaskin.com/product/">komandan88</a>
-<a href="https://setiaskin.com/product/">bandarbola855</a>
-<a href="https://setiaskin.com/product/">qqdewa</a>
-<a href="https://setiaskin.com/product/">aquaslot</a>
-<a href="https://setiaskin.com/product/">jnetoto</a>
-<a href="https://setiaskin.com/product/">mpo2121</a>
-<a href="https://setiaskin.com/product/">bayanbola</a>
-<a href="https://setiaskin.com/product/">msislot</a>
-<a href="https://setiaskin.com/product/">wuling338</a>
-<a href="https://setiaskin.com/product/">indoslots</a>
-<a href="https://setiaskin.com/product/">nova88</a>
-<a href="https://setiaskin.com/product/">jpslot</a>
-<a href="https://setiaskin.com/product/">kingbet77</a>
-<a href="https://setiaskin.com/product/">betul88</a>
-<a href="https://setiaskin.com/product/">langit69</a>
-<a href="https://setiaskin.com/product/">debit777</a>
-<a href="https://setiaskin.com/product/">mainkasino</a>
-<a href="https://setiaskin.com/product/">bdkasino</a>
-<a href="https://setiaskin.com/product/">pandahoky</a>
-<a href="https://setiaskin.com/product/">ubgaming</a>
-<a href="https://setiaskin.com/product/">lajutoto</a>
-<a href="https://setiaskin.com/product/">tempo4d</a>
-<a href="https://setiaskin.com/product/">kaptenmpo</a>
-<a href="https://setiaskin.com/product/">danauhoki88</a>
-<a href="https://setiaskin.com/product/">muliaslot</a>
-<a href="https://setiaskin.com/product/">cuan123</a>
-<a href="https://setiaskin.com/product/">tuna55</a>
-<a href="https://setiaskin.com/product/">qqnusa</a>
-<a href="https://setiaskin.com/product/">monas77</a>
-<a href="https://setiaskin.com/product/">joker99</a>
-<a href="https://setiaskin.com/product/">hoki99</a>
-<a href="https://setiaskin.com/product/">sbclive4d</a>
-<a href="https://setiaskin.com/product/">pick4d</a>
-<a href="https://setiaskin.com/product/">topg88</a>
-<a href="https://setiaskin.com/product/">hitamslot</a>
-<a href="https://setiaskin.com/product/">88jackpot</a>
-<a href="https://setiaskin.com/product/">suhuslot88</a>
-<a href="https://setiaskin.com/product/">ligabanteng</a>
-<a href="https://setiaskin.com/product/">hydro88</a>
-<a href="https://setiaskin.com/product/">tores4d</a>
-<a href="https://setiaskin.com/product/">wayang88</a>
-<a href="https://setiaskin.com/product/">king138</a>
-<a href="https://setiaskin.com/product/">wakanda123</a>
-<a href="https://setiaskin.com/product/">studiobet78</a>
-<a href="https://setiaskin.com/product/">cinta777</a>
-<a href="https://setiaskin.com/product/">ada777</a>
-<a href="https://setiaskin.com/product/">evo303</a>
-<a href="https://setiaskin.com/product/">lotrepelangi</a>
-<a href="https://setiaskin.com/product/">lotreonline</a>
-<a href="https://setiaskin.com/product/">slotnesia77</a>
-<a href="https://setiaskin.com/product/">hepi8</a>
-<a href="https://setiaskin.com/product/">shibatoto</a>
-<a href="https://setiaskin.com/product/">hero138</a>
-<a href="https://setiaskin.com/product/">mpogacor</a>
-<a href="https://setiaskin.com/product/">warung168</a>
-<a href="https://setiaskin.com/product/">kilau4d</a>
-<a href="https://setiaskin.com/product/">target4d</a>
-<a href="https://setiaskin.com/product/">tri7bet</a>
-<a href="https://setiaskin.com/product/">happympo</a>
-<a href="https://setiaskin.com/product/">coba777</a>
-<a href="https://setiaskin.com/product/">mantap168</a>
-<a href="https://setiaskin.com/product/">hay4d</a>
-<a href="https://setiaskin.com/product/">dangdut4d</a>
-<a href="https://setiaskin.com/product/">sanghoki</a>
-<a href="https://setiaskin.com/product/">dragon222</a>
-<a href="https://setiaskin.com/product/">barjp</a>
-<a href="https://setiaskin.com/product/">jyj4d</a>
-<a href="https://setiaskin.com/product/">tektok4d</a>
-<a href="https://setiaskin.com/product/">legend88</a>
-<a href="https://setiaskin.com/product/">angkasa168</a>
-<a href="https://setiaskin.com/product/">rajampo</a>
-<a href="https://setiaskin.com/product/">qqvictory</a>
-<a href="https://setiaskin.com/product/">yakin777</a>
-<a href="https://setiaskin.com/product/">judolbet88</a>
-<a href="https://setiaskin.com/product/">slot25</a>
-<a href="https://setiaskin.com/product/">tarik4d</a>
-<a href="https://setiaskin.com/product/">gemilang77</a>
-<a href="https://setiaskin.com/product/">seniortogel</a>
-<a href="https://setiaskin.com/product/">nagaslot777</a>
-<a href="https://setiaskin.com/product/">kuy138</a>
-<a href="https://setiaskin.com/product/">joyotogel</a>
-<a href="https://setiaskin.com/product/">kaskustoto</a>
-<a href="https://setiaskin.com/product/">dolar138</a>
-<a href="https://setiaskin.com/product/">oribet</a>
-<a href="https://setiaskin.com/product/">topwin138</a>
-<a href="https://setiaskin.com/product/">roma77</a>
-<a href="https://setiaskin.com/product/">javaslot88</a>
-<a href="https://setiaskin.com/product/">nagatop</a>
-<a href="https://setiaskin.com/product/">sandibet</a>
-<a href="https://setiaskin.com/product/">bola86</a>
-<a href="https://setiaskin.com/product/">warisan138</a>
-<a href="https://setiaskin.com/product/">vegas108</a>
-<a href="https://setiaskin.com/product/">pin4d</a>
-<a href="https://setiaskin.com/product/">bumi138</a>
-<a href="https://setiaskin.com/product/">hoki138</a>
-<a href="https://setiaskin.com/product/">mitrajp</a>
-<a href="https://setiaskin.com/product/">pangeran88</a>
-<a href="https://setiaskin.com/product/">jiwaku88</a>
-<a href="https://setiaskin.com/product/">laskar89</a>
-<a href="https://setiaskin.com/product/">kikislot</a>
-<a href="https://setiaskin.com/product/">rupiahslot88</a>
-<a href="https://setiaskin.com/product/">mposport</a>
-<a href="https://setiaskin.com/product/">bos01</a>
-<a href="https://setiaskin.com/product/">tepat88</a>
-<a href="https://setiaskin.com/product/">dewaslot99</a>
-<a href="https://setiaskin.com/product/">indosport99</a>
-<a href="https://setiaskin.com/product/">markas303</a>
-<a href="https://setiaskin.com/product/">gilaslot88</a>
-<a href="https://setiaskin.com/product/">suhubet</a>
-<a href="https://setiaskin.com/product/">mpo1221</a>
-<a href="https://setiaskin.com/product/">papabet88</a>
-<a href="https://setiaskin.com/product/">bemo4d</a>
-<a href="https://setiaskin.com/product/">playwin77</a>
-<a href="https://setiaskin.com/product/">rumahmpo</a>
-<a href="https://setiaskin.com/product/">flexi88</a>
-<a href="https://setiaskin.com/product/">taruhan77</a>
-<a href="https://setiaskin.com/product/">ebobet</a>
-<a href="https://setiaskin.com/product/">liga367</a>
-<a href="https://setiaskin.com/product/">surgadewa</a>
-<a href="https://setiaskin.com/product/">hokbet</a>
-<a href="https://setiaskin.com/product/">bandarxl</a>
-<a href="https://setiaskin.com/product/">cocol88</a>
-<a href="https://setiaskin.com/product/">yuki138</a>
-<a href="https://setiaskin.com/product/">miliarslot77</a>
-<a href="https://setiaskin.com/product/">ragam4d</a>
-<a href="https://setiaskin.com/product/">asoka88</a>
-<a href="https://setiaskin.com/product/">mangga2bet</a>
-<a href="https://setiaskin.com/product/">slot235</a>
-<a href="https://setiaskin.com/product/">cmd77</a>
-<a href="https://setiaskin.com/product/">fit188</a>
-<a href="https://setiaskin.com/product/">bola365</a>
-<a href="https://setiaskin.com/product/">7meter</a>
-<a href="https://setiaskin.com/product/">judimpo</a>
-<a href="https://setiaskin.com/product/">spinbet99</a>
-<a href="https://setiaskin.com/product/">win88</a>
-<a href="https://setiaskin.com/product/">sultanlido</a>
-<a href="https://setiaskin.com/product/">isototo</a>
-<a href="https://setiaskin.com/product/">legenda55</a>
-<a href="https://setiaskin.com/product/">mpo500</a>
-<a href="https://setiaskin.com/product/">sports369</a>
-<a href="https://setiaskin.com/product/">g9king</a>
-<a href="https://setiaskin.com/product/">rajatoto4</a>
-<a href="https://setiaskin.com/product/">sizi99</a>
-<a href="https://setiaskin.com/product/">indoseven</a>
-<a href="https://setiaskin.com/product/">atm4d2</a>
-<a href="https://setiaskin.com/product/">jarisakti</a>
-<a href="https://setiaskin.com/product/">gameland88</a>
-<a href="https://setiaskin.com/product/">sky77</a>
-<a href="https://setiaskin.com/product/">mog777</a>
-<a href="https://setiaskin.com/product/">ezebet</a>
-<a href="https://setiaskin.com/product/">sakti55</a>
-<a href="https://setiaskin.com/product/">nusabet</a>
-<a href="https://setiaskin.com/product/">supermpo</a>
-<a href="https://setiaskin.com/product/">dewa234</a>
-<a href="https://setiaskin.com/product/">dewaslot</a>
-<a href="https://setiaskin.com/product/">delima88</a>
-<a href="https://setiaskin.com/product/">deluxe111</a>
-<a href="https://setiaskin.com/product/">slot77</a>
-<a href="https://setiaskin.com/product/">trisula88</a>
-<a href="https://setiaskin.com/product/">hujantoto</a>
-<a href="https://setiaskin.com/product/">viabola</a>
-<a href="https://setiaskin.com/product/">indovegas4d</a>
-<a href="https://setiaskin.com/product/">tunai4d</a>
-<a href="https://setiaskin.com/product/">togeljp</a>
-<a href="https://setiaskin.com/product/">nusasloto</a>
-<a href="https://setiaskin.com/product/">337sport</a>
-<a href="https://setiaskin.com/product/">master138</a>
-<a href="https://setiaskin.com/product/">shienslot</a>
-<a href="https://setiaskin.com/product/">totoloka88</a>
-<a href="https://setiaskin.com/product/">spin38</a>
-<a href="https://setiaskin.com/product/">sbctoto</a>
-<a href="https://setiaskin.com/product/">duniabet</a>
-<a href="https://setiaskin.com/product/">mpo700</a>
-<a href="https://setiaskin.com/product/">mpoapi</a>
-<a href="https://setiaskin.com/product/">ligalgo</a>
-<a href="https://setiaskin.com/product/">playslot77</a>
-<a href="https://setiaskin.com/product/">jonislot</a>
-<a href="https://setiaskin.com/product/">kumbang4d</a>
-<a href="https://setiaskin.com/product/">bintangmpo</a>
-<a href="https://setiaskin.com/product/">18hoki</a>
-<a href="https://setiaskin.com/product/">markas138</a>
-<a href="https://setiaskin.com/product/">slot200</a>
-<a href="https://setiaskin.com/product/">alexistogel</a>
-<a href="https://setiaskin.com/product/">ferari88</a>
-<a href="https://setiaskin.com/product/">sinar123</a>
-<a href="https://setiaskin.com/product/">palace303</a>
-<a href="https://setiaskin.com/product/">slot177</a>
-<a href="https://setiaskin.com/product/">fun77bet</a>
-<a href="https://setiaskin.com/product/">berjayatogel</a>
-<a href="https://setiaskin.com/product/">senopati4d</a>
-<a href="https://setiaskin.com/product/">agenasia88</a>
-<a href="https://setiaskin.com/product/">kapital4d</a>
-<a href="https://setiaskin.com/product/">panen55</a>
-<a href="https://setiaskin.com/product/">sultanbet77</a>
-<a href="https://setiaskin.com/product/">vipslot77</a>
-<a href="https://setiaskin.com/product/">warga123</a>
-<a href="https://setiaskin.com/product/">mposlot</a>
-<a href="https://setiaskin.com/product/">luck99</a>
-<a href="https://setiaskin.com/product/">idcjoker</a>
-<a href="https://setiaskin.com/product/">mpo999</a>
-<a href="https://setiaskin.com/product/">oke168</a>
-<a href="https://setiaskin.com/product/">bdslot88</a>
-<a href="https://setiaskin.com/product/">sensasi55</a>
-<a href="https://setiaskin.com/product/">pandagendut</a>
-<a href="https://setiaskin.com/product/">sarang777</a>
-<a href="https://setiaskin.com/product/">mpo300</a>
-<a href="https://setiaskin.com/product/">yok4d</a>
-<a href="https://setiaskin.com/product/">megawin138</a>
-<a href="https://setiaskin.com/product/">viral88</a>
-<a href="https://setiaskin.com/product/">lvtogel</a>
-<a href="https://setiaskin.com/product/">tanganjudi</a>
-<a href="https://setiaskin.com/product/">bioskop777</a>
-<a href="https://setiaskin.com/product/">bandar999</a>
-<a href="https://setiaskin.com/product/">petir388</a>
-<a href="https://setiaskin.com/product/">revo999</a>
-<a href="https://setiaskin.com/product/">mpoas</a>
-<a href="https://setiaskin.com/product/">sagatoto</a>
-<a href="https://setiaskin.com/product/">playwin123</a>
-<a href="https://setiaskin.com/product/">tata4d</a>
-<a href="https://setiaskin.com/product/">batman138</a>
-<a href="https://setiaskin.com/product/">gacorx500</a>
-<a href="https://setiaskin.com/product/">inajp</a>
-<a href="https://setiaskin.com/product/">cakarbet</a>
-<a href="https://setiaskin.com/product/">rumahplay</a>
-<a href="https://setiaskin.com/product/">mixslot</a>
-<a href="https://setiaskin.com/product/">okebet99</a>
-<a href="https://setiaskin.com/product/">qqslot</a>
-<a href="https://setiaskin.com/product/">harta138</a>
-<a href="https://setiaskin.com/product/">kinghoki4d</a>
-<a href="https://setiaskin.com/product/">xo4d</a>
-<a href="https://setiaskin.com/product/">ovogg</a>
-<a href="https://setiaskin.com/product/">rw4d</a>
-<a href="https://setiaskin.com/product/">19dewa</a>
-<a href="https://setiaskin.com/product/">koin138</a>
-<a href="https://setiaskin.com/product/">herobola</a>
-<a href="https://setiaskin.com/product/">shio77</a>
-<a href="https://setiaskin.com/product/">qqindobet</a>
-<a href="https://setiaskin.com/product/">stars77</a>
-<a href="https://setiaskin.com/product/">grandbet88</a>
-<a href="https://setiaskin.com/product/">mpo777</a>
-<a href="https://setiaskin.com/product/">ajaib88</a>
-<a href="https://setiaskin.com/product/">elitjp</a>
-<a href="https://setiaskin.com/product/">slot633</a>
-<a href="https://setiaskin.com/product/">rajajudi88</a>
-<a href="https://setiaskin.com/product/">kudasakti168</a>
-<a href="https://setiaskin.com/product/">bos89</a>
-<a href="https://setiaskin.com/product/">sultanjp</a>
-<a href="https://setiaskin.com/product/">grand88</a>
-<a href="https://setiaskin.com/product/">jackpot168</a>
-<a href="https://setiaskin.com/product/">merahtoto</a>
-<a href="https://setiaskin.com/product/">pulsa777</a>
-<a href="https://setiaskin.com/product/">batara88</a>
-<a href="https://setiaskin.com/product/">satriabet</a>
-<a href="https://setiaskin.com/product/">duta168</a>
-<a href="https://setiaskin.com/product/">bso88</a>
-<a href="https://setiaskin.com/product/">nemo4d</a>
-<a href="https://setiaskin.com/product/">imbagacor</a>
-<a href="https://setiaskin.com/product/">pintutogel</a>
-<a href="https://setiaskin.com/product/">idks</a>
-<a href="https://setiaskin.com/product/">pubtogel</a>
-<a href="https://setiaskin.com/product/">paristogel</a>
-<a href="https://setiaskin.com/product/">forwin77</a>
-<a href="https://setiaskin.com/product/">bd303</a>
-<a href="https://setiaskin.com/product/">goldwin678</a>
-<a href="https://setiaskin.com/product/">ibcmax</a>
-<a href="https://setiaskin.com/product/">cmbet</a>
-<a href="https://setiaskin.com/product/">bosplay</a>
-<a href="https://setiaskin.com/product/">kuda189</a>
-<a href="https://setiaskin.com/product/">neng4d</a>
-<a href="https://setiaskin.com/product/">wongtoto</a>
-<a href="https://setiaskin.com/product/">macaugg</a>
-<a href="https://setiaskin.com/product/">ninja138</a>
-<a href="https://setiaskin.com/product/">niagabet</a>
-<a href="https://setiaskin.com/product/">rasa4d</a>
-<a href="https://setiaskin.com/product/">slotup88</a>
-<a href="https://setiaskin.com/product/">pragmatic777</a>
-<a href="https://setiaskin.com/product/">livetoto88</a>
-<a href="https://setiaskin.com/product/">pluto88</a>
-<a href="https://setiaskin.com/product/">bwin138</a>
-<a href="https://setiaskin.com/product/">santuyjp</a>
-<a href="https://setiaskin.com/product/">pokerace88</a>
-<a href="https://setiaskin.com/product/">jalurpaito</a>
-<a href="https://setiaskin.com/product/">slotmantap</a>
-<a href="https://setiaskin.com/product/">garuda4d</a>
-<a href="https://setiaskin.com/product/">mangkok88</a>
-<a href="https://setiaskin.com/product/">77hoki</a>
-<a href="https://setiaskin.com/product/">togelgacor</a>
-<a href="https://setiaskin.com/product/">pusatjp</a>
-<a href="https://setiaskin.com/product/">mainhoki</a>
-<a href="https://setiaskin.com/product/">rajawin88</a>
-<a href="https://setiaskin.com/product/">bocoranjp</a>
-<a href="https://setiaskin.com/product/">proslot88</a>
-<a href="https://setiaskin.com/product/">slotvip88</a>
-<a href="https://setiaskin.com/product/">super138</a>
-<a href="https://setiaskin.com/product/">slotking77</a>
-<a href="https://setiaskin.com/product/">angkajitu4d</a>
-<a href="https://setiaskin.com/product/">lotreasia</a>
-<a href="https://setiaskin.com/product/">jimatogel</a>
-<a href="https://setiaskin.com/product/">tabung77</a>
-<a href="https://setiaskin.com/product/">koinjp</a>
-<a href="https://setiaskin.com/product/">slotindo123</a>
-<a href="https://setiaskin.com/product/">sultan138</a>
-<a href="https://setiaskin.com/product/">omgtoto</a>
-<a href="https://setiaskin.com/product/">slotdas77</a>
-<a href="https://setiaskin.com/product/">putra4d</a>
-<a href="https://setiaskin.com/product/">zona138</a>
-<a href="https://setiaskin.com/product/">indompo88</a>
-<a href="https://setiaskin.com/product/">kakektoto</a>
-<a href="https://setiaskin.com/product/">slotgajah</a>
-<a href="https://setiaskin.com/product/">mode88</a>
-<a href="https://setiaskin.com/product/">rumahslot88</a>
-<a href="https://setiaskin.com/product/">megawin77</a>
-<a href="https://setiaskin.com/product/">slotjitu777</a>
-<a href="https://setiaskin.com/product/">indoklik88</a>
-<a href="https://setiaskin.com/product/">satelittoto</a>
-<a href="https://setiaskin.com/product/">jaya4d</a>
-<a href="https://setiaskin.com/product/">slotbali88</a>
-<a href="https://setiaskin.com/product/">bonus138</a>
-<a href="https://setiaskin.com/product/">rajahoki777</a>
-<a href="https://setiaskin.com/product/">slotpro777</a>
-<a href="https://setiaskin.com/product/">dominojp</a>
-<a href="https://setiaskin.com/product/">indo88bet</a>
-<a href="https://setiaskin.com/product/">slot9999</a>
-<a href="https://setiaskin.com/product/">gacortogel</a>
-<a href="https://setiaskin.com/product/">primajp</a>
-<a href="https://setiaskin.com/product/">motompo</a>
-<a href="https://setiaskin.com/product/">siapjp</a>
-<a href="https://setiaskin.com/product/">zona4d</a>
-<a href="https://setiaskin.com/product/">jackpotalpha</a>
-<a href="https://setiaskin.com/product/">pro123slot</a>
-<a href="https://setiaskin.com/product/">slotkilat</a>
-<a href="https://setiaskin.com/product/">dunia777</a>
-<a href="https://setiaskin.com/product/">tiger4d</a>
-<a href="https://setiaskin.com/product/">mpoking88</a>
-<a href="https://setiaskin.com/product/">kakekajaib</a>
-<a href="https://setiaskin.com/product/">togelmaster</a>
-<a href="https://setiaskin.com/product/">singa77</a>
-<a href="https://setiaskin.com/product/">gold4d</a>
-<a href="https://setiaskin.com/product/">baron138</a>
-<a href="https://setiaskin.com/product/">hoki212</a>
-<a href="https://setiaskin.com/product/">projp</a>
-<a href="https://setiaskin.com/product/">slotviva</a>
-<a href="https://setiaskin.com/product/">superwin88</a>
-<a href="https://setiaskin.com/product/">senangslot</a>
-<a href="https://setiaskin.com/product/">goyangjp</a>
-<a href="https://setiaskin.com/product/">ajagacor</a>
-<a href="https://setiaskin.com/product/">asli4d</a>
-<a href="https://setiaskin.com/product/">karunia88</a>
-<a href="https://setiaskin.com/product/">piontoto</a>
-<a href="https://setiaskin.com/product/">slotmalam88</a>
-<a href="https://setiaskin.com/product/">sugeng777</a>
-<a href="https://setiaskin.com/product/">win123jp</a>
-<a href="https://setiaskin.com/product/">putrajp</a>
-<a href="https://setiaskin.com/product/">slotbiz</a>
-<a href="https://setiaskin.com/product/">mpojp77</a>
-<a href="https://setiaskin.com/product/">dena4d</a>
-<a href="https://setiaskin.com/product/">rajagacorku</a>
-<a href="https://setiaskin.com/product/">slotwin555</a>
-<a href="https://setiaskin.com/product/">kapten138</a>
-<a href="https://setiaskin.com/product/">mabukslot</a>
-<a href="https://setiaskin.com/product/">slotmaju</a>
-<a href="https://setiaskin.com/product/">gores4d</a>
-<a href="https://setiaskin.com/product/">hokihariini</a>
-<a href="https://setiaskin.com/product/">jdslot</a>
-<a href="https://setiaskin.com/product/">bigtoto</a>
-<a href="https://setiaskin.com/product/">slotlegend</a>
-<a href="https://setiaskin.com/product/">mpo5000</a>
-<a href="https://setiaskin.com/product/">doyanjp</a>
-<a href="https://setiaskin.com/product/">keren138</a>
-<a href="https://setiaskin.com/product/">petirmpo</a>
-<a href="https://setiaskin.com/product/">slotlux88</a>
-<a href="https://setiaskin.com/product/">barong88</a>
-<a href="https://setiaskin.com/product/">panther4d</a>
-<a href="https://setiaskin.com/product/">slotpatriot</a>
-<a href="https://setiaskin.com/product/">dunia4d</a>
-<a href="https://setiaskin.com/product/">superjackpot</a>
-<a href="https://setiaskin.com/product/">sultan500</a>
-<a href="https://setiaskin.com/product/">gokil777</a>
-<a href="https://setiaskin.com/product/">mposakti</a>
-<a href="https://setiaskin.com/product/">otoslot</a>
-<a href="https://setiaskin.com/product/">bahantoto</a>
-<a href="https://setiaskin.com/product/">total138</a>
-<a href="https://setiaskin.com/product/">marettoto</a>
-<a href="https://setiaskin.com/product/">agb99</a>
-<a href="https://setiaskin.com/product/">marvel77</a>
-<a href="https://setiaskin.com/product/">dutaslot77</a>
-<a href="https://setiaskin.com/product/">viralbet77</a>
-<a href="https://setiaskin.com/product/">dragon99</a>
-<a href="https://setiaskin.com/product/">ligadewa</a>
-<a href="https://setiaskin.com/product/">daget77</a>
-<a href="https://setiaskin.com/product/">cihuy88</a>
-<a href="https://setiaskin.com/product/">sarana99</a>
-<a href="https://setiaskin.com/product/">kapten69</a>
-<a href="https://setiaskin.com/product/">deltabet88</a>
-<a href="https://setiaskin.com/product/">bacan4d</a>
-<a href="https://setiaskin.com/product/">serdadu88</a>
-<a href="https://setiaskin.com/product/">radiumplay</a>
-<a href="https://setiaskin.com/product/">black4d</a>
-<a href="https://setiaskin.com/product/">jp789</a>
-<a href="https://setiaskin.com/product/">jandaslot88</a>
-<a href="https://setiaskin.com/product/">onebet303</a>
-<a href="https://setiaskin.com/product/">sba99</a>
-<a href="https://setiaskin.com/product/">doremi88</a>
-<a href="https://setiaskin.com/product/">hero4d</a>
-<a href="https://setiaskin.com/product/">slotasiabet</a>
-<a href="https://setiaskin.com/product/">bonus288</a>
-<a href="https://setiaskin.com/product/">batik77</a>
-<a href="https://setiaskin.com/product/">badut4d</a>
-<a href="https://setiaskin.com/product/">hokislot365</a>
-<a href="https://setiaskin.com/product/">fungame777</a>
-<a href="https://setiaskin.com/product/">wincash99</a>
-<a href="https://setiaskin.com/product/">sloto89</a>
-<a href="https://setiaskin.com/product/">macantogel</a>
-<a href="https://setiaskin.com/product/">akunbos</a>
-<a href="https://setiaskin.com/product/">nuansaslot</a>
-<a href="https://setiaskin.com/product/">gas138</a>
-<a href="https://setiaskin.com/product/">liga788</a>
-<a href="https://setiaskin.com/product/">cnnslot</a>
-<a href="https://setiaskin.com/product/">qq998</a>
-<a href="https://setiaskin.com/product/">mentol4d</a>
-<a href="https://setiaskin.com/product/">mentos4d</a>
-<a href="https://setiaskin.com/product/">mega88</a>
-<a href="https://setiaskin.com/product/">wowhoki</a>
-<a href="https://setiaskin.com/product/">hobispin</a>
-<a href="https://setiaskin.com/product/">kebo88</a>
-<a href="https://setiaskin.com/product/">jokerslot</a>
-<a href="https://setiaskin.com/product/">api777</a>
-<a href="https://setiaskin.com/product/">jalantoto</a>
-<a href="https://setiaskin.com/product/">max77</a>
-<a href="https://setiaskin.com/product/">lotte4d</a>
-<a href="https://setiaskin.com/product/">toko4d</a>
-<a href="https://setiaskin.com/product/">cpgtoto</a>
-<a href="https://setiaskin.com/product/">situstogel88</a>
-<a href="https://setiaskin.com/product/">agen89</a>
-<a href="https://setiaskin.com/product/">gembiratoto</a>
-<a href="https://setiaskin.com/product/">lvonline</a>
-<a href="https://setiaskin.com/product/">sakuratoto</a>
-<a href="https://setiaskin.com/product/">dingdongtogel</a>
-<a href="https://setiaskin.com/product/">LEVEL789</a>
-<a href="https://setiaskin.com/product/">MARKAS138</a>
-<a href="https://setiaskin.com/product/">JURAGAN69</a>
-<a href="https://setiaskin.com/product/">LUMBUNG88</a>
-<a href="https://setiaskin.com/product/">GOSPIN123</a>
-<a href="https://setiaskin.com/product/">NUSANTARA88</a>
-<a href="https://setiaskin.com/product/">GALAXY77</a>
-<a href="https://setiaskin.com/product/">BIG777</a>
-<a href="https://setiaskin.com/product/">BIGSLOTO</a>
-<a href="https://setiaskin.com/product/">BTV168</a>
-<a href="https://setiaskin.com/product/">HAPPYBET188</a>
-<a href="https://setiaskin.com/product/">PRAGMATIC88</a>
-<a href="https://setiaskin.com/product/">MADU303</a>
-<a href="https://setiaskin.com/product/">AIRBET88</a>
-<a href="https://setiaskin.com/product/">PRADA188</a>
-<a href="https://setiaskin.com/product/">WIN88</a>
-<a href="https://setiaskin.com/product/">BETWIN188</a>
-<a href="https://setiaskin.com/product/">RAJA89</a>
-<a href="https://setiaskin.com/product/">PREMIUM303</a>
-<a href="https://setiaskin.com/product/">GADUNSLOT</a>
-<a href="https://setiaskin.com/product/">INDOKASINO</a>
-<a href="https://setiaskin.com/product/">BRI4D</a>
-<a href="https://setiaskin.com/product/">DEWAGG</a>
-<a href="https://setiaskin.com/product/">megawin99</a>
-<a href="https://setiaskin.com/product/">slotraja99</a>
-<a href="https://setiaskin.com/product/">topjp77</a>
-<a href="https://setiaskin.com/product/">putra138</a>
-<a href="https://setiaskin.com/product/">merdekaslot</a>
-<a href="https://setiaskin.com/product/">singatoto</a>
-<a href="https://setiaskin.com/product/">slotgoyang</a>
-<a href="https://setiaskin.com/product/">gaspoll88</a>
-<a href="https://setiaskin.com/product/">rajasakti77</a>
-<a href="https://setiaskin.com/product/">togelkeramat</a>
-<a href="https://setiaskin.com/product/">slot777max</a>
-<a href="https://setiaskin.com/product/">slotmantul</a>
-<a href="https://setiaskin.com/product/">vipbola88</a>
-<a href="https://setiaskin.com/product/">sultanmaxwin</a>
-<a href="https://setiaskin.com/product/">sinarhoki88</a>
-<a href="https://setiaskin.com/product/">kedaitoto</a>
-<a href="https://setiaskin.com/product/">jalur88</a>
-<a href="https://setiaskin.com/product/">taktik4d</a>
-<a href="https://setiaskin.com/product/">max4dwin</a>
-<a href="https://setiaskin.com/product/">kingwin88</a>
-<a href="https://setiaskin.com/product/">slotpoin</a>
-<a href="https://setiaskin.com/product/">rajabandar4d</a>
-<a href="https://setiaskin.com/product/">slotgacorindo</a>
-<a href="https://setiaskin.com/product/">viva138</a>
-<a href="https://setiaskin.com/product/">superjackpot88</a>
-<a href="https://setiaskin.com/product/">togelindah</a>
-<a href="https://setiaskin.com/product/">sultanmax77</a>
-<a href="https://setiaskin.com/product/">slotneko</a>
-<a href="https://setiaskin.com/product/">koinwin88</a>
-<a href="https://setiaskin.com/product/">gelorabet</a>
-<a href="https://setiaskin.com/product/">togeljoker</a>
-<a href="https://setiaskin.com/product/">win4dd</a>
-<a href="https://setiaskin.com/product/">gold138</a>
-<a href="https://setiaskin.com/product/">mpomantap</a>
-<a href="https://setiaskin.com/product/">slot123id</a>
-<a href="https://setiaskin.com/product/">dewahoki123</a>
-<a href="https://setiaskin.com/product/">gacorterus</a>
-<a href="https://setiaskin.com/product/">jackpot999</a>
-<a href="https://setiaskin.com/product/">slotgampang</a>
-<a href="https://setiaskin.com/product/">winaja77</a>
-<a href="https://setiaskin.com/product/">net4d</a>
-<a href="https://setiaskin.com/product/">vipsakti</a>
-<a href="https://setiaskin.com/product/">indomax77</a>
-<a href="https://setiaskin.com/product/">gokilslot88</a>
-<a href="https://setiaskin.com/product/">slotmakmur</a>
-<a href="https://setiaskin.com/product/">vslot777</a>
-<a href="https://setiaskin.com/product/">kenca4d</a>
-<a href="https://setiaskin.com/product/">towo4d</a>
-<a href="https://setiaskin.com/product/">spinaja88</a>
-<a href="https://setiaskin.com/product/">putrajitu</a>
-<a href="https://setiaskin.com/product/">win88max</a>
-<a href="https://setiaskin.com/product/">slotvipid</a>
-<a href="https://setiaskin.com/product/">zona777</a>
-<a href="https://setiaskin.com/product/">100jpslot</a>
-<a href="https://setiaskin.com/product/">om4d</a>
-<a href="https://setiaskin.com/product/">togelmania88</a>
-<a href="https://setiaskin.com/product/">slotceria</a>
-<a href="https://setiaskin.com/product/">mantul777</a>
-<a href="https://setiaskin.com/product/">mpokingdom</a>
-<a href="https://setiaskin.com/product/">srigala4d</a>
-<a href="https://setiaskin.com/product/">slotmantap88</a>
-<a href="https://setiaskin.com/product/">dewa188slot</a>
-<a href="https://setiaskin.com/product/">indojackpot</a>
-<a href="https://setiaskin.com/product/">togelgila</a>
-<a href="https://setiaskin.com/product/">kasir4d</a>
-<a href="https://setiaskin.com/product/">anjay777</a>
-<a href="https://setiaskin.com/product/">tropical4d</a>
-<a href="https://setiaskin.com/product/">slotbintang</a>
-<a href="https://setiaskin.com/product/">jackpot777id</a>
-<a href="https://setiaskin.com/product/">cuanmax88</a>
-<a href="https://setiaskin.com/product/">gajislot</a>
-<a href="https://setiaskin.com/product/">megabos</a>
-<a href="https://setiaskin.com/product/">rajakoin88</a>
-<a href="https://setiaskin.com/product/">togeldewi</a>
-<a href="https://setiaskin.com/product/">maxwin368</a>
-<a href="https://setiaskin.com/product/">slotqqid</a>
-<a href="https://setiaskin.com/product/">slotasli</a>
-<a href="https://setiaskin.com/product/">indototobet</a>
-<a href="https://setiaskin.com/product/">pangeranjp</a>
-<a href="https://setiaskin.com/product/">slotkeraton</a>
-<a href="https://setiaskin.com/product/">jackpotasia</a>
-<a href="https://setiaskin.com/product/">slotmampus</a>
-<a href="https://setiaskin.com/product/">betkoin88</a>
-<a href="https://setiaskin.com/product/">megagacor77</a>
-<a href="https://setiaskin.com/product/">rajazona</a>
-<a href="https://setiaskin.com/product/">slotdewi88</a>
-<a href="https://setiaskin.com/product/">pion4d</a>
-<a href="https://setiaskin.com/product/">vipmpo</a>
-<a href="https://setiaskin.com/product/">slotmercon</a>
-<a href="https://setiaskin.com/product/">agenjp88</a>
-<a href="https://setiaskin.com/product/">slotterus</a>
-<a href="https://setiaskin.com/product/">duniaking77</a>
-<a href="https://setiaskin.com/product/">slotkapal</a>
+</div></div>
+<div itemscope="itemscope" itemtype="http://schema.org/Blog" style="display: none;">
+<meta content="Bookkeeping &amp; Accounting" itemprop="name"/>
+<meta content="BEST ONLINE BANKING SERVICES, AND LOAN RATES, ARMS, CONSOLIDATING GRADUATE STUDENT LOANS, 
+ BEST LOCAL BANKS AND ONLINE BANKING SERVICES." itemprop="description"/>
 </div>
-                        <div
-                            class="grid grid--1-col grid--2-col-tablet collapsible-content__grid collapsible-content__grid--reverse">
-                            <div class="grid__item"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+<div class="body-fauxcolumns">
+<div class="fauxcolumn-outer body-fauxcolumn-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</div>
+<div class="content">
+<div class="content-fauxcolumns">
+<div class="fauxcolumn-outer content-fauxcolumn-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</div>
+<div class="content-outer">
+<div class="content-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left content-fauxborder-left">
+<div class="fauxborder-right content-fauxborder-right"></div>
+<div class="content-inner">
+<header>
+<div class="header-outer">
+<div class="header-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left header-fauxborder-left">
+<div class="fauxborder-right header-fauxborder-right"></div>
+<div class="region-inner header-inner">
+<div class="header section" id="header" name="Header"><div class="widget Header" data-version="1" id="Header1">
+<div id="header-inner">
+<div class="titlewrapper">
+<h1 class="title">
+Bookkeeping &amp; Accounting
+</h1>
+</div>
+<div class="descriptionwrapper">
+<p class="description"><span>BEST ONLINE BANKING SERVICES, AND LOAN RATES, ARMS, CONSOLIDATING GRADUATE STUDENT LOANS, HOW TO CHOOSE THE BEST LOCAL BANKS AND ONLINE BANKING SERVICES.  ONLINE SEO VIDEO MARKETING FOR THE BEST BANKS AND THE EASIEST, FASTEST WAY TO CHOOSE THE RIGHT LOCAL ONLINE BANKING COMPANY AND SERVICE FOR YOU AND YOUR FAMILY</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class="header-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</header>
+<div class="tabs-outer">
+<div class="tabs-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left tabs-fauxborder-left">
+<div class="fauxborder-right tabs-fauxborder-right"></div>
+<div class="region-inner tabs-inner">
+<div class="tabs no-items section" id="crosscol" name="Cross-Column"></div>
+<div class="tabs no-items section" id="crosscol-overflow" name="Cross-Column 2"></div>
+</div>
+</div>
+<div class="tabs-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<div class="main-outer">
+<div class="main-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left main-fauxborder-left">
+<div class="fauxborder-right main-fauxborder-right"></div>
+<div class="region-inner main-inner">
+<div class="columns fauxcolumns">
+<div class="fauxcolumn-outer fauxcolumn-center-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<div class="fauxcolumn-outer fauxcolumn-left-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<div class="fauxcolumn-outer fauxcolumn-right-outer">
+<div class="cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left">
+<div class="fauxborder-right"></div>
+<div class="fauxcolumn-inner">
+</div>
+</div>
+<div class="cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class="columns-inner">
+<div class="column-center-outer">
+<div class="column-center-inner">
+<div class="main section" id="main" name="Main"><div class="widget Blog" data-version="1" id="Blog1">
+<div class="blog-posts hfeed">
 
+          <div class="date-outer">
+        
+<h2 class="date-header"><span>Tuesday, June 2, 2020</span></h2>
 
-    </section>
-    <!-- END sections: footer-group -->
+          <div class="date-posts">
+        
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://news.magicflix.com/wp-content/uploads/2020/01/Animated-GIF-downsized.gif" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="3903413581119886119" itemprop="postId"/>
+<a name="3903413581119886119"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-for-adults.html">Easy Magic Tricks For Adults</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-3903413581119886119" itemprop="articleBody">
+<h1 style="text-align: center;">
+  <a href="https://www.bookkeepingcompanys.com/" target="_blank">Easy Magic Tricks For Adults</a>
+</h1>
 
+<div style="text-align: center;">
+  <img alt="Easy Magic Tricks For Adults" src="https://iili.io/f5gUnte.gif" title="Easy Magic Tricks For Adults" width="600"/>
+</div>
 
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GBQeAoinctE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
+<h2 style="text-align: center;">
+  <a href="https://www.youtube.com/embed/QjQpuxVN_Bw" target="_blank">Magician Kent Axell</a>
+</h2>
 
+<div style="text-align: center;">
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/379256770" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+</div>
 
+<h2 style="text-align: center;">
+  <a href="https://web.archive.org/web/20200812171405/https://bestcoinmagic.com/category/best-cards-for-magic-tricks-2020/" target="_blank">Best Coin Magicians</a>
+</h2>
 
-    <ul hidden>
-        <li id="a11y-refresh-page-message">Choosing a selection results in a full page refresh.</li>
-        <li id="a11y-new-window-message">Opens in a new window.</li>
-    </ul>
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GBQeAoinctE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-    <script>
-        window.themeJsData = {
-            templateName: "product",
-            templateStrip: "product",
-            cartItemCount: 0,
-            shopCurrency: 'SGD',
-        }
-    </script>
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/theme.js?v=35343184324329019891742784888"
-        defer="defer"></script>
-    <script>
-        window.shopUrl = 'https://setiaskin.com/product/';
-        window.routes = {
-            cart_add_url: '/cart/add',
-            cart_change_url: '/cart/change',
-            cart_clear_url: '/cart/clear',
-            cart_update_url: '/cart/update',
-            cart_url: '/cart',
-            account_addresses_url: '/account/addresses',
-            account_login_url: '/account/login',
-            account_logout_url: '/account/logout',
-            account_recover_url: '/account/recover',
-            account_register_url: '/account/register',
-            account_url: '/account',
-            predictive_search_url: '/search/suggest',
-        };
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.322579735977!2d-115.29187388408417!3d36.061235280107454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8b9e61d188947:0xsomeidhere!2sSomePlace!5e0!3m2!1sen!2sus!4v1589360439837!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+</div>
 
-        window.cartStrings = {
-            error: `There was an error while updating your cart. Please try again.`,
-            quantityError: `You can only add [quantity] of this item to your cart.`,
-            storeConfirmationMessage: 'Confirm store at checkout',
-        };
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" rel="author" title="author profile">
+<span itemprop="name">Stimilon</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-for-adults.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-for-adults.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2020-06-02T21:05:00-07:00">June 02, 2020</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-for-adults.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-859862049">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=3903413581119886119&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3903413581119886119&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3903413581119886119&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3903413581119886119&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3903413581119886119&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3903413581119886119&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Coin%20Magicians" rel="tag">Best Coin Magicians</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Easy%20Magic%20Tricks%20For%20Adults" rel="tag">Easy Magic Tricks For Adults</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Magician%20Kent%20Axell" rel="tag">Magician Kent Axell</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Master%20Of%20Magic%20Tutorial" rel="tag">Master Of Magic Tutorial</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Los+Angeles,+CA,+USA@0.0,0.0&amp;z=10" target="_blank">Los Angeles, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
 
-        window.variantStrings = {
-            addToCart: `Add to cart`,
-            soldOut: `Out of Stock`,
-            unavailable: `Unavailable`,
-            unavailable_with_option: `[value] - Unavailable`,
-        };
+          </div></div>
+        
 
-        window.quickOrderListStrings = {
-            itemsAdded: `[quantity] items added`,
-            itemAdded: `[quantity] item added`,
-            itemsRemoved: `[quantity] items removed`,
-            itemRemoved: `[quantity] item removed`,
-            viewCart: `View cart`,
-            each: `[money]/ea`,
-        };
+          <div class="date-outer">
+        
+<h2 class="date-header"><span>Monday, June 1, 2020</span></h2>
 
-        window.accessibilityStrings = {
-            imageAvailable: `Image [index] is now available in gallery view`,
-            shareSuccess: `Link copied to clipboard`,
-            pauseSlideshow: `Pause slideshow`,
-            playSlideshow: `Play slideshow`,
-            recipientFormExpanded: `Gift card recipient form expanded`,
-            recipientFormCollapsed: `Gift card recipient form collapsed`,
-        };
+          <div class="date-posts">
+        
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://news.magicflix.com/wp-content/uploads/2020/01/Animated-GIF-downsized.gif" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="4975114248269332543" itemprop="postId"/>
+<a name="4975114248269332543"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-videos.html">Easy Magic Tricks Videos</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-4975114248269332543" itemprop="articleBody">
+<h1 style="text-align: center;">
+  <a href="https://www.bookkeepingcompanys.com/" target="_blank">Easy Magic Tricks Videos</a>
+</h1>
 
-        window.deliveryOptionsStrings = { "en": { "Usually ready in 1 hour": "Usually ready in 1 hour", "Usually ready in 2 hours": "Usually ready in 2 hours", "Usually ready in 4 hours": "Usually ready in 4 hours", "Usually ready in 24 hours": "Usually ready in 24 hours", "Usually ready in 2-4 days": "Usually ready in 2-4 days", "Temporarily Unavailable for Pickup": "Temporarily Unavailable for Pickup" } };
-    </script>
-    
+<div style="text-align: center;">
+  <img alt="Easy Magic Tricks Videos" src="https://iili.io/f5gUnte.gif" title="Easy Magic Tricks Videos" width="600"/>
+</div>
 
+<!-- YouTube video yang valid -->
+<div style="text-align: center;">
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/Pqi6Hc6RDvo"
+          frameborder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+  </iframe>
+</div>
 
+<!-- Vimeo 379256770 -->
+<div style="text-align: center;">
+  <div style="padding:56.25% 0 0 0;position:relative;">
+    <iframe src="https://player.vimeo.com/video/379256770" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  </div>
+  <script src="https://player.vimeo.com/api/player.js"></script>
+</div>
 
-    <link href="//www.istudiosg.com/cdn/shop/t/14/assets/component-notify-modal.css?v=121279191211236621751742784888"
-        rel="stylesheet" type="text/css" media="all" />
+<!-- Google Maps -->
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3225.322579735977!2d-115.29187388408417!3d36.061235280107454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f1
 
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" rel="author" title="author profile">
+<span itemprop="name">Stimilon</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-videos.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-videos.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2020-06-01T06:58:00-07:00">June 01, 2020</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-videos.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-859862049">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=4975114248269332543&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4975114248269332543&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4975114248269332543&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4975114248269332543&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4975114248269332543&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4975114248269332543&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Coin%20Magicians" rel="tag">Best Coin Magicians</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Billy%20Ferguson%20Magician" rel="tag">Billy Ferguson Magician</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Easy%20Magic%20Tricks%20Videos" rel="tag">Easy Magic Tricks Videos</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Magic%20Video" rel="tag">Magic Video</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Los+Angeles,+CA,+USA@0.0,0.0&amp;z=10" target="_blank">Los Angeles, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
 
+          </div></div>
+        
 
+          <div class="date-outer">
+        
+<h2 class="date-header"><span>Sunday, November 17, 2019</span></h2>
 
-    <aside id="notifyModal" class="modal ac-moda">
+          <div class="date-posts">
+        
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://iili.io/f5PJExt.md.gif" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="6043108752085978626" itemprop="postId"/>
+<a name="6043108752085978626"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/11/los-angeles-solar-installers.html">Los Angeles Solar Installers</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-6043108752085978626" itemprop="articleBody">
+<p><div style="text-align: center;"><h1 style="text-align: center;"><a href="https://solarcompanys.com/los-angeles-county/" target="_blank">Los Angeles Solar Installers</a></h1><p><div style="text-align: center;"><p><div style="text-align: center;"><img alt="Los Angeles Solar Installers" src="https://iili.io/f5PJExt.md.gif" title="Los Angeles Solar Installers" width="600"/></div><br/><p><div style="text-align: center;"><p><p><iframe src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/340995351" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><div style="text-align: center;"><h2 style="text-align: center;"><a href="https://web.archive.org/web/20200812171405/https://solarcompanys.com/los-angeles" target="_blank">solar vacaville</a></h2><p><p><div style="text-align: center;"><iframe src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/267266162" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><h2 style="text-align: center;"><a href="https://web.archive.org/web/20200812171405/https://www.sempersolaris.com/locations/san-diego/el-cajon/heating-air-conditioning/" target="_blank">Air Conditioning Bonita</a></h2><p><p><iframe src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/367786080" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><p><div style="text-align: center;"><h2 style="text-align: center;"><a href="https://web.archive.org/web/20200812171405/https://oakland.solarcompanys.com/" target="_blank">Best Solar Panaels Los Angeles</a></h2><p><div style="text-align: center;"><iframe src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/360371811" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" rel="author" title="author profile">
+<span itemprop="name">Stimilon</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/11/los-angeles-solar-installers.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/11/los-angeles-solar-installers.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-11-17T02:47:00-08:00">November 17, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/11/los-angeles-solar-installers.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-859862049">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=6043108752085978626&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6043108752085978626&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6043108752085978626&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6043108752085978626&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6043108752085978626&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6043108752085978626&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Los%20Angeles%20Solar%20Companies" rel="tag">Los Angeles Solar Companies</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Los%20Angeles%20Solar%20Installers" rel="tag">Los Angeles Solar Installers</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Los%20Angeles%20Solar%20Power" rel="tag">Los Angeles Solar Power</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Solar%20Companies%20Los%20Angeles" rel="tag">Solar Companies Los Angeles</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Solar%20Installation%20Los%20Angeles" rel="tag">Solar Installation Los Angeles</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Solar%20Installers%20Los%20Angeles" rel="tag">Solar Installers Los Angeles</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Los+Angeles,+CA,+USA@0.0,0.0&amp;z=10" target="_blank">Los Angeles, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
 
-        <form class="modal__inner modal__inner--notify">
-            <header class="modal__header">
-                <button id="notifyModalClose" type="button" class="modal__close modal-close-button">
-                    <span class="modal-close-icon">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
-                            <path
-                                d="M12.12,10l4.07-4.06a1.5,1.5,0,1,0-2.11-2.12L10,7.88,5.94,3.81A1.5,1.5,0,1,0,3.82,5.93L7.88,10,3.81,14.06a1.5,1.5,0,0,0,0,2.12,1.51,1.51,0,0,0,2.13,0L10,12.12l4.06,4.07a1.45,1.45,0,0,0,1.06.44,1.5,1.5,0,0,0,1.06-2.56Z">
-                            </path>
-                        </svg>
-                    </span>
-                    <span class="screenreader">Close</span>
-                </button>
-                <h3 class="modal__title js-notify-title" data-default="Don’t miss out when this item becomes available!"
-                    data-success="You will be notified when it becomes available.">Don’t miss out when this item becomes
-                    available!</h3>
-                <div class="modal__success hide js-notify-title-success hide">
+          </div></div>
+        
 
-                    <h3 class="modal__title" data-default="Don’t miss out when this item becomes available!">You will be
-                        notified when it becomes available.</h3>
-                </div>
-            </header>
+          <div class="date-outer">
+        
+<h2 class="date-header"><span>Friday, September 6, 2019</span></h2>
 
-            <div class="modal__inner-content">
-                <p class="modal__inner-content-p js-notify-content">Enter your email address to be notified when this
-                    item is back in stock.</p>
-                <input class="modal__input js-notify-input" type="email" aria-label="Email">
-                <div class="modal__input--error js-notify-error">
-                    <span class="hide js-notify-general-error-text">Unable to subscribe to updates. Please try again
-                        later.</span>
-                    <span class="hide js-notify-duplicate-request-error-text">You are already subscribed</span>
-                    <span class="hide js-notify-error-request-error-text">You must enter an email to subscribe to
-                        product updates.</span>
-                </div>
-            </div>
-            <button
-                class="modal__submit modal__submit--notify button button--full-width button--primary js-notify-submit"
-                type="button">
-                <span class="screenreader">Submit</span>
-                <span class="modal__submit-text">Notify me</span>
-            </button>
-            <button
-                class="modal__submit modal__submit--notify button button--full-width button--primary hide js-notify-success-button"
-                type="button">
-                <span class="screenreader">Close</span>
-                <span class="modal__submit-text">Done</span>
-            </button>
-        </form>
+          <div class="date-posts">
+        
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://i.ytimg.com/vi/pUk9QDDfRSs/0.jpg" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="2944410900554703112" itemprop="postId"/>
+<a name="2944410900554703112"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/09/bookkeeping-help-stockton.html">Bookkeeping Help Stockton</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-2944410900554703112" itemprop="articleBody">
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<h2 style="text-align: left;">
+<span style="font-size: x-large;"><a href="https://web.archive.org/web/20200812171405/http://bookkeeping%20help%20stockton/">Bookkeeping Help Stockton</a></span></h2>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe width="320" height="266" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/pUk9QDDfRSs/0.jpg" src="https://www.youtube.com/embed/pUk9QDDfRSs" frameborder="0" allowfullscreen></iframe></div>
+<h2 style="clear: both; text-align: center;">
+<span style="font-size: x-large;">Small Business Bookkeeping Stockton</span></h2>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe width="320" height="266" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/YJJ8inJK2nk/0.jpg" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/YJJ8inJK2nk?feature=player_embedded" frameborder="0" allowfullscreen></iframe></div>
+<div>
+<span style="font-size: x-large;"><br/></span></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br/></div>
+<div>
+<br/></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" rel="author" title="author profile">
+<span itemprop="name">Stimilon</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/09/bookkeeping-help-stockton.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/09/bookkeeping-help-stockton.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-09-06T05:11:00-07:00">September 06, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/09/bookkeeping-help-stockton.html#comment-form" onclick="">
+2 comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-859862049">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=2944410900554703112&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2944410900554703112&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2944410900554703112&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2944410900554703112&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2944410900554703112&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2944410900554703112&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/best%20Bookkeeping%20Help%20Stockton" rel="tag">best Bookkeeping Help Stockton</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20Help%20Stockton" rel="tag">Bookkeeping Help Stockton</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/small%20business%20Bookkeeping%20Help%20Stockton" rel="tag">small business Bookkeeping Help Stockton</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Stockton,+CA,+USA@37.9577016,-121.29077960000001&amp;z=10" target="_blank">Stockton, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://i.ytimg.com/vi/Q-6A-wggCgk/0.jpg" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="340997501502725701" itemprop="postId"/>
+<a name="340997501502725701"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in_6.html">Best Small Business Bookkeeping In Oxnard</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-340997501502725701" itemprop="articleBody">
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<h1 class="title style-scope ytd-video-primary-info-renderer" style="background: rgb(249, 249, 249); border: 0px; color: var(--ytd-video-primary-info-renderer-title-color, var(--yt-spec-text-primary)); font-family: Roboto, Arial, sans-serif; font-size: var(--ytd-video-primary-info-renderer-title-font-size, 1.8rem); font-weight: 400; line-height: 2.4rem; margin: 0px; max-height: 4.8rem; overflow: hidden; padding: 0px; text-shadow: var(--ytd-video-primary-info-renderer-title-text-shadow, none); transform: var(--ytd-video-primary-info-renderer-title-transform, none);">
+<yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""><a href="https://web.archive.org/web/20200812171405/https://bestbankingservices.com/">Best Small Business Bookkeeping Help In Oxnard</a></yt-formatted-string></h1>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe width="320" height="266" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/Q-6A-wggCgk/0.jpg" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/Q-6A-wggCgk?feature=player_embedded" frameborder="0" allowfullscreen></iframe></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br/></div>
+<div>
+<yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""><br/></yt-formatted-string></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" rel="author" title="author profile">
+<span itemprop="name">Stimilon</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in_6.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in_6.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-09-06T05:09:00-07:00">September 06, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in_6.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-859862049">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=340997501502725701&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=340997501502725701&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=340997501502725701&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=340997501502725701&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=340997501502725701&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=340997501502725701&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Small%20Business%20Bookkeeping%20Help%20In%20Oxnard" rel="tag">Best Small Business Bookkeeping Help In Oxnard</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Small%20Business%20Bookkeeping%20In%20Oxnard" rel="tag">Best Small Business Bookkeeping In Oxnard</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Small%20Business%20Bookkeeping%20In%20OxnardBookkeeping%20In%20Oxnard" rel="tag">Small Business Bookkeeping In OxnardBookkeeping In Oxnard</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Oxnard,+CA,+USA@34.1975048,-119.17705160000003&amp;z=10" target="_blank">Oxnard, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://i.ytimg.com/vi/svfbwzl6O3g/0.jpg" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="4212401120891173901" itemprop="postId"/>
+<a name="4212401120891173901"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in.html">Best Small Business Bookkeeping In Ventura</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-4212401120891173901" itemprop="articleBody">
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<h2 style="display: inline-block; font-weight: normal; margin: 0px; padding: 0px; text-align: left;">
+<span style="font-size: x-large;"><a href="https://web.archive.org/web/20200812171405/https://bestbankingservice.com/">Best Small Business Bookkeeping In Ventura</a></span></h2>
+<div class="separator" style="clear: both; text-align: center;">
+<br/></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://web.archive.org/web/20200812171405/https://www.youtube.com/watch?v=svfbwzl6O3g" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3Dsvfbwzl6O3g&amp;ved=0ahUKEwj3wc3ok7zkAhVeHzQIHT0KDSMQtwIIKjAA" style="background-color: white; color: #660099; cursor: pointer; font-family: Roboto, arial, sans-serif; font-size: small; text-align: left;"></a><iframe width="320" height="266" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/svfbwzl6O3g/0.jpg" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/svfbwzl6O3g?feature=player_embedded" frameborder="0" allowfullscreen></iframe></div>
+<br/></div>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/04392706527612780923" rel="author" title="author profile">
+<span itemprop="name">Stimilon</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-09-06T05:07:00-07:00">September 06, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/09/best-small-business-bookkeeping-in.html#comment-form" onclick="">
+1 comment:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-859862049">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=4212401120891173901&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4212401120891173901&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4212401120891173901&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4212401120891173901&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4212401120891173901&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=4212401120891173901&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Small%20Business%20Bookkeeping%20In%20Ventura" rel="tag">Best Small Business Bookkeeping In Ventura</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Small%20Business%20Bookkeeping%20Services%20Help%20In%20Ventura" rel="tag">Best Small Business Bookkeeping Services Help In Ventura</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20Services%20Help%20In%20Ventura" rel="tag">Bookkeeping Services Help In Ventura</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20Services%20In%20Ventura" rel="tag">Bookkeeping Services In Ventura</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Ventura,+CA,+USA@34.2804923,-119.29451990000001&amp;z=10" target="_blank">Ventura, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
 
-        <div class="notify-modal__overlay modal-page-overlay js-notify-overlay"></div>
-    </aside>
+          </div></div>
+        
 
-    <style>
-        .modal__submit.modal__submit--notify {
-            background-color: #0071E3;
-        }
+          <div class="date-outer">
+        
+<h2 class="date-header"><span>Monday, September 2, 2019</span></h2>
 
+          <div class="date-posts">
+        
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://lh5.googleusercontent.com/3cPPDkCTNeo7JQeQT-Rb3R0L4xnPI-ohBptMbUjrgVCeKwSM05U6WXeukVjfXCj5uaEGdD4ZxlAhCQnJGPCWxI6paPWQvpByxfVbQLVKO7Phmn0DsKnkd7Z-e7P1pRjY39HALreo" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="6200148258481873930" itemprop="postId"/>
+<a name="6200148258481873930"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/09/blog-post.html">Best Bookkeeping Services in Fontana</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-6200148258481873930" itemprop="articleBody">
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<div dir="ltr" style="line-height: 1.38; margin-bottom: 4pt; margin-left: 4pt; margin-right: 4pt; margin-top: 4pt;">
+<div style="text-align: center;">
+</div>
+<h2 style="text-align: center;">
+<img height="180" src="https://lh5.googleusercontent.com/3cPPDkCTNeo7JQeQT-Rb3R0L4xnPI-ohBptMbUjrgVCeKwSM05U6WXeukVjfXCj5uaEGdD4ZxlAhCQnJGPCWxI6paPWQvpByxfVbQLVKO7Phmn0DsKnkd7Z-e7P1pRjY39HALreo" style="font-family: arial; font-size: x-large; font-weight: 400; margin-left: 0px; margin-top: 0px; white-space: pre;" width="240"/></h2>
+<h2 style="text-align: center;">
+<span style="background-color: transparent; color: red; font-family: &quot;georgia&quot;; font-size: x-large; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre;"><a href="https://bestbankingservices.com/bookkeping-fontana/" style="text-decoration: none;">Best Bookkeeping Services in Fontana</a></span><a href="https://bestbankingservices.com/bookkeping-fontana/" style="font-size: x-large; text-decoration: none;"><span style="background-color: transparent; color: #dddddd; font-family: &quot;georgia&quot;; font-style: italic; font-variant: normal; font-weight: 400; text-decoration: none; vertical-align: baseline; white-space: pre;"><span style="border: none; display: inline-block; height: 180px; overflow: hidden; width: 240px;"><img height="180" src="https://lh3.googleusercontent.com/6uKKQUVfFDyoMYY5HYS6HYhAs8rdM07nKeJWDwwLzc1UwpuqJHXlVjtGP7Hb9N8iHxSds633VIIu01bNUR-HYTk35EOa_jnPyGcie9b8vOEEpXQqAWZ_q6Za0kuMlzOAxFUCEoon" style="margin-left: 0px; margin-top: 0px;" width="240"/></span></span></a></h2>
+</div>
+<div dir="ltr" style="background-color: white; line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;">
+<span id="docs-internal-guid-d8f66b9a-7fff-049a-3857-1f38e41dab7e"></span></div>
+</div>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://www.blogger.com/profile/17824029902226835523" itemprop="url"/>
+<a class="g-profile" href="https://www.blogger.com/profile/17824029902226835523" rel="author" title="author profile">
+<span itemprop="name">MediaVizual</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/09/blog-post.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/09/blog-post.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-09-02T04:36:00-07:00">September 02, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/09/blog-post.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-31511832">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=6200148258481873930&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6200148258481873930&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6200148258481873930&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6200148258481873930&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6200148258481873930&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6200148258481873930&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Bookkeeping%20Services%20in%20Fontana" rel="tag">Best Bookkeeping Services in Fontana</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://maps.google.com/maps?q=Fontana,+CA,+USA@34.0922335,-117.435048&amp;z=10" target="_blank">Fontana, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
 
-        .modal__submit.modal__submit--notify {
-            color: #FFFFFF;
-        }
-    </style>
-    <div class="seedkit-component-standalone">
-        <a class="ac-modal-trigger hidden js-net-monthly-pricing-modal-trigger"
-            data-modal-target="modal-net-monthly-pricing-modal">Learn More<i
-                class="fa-solid fa-angle-right billboard_icon"></i></a>
+          </div></div>
+        
 
-        <div id="modal-net-monthly-pricing-modal" class="ac-modal" data-type="content" data-width="wide"
-            data-variant="pageOverlay" data-modal-dialog-label="Modal" data-modal-close-label="Close Modal">
+          <div class="date-outer">
+        
+<h2 class="date-header"><span>Thursday, August 29, 2019</span></h2>
 
-            <link
-                href="//www.istudiosg.com/cdn/shop/t/14/assets/component-nmp-test-mode.css?v=20702808579977612711742784887"
-                rel="stylesheet" type="text/css" media="all" />
+          <div class="date-posts">
+        
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://i.ytimg.com/vi/dtwYUOo2fp4/hqdefault.jpg" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="3542048005491885663" itemprop="postId"/>
+<a name="3542048005491885663"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno_29.html">Bookkeeping Fresno</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-3542048005491885663" itemprop="articleBody">
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com/bookkeeping-fresno%E2%80%9C" style="font-size: xx-large;">Bookkeeping Fresno</a><a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com/bookkeeping-fresno%E2%80%9C"></a><br/>
+<br/>
+<div style="padding: 56.25% 0 0 0; position: relative;">
+<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/353708147" style="height: 100%; left: 0; position: absolute; top: 0; width: 100%;"></iframe></div>
+<script src="https://web.archive.org/web/20200812171405js_/https://player.vimeo.com/api/player.js"></script>
 
-            <nmp-test-mode class="nmp-test-mode  js-nmp-test-mode" data-frequency="/mo. for {{ per_month }} mo.">
-                <div class="nmp-test-mode__heading" id="modal-headline">
-                    <h2>How does Financing work? </h2>
-                    <p>Get what you want now, pay for it later!</p>
-                    <p>Shopping online made so much more accessible now with PayLater by Grab.</p>
-                </div>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com%E2%80%9C"></a><br/>
+<h2>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com%E2%80%9C"> Bookkeeping Rates</a></h2>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com%E2%80%9C">
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/dtwYUOo2fp4" width="560"></iframe>
 
-                <h3 class="nmp-test-mode__title">Explore options</h3>
-                <div class="nmp-test-mode__plan">
-                    <div class="js-nmp-terms">
-                        <i class="fa fa-spinner fa-spin"></i>
-                    </div>
-                </div>
-            </nmp-test-mode>
+</a><a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://rankspyder.com%E2%80%9C"></a><br/>
+<h3>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://rankspyder.com%E2%80%9C">
+ Bookkeeping Help</a></h3>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://rankspyder.com%E2%80%9C">
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/RpHzatwSwcs" width="560"></iframe>
 
-            <script src="//www.istudiosg.com/cdn/shop/t/14/assets/nmp-test-mode.js?v=52863412589471034481742784889"
-                defer="defer"></script>
+</a><a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservice.com%E2%80%9C"><h3>
+ Best Bookkeeping for Small Business</h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/axhm7LsO4Ds" width="560"></iframe>
+</a></div>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://www.blogger.com/profile/17824029902226835523" itemprop="url"/>
+<a class="g-profile" href="https://www.blogger.com/profile/17824029902226835523" rel="author" title="author profile">
+<span itemprop="name">MediaVizual</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno_29.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno_29.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-08-29T23:01:00-07:00">August 29, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno_29.html#comment-form" onclick="">
+6 comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-31511832">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=3542048005491885663&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3542048005491885663&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3542048005491885663&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3542048005491885663&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3542048005491885663&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3542048005491885663&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20bookkeeping%20in%20fresno%20ca" rel="tag">Best bookkeeping in fresno ca</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20bookkeeping%20services%20fresno" rel="tag">Best bookkeeping services fresno</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20bookkeeping%20services%20in%20fresno" rel="tag">Best bookkeeping services in fresno</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20bookkeeping%20services%20in%20fresno%20ca" rel="tag">Best bookkeeping services in fresno ca</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/bookkeeping%20services%20fresno" rel="tag">bookkeeping services fresno</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/bookkeeping%20services%20in%20fresno%20ca" rel="tag">bookkeeping services in fresno ca</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Fresno,+CA,+USA@36.7377981,-119.78712469999999&amp;z=10" target="_blank">Fresno, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://i.ytimg.com/vi/dtwYUOo2fp4/hqdefault.jpg" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="2189402713421393490" itemprop="postId"/>
+<a name="2189402713421393490"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno.html">Bookkeeping Fresno</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-2189402713421393490" itemprop="articleBody">
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com/bookkeeping-fresno%E2%80%9C"></a><br/>
+<h2>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com/bookkeeping-fresno%E2%80%9C">Best Bookkeeping Fresno</a></h2>
+<br/>
+<div style="padding: 56.25% 0 0 0; position: relative;">
+<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/353708147" style="height: 100%; left: 0; position: absolute; top: 0; width: 100%;"></iframe></div>
+<script src="https://web.archive.org/web/20200812171405js_/https://player.vimeo.com/api/player.js"></script>
 
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com%E2%80%9C"></a><br/>
+<h2>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com%E2%80%9C"> Bookkeeping Rates in&nbsp;</a><a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com/bookkeeping-fresno%E2%80%9C">Fresno</a></h2>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com%E2%80%9C">
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/dtwYUOo2fp4" width="560"></iframe>
 
-        </div>
-    </div>
+</a><a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://rankspyder.com%E2%80%9C"></a><h2>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://rankspyder.com%E2%80%9C"></a><a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com/bookkeeping-fresno%E2%80%9C">Fresno</a></h2>
+<h3>
+Bookkeeping Help</h3>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/RpHzatwSwcs" width="560"></iframe>
 
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservice.com%E2%80%9C"><h3>
+ Best Bookkeeping&nbsp;</h3>
+</a><h2>
+<a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservice.com%E2%80%9C"></a><a a="" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/%E2%80%9Dhttp://bestbankingservices.com/bookkeeping-fresno%E2%80%9C">Fresno</a></h2>
+<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/axhm7LsO4Ds" width="560"></iframe>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://www.blogger.com/profile/17824029902226835523" itemprop="url"/>
+<a class="g-profile" href="https://www.blogger.com/profile/17824029902226835523" rel="author" title="author profile">
+<span itemprop="name">MediaVizual</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-08-29T18:25:00-07:00">August 29, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno.html#comment-form" onclick="">
+2 comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-31511832">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=2189402713421393490&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2189402713421393490&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2189402713421393490&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2189402713421393490&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2189402713421393490&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2189402713421393490&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Bookkeeping%20Fresno" rel="tag">Best Bookkeeping Fresno</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20Fresno" rel="tag">Bookkeeping Fresno</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20Rates%20in%20Fresno" rel="tag">Bookkeeping Rates in Fresno</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Fresno,+CA,+USA@36.7377981,-119.78712469999999&amp;z=10" target="_blank">Fresno, CA, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="6137417525338978912" itemprop="postId"/>
+<a name="6137417525338978912"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-in-las-vegas.html">Bookkeeping in Las Vegas</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-6137417525338978912" itemprop="articleBody">
+<h2>
+<span style="font-size: x-large;">Bookkeeping in Las Vegas</span></h2>
+<br/>
+<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="360" src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/353723786" width="640"></iframe>
 
+<a href="https://web.archive.org/web/20200812171405/https://vimeo.com/353723786">Las Vegas Bookkeeping Help | Financepal | 877-412-0574</a> from <a href="https://web.archive.org/web/20200812171405/https://vimeo.com/stimilon">STIMILON INC</a> on <a href="https://web.archive.org/web/20200812171405/https://vimeo.com/">Vimeo</a>.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" rel="author" title="author profile">
+<span itemprop="name">sad</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-in-las-vegas.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-in-las-vegas.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-08-29T02:57:00-07:00">August 29, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-in-las-vegas.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-1007622910">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=6137417525338978912&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6137417525338978912&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6137417525338978912&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6137417525338978912&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6137417525338978912&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=6137417525338978912&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/best%20Bookkeeping%20in%20Las%20Vegas" rel="tag">best Bookkeeping in Las Vegas</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20in%20Las%20Vegas" rel="tag">Bookkeeping in Las Vegas</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20in%20LV" rel="tag">Bookkeeping in LV</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Las+Vegas,+NV,+USA@36.1699412,-115.13982959999998&amp;z=10" target="_blank">Las Vegas, NV, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="2717402139608340567" itemprop="postId"/>
+<a name="2717402139608340567"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/08/best-houston-bookkeeping-companies.html">Best Houston Bookkeeping Companies</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-2717402139608340567" itemprop="articleBody">
+<h2 style="text-align: center;">
+<span style="font-size: x-large;">Best Houston Bookkeeping Companies</span></h2>
+<div style="padding: 56.25% 0 0 0; position: relative;">
+<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/353726236?title=0&amp;byline=0&amp;portrait=0" style="height: 100%; left: 0px; position: absolute; text-align: center; top: 0px; width: 100%;"></iframe></div>
+<script src="https://web.archive.org/web/20200812171405js_/https://player.vimeo.com/api/player.js"></script>
 
+<a href="https://web.archive.org/web/20200812171405/https://vimeo.com/353726236">Miami Bookkeeping Services | Financepal | 877-413-6539</a> from <a href="https://web.archive.org/web/20200812171405/https://vimeo.com/stimilon">STIMILON INC</a> on <a href="https://web.archive.org/web/20200812171405/https://vimeo.com/">Vimeo</a>.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" rel="author" title="author profile">
+<span itemprop="name">sad</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/08/best-houston-bookkeeping-companies.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/08/best-houston-bookkeeping-companies.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-08-29T02:52:00-07:00">August 29, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/08/best-houston-bookkeeping-companies.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-1007622910">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=2717402139608340567&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2717402139608340567&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2717402139608340567&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2717402139608340567&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2717402139608340567&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2717402139608340567&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Houston%20Bookkeeping" rel="tag">Best Houston Bookkeeping</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Best%20Houston%20Bookkeeping%20Companies" rel="tag">Best Houston Bookkeeping Companies</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Houston%20Bookkeeping" rel="tag">Houston Bookkeeping</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Houston%20Bookkeeping%20Companies" rel="tag">Houston Bookkeeping Companies</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Houston,+TX,+USA@29.7604267,-95.3698028&amp;z=10" target="_blank">Houston, TX, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="2782813323277678548" itemprop="postId"/>
+<a name="2782813323277678548"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/08/top-rated-bookkeepers-in-denver-co.html">TOP RATED Bookkeepers in Denver CO</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-2782813323277678548" itemprop="articleBody">
+<h2 style="text-align: center;">
+<span style="font-size: x-large;">TOP RATED Bookkeepers in Denver CO</span></h2>
+<div>
+<span style="font-size: x-large;"><br/></span></div>
+<div style="padding: 56.25% 0 0 0; position: relative;">
+<iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" src="https://web.archive.org/web/20200812171405if_/https://player.vimeo.com/video/353729256" style="height: 100%; left: 0; position: absolute; top: 0; width: 100%;"></iframe></div>
+<script src="https://web.archive.org/web/20200812171405js_/https://player.vimeo.com/api/player.js"></script>
 
-    <script src="//www.istudiosg.com/cdn/shop/t/14/assets/share.js?v=19406306419835735731742784889"
-        defer="defer"></script>
-    <style>
-        .header__heading {
-            align-items: center;
-        }
+<a href="https://web.archive.org/web/20200812171405/https://vimeo.com/353729256">Miami Bookkeeping Help | Financepal | 877-413-6539</a> from <a href="https://web.archive.org/web/20200812171405/https://vimeo.com/stimilon">STIMILON INC</a> on <a href="https://web.archive.org/web/20200812171405/https://vimeo.com/">Vimeo</a>.
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" rel="author" title="author profile">
+<span itemprop="name">sad</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/08/top-rated-bookkeepers-in-denver-co.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/08/top-rated-bookkeepers-in-denver-co.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-08-29T02:49:00-07:00">August 29, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/08/top-rated-bookkeepers-in-denver-co.html#comment-form" onclick="">
+No comments:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-1007622910">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=2782813323277678548&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2782813323277678548&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2782813323277678548&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2782813323277678548&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2782813323277678548&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=2782813323277678548&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeepers%20in%20Denver%20CO" rel="tag">Bookkeepers in Denver CO</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/TOP%20Bookkeepers%20Denver" rel="tag">TOP Bookkeepers Denver</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/TOP%20RATED%20Bookkeepers%20in%20Denver" rel="tag">TOP RATED Bookkeepers in Denver</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/TOP%20RATED%20Bookkeepers%20in%20Denver%20CO" rel="tag">TOP RATED Bookkeepers in Denver CO</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Denver,+CO,+USA@39.7392358,-104.990251&amp;z=10" target="_blank">Denver, CO, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-outer">
+<div class="post hentry uncustomized-post-template" itemprop="blogPost" itemscope="itemscope" itemtype="http://schema.org/BlogPosting">
+<meta content="https://i.ytimg.com/vi/3s9MHS5Ivlc/0.jpg" itemprop="image_url"/>
+<meta content="4003707467868535702" itemprop="blogId"/>
+<meta content="3633497200998284854" itemprop="postId"/>
+<a name="3633497200998284854"></a>
+<h3 class="post-title entry-title" itemprop="name">
+<a href="https://www.bookkeepingcompanys.com/2019/08/small-business-bookkeeping-in-las-vegas.html">Small Business Bookkeeping in Las Vegas</a>
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-3633497200998284854" itemprop="articleBody">
+<h2 style="text-align: center;">
+<span style="font-size: x-large;">Small Business Bookkeeping in Las Vegas</span></h2>
+<div class="separator" style="clear: both; text-align: center;">
+<iframe width="320" height="266" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/3s9MHS5Ivlc/0.jpg" src="https://web.archive.org/web/20200812171405if_/https://www.youtube.com/embed/3s9MHS5Ivlc?feature=player_embedded" frameborder="0" allowfullscreen></iframe></div>
+<div>
+<span style="font-size: x-large;"><br/></span></div>
+<div style="clear: both;"></div>
+</div>
+<div class="post-footer">
+<div class="post-footer-line post-footer-line-1">
+<span class="post-author vcard">
+Posted by
+<span class="fn" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person">
+<meta content="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" itemprop="url"/>
+<a class="g-profile" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/profile/13403843040705818887" rel="author" title="author profile">
+<span itemprop="name">sad</span>
+</a>
+</span>
+</span>
+<span class="post-timestamp">
+on
+<meta content="https://www.bookkeepingcompanys.com/2019/08/small-business-bookkeeping-in-las-vegas.html" itemprop="url"/>
+<a class="timestamp-link" href="https://www.bookkeepingcompanys.com/2019/08/small-business-bookkeeping-in-las-vegas.html" rel="bookmark" title="permanent link"><abbr class="published" itemprop="datePublished" title="2019-08-29T02:46:00-07:00">August 29, 2019</abbr></a>
+</span>
+<span class="reaction-buttons">
+</span>
+<span class="post-comment-link">
+<a class="comment-link" href="https://www.bookkeepingcompanys.com/2019/08/small-business-bookkeeping-in-las-vegas.html#comment-form" onclick="">
+1 comment:
+  </a>
+</span>
+<span class="post-icons">
+<span class="item-control blog-admin pid-1007622910">
+<a href="https://www.blogger.com/post-edit.g?blogID=4003707467868535702&amp;postID=3633497200998284854&amp;from=pencil" title="Edit Post">
+<img alt="" class="icon-action" height="18" src="https://resources.blogblog.com/img/icon18_edit_allbkg.gif" width="18"/>
+</a>
+</span>
+</span>
+<div class="post-share-buttons goog-inline-block">
+<a class="goog-inline-block share-button sb-email" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3633497200998284854&amp;target=email" target="_blank" title="Email This"><span class="share-button-link-text">Email This</span></a><a class="goog-inline-block share-button sb-blog" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3633497200998284854&amp;target=blog" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=270,width=475&quot;); return false;" target="_blank" title="BlogThis!"><span class="share-button-link-text">BlogThis!</span></a><a class="goog-inline-block share-button sb-twitter" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3633497200998284854&amp;target=twitter" target="_blank" title="Share to Twitter"><span class="share-button-link-text">Share to Twitter</span></a><a class="goog-inline-block share-button sb-facebook" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3633497200998284854&amp;target=facebook" onclick="window.open(this.href, &quot;_blank&quot;, &quot;height=430,width=640&quot;); return false;" target="_blank" title="Share to Facebook"><span class="share-button-link-text">Share to Facebook</span></a><a class="goog-inline-block share-button sb-pinterest" href="https://www.blogger.com/share-post.g?blogID=4003707467868535702&amp;postID=3633497200998284854&amp;target=pinterest" target="_blank" title="Share to Pinterest"><span class="share-button-link-text">Share to Pinterest</span></a>
+</div>
+</div>
+<div class="post-footer-line post-footer-line-2">
+<span class="post-labels">
+Labels:
+<a href="https://www.bookkeepingcompanys.com/search/label/Bookkeeping%20in%20Las%20Vegas" rel="tag">Bookkeeping in Las Vegas</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Business%20Bookkeeping%20in%20Las%20Vegas" rel="tag">Business Bookkeeping in Las Vegas</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Small%20Business%20Bookkeeping%20in%20Las%20Vegas" rel="tag">Small Business Bookkeeping in Las Vegas</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Small%20Business%20Bookkeeping%20in%20Vegas" rel="tag">Small Business Bookkeeping in Vegas</a>,
+<a href="https://www.bookkeepingcompanys.com/search/label/Small%20Business%20Bookkeeping%20Vegas" rel="tag">Small Business Bookkeeping Vegas</a>
+</span>
+</div>
+<div class="post-footer-line post-footer-line-3">
+<span class="post-location">
+Location:
+<a href="https://web.archive.org/web/20200812171405/https://maps.google.com/maps?q=Las+Vegas,+NV,+USA@36.1699412,-115.13982959999998&amp;z=10" target="_blank">Las Vegas, NV, USA</a>
+</span>
+</div>
+</div>
+</div>
+</div>
 
-        .brand--logo {
-            margin-right: 78px;
-            max-width: 139px;
-        }
+        </div></div>
+      
+</div>
+<div class="blog-pager" id="blog-pager">
+<span id="blog-pager-older-link">
+<a class="blog-pager-older-link" href="https://www.bookkeepingcompanys.com/search?updated-max=2019-08-29T02:46:00-07:00&amp;max-results=13" id="Blog1_blog-pager-older-link" title="Older Posts">Older Posts</a>
+</span>
+<a class="home-link" href="https://www.bookkeepingcompanys.com/">Home</a>
+</div>
+<div class="clear"></div>
+<div class="blog-feeds">
+<div class="feed-links">
+Subscribe to:
+<a class="feed-link" href="https://www.bookkeepingcompanys.com/feeds/posts/default" target="_blank" type="application/atom+xml">Posts (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class="column-left-outer">
+<div class="column-left-inner">
+<aside>
+</aside>
+</div>
+</div>
+<div class="column-right-outer">
+<div class="column-right-inner">
+<aside>
+<div class="sidebar section" id="sidebar-right-1"><div class="widget PageList" data-version="1" id="PageList1">
+<h2>BOOKKEEPING</h2>
+<div class="widget-content">
+<ul>
+<li class="selected">
+<a href="https://www.bookkeepingcompanys.com/">Home</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeepers-in-denver.html">Bookkeepers in Denver</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-las-vegas.html">Bookkeeping Las Vegas</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-san-antonio.html">Bookkeeping Houston</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-miami.html">Bookkeeping Miami</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-atlanta.html">Bookkeeping Atlanta</a>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=PageList&amp;widgetId=PageList1&amp;action=editWidget§ionId=sidebar-right-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;PageList1&quot;));" rel="nofollow" target="configPageList1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget Stats" data-version="1" id="Stats1">
+<h2>Total Pageviews</h2>
+<div class="widget-content">
+<div id="Stats1_content" style="display: none;">
+<span class="counter-wrapper text-counter-wrapper" id="Stats1_totalCount">
+</span>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=Stats&amp;widgetId=Stats1&amp;action=editWidget§ionId=sidebar-right-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Stats1&quot;));" rel="nofollow" target="configStats1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div>
+</div><div class="widget LinkList" data-version="1" id="LinkList1">
+<h2>ALT Financing Blogs</h2>
+<div class="widget-content">
+<ul>
+<li><a href="https://web.archive.org/web/20200812171405/https://bestbankingservices.com/">Bookkeeping</a></li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=LinkList&amp;widgetId=LinkList1&amp;action=editWidget§ionId=sidebar-right-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;LinkList1&quot;));" rel="nofollow" target="configLinkList1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget PageList" data-version="1" id="PageList2">
+<h2>Bookkeeping</h2>
+<div class="widget-content">
+<ul>
+<li class="selected">
+<a href="https://www.bookkeepingcompanys.com/">Home</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-san-antonio.html">Bookkeeping Houston</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-miami.html">Bookkeeping Miami</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-atlanta.html">Bookkeeping Atlanta</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeeping-las-vegas.html">Bookkeeping Las Vegas</a>
+</li>
+<li>
+<a href="https://www.bookkeepingcompanys.com/p/bookkeepers-in-denver.html">Bookkeepers in Denver</a>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=PageList&amp;widgetId=PageList2&amp;action=editWidget§ionId=sidebar-right-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;PageList2&quot;));" rel="nofollow" target="configPageList2" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget BlogArchive" data-version="1" id="BlogArchive1">
+<h2>Blog Archive</h2>
+<div class="widget-content">
+<div id="ArchiveList">
+<div id="BlogArchive1_ArchiveList">
+<ul class="hierarchy">
+<li class="archivedate expanded">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy toggle-open">
 
-        .header__icons {
-            align-items: center;
-        }
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://www.bookkeepingcompanys.com/2020/">
+2020
+</a>
+<span class="post-count" dir="ltr">(2)</span>
+<ul class="hierarchy">
+<li class="archivedate expanded">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy toggle-open">
 
-        @media screen and (max-width: 749px) {
-            .brand--logo {
-                margin-right: 39px;
-            }
-        }
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://www.bookkeepingcompanys.com/2020/06/">
+June
+</a>
+<span class="post-count" dir="ltr">(2)</span>
+<ul class="posts">
+<li><a href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-for-adults.html">Easy Magic Tricks For Adults</a></li>
+<li><a href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-videos.html">Easy Magic Tricks Videos</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
 
-        div .product-form>form.form {
-            display: none;
-        }
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://www.bookkeepingcompanys.com/2019/">
+2019
+</a>
+<span class="post-count" dir="ltr">(16)</span>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
 
-        .shopify-policy__title h1 {
-            margin-top: 75px;
-        }
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://www.bookkeepingcompanys.com/2019/11/">
+November
+</a>
+<span class="post-count" dir="ltr">(1)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
 
-        table.tbl-content {
-            table-layout: fixed;
-            border-collapse: collapse;
-            font-size: 1.4rem;
-            border-style: hidden;
-            border-top: 0.1rem solid rgba(var(--color-foreground), 0.2);
-            border-right: 0.1rem solid rgba(var(--color-foreground), 0.2);
-            border-left: 0.1rem solid rgba(var(--color-foreground), 0.2);
-            border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.2);
-        }
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://www.bookkeepingcompanys.com/2019/09/">
+September
+</a>
+<span class="post-count" dir="ltr">(4)</span>
+</li>
+</ul>
+<ul class="hierarchy">
+<li class="archivedate collapsed">
+<a class="toggle" href="javascript:void(0)">
+<span class="zippy">
 
-        table.tbl-content td,
-        table.tbl-content th {
-            padding: 1em;
-            border: 0.1rem solid rgba(var(--color-foreground), 0.2);
-        }
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class="post-count-link" href="https://www.bookkeepingcompanys.com/2019/08/">
+August
+</a>
+<span class="post-count" dir="ltr">(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=BlogArchive&amp;widgetId=BlogArchive1&amp;action=editWidget§ionId=sidebar-right-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogArchive1&quot;));" rel="nofollow" target="configBlogArchive1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div><div class="widget ReportAbuse" data-version="1" id="ReportAbuse1">
+<h3 class="title">
+<a class="report_abuse" href="https://web.archive.org/web/20200812171405/https://www.blogger.com/go/report-abuse" rel="noopener nofollow" target="_blank">
+Report Abuse
+</a>
+</h3>
+</div><div class="widget BlogSearch" data-version="1" id="BlogSearch1">
+<h2 class="title">Search This Blog</h2>
+<div class="widget-content">
+<div id="BlogSearch1_form">
+<form action="https://www.bookkeepingcompanys.com/search" class="gsc-search-box" target="_top">
+<table cellpadding="0" cellspacing="0" class="gsc-search-box">
+<tbody>
+<tr>
+<td class="gsc-input">
+<input autocomplete="off" class="gsc-input" name="q" size="10" title="search" type="text" value=""/>
+</td>
+<td class="gsc-search-button">
+<input class="gsc-search-button" title="search" type="submit" value="Search"/>
+</td>
+</tr>
+</tbody>
+</table>
+</form>
+</div>
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=BlogSearch&amp;widgetId=BlogSearch1&amp;action=editWidget§ionId=sidebar-right-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogSearch1&quot;));" rel="nofollow" target="configBlogSearch1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div>
+<table border="0" cellpadding="0" cellspacing="0" class="section-columns columns-2">
+<tbody>
+<tr>
+<td class="first columns-cell">
+<div class="sidebar section" id="sidebar-right-2-1"><div class="widget PopularPosts" data-version="1" id="PopularPosts1">
+<h2>Popular Posts</h2>
+<div class="widget-content popular-posts">
+<ul>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="https://www.bookkeepingcompanys.com/2019/08/best-bookkeeping-service-in-atlanta.html" target="_blank">
+<img alt="" border="0" src="https://web.archive.org/web/20200812171405im_/https://lh5.googleusercontent.com/proxy/RrqlRFqom9zQqy9kYInem2ZEHH6lOcuRolXcE0o1sPTyecB2H_TtlvGYYKxbOXwhy2sYnI6dMMKAzjoXZHGnCfFkqYY=w72-h72-n-k-no-nu"/>
+</a>
+</div>
+<div class="item-title"><a href="https://www.bookkeepingcompanys.com/2019/08/best-bookkeeping-service-in-atlanta.html">Best Bookkeeping Service In Atlanta</a></div>
+<div class="item-snippet"> Best Bookkeeping Service In Atlanta     Best Atlanta Bookkeeping Help  &#160;  Small Business Bookkeeping Atlanta  &#160;   &#160; Bookkeepers in Atlanta   </div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="https://www.bookkeepingcompanys.com/2019/09/bookkeeping-help-stockton.html" target="_blank">
+<img alt="" border="0" src="https://web.archive.org/web/20200812171405im_/https://lh3.googleusercontent.com/proxy/eHgqewLdTN-5-pG01D-GZUNj0yy0CuUR9tAtKcvvVhvNdMMuQQiseqk2CSNgM32ctHulGbZzf7vWykdj=w72-h72-n-k-no-nu"/>
+</a>
+</div>
+<div class="item-title"><a href="https://www.bookkeepingcompanys.com/2019/09/bookkeeping-help-stockton.html">Bookkeeping Help Stockton</a></div>
+<div class="item-snippet">  Bookkeeping Help Stockton     Small Business Bookkeeping Stockton           </div>
+</div>
+<div style="clear: both;"></div>
+</li>
+<li>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno_29.html" target="_blank">
+<img alt="" border="0" src="https://web.archive.org/web/20200812171405im_/https://lh5.googleusercontent.com/proxy/8xN5Foz-sBJWIIaB8pUbRbx3pHjQAcUEG88baFYRJ6vKECCxreP4vPFNdvaReMbsY8eMX-Wvf_kCCBXNB6IX_UInnHQ=w72-h72-n-k-no-nu"/>
+</a>
+</div>
+<div class="item-title"><a href="https://www.bookkeepingcompanys.com/2019/08/bookkeeping-fresno_29.html">Bookkeeping Fresno</a></div>
+<div class="item-snippet"> Bookkeeping Fresno          Bookkeeping Rates         Bookkeeping Help       Best Bookkeeping for Small Business    </div>
+</div>
+<div style="clear: both;"></div>
+</li>
+</ul>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=PopularPosts&amp;widgetId=PopularPosts1&amp;action=editWidget§ionId=sidebar-right-2-1" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;PopularPosts1&quot;));" rel="nofollow" target="configPopularPosts1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div>
+</div></div>
+</td>
+<td class="columns-cell">
+<div class="sidebar no-items section" id="sidebar-right-2-2">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="sidebar section" id="sidebar-right-3"><div class="widget FeaturedPost" data-version="1" id="FeaturedPost1">
+<div class="post-summary">
+<h3><a href="https://www.bookkeepingcompanys.com/2020/06/easy-magic-tricks-for-adults.html">Easy Magic Tricks For Adults</a></h3>
+<img class="image" src="https://iili.io/f5gUnte.gif"/>
+</div>
+<style type="text/css">
+    .image {
+      width: 100%;
+    }
+  </style>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=FeaturedPost&amp;widgetId=FeaturedPost1&amp;action=editWidget§ionId=sidebar-right-3" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;FeaturedPost1&quot;));" rel="nofollow" target="configFeaturedPost1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style="clear: both"></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class="main-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+<footer>
+<div class="footer-outer">
+<div class="footer-cap-top cap-top">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+<div class="fauxborder-left footer-fauxborder-left">
+<div class="fauxborder-right footer-fauxborder-right"></div>
+<div class="region-inner footer-inner">
+<div class="foot no-items section" id="footer-1"></div>
+<table border="0" cellpadding="0" cellspacing="0" class="section-columns columns-2">
+<tbody>
+<tr>
+<td class="first columns-cell">
+<div class="foot no-items section" id="footer-2-1"></div>
+</td>
+<td class="columns-cell">
+<div class="foot no-items section" id="footer-2-2"></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class="foot section" id="footer-3" name="Footer"><div class="widget Attribution" data-version="1" id="Attribution1">
+<div class="widget-content" style="text-align: center;">
+Awesome Inc. theme. Powered by <a href="https://web.archive.org/web/20200812171405/https://www.blogger.com/" target="_blank">Blogger</a>.
+</div>
+<div class="clear"></div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID=4003707467868535702&amp;widgetType=Attribution&amp;widgetId=Attribution1&amp;action=editWidget§ionId=footer-3" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;Attribution1&quot;));" rel="nofollow" target="configAttribution1" title="Edit">
+<img alt="" height="18" src="https://resources.blogblog.com/img/icon18_wrench_allbkg.png" width="18"/>
+</a>
+</span>
+</span>
+<div class="clear"></div>
+</div></div>
+</div>
+</div>
+<div class="footer-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class="content-cap-bottom cap-bottom">
+<div class="cap-left"></div>
+<div class="cap-right"></div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
 
-        .rte ul,
-        .rte ol {
-            list-style-position: outside;
-        }
-
-        .shopify-policy__container {
-            max-width: 125ch;
-        }
-
-        .shopify-policy__body table.tbl-content td,
-        table.tbl-content th {
-            font-size: 16px;
-        }
-
-        .shopify-policy__body table.tbl-content td span.cite,
-        table.tbl-content th span.cite {
-            font-size: 12px;
-        }
-
-        /*applecare learn more pop up*/
-        .modal .ac-modal {
-            display: flex !important;
-            flex-direction: column;
-        }
-
-        .apple-care-modal__heading {
-            order: 1;
-            margin-bottom: 30px;
-        }
-
-        .modal .media.media--transparent.ratio {
-            width: 100% !important;
-            height: 110px !important;
-            order: 0;
-        }
-
-        .modal .media.media--transparent.ratio img {
-            width: 110px !important;
-            height: auto !important;
-            position: relative !important;
-        }
-
-        .apple-care-modal__content {
-            order: 2;
-        }
-
-        /*end applecare learn more pop up*/
-    </style>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"98edd9b7bf1981a1","version":"2025.9.1","r":1,"token":"3aa6d172861f4f78b7884f71de27d837","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"833727954ce84ad8b93ea9d15e786cf2","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"ae33f1950b9a42f1b461756e54c62597","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"f005578f40da49bdb7ae996a603cabfb","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"ddf75cce983c48d9bd14cfb10f6152bf","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20200812171405js_/https://www.blogger.com/static/v1/widgets/4286713806-widgets.js"></script>
+<script type="text/javascript">
+window['__wavt'] = 'AOuZoY6KtW8FEvF6_xXorXaQtU1ymYOjGQ:1597252444894';_WidgetManager._Init('//web.archive.org/web/20200812171405/https://www.blogger.com/rearrange?blogID\x3d4003707467868535702','//web.archive.org/web/20200812171405/https://www.bookkeepingcompanys.com/','4003707467868535702');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '4003707467868535702', 'title': 'Bookkeeping \x26amp; Accounting', 'url': 'https://www.bookkeepingcompanys.com/', 'canonicalUrl': 'https://www.bookkeepingcompanys.com/', 'homepageUrl': 'https://www.bookkeepingcompanys.com/', 'searchUrl': 'https://www.bookkeepingcompanys.com/search', 'canonicalHomepageUrl': 'https://www.bookkeepingcompanys.com/', 'blogspotFaviconUrl': 'https://88majuterus.art/uploads/iconnnn.ico', 'bloggerUrl': 'https://web.archive.org/web/20200812171405/https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Bookkeeping \x26amp; Accounting - Atom\x22 href\x3d\x22https://www.bookkeepingcompanys.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Bookkeeping \x26amp; Accounting - RSS\x22 href\x3d\x22https://www.bookkeepingcompanys.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Bookkeeping \x26amp; Accounting - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/4003707467868535702/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/2800260367-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//web.archive.org/web/20200812171405/https://www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//web.archive.org/web/20200812171405/https://www.blogblog.com/dynamicviews/c126649185553211', 'plusOneApiSrc': 'https://web.archive.org/web/20200812171405/https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Bookkeeping \x26amp; Accounting', 'metaDescription': 'BEST ONLINE BANKING SERVICES, AND LOAN RATES, ARMS, CONSOLIDATING GRADUATE STUDENT LOANS, \n BEST LOCAL BANKS AND ONLINE BANKING SERVICES.'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'Awesome Inc.', 'localizedName': 'Awesome Inc.', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'dark', 'variantId': 'dark'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Bookkeeping \x26 Accounting', 'description': 'BEST ONLINE BANKING SERVICES, AND LOAN RATES, ARMS, CONSOLIDATING GRADUATE STUDENT LOANS, \n BEST LOCAL BANKS AND ONLINE BANKING SERVICES.', 'url': 'https://www.bookkeepingcompanys.com/', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://web.archive.org/web/20200812171405/https://www.blogger.com/static/v1/jsbin/2485949047-lbx.js', 'lightboxCssUrl': 'https://web.archive.org/web/20200812171405/https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'sidebar-right-1', document.getElementById('PageList1'), {'title': 'BOOKKEEPING', 'links': [{'isCurrentPage': true, 'href': 'https://www.bookkeepingcompanys.com/', 'title': 'Home'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeepers-in-denver.html', 'id': '7858585283744764099', 'title': 'Bookkeepers in Denver'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-las-vegas.html', 'id': '4447890697856129492', 'title': 'Bookkeeping Las Vegas'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-san-antonio.html', 'id': '6698079138775430656', 'title': 'Bookkeeping Houston'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-miami.html', 'id': '2040730882230490756', 'title': 'Bookkeeping Miami'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-atlanta.html', 'id': '2282483773909064969', 'title': 'Bookkeeping Atlanta'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_StatsView', new _WidgetInfo('Stats1', 'sidebar-right-1', document.getElementById('Stats1'), {'title': 'Total Pageviews', 'showGraphicalCounter': false, 'showAnimatedCounter': false, 'showSparkline': false, 'statsUrl': '//web.archive.org/web/20200812171405/https://www.bookkeepingcompanys.com/b/stats?style\x3dBLACK_TRANSPARENT\x26timeRange\x3dALL_TIME\x26token\x3dAPq4FmDB3URSo6iCUzUXIzrCJ9a09T1p-_Ily_zLid14tKMG_ZGsXlcJid1-E-4VmdVLtqsIxWma5a8aPygZ09BMglw3neEKbg'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LinkListView', new _WidgetInfo('LinkList1', 'sidebar-right-1', document.getElementById('LinkList1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList2', 'sidebar-right-1', document.getElementById('PageList2'), {'title': 'Bookkeeping', 'links': [{'isCurrentPage': true, 'href': 'https://www.bookkeepingcompanys.com/', 'title': 'Home'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-san-antonio.html', 'id': '6698079138775430656', 'title': 'Bookkeeping Houston'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-miami.html', 'id': '2040730882230490756', 'title': 'Bookkeeping Miami'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-atlanta.html', 'id': '2282483773909064969', 'title': 'Bookkeeping Atlanta'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeeping-las-vegas.html', 'id': '4447890697856129492', 'title': 'Bookkeeping Las Vegas'}, {'isCurrentPage': false, 'href': 'https://www.bookkeepingcompanys.com/p/bookkeepers-in-denver.html', 'id': '7858585283744764099', 'title': 'Bookkeepers in Denver'}], 'mobile': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ReportAbuseView', new _WidgetInfo('ReportAbuse1', 'sidebar-right-1', document.getElementById('ReportAbuse1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogSearchView', new _WidgetInfo('BlogSearch1', 'sidebar-right-1', document.getElementById('BlogSearch1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PopularPostsView', new _WidgetInfo('PopularPosts1', 'sidebar-right-2-1', document.getElementById('PopularPosts1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_FeaturedPostView', new _WidgetInfo('FeaturedPost1', 'sidebar-right-3', document.getElementById('FeaturedPost1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
 </body>
-
 </html>
